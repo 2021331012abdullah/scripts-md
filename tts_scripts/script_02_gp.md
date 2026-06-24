@@ -2146,3 +2146,397 @@
 **২০. এজেন্টঃ** স্যার, GP-র পক্ষ থেকে আবার দুঃখ প্রকাশ করছি। আমরা সবসময় customer-দের সম্মান করি, ওই staff-এর আচরণ GP-র policy-র বিরুদ্ধে ছিল। আপনি ভালো থাকবেন।
 
 **২১. কাস্টমারঃ** ধন্যবাদ আপু। ভালো থাকবেন।
+
+
+---
+
+
+## সিনারিও 43ঃ Postpaid bill payment-এর বিভিন্ন method জানতে চাওয়া — due date miss করলে কি হবে (Postpaid bill payment methods and late payment consequences)
+
+> কাস্টমার GP postpaid connection নতুন নিয়েছেন, প্রথম bill এসেছে কিন্তু কিভাবে pay করবেন জানেন না। Due date miss করলে কি হবে সেটাও জানতে চান।
+
+**১. এজেন্টঃ** গ্রামীণফোনে কল করার জন্য ধন্যবাদ। আমি সায়মা বলছি, কিভাবে সাহায্য করতে পারি?
+
+**২. কাস্টমারঃ** আপু, আমি নতুন GP postpaid connection নিয়েছি, প্রথম bill এসেছে ২,৩৫০ টাকা। কিভাবে pay করবো? আগে কখনো postpaid ব্যবহার করিনি।
+
+**৩. এজেন্টঃ** স্যার, প্রথম postpaid bill নিয়ে আপনাকে সাহায্য করতে পারি। Bill pay করার অনেকগুলো সহজ উপায় আছে। আপনার সবচেয়ে convenient কোনটা হবে সেটা দেখি — আপনি কি online prefer করেন নাকি physical?
+
+**৪. কাস্টমারঃ** Online-ই prefer করি আপু, GP Center-এ যাওয়ার সময় পাই না।
+
+**৫. এজেন্টঃ** স্যার, online-এ কয়েকটা option আছে। সবচেয়ে সহজ হচ্ছে MyGP app — app open করুন, "Bill Pay" tap করুন, bKash, Nagad, bank card, বা internet banking দিয়ে pay করতে পারবেন। দ্বিতীয় option হচ্ছে bKash app থেকে directly "Pay Bill" section-এ GP Postpaid select করে pay করা।
+
+**৬. কাস্টমারঃ** MyGP app থেকে bKash দিয়ে pay করা যায়? সেটা সহজ হবে। bKash ছাড়া আর কি কি দিয়ে pay করতে পারবো?
+
+**৭. এজেন্টঃ** স্যার, bKash ছাড়াও Nagad, Rocket, Upay দিয়ে pay করতে পারবেন। এছাড়া Visa, MasterCard debit/credit card দিয়েও pay করা যায় MyGP app থেকে। আর অনেক bank-এর internet banking-এও GP bill pay option আছে।
+
+**৮. কাস্টমারঃ** অনেক option আছে! আচ্ছা আপু, bill pay করলে কি তখনই confirm হয়?
+
+**৯. এজেন্টঃ** স্যার, bKash, Nagad, বা card দিয়ে pay করলে instantly confirm হয় এবং confirmation SMS পাবেন। Internet banking-এ ১-২ ঘণ্টা লাগতে পারে।
+
+**১০. কাস্টমারঃ** ভালো, instant confirmation! আচ্ছা আপু, আমার bill-এর due date কবে? Due date miss করলে কি হবে?
+
+**১১. এজেন্টঃ** স্যার, আপনার bill-এর due date হচ্ছে প্রতি মাসের ১৫ তারিখ। Due date-এর মধ্যে pay না করলে ১৬ তারিখ থেকে late payment charge যোগ হয়, প্রতিদিন ২% surcharge।
+
+**১২. কাস্টমারঃ** প্রতিদিন ২% surcharge? সেটা তো অনেক! মানে ১০ দিন late হলে ২০% extra?
+
+**১৩. এজেন্টঃ** স্যার, ঠিক বলেছেন, তাই due date-এ pay করা গুরুত্বপূর্ণ। আর ১৫ দিন পরেও pay না করলে outgoing call, SMS, data — সব block হয়ে যাবে, শুধু incoming call আসবে। ৩০ দিন পরও pay না করলে incoming-ও বন্ধ হবে।
+
+**১৪. কাস্টমারঃ** ও, ১৫ দিনে outgoing বন্ধ, ৩০ দিনে সব বন্ধ! তাহলে তো সময়মতো pay করাই ভালো। আচ্ছা আপু, auto-pay setup করা যায়?
+
+**১৫. এজেন্টঃ** স্যার, জ্বী, MyGP app-এ "Auto Pay" option আছে। সেখানে আপনার bank card বা bKash account link করলে প্রতি মাসে automatically bill pay হয়ে যাবে due date-এ। আপনাকে মনে রাখতে হবে না।
+
+**১৬. কাস্টমারঃ** Auto-pay! সেটা খুব useful। আমি bKash দিয়ে auto-pay setup করবো। আচ্ছা আপু, bill-এ কি detail breakdown দেখা যায়? মানে কতটুকু call-এ গেছে, কতটুকু data-তে?
+
+**১৭. এজেন্টঃ** স্যার, জ্বী, MyGP app-এ "My Bill" section-এ bill-এর full breakdown দেখতে পাবেন — call charges, data charges, SMS charges, VAT/SD, supplementary duty — সব আলাদা করে দেখাবে। PDF হিসেবে download-ও করতে পারবেন।
+
+**১৮. কাস্টমারঃ** PDF download! Office-এর reimbursement-এর জন্য দরকার হবে। অনেক ভালো।
+
+**১৯. এজেন্টঃ** স্যার, corporate reimbursement-এর জন্য PDF bill-ই best, সেখানে company-র নাম-ও add করতে পারবেন GP Center-এ গিয়ে।
+
+**২০. কাস্টমারঃ** চমৎকার! তাহলে এখন MyGP app থেকে bill pay করি। অনেক ধন্যবাদ সায়মা আপু!
+
+**২১. এজেন্টঃ** স্যার, আপনাকেও ধন্যবাদ। Auto-pay setup করতে ভুলবেন না, ভালো থাকবেন!
+
+**২২. কাস্টমারঃ** অবশ্যই, ভালো থাকবেন আপু!
+
+
+---
+
+
+## সিনারিও 44ঃ Night-time data pack কিনেছে কিন্তু সকালেও ব্যবহার করার চেষ্টা করছে — confused ছাত্র (Night data pack usage confusion — student doesn't understand time restriction)
+
+> কাস্টমার (মাদ্রাসা ছাত্র) ২৯ টাকার night pack কিনেছেন কিন্তু সকালে internet use করতে গেলে main balance থেকে কাটছে। Night pack-এর সময়সীমা বুঝতে পারছেন না।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি ২৯ টাকায় 2GB internet pack কিনেছি কিন্তু সকালে ব্যবহার করতে গেলে main balance থেকে কাটছে! Pack-এর data কোথায় যাচ্ছে?
+
+**২. এজেন্টঃ** স্যার, আমি রাফি বলছি GP customer care থেকে। আপনি কোন pack টা কিনেছেন? ২৯ টাকায় 2GB মানে সম্ভবত এটা Night pack।
+
+**৩. কাস্টমারঃ** Night pack? মানে কি? আমি তো শুধু "২৯ টাকায় 2GB" দেখে কিনেছিলাম, অনেক সস্তা তাই।
+
+**৪. এজেন্টঃ** স্যার, এটা GP-র Night data pack — এই pack-এর data শুধু রাত ১২টা থেকে সকাল ১০টা পর্যন্ত ব্যবহার করতে পারবেন। সকাল ১০টার পর ব্যবহার করলে main balance থেকে default rate-এ charge হবে।
+
+**৫. কাস্টমারঃ** রাত ১২টা থেকে সকাল ১০টা! আমি তো এটা জানতামই না! Pack কেনার সময় লেখা ছিল না।
+
+**৬. এজেন্টঃ** স্যার, MyGP app-এ pack-এর নামের নিচে "Night Pack (12AM-10AM)" লেখা থাকে, কিন্তু ছোট font-এ থাকে বলে অনেকে miss করেন। এটা সস্তা কারণ রাতে network-এ user কম থাকে।
+
+**৭. কাস্টমারঃ** ও, তাই সস্তা! রাতে user কম তাই কম দামে দিচ্ছে। বুঝেছি ভাইয়া। কিন্তু আমার সমস্যা হচ্ছে, আমি দিনের বেলা বেশি internet ব্যবহার করি — YouTube দেখি, পড়াশোনার জিনিস search করি।
+
+**৮. এজেন্টঃ** স্যার, তাহলে আপনার জন্য All-time pack বেশি suitable হবে। ৪৯ টাকায় 1GB All-time pack আছে, সারাদিন যেকোনো সময় ব্যবহার করতে পারবেন।
+
+**৯. কাস্টমারঃ** ৪৯ টাকায় মাত্র 1GB? Night pack-এ ২৯ টাকায় 2GB পাই। All-time-এ অনেক কম data পাচ্ছি।
+
+**১০. এজেন্টঃ** স্যার, ঠিক বলেছেন, Night pack-এ data per taka বেশি পাওয়া যায়। তবে আপনি দুটোই কিনতে পারেন — রাতে heavy download, video আর YouTube দেখবেন Night pack দিয়ে, আর দিনে light browsing করবেন All-time pack দিয়ে। Smart combination!
+
+**১১. কাস্টমারঃ** সেটা ভালো idea ভাইয়া! রাতে video download করে রাখবো, দিনে offline দেখবো।
+
+**১২. এজেন্টঃ** স্যার, exactly! YouTube-এ video download option আছে, রাতে Night pack দিয়ে download করলে দিনে data ছাড়াই দেখতে পারবেন।
+
+**১৩. কাস্টমারঃ** হ্যাঁ ভাইয়া, YouTube offline download use করবো। আচ্ছা, Night pack-এর data কতটুকু বাকি আছে কিভাবে দেখবো?
+
+**১৪. এজেন্টঃ** স্যার, *121*1*4# dial করুন, আপনার সব active pack-এর remaining data দেখাবে। Night pack-এর data আলাদা করে দেখতে পাবেন।
+
+**১৫. কাস্টমারঃ** *121*1*4#, note করলাম। আচ্ছা ভাইয়া, আমার Night pack-এর 2GB থেকে এখন কতটুকু বাকি আছে?
+
+**১৬. এজেন্টঃ** স্যার, আমি check করি। আপনার Night pack-এ 1.6GB বাকি আছে, validity আরো ৫ দিন।
+
+**১৭. কাস্টমারঃ** 1.6GB বাকি, ভালো। তাহলে আজ রাতে ভালো করে ব্যবহার করবো। আচ্ছা ভাইয়া, সকাল ১০টার ঠিক আগ মুহূর্তে যদি কোনো download চলে, ১০টা বাজলে কি main balance থেকে কাটবে?
+
+**১৮. এজেন্টঃ** স্যার, ভালো question! হ্যাঁ, সকাল ১০টা বাজার পর Night pack-এর data আর কাজ করবে না। চলমান download-ও ১০টার পর main balance থেকে charge হবে। তাই ৯:৫০-এর মধ্যে heavy download শেষ করুন।
+
+**১৯. কাস্টমারঃ** বুঝেছি ভাইয়া, ৯:৫০-এর মধ্যে শেষ করবো। অনেক ধন্যবাদ রাফি ভাইয়া, আজ অনেক কিছু শিখলাম night pack নিয়ে!
+
+**২০. এজেন্টঃ** স্যার, আপনাকেও ধন্যবাদ। পড়াশোনায় ভালো করুন, ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** আমিন, ভালো থাকবেন ভাইয়া!
+
+
+---
+
+
+## সিনারিও 45ঃ ছেলের GP number-এ balance transfer করতে চাওয়া — মা কিভাবে করবেন জানেন না (Balance transfer to son's number — mother needs step-by-step guidance)
+
+> কাস্টমার (মা) ছেলে বিশ্ববিদ্যালয়ে পড়ে, balance শেষ হয়ে গেছে। মা নিজের GP থেকে ছেলের GP-তে balance transfer করতে চান কিন্তু process জানেন না।
+
+**১. কাস্টমারঃ** আপু, আমার ছেলে ঢাকায় university-তে পড়ে, ওর balance শেষ হয়ে গেছে, call করতে পারছে না। আমি কি আমার GP থেকে ওর GP-তে balance পাঠাতে পারি?
+
+**২. এজেন্টঃ** ম্যাম, জ্বী, অবশ্যই পারবেন। GP-তে balance transfer service আছে, আমি আপনাকে step by step বলছি। খুব সহজ।
+
+**৩. কাস্টমারঃ** হ্যাঁ আপু বলুন, আমি technology-তে একটু দুর্বল, ধীরে ধীরে বলবেন।
+
+**৪. এজেন্টঃ** ম্যাম, চিন্তা করবেন না, একদম সহজ। আপনার phone-এর dialer-এ যান, মানে যেখান থেকে call করেন সেখানে। তারপর type করুন *121*1*2*ছেলের number*amount# — এটুকু type করে call button press করুন।
+
+**৫. কাস্টমারঃ** একটু আস্তে বলুন আপু। *121*1*2* তারপর?
+
+**৬. এজেন্টঃ** ম্যাম, ধীরে ধীরে বলছি। Star 121 star 1 star 2 star, তারপর আপনার ছেলের GP number লিখুন, তারপর star, তারপর কত টাকা পাঠাতে চান সেটা লিখুন, শেষে hash। যেমন ছেলের number ০১৭১২৩৪৫৭৭৬ হলে আর ৫০ টাকা পাঠাতে চাইলে dial করবেন *121*1*2*01712345776*50#।
+
+**৭. কাস্টমারঃ** *121*1*2*01712345776*50# — এটা dial করবো? আচ্ছা, করি। একটু wait করুন আপু। Dial করলাম, একটা message এসেছে — "Confirm 50 Taka transfer to 01712345776? Reply 1 to confirm" লেখা।
+
+**৮. এজেন্টঃ** ম্যাম, চমৎকার! ঠিকমতো করেছেন! এবার 1 reply করুন confirm করতে।
+
+**৯. কাস্টমারঃ** 1 reply করলাম। "Transfer successful" লেখা message এসেছে! হয়ে গেছে আপু?
+
+**১০. এজেন্টঃ** ম্যাম, জ্বী, হয়ে গেছে! আপনার ছেলে এখন ৫০ টাকা balance পেয়ে গেছে। ওকে একটু পর call করে দেখুন।
+
+**১১. কাস্টমারঃ** আলহামদুলিল্লাহ! কত সহজ! আচ্ছা আপু, balance transfer-এ কোনো charge কাটে?
+
+**১২. এজেন্টঃ** ম্যাম, জ্বী, প্রতি transfer-এ ৫ টাকা service charge কাটে আপনার balance থেকে। মানে আপনার total ৫৫ টাকা কেটেছে — ৫০ টাকা transfer আর ৫ টাকা charge।
+
+**১৩. কাস্টমারঃ** ৫ টাকা charge, ঠিক আছে। আচ্ছা আপু, minimum কত টাকা transfer করা যায়?
+
+**১৪. এজেন্টঃ** ম্যাম, minimum ১০ টাকা আর maximum ৫০০ টাকা একবারে transfer করতে পারবেন। আর দিনে সর্বোচ্চ ৩ বার transfer করতে পারবেন।
+
+**১৫. কাস্টমারঃ** ৫০০ টাকা maximum, ৩ বার পর্যন্ত। বুঝেছি। আচ্ছা আপু, শুধু GP-GP তে transfer করা যায় নাকি Robi-তেও পাঠাতে পারি?
+
+**১৬. এজেন্টঃ** ম্যাম, balance transfer শুধু GP-GP-তে সম্ভব। অন্য operator-এ balance transfer করা যায় না।
+
+**১৭. কাস্টমারঃ** ঠিক আছে, ছেলেরও GP আছে তাই সমস্যা নেই। আপু, আমার কাছে এখন কত balance বাকি আছে?
+
+**১৮. এজেন্টঃ** ম্যাম, *566# dial করলে আপনার current balance দেখতে পাবেন।
+
+**১৯. কাস্টমারঃ** *566#, ঠিক আছে। ধন্যবাদ আপু, আজকে নতুন একটা জিনিস শিখলাম! এখন থেকে ছেলের balance শেষ হলে আমি নিজেই পাঠিয়ে দিতে পারবো।
+
+**২০. এজেন্টঃ** ম্যাম, ঠিক বলেছেন! Code টা কোথাও লিখে রাখুন যাতে পরেরবার মনে থাকে। ভালো থাকবেন, ছেলেকে সালাম দেবেন।
+
+**২১. কাস্টমারঃ** দেবো আপু, অনেক ধন্যবাদ! ভালো থাকবেন।
+
+
+---
+
+
+## সিনারিও 46ঃ Prepaid থেকে postpaid-এ migrate করতে চাওয়া — professional unlimited plan খুঁজছেন (Prepaid to postpaid migration — professional wants unlimited calling)
+
+> কাস্টমার architect, client-দের সাথে প্রতিদিন অনেক call করতে হয়। Prepaid-এ balance ঝামেলা, postpaid-এ যেতে চান।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি architect, প্রতিদিন ২০-৩০টা call করতে হয় client-দের সাথে। Prepaid-এ বারবার recharge করা ঝামেলা, postpaid-এ যেতে চাই। কিভাবে migrate করবো?
+
+**২. এজেন্টঃ** স্যার, আমি নাহিদ বলছি GP customer care থেকে। আপনার ব্যবহারের pattern-এ postpaid excellent choice হবে। Prepaid থেকে postpaid-এ migrate করলে same number-ই থাকবে।
+
+**৩. কাস্টমারঃ** Same number থাকবে, সেটা important। কিভাবে migrate করবো?
+
+**৪. এজেন্টঃ** স্যার, migration-এর জন্য GP Center-এ যেতে হবে। NID original আর photocopy নিয়ে যাবেন। Postpaid-এর জন্য NID-তে verified address থাকতে হবে। GP Center-এ form fill-up করে migration request দেবেন।
+
+**৫. কাস্টমারঃ** Form fill-up করার পর কতদিনে migrate হবে?
+
+**৬. এজেন্টঃ** স্যার, সাধারণত ২৪-৪৮ ঘণ্টার মধ্যে migration complete হয়ে যায়। Migration-এর সময় আপনার prepaid balance থাকলে সেটা adjust হয়ে যাবে প্রথম postpaid bill-এ।
+
+**৭. কাস্টমারঃ** ভালো, balance adjust হবে। আচ্ছা ভাইয়া, postpaid-এ কি plan আছে? আমার unlimited call লাগবে।
+
+**৮. এজেন্টঃ** স্যার, GP postpaid-এ কয়েকটা plan আছে। আপনার জন্য "GP Postpaid 599" recommend করবো — ৫৯৯ টাকা monthly bill-এ 600 মিনিট any GP number-এ, 200 মিনিট other operator-এ, 10GB data, আর 100 SMS পাবেন।
+
+**৯. কাস্টমারঃ** 600 মিনিট GP-GP, 200 মিনিট off-net — সেটা মোটামুটি যথেষ্ট। কিন্তু 600 মিনিট শেষ হলে কি হবে?
+
+**১০. এজেন্টঃ** স্যার, included minute শেষ হলে extra call per minute ০.৮০ টাকা rate-এ charge হবে bill-এ। তবে আপনার call volume অনেক বেশি হলে "GP Postpaid 999" plan দেখুন — 1500 মিনিট GP, 500 মিনিট off-net, 30GB data, unlimited SMS।
+
+**১১. কাস্টমারঃ** 1500 মিনিট! ৯৯৯ টাকায়? সেটা ভালো, কিন্তু ৯৯৯ টাকা প্রতি মাসে — office reimburse করলে ঠিক আছে।
+
+**১২. এজেন্টঃ** স্যার, আপনি corporate customer হলে GP-র corporate postpaid plan-ও আছে, office-র নামে connection নিলে company-কে bill করা হয়। HR department-এর সাথে কথা বলে দেখুন GP corporate tie-up আছে কিনা।
+
+**১৩. কাস্টমারঃ** আমি freelance architect, office নেই। তাহলে individual postpaid-ই নেবো। ভাইয়া, ৫৯৯-র plan-ই ভালো হবে, ৯৯৯ একটু বেশি আমার জন্য।
+
+**১৪. এজেন্টঃ** স্যার, ৫৯৯ plan excellent choice। আর minute শেষ হলে extra charge per minute ০.৮০ টাকা, সেটাও reasonable।
+
+**১৫. কাস্টমারঃ** আচ্ছা ভাইয়া, postpaid-এ কি bill limit set করা যায়? মানে ২,০০০ টাকার বেশি bill যেন না হয়।
+
+**১৬. এজেন্টঃ** স্যার, জ্বী, postpaid-এ "Credit Limit" থাকে। New customer-এর default credit limit সাধারণত ৩,০০০ টাকা। আপনি চাইলে GP Center-এ গিয়ে limit কমিয়ে ২,০০০ টাকা করতে পারবেন। Limit-এ পৌঁছালে outgoing block হয়ে যাবে, excessive bill-এর risk থাকবে না।
+
+**১৭. কাস্টমারঃ** Credit limit control! সেটা খুব useful। ২,০০০ টাকা limit রাখবো। ভাইয়া, postpaid-এ কি internet pack আলাদা কিনতে হয় নাকি plan-এর data-ই থাকে?
+
+**১৮. এজেন্টঃ** স্যার, plan-এ included data আছে, 10GB। সেটা শেষ হলে extra data pack কিনতে পারবেন MyGP app থেকে, bill-এ add হবে। অথবা pay-per-use rate-এ চলবে।
+
+**১৯. কাস্টমারঃ** বুঝেছি ভাইয়া। তাহলে আগামীকাল GP Center-এ গিয়ে migration করবো। ধন্যবাদ নাহিদ ভাইয়া, সব clear হয়ে গেছে।
+
+**২০. এজেন্টঃ** স্যার, আপনাকেও ধন্যবাদ। NID original আর photocopy নিতে ভুলবেন না। Architecture-এর কাজ ভালো হোক, ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ধন্যবাদ ভাইয়া, ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 47ঃ GP SIM অন্যের NID-তে registered — নিজের নামে transfer করতে চাওয়া (SIM registered under someone else's NID — requesting ownership transfer)
+
+> কাস্টমার বহু বছর আগে বন্ধুর NID দিয়ে GP SIM কিনেছিলেন। এখন নিজের NID-তে transfer করতে চান কিন্তু process জানেন না।
+
+**১. কাস্টমারঃ** আপু, আমার GP number ৮ বছর ধরে ব্যবহার করছি কিন্তু এটা আমার বন্ধুর NID-তে registered। আমি এখন নিজের নামে transfer করতে চাই।
+
+**২. এজেন্টঃ** স্যার, আমি সায়মা বলছি GP customer care থেকে। NID ownership transfer সম্ভব তবে একটু process আছে। আমি বলছি কিভাবে করতে হবে।
+
+**৩. কাস্টমারঃ** হ্যাঁ আপু বলুন, process কি?
+
+**৪. এজেন্টঃ** স্যার, ownership transfer করতে হলে আপনি আর আপনার বন্ধু — দুজনকেই একসাথে GP Center-এ যেতে হবে। দুজনের NID original লাগবে। বন্ধু consent দেবেন যে তিনি এই number আপনার কাছে transfer করতে রাজি, তারপর আপনার NID-তে biometric verification হবে।
+
+**৫. কাস্টমারঃ** দুজনকে একসাথে যেতে হবে? আমার বন্ধু তো এখন চট্টগ্রামে থাকে, ঢাকায় আসা কঠিন ওর জন্য।
+
+**৬. এজেন্টঃ** স্যার, দুঃখিত কিন্তু BTRC-র নিয়মে ownership transfer-এ original owner-এর physical presence আর consent বাধ্যতামূলক। কোনো third party বা proxy-তে করা যায় না। তবে আপনার বন্ধু চট্টগ্রামের কোনো GP Center-এও process শুরু করতে পারেন।
+
+**৭. কাস্টমারঃ** চট্টগ্রামের GP Center-এ? কিভাবে?
+
+**৮. এজেন্টঃ** স্যার, আপনার বন্ধু চট্টগ্রামের GP Center-এ গিয়ে ownership transfer form fill-up করে sign করতে পারেন, সাথে NID photocopy দেবেন। তারপর সেই form-এর reference নিয়ে আপনি ঢাকার GP Center-এ গিয়ে আপনার part complete করবেন — আপনার NID আর biometric দেবেন।
+
+**৯. কাস্টমারঃ** ও, মানে দুই জায়গায় আলাদা আলাদা করা যায়? সেটা possible হলে ভালো! কিন্তু কতদিনের মধ্যে আমার part complete করতে হবে?
+
+**১০. এজেন্টঃ** স্যার, বন্ধু form submit করার ৩০ দিনের মধ্যে আপনাকে আপনার part complete করতে হবে। ৩০ দিন পার হলে আবার নতুন করে শুরু করতে হবে।
+
+**১১. কাস্টমারঃ** ৩০ দিন, যথেষ্ট সময়। আচ্ছা আপু, transfer-এর charge কত?
+
+**১২. এজেন্টঃ** স্যার, ownership transfer fee ৩০০ টাকা। এটা আপনি GP Center-এ pay করবেন।
+
+**১৩. কাস্টমারঃ** ঠিক আছে। আচ্ছা আপু, transfer হওয়ার পর কি আমার balance, internet pack — সব ঠিক থাকবে?
+
+**১৪. এজেন্টঃ** স্যার, জ্বী, number-এর সব service — balance, active pack, GP Star points — সব unchanged থাকবে। শুধু registered owner-এর নাম পরিবর্তন হবে।
+
+**১৫. কাস্টমারঃ** ভালো। আচ্ছা আপু, যদি বন্ধু রাজি না হয় transfer করতে, তাহলে কি করা যায়?
+
+**১৬. এজেন্টঃ** স্যার, original owner-এর consent ছাড়া ownership transfer কোনোভাবেই সম্ভব না। এটা SIM-এর security-র জন্য জরুরি নিয়ম। তবে বেশিরভাগ ক্ষেত্রে বন্ধু বা পরিবারের member consent দিতে রাজি থাকেন।
+
+**১৭. কাস্টমারঃ** আমার বন্ধু রাজি আছে, শুধু ঢাকায় আসতে পারছে না। চট্টগ্রামের GP Center-এ গিয়ে form দিতে বলবো।
+
+**১৮. এজেন্টঃ** স্যার, perfect plan! বন্ধু form দেওয়ার পর আপনাকে SMS-এ notification আসবে, তারপর আপনি ঢাকার GP Center-এ যাবেন।
+
+**১৯. কাস্টমারঃ** বুঝেছি আপু। অনেক ধন্যবাদ সায়মা আপু, complicated একটা process সহজ করে বুঝিয়ে দিলেন।
+
+**২০. এজেন্টঃ** স্যার, আপনাকেও ধন্যবাদ। Transfer সফল হোক, ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ভালো থাকবেন আপু!
+
+
+---
+
+
+## সিনারিও 48ঃ OTP scam attempt হয়েছে — কেউ বলছে GP থেকে call করেছি, OTP দিন (OTP scam awareness — someone impersonating GP staff asking for OTP)
+
+> কাস্টমার (মহিলা) একটা suspicious call পেয়েছেন। Caller নিজেকে GP agent বলে OTP চেয়েছে। কাস্টমার OTP দেননি কিন্তু ভয় পেয়েছেন, GP-কে জানাতে চান।
+
+**১. কাস্টমারঃ** আপু, একটু আগে একটা call এসেছিল, ভদ্রলোক বললেন "আমি GP থেকে বলছি, আপনার SIM verify করতে হবে, আপনার phone-এ একটা OTP আসবে সেটা বলুন।" আমি OTP দিইনি কিন্তু ভয় পেয়ে গেছি, এটা কি scam?
+
+**২. এজেন্টঃ** ম্যাম, আমি ফারজানা বলছি GP customer care থেকে। আপনি ১০০% ঠিক কাজ করেছেন OTP না দিয়ে! এটা সম্পূর্ণ scam ছিল। GP কখনোই phone call-এ OTP বা PIN চাইবে না।
+
+**৩. কাস্টমারঃ** সত্যিই scam? কিন্তু আপু, ভদ্রলোকের কথা বলার ধরন একদম professional ছিল, GP agent-এর মতোই কথা বলছিল!
+
+**৪. এজেন্টঃ** ম্যাম, scammer-রা এখন অনেক trained, professional ভাবে কথা বলে যাতে মানুষ বিশ্বাস করে। কিন্তু মনে রাখবেন — GP-র কোনো agent কখনো OTP, PIN, password, বা bKash PIN চাইবে না, কোনো পরিস্থিতিতেই না।
+
+**৫. কাস্টমারঃ** বুঝেছি আপু। কিন্তু ওই ভদ্রলোক কি আমার number-এ কোনো ক্ষতি করতে পারবে? আমি তো OTP দিইনি।
+
+**৬. এজেন্টঃ** ম্যাম, আপনি OTP দেননি তাই আপনার account সম্পূর্ণ safe। OTP ছাড়া কেউ আপনার account access করতে পারবে না। তবে সাবধানতার জন্য আমি কিছু পরামর্শ দিই।
+
+**৭. কাস্টমারঃ** হ্যাঁ আপু বলুন, কি কি সাবধানতা নেবো?
+
+**৮. এজেন্টঃ** ম্যাম, প্রথমত — MyGP app-এর password change করুন। দ্বিতীয়ত — bKash PIN change করুন। তৃতীয়ত — ওই caller-এর number টা phone-এ block করুন। চতুর্থত — ভবিষ্যতে কেউ OTP, PIN, password চাইলে তা কখনোই দেবেন না, সেটা যে-ই হোক।
+
+**৯. কাস্টমারঃ** আপু, ওই caller-এর number হচ্ছে ০১৮XXXXXXXX। এই number-টা কি GP-কে report করতে পারি?
+
+**১০. এজেন্টঃ** ম্যাম, অবশ্যই! আমি এই number-টা আমাদের fraud investigation team-এর কাছে report করছি। তারা investigate করে appropriate action নেবে। এছাড়া আপনি BTRC-র 100 number-এও report করতে পারেন।
+
+**১১. কাস্টমারঃ** ভালো, report করুন আপু। আচ্ছা, এই ধরনের scam call থেকে বাঁচার আর কোনো উপায় আছে?
+
+**১২. এজেন্টঃ** ম্যাম, কয়েকটা golden rule মনে রাখবেন। এক — GP বা bank কখনো call করে OTP চায় না। দুই — "আপনি lottery জিতেছেন" বা "আপনার account block হয়ে যাবে" — এই ধরনের call সবসময় scam। তিন — কেউ টাকা দেওয়ার promise করে information চাইলে সেটাও scam।
+
+**১৩. কাস্টমারঃ** আপু, গতমাসে আমার এক প্রতিবেশিনী এই ধরনের scam-এ bKash-এর সব টাকা হারিয়েছেন। OTP দিয়ে দিয়েছিলেন।
+
+**১৪. এজেন্টঃ** ম্যাম, এটা খুবই দুঃখজনক। আপনি পরিবার আর প্রতিবেশীদের সাবধান করুন — বিশেষ করে বয়স্ক মানুষদের। Scammer-রা সাধারণত বয়স্ক আর কম tech-savvy মানুষদের target করে।
+
+**১৫. কাস্টমারঃ** হ্যাঁ আপু, আমার শাশুড়ি মাকেও বলবো। উনি বুঝবেন না হয়তো, কিন্তু বলে রাখবো — কেউ OTP চাইলে দেবেন না।
+
+**১৬. এজেন্টঃ** ম্যাম, সবচেয়ে সহজ rule বলুন তাকে — "phone-এ কেউ number চাইলে, code চাইলে, PIN চাইলে — দেবেন না, আগে পরিবারের কাউকে জানাবেন।" এটুকু মনে রাখলেই safe।
+
+**১৭. কাস্টমারঃ** "আগে পরিবারের কাউকে জানাবেন" — এটা সহজ rule, শাশুড়ি মাও মনে রাখতে পারবেন। ধন্যবাদ ফারজানা আপু, আজ অনেক গুরুত্বপূর্ণ বিষয় জানলাম।
+
+**১৮. এজেন্টঃ** ম্যাম, আপনি খুব সচেতন, OTP না দিয়ে ঠিক করেছেন। পরিবারকেও সচেতন রাখুন। ভালো থাকবেন, নিরাপদে থাকবেন!
+
+**১৯. কাস্টমারঃ** ধন্যবাদ আপু, আপনিও ভালো থাকবেন।
+
+
+---
+
+
+## সিনারিও 49ঃ Basement office-এ network দুর্বল — WiFi calling চালু করতে চাওয়া (Weak indoor signal in basement office — WiFi calling activation request)
+
+> কাস্টমার IT professional, basement office-এ কাজ করেন। GP network signal খুব দুর্বল, call drop হয়। WiFi calling চালু করতে চান।
+
+**১. কাস্টমারঃ** ভাইয়া, আমার office basement-এ, GP network signal প্রায় শূন্য। Call drop হয়, internet ধরে না। কিন্তু office WiFi আছে। WiFi দিয়ে কি GP call করা যায়?
+
+**২. এজেন্টঃ** স্যার, আমি তানহা বলছি GP customer care থেকে। জ্বী স্যার, GP-তে WiFi Calling feature আছে। আপনার phone WiFi-তে connected থাকলে mobile network ছাড়াই GP call করতে পারবেন।
+
+**৩. কাস্টমারঃ** WiFi Calling! এটা তো exactly যেটা আমার দরকার! কিভাবে চালু করবো?
+
+**৪. এজেন্টঃ** স্যার, WiFi Calling চালু করতে প্রথমে আপনার phone-এর Settings-এ যান, তারপর "Connections" বা "Network" section-এ "WiFi Calling" option পাবেন, সেটা ON করুন। তবে আগে check করতে হবে আপনার phone WiFi Calling support করে কিনা।
+
+**৫. কাস্টমারঃ** আমার phone Samsung Galaxy S24, সেটা তো support করবে?
+
+**৬. এজেন্টঃ** স্যার, Samsung Galaxy S24 অবশ্যই WiFi Calling support করে। Settings → Connections → WiFi Calling → ON করুন। প্রথমবার ON করলে GP-র terms accept করতে হবে, accept করলেই activate হয়ে যাবে।
+
+**৭. কাস্টমারঃ** Settings-এ দেখছি। হ্যাঁ আপু, WiFi Calling option পেয়েছি! ON করছি। Terms accept করলাম। "WiFi Calling activated" দেখাচ্ছে!
+
+**৮. এজেন্টঃ** স্যার, চমৎকার! এখন আপনার phone WiFi-তে connected থাকলে call WiFi দিয়ে যাবে। Phone-এর status bar-এ signal icon-এর পাশে ছোট WiFi icon দেখলে বুঝবেন WiFi Calling active আছে।
+
+**৯. কাস্টমারঃ** হ্যাঁ আপু, একটা ছোট icon দেখাচ্ছে। দারুণ! আচ্ছা, WiFi Calling-এ call quality কেমন হবে? Normal call-এর মতো?
+
+**১০. এজেন্টঃ** স্যার, WiFi Calling-এ HD voice quality পাবেন, অনেক সময় normal call-এর চেয়েও better quality হয়। তবে WiFi speed ভালো থাকতে হবে — minimum 2Mbps হলে ভালো call quality পাবেন।
+
+**১১. কাস্টমারঃ** Office WiFi 100Mbps, তাই speed নিয়ে চিন্তা নেই। আচ্ছা আপু, WiFi Calling-এ extra charge লাগবে?
+
+**১২. এজেন্টঃ** স্যার, WiFi Calling-এ GP-র normal call rate-ই applicable হবে, কোনো extra charge নেই। আপনার pack-এর minute থাকলে সেখান থেকে কাটবে, না থাকলে main balance থেকে normal rate-এ কাটবে।
+
+**১৩. কাস্টমারঃ** Normal rate-ই! কোনো extra charge নেই! তাহলে তো কোনো ক্ষতিই নেই WiFi Calling চালু রাখলে।
+
+**১৪. এজেন্টঃ** স্যার, ঠিক বলেছেন। আর একটা সুবিধা হচ্ছে — WiFi Calling ON থাকলে mobile network signal দুর্বল হলে phone automatically WiFi-তে switch করে call করে, আর WiFi না থাকলে mobile network-এ ফিরে যায়।
+
+**১৫. কাস্টমারঃ** Automatic switch! Smart feature। আচ্ছা আপু, WiFi Calling-এ SMS-ও কি WiFi দিয়ে যাবে?
+
+**১৬. এজেন্টঃ** স্যার, জ্বী, WiFi Calling active থাকলে SMS-ও WiFi দিয়ে পাঠানো আর receive করা যায়। তবে internet/data WiFi Calling feature-এর part না, data সরাসরি WiFi দিয়েই চলবে।
+
+**১৭. কাস্টমারঃ** Perfect! তাহলে basement-এও call, SMS, internet — সব চলবে WiFi দিয়ে! আমার ৬ মাসের সমস্যার solution পেয়ে গেলাম। ধন্যবাদ তানহা আপু!
+
+**১৮. এজেন্টঃ** স্যার, ৬ মাস ধরে সমস্যা ছিল শুনে দুঃখিত! আগে call করলে আরো আগে solve হতো। IT professional হিসেবে কাজ ভালো হোক, ভালো থাকবেন!
+
+**১৯. কাস্টমারঃ** ধন্যবাদ আপু, ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 50ঃ Banglalink থেকে GP-তে MNP করতে চাওয়া — same number রেখে operator পাল্টানো (Mobile Number Portability from Banglalink to GP — switching operators with same number)
+
+> কাস্টমার Banglalink-এর network coverage নিয়ে হতাশ। GP-তে আসতে চান কিন্তু number পাল্টাতে চান না। MNP (Mobile Number Portability) সম্পর্কে জানতে চান।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি Banglalink user কিন্তু আমাদের এলাকায় Banglalink network অনেক দুর্বল। GP-তে আসতে চাই কিন্তু number পাল্টাতে চাই না। Same number নিয়ে GP-তে আসা কি possible?
+
+**২. এজেন্টঃ** স্যার, আমি রাফি বলছি GP customer care থেকে। জ্বী স্যার, MNP বা Mobile Number Portability service-এর মাধ্যমে আপনার Banglalink number-ই রেখে GP-তে আসতে পারবেন।
+
+**৩. কাস্টমারঃ** MNP! হ্যাঁ, এটার কথা শুনেছি কিন্তু কিভাবে করতে হয় জানি না। Process কি ভাইয়া?
+
+**৪. এজেন্টঃ** স্যার, MNP করতে যেকোনো GP Center-এ যান। আপনার NID original নিয়ে যাবেন। GP Center-এ "MNP to GP" request করবেন। তারা form fill-up করাবেন, GP SIM দেবেন, তারপর ২৪-৪৮ ঘণ্টার মধ্যে আপনার Banglalink number GP network-এ transfer হয়ে যাবে।
+
+**৫. কাস্টমারঃ** ২৪-৪৮ ঘণ্টায় হয়ে যাবে? কিন্তু এই সময়ে কি আমার number কাজ করবে?
+
+**৬. এজেন্টঃ** স্যার, MNP processing-এর সময় কিছু সময়ের জন্য service interruption হতে পারে, সাধারণত ৩০ মিনিট থেকে ২ ঘণ্টা। তারপর আপনার number GP-তে active হয়ে যাবে।
+
+**৭. কাস্টমারঃ** মাত্র ২ ঘণ্টা interruption, সেটা manageable। MNP-র charge কত?
+
+**৮. এজেন্টঃ** স্যার, MNP fee ৩৯ টাকা, GP SIM-এর cost সহ। এছাড়া কোনো hidden charge নেই।
+
+**৯. কাস্টমারঃ** ৩৯ টাকা! এতো কম! আচ্ছা ভাইয়া, MNP করলে আমার Banglalink-এর balance কি ফেরত পাবো?
+
+**১০. এজেন্টঃ** স্যার, MNP-র আগে Banglalink-এর balance ব্যবহার করে নেওয়া ভালো, কারণ MNP-র পর Banglalink balance transfer হয় না। Banglalink-এর pack, bonus — এগুলোও থাকবে না।
+
+**১১. কাস্টমারঃ** বুঝেছি, আগে balance খরচ করবো। আচ্ছা ভাইয়া, MNP-র কোনো condition আছে? মানে সবাই কি MNP করতে পারবে?
+
+**১২. এজেন্টঃ** স্যার, কিছু condition আছে। আপনার Banglalink number কমপক্ষে ৯০ দিন active থাকতে হবে। কোনো outstanding bill বা due থাকলে MNP হবে না। আর Banglalink-এর সাথে কোনো contractual obligation থাকলেও MNP সম্ভব হবে না।
+
+**১৩. কাস্টমারঃ** আমার Banglalink number ৫ বছরের পুরনো, কোনো due নেই। তাহলে কোনো সমস্যা হওয়ার কথা না।
+
+**১৪. এজেন্টঃ** স্যার, ঠিক, ৫ বছরের number-এ কোনো সমস্যা হবে না। MNP-র পর আপনার number ০১৩XX format-ই থাকবে, কিন্তু GP network-এ কাজ করবে। যারা call করবে তারা বুঝতেও পারবে না যে operator পাল্টেছেন।
+
+**১৫. কাস্টমারঃ** মানে number ০১৩-ই থাকবে কিন্তু GP-র network আর service পাবো? Perfect!
+
+**১৬. এজেন্টঃ** স্যার, exactly! আর GP-তে এলে MyGP app download করবেন, সেখানে সব pack, offer দেখতে পাবেন। MNP customer-দের জন্য GP কিছু welcome offer-ও দেয়।
+
+**১৭. কাস্টমারঃ** Welcome offer! কি ধরনের offer?
+
+**১৮. এজেন্টঃ** স্যার, MNP customer-দের জন্য সাধারণত free data, bonus minute দেওয়া হয়। Current offer GP Center-এ জানতে পারবেন, offer সময়ে সময়ে পরিবর্তন হয়।
+
+**১৯. কাস্টমারঃ** বেশ ভালো! তাহলে আগামীকাল GP Center-এ যাবো, Banglalink-এর balance আজ রাতে শেষ করবো! ধন্যবাদ রাফি ভাইয়া!
+
+**২০. এজেন্টঃ** স্যার, GP family-তে স্বাগতম হবেন! GP-র better network experience পাবেন ইনশাআল্লাহ। ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ইনশাআল্লাহ। ধন্যবাদ ভাইয়া, ভালো থাকবেন!
