@@ -752,3 +752,155 @@
 **২১. কাস্টমারঃ** ধন্যবাদ তানহা আপু, অনেক সহজেই setup হয়ে গেলো। ভালো থাকবেন।
 
 **২২. এজেন্টঃ** আপনাকেও ধন্যবাদ স্যার। ভালো থাকবেন, গ্রামীণফোনের সাথে থাকার জন্য ধন্যবাদ।
+
+
+---
+
+
+## সিনারিও 16ঃ Scratch card-এর PIN ঘষতে গিয়ে নষ্ট হয়ে যাওয়া (Scratch card PIN partially damaged — recovery needed)
+
+> ছাত্র ১০০ টাকার scratch card-এর PIN ঘষতে গিয়ে ৩টা digit নষ্ট করে ফেলেছেন। Card-এর পেছনের serial number দিয়ে balance recover করতে চান।
+
+**১. কাস্টমারঃ** ভাইয়া, একটা বিপদে পড়েছি! ১০০ টাকার scratch card কিনেছিলাম, ঘষতে গিয়ে মাঝের ৩টা number মুছে গেছে। এখন কি করবো?
+
+**২. এজেন্টঃ** ভাইয়া, চিন্তা করবেন না, এটার সমাধান আছে। আমি নাহিদ, GP customer care থেকে। Card-এর পেছনে একটা serial number থাকে, সেটা আছে?
+
+**৩. কাস্টমারঃ** হ্যাঁ ভাইয়া, পেছনে একটা barcode-এর নিচে number লেখা আছে। সেটা দিলে কি কাজ হবে?
+
+**৪. এজেন্টঃ** জ্বী ভাইয়া, সেই serial number দিয়ে আমরা card verify করে আপনার account-এ balance manually credit করতে পারবো। Serial number টা বলুন।
+
+**৫. কাস্টমারঃ** Serial number হচ্ছে ৫৬৭৮৯০১২৩৪৫৬। আর PIN-এর যতটুকু পড়তে পারছি সেটা হচ্ছে ১২_4_6_890, মাঝে ৩টা digit বোঝা যাচ্ছে না।
+
+**৬. এজেন্টঃ** আচ্ছা ভাইয়া, serial number দিয়ে আমি card verify করছি। হ্যাঁ, card টা valid এবং এখনো unused। আমি এখন আপনার GP number-এ ১০০ টাকা manually credit করে দিচ্ছি।
+
+**৭. কাস্টমারঃ** সত্যিই? এতো সহজে? আমি ভেবেছিলাম ১০০ টাকা গেছে!
+
+**৮. এজেন্টঃ** না ভাইয়া, serial number valid হলে আমরা balance দিয়ে দিতে পারি। তবে আপনার GP number টা confirm করি — কোন number-এ credit করবো?
+
+**৯. কাস্টমারঃ** ০১৭১২৩৪৫৭৬০ number-এ দিন ভাইয়া।
+
+**১০. এজেন্টঃ** ভাইয়া, ১০০ টাকা আপনার ০১৭১২৩৪৫৭৬০ number-এর main balance-এ credit করে দিয়েছি। ২-৩ মিনিটের মধ্যে balance update দেখতে পাবেন।
+
+**১১. কাস্টমারঃ** অনেক ধন্যবাদ ভাইয়া! আচ্ছা, একটা কথা — ভবিষ্যতে scratch card ঘষার সময় এই সমস্যা এড়াতে কি কোনো tip আছে?
+
+**১২. এজেন্টঃ** ভাইয়া, coin দিয়ে হালকাভাবে ঘষবেন, বেশি জোরে ঘষলে number মুছে যায়। আর scratch card-এর চেয়ে electronic recharge সবসময় নিরাপদ — bKash, Nagad, বা MyGP app থেকে recharge করলে এই ঝামেলা হবে না।
+
+**১৩. কাস্টমারঃ** হ্যাঁ ভাইয়া, আসলে আমি university student, hostel-এ থাকি। দোকান থেকে card কিনে recharge করি usually। আচ্ছা, MyGP app দিয়ে কি bKash ছাড়াও recharge করা যায়?
+
+**১৪. এজেন্টঃ** জ্বী ভাইয়া, MyGP app-এ bKash, Nagad, Rocket, credit card, debit card — সব option-এই recharge করতে পারবেন। App-এ promo offer-ও থাকে মাঝে মাঝে।
+
+**১৫. কাস্টমারঃ** আচ্ছা ভালো, তাহলে এখন থেকে app দিয়েই করবো। আর একটা কথা ভাইয়া, এই damaged card টা কি আমাকে রাখতে হবে কোনো record-এর জন্য?
+
+**১৬. এজেন্টঃ** ভাইয়া, card টা আরো ৭ দিন রাখবেন। যদি কোনো কারণে balance credit না হয় বা সমস্যা হয়, তাহলে card-এর serial number proof হিসেবে কাজ করবে। ৭ দিন পর ফেলে দিতে পারবেন।
+
+**১৭. কাস্টমারঃ** বুঝেছি, ৭ দিন রাখবো। ভাইয়া, balance check করলাম — ১০০ টাকা এসে গেছে! অসংখ্য ধন্যবাদ।
+
+**১৮. এজেন্টঃ** ভাইয়া, আপনাকেও ধন্যবাদ। পড়াশোনা ভালো হোক, শুভকামনা রইলো।
+
+**১৯. কাস্টমারঃ** ধন্যবাদ ভাইয়া নাহিদ, আল্লাহ হাফেজ।
+
+**২০. এজেন্টঃ** আল্লাহ হাফেজ ভাইয়া।
+
+
+---
+
+
+## সিনারিও 17ঃ Office reimbursement-এর জন্য itemized postpaid bill চাওয়া (Requesting detailed itemized bill for office reimbursement)
+
+> কাস্টমার তার office-এ mobile bill reimbursement claim করতে চান, কিন্তু PDF bill-এ enough detail নেই। HR department itemized call list চাইছে।
+
+**১. কাস্টমারঃ** আপু, আমার office-এর HR department আমার GP postpaid bill-এর reimbursement দেবে, কিন্তু তারা বলছে detailed itemized bill দিতে হবে। MyGP app-এ শুধু summary দেখাচ্ছে।
+
+**২. এজেন্টঃ** ভালো দুপুর স্যার, আমি সায়মা, GP customer care থেকে। Itemized bill মানে প্রতিটা call, SMS, data session-এর আলাদা detail, তাই তো?
+
+**৩. কাস্টমারঃ** হ্যাঁ আপু, ঠিক তাই। প্রতিটা call কখন হয়েছে, কত মিনিট ছিল, কত টাকা charge হয়েছে — সব আলাদা আলাদাভাবে দরকার।
+
+**৪. এজেন্টঃ** স্যার, GP থেকে itemized bill issue করা সম্ভব। দুইটা option আছে — একটা হচ্ছে MyGP app-এর Bill section-এ "Detailed Bill" download করা, আরেকটা হচ্ছে আমাদের GP Center-এ গিয়ে official stamp-সহ hard copy নেওয়া। আপনার HR department কোনটা চাইছে?
+
+**৫. কাস্টমারঃ** HR বলেছে official letterhead-এ bill চাই, যেটায় GP-র seal আর signature থাকবে। App-এর download চলবে না।
+
+**৬. এজেন্টঃ** তাহলে আপনাকে nearest GP Center-এ যেতে হবে। সেখানে original NID নিয়ে গেলে official seal-সহ itemized bill print করে দেবে। ৩ মাস পর্যন্ত bill-এর detail পাবেন।
+
+**৭. কাস্টমারঃ** GP Center-এ কি appointment লাগে নাকি walk-in করতে পারি?
+
+**৮. এজেন্টঃ** স্যার, walk-in করতে পারবেন। তবে মাসের শুরুতে ভিড় থাকে, তাই সকাল ১০টার মধ্যে গেলে তাড়াতাড়ি হয়ে যাবে। MyGP app-এ "GP Center" option থেকে nearest branch-এর location পাবেন।
+
+**৯. কাস্টমারঃ** আচ্ছা আপু। কোনো charge আছে itemized bill-এর জন্য?
+
+**১০. এজেন্টঃ** স্যার, current billing month-এর bill free, কিন্তু previous month-এর bill-এর জন্য প্রতি month ৫০ টাকা charge লাগে। আপনি কত মাসের bill চাইছেন?
+
+**১১. কাস্টমারঃ** গত ৩ মাসের চাই — এপ্রিল, মে, আর জুন। তাহলে কত টাকা লাগবে?
+
+**১২. এজেন্টঃ** স্যার, জুন মাসের bill current month তাই free। এপ্রিল আর মে-র জন্য ৫০+৫০ = ১০০ টাকা। মোট ১০০ টাকা charge হবে, GP Center-এ pay করতে পারবেন।
+
+**১৩. কাস্টমারঃ** ঠিক আছে আপু, ১০০ টাকা। আচ্ছা, GP Center-এ কি bKash দিয়ে pay করা যায়?
+
+**১৪. এজেন্টঃ** স্যার, GP Center-এ cash, debit card, বা credit card-এ pay করতে পারবেন। bKash option সেখানে available না, তবে bill amount আপনার postpaid bill-এর সাথে add করে দিতে পারে।
+
+**১৫. কাস্টমারঃ** আচ্ছা, postpaid bill-এ add করে দিলে ভালো হয়, তাহলে আলাদা pay করতে হবে না। ওটাই করবো।
+
+**১৬. এজেন্টঃ** জ্বী স্যার, GP Center-এ গিয়ে বলবেন bill-এ add করে দিতে, তারা করে দেবে।
+
+**১৭. কাস্টমারঃ** আচ্ছা আপু, আর একটা last question — itemized bill-এ কি আমার personal call-ও থাকবে নাকি শুধু office call?
+
+**১৮. এজেন্টঃ** স্যার, itemized bill-এ সব call, SMS, data usage — সব থাকবে, personal আর office আলাদা করার option নেই। SIM-এ যা activity হয়েছে সব দেখাবে।
+
+**১৯. কাস্টমারঃ** ও আচ্ছা, তাহলে ঠিক আছে। HR শুধু total amount দেখবে, individual call check করবে না আশা করি!
+
+**২০. এজেন্টঃ** স্যার, সেটা আপনার HR-এর ব্যাপার! তবে বেশিরভাগ company শুধু total validate করে। আর কিছু জানার থাকলে বলুন।
+
+**২১. কাস্টমারঃ** না আপু, সব clear হয়ে গেছে। কাল সকালেই GP Center-এ যাবো। ধন্যবাদ সায়মা আপু।
+
+**২২. এজেন্টঃ** আপনাকেও ধন্যবাদ স্যার। NID নিতে ভুলবেন না। ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 18ঃ Postpaid থেকে prepaid-এ convert করতে চাওয়া — monthly bill-এর ঝামেলা এড়াতে (Postpaid to prepaid conversion request)
+
+> কাস্টমার postpaid connection-এর bill নিয়ে প্রতি মাসে সমস্যায় পড়েন, তাই prepaid-এ convert করতে চান। Same number রাখতে চান।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি postpaid connection ব্যবহার করি কিন্তু প্রতি মাসে bill-এ unexpected charge আসে, bill নিয়ে ঝামেলা হয়। Prepaid-এ convert করতে চাই, same number দিয়ে কি সম্ভব?
+
+**২. এজেন্টঃ** স্যার, আমি রাফি, GP customer care থেকে। জ্বী, same number রেখেই postpaid থেকে prepaid-এ migrate করা সম্ভব। তবে কয়েকটা বিষয় জানিয়ে রাখি আগে।
+
+**৩. কাস্টমারঃ** হ্যাঁ ভাইয়া বলুন, সব জানতে চাই তারপর decide করবো।
+
+**৪. এজেন্টঃ** স্যার, প্রথমত আপনার current postpaid-এর সব outstanding bill clear থাকতে হবে, কোনো due থাকলে migration হবে না। দ্বিতীয়ত, postpaid connection-এ যদি security deposit থাকে সেটা ১৫ থেকে ৩০ দিনের মধ্যে refund হবে। তৃতীয়ত, migration-এর পর আপনার postpaid plan-এর সব সুবিধা বন্ধ হয়ে যাবে এবং নতুন prepaid rate প্রযোজ্য হবে।
+
+**৫. কাস্টমারঃ** বুঝেছি ভাইয়া। আমার কোনো due নেই, গত মাসের bill pay করে দিয়েছি। Security deposit কত ছিল সেটা কিভাবে জানবো?
+
+**৬. এজেন্টঃ** স্যার, আমি system-এ check করছি। আপনার security deposit ১,০০০ টাকা জমা আছে। Migration-এর পর এটা আপনার bKash বা bank account-এ refund হবে।
+
+**৭. কাস্টমারঃ** ভালো। আচ্ছা ভাইয়া, migration করতে কত সময় লাগে? আমার number কি কিছুক্ষণের জন্য বন্ধ থাকবে?
+
+**৮. এজেন্টঃ** স্যার, migration process-এ ৪ থেকে ৬ ঘণ্টা সময় লাগে। এই সময় আপনার SIM কাজ করবে না — মানে call, SMS, internet কিছুই চলবে না। তারপর automatically prepaid হিসেবে চালু হয়ে যাবে।
+
+**৯. কাস্টমারঃ** ৬ ঘণ্টা! রাতে করলে কি ভালো হবে?
+
+**১০. এজেন্টঃ** স্যার, রাতে request দিলে ভালো, কারণ ঘুমের সময় ৬ ঘণ্টা downtime টের পাবেন না। রাত ১১টায় request দিলে সকাল ৫-৬টার মধ্যে prepaid হয়ে যাবে।
+
+**১১. কাস্টমারঃ** ভালো idea ভাইয়া। Migration কি phone-এ request দিলেই হবে নাকি GP Center-এ যেতে হবে?
+
+**১২. এজেন্টঃ** স্যার, দুইভাবেই পারবেন। আমাদের hotline-এ call করে request দিতে পারবেন, অথবা GP Center-এ গিয়ে NID দিয়ে করতে পারবেন। তবে GP Center-এ গেলে same day processing হয়, hotline-এ request দিলে পরের কর্মদিবস থেকে process শুরু হয়।
+
+**১৩. কাস্টমারঃ** তাহলে GP Center-এই যাবো, তাড়াতাড়ি হবে। আচ্ছা ভাইয়া, prepaid-এ যাওয়ার পর আমার MyGP app-এর account কি change হবে?
+
+**১৪. এজেন্টঃ** না স্যার, MyGP account same থাকবে। Number same আছে তাই app-এ login করলেই সব prepaid dashboard দেখাবে।
+
+**১৫. কাস্টমারঃ** আচ্ছা ভালো। আর prepaid-এ গেলে আমার GP Star level কি reset হয়ে যাবে?
+
+**১৬. এজেন্টঃ** স্যার, আপনার GP Star level maintain থাকবে কারণ সেটা number-ভিত্তিক, connection type-ভিত্তিক না। আপনি এখন Gold-এ আছেন, prepaid-এ গিয়েও Gold-ই থাকবেন।
+
+**১৭. কাস্টমারঃ** ভালো কথা ভাইয়া! এটা শুনে ভালো লাগলো। তাহলে আমি আগামীকাল GP Center-এ গিয়ে migration request দেবো।
+
+**১৮. এজেন্টঃ** স্যার, GP Center-এ যাওয়ার সময় original NID নিয়ে যাবেন, আর postpaid-এর last paid bill-এর receipt থাকলে নিয়ে যান, process দ্রুত হবে।
+
+**১৯. কাস্টমারঃ** বুঝেছি ভাইয়া, NID আর last bill receipt। আচ্ছা, migration-এর কি কোনো charge আছে?
+
+**২০. এজেন্টঃ** না স্যার, postpaid থেকে prepaid migration সম্পূর্ণ free, কোনো charge নেই।
+
+**২১. কাস্টমারঃ** চমৎকার! অনেক ধন্যবাদ রাফি ভাইয়া, সব কিছু খুব clear করে বুঝিয়ে দিলেন। ভালো থাকবেন।
+
+**২২. এজেন্টঃ** আপনাকেও ধন্যবাদ স্যার। Migration smooth হোক, শুভকামনা। গ্রামীণফোনের সাথে থাকার জন্য ধন্যবাদ।
