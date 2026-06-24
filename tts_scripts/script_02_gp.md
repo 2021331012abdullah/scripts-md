@@ -2540,3 +2540,49 @@
 **২০. এজেন্টঃ** স্যার, GP family-তে স্বাগতম হবেন! GP-র better network experience পাবেন ইনশাআল্লাহ। ভালো থাকবেন!
 
 **২১. কাস্টমারঃ** ইনশাআল্লাহ। ধন্যবাদ ভাইয়া, ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 51ঃ অজানা OTP আসছে বারবার — SIM clone/hack সন্দেহ (Receiving unknown OTPs repeatedly — suspecting SIM cloning or hacking)
+
+> কাস্টমার বিভিন্ন platform-এর OTP পাচ্ছেন যেগুলো তিনি request করেননি। SIM hack হয়েছে ভেবে আতঙ্কিত।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি খুব ভয়ে আছি! আজ সকাল থেকে আমার phone-এ অনেকগুলো OTP আসছে — Facebook, Gmail, bKash — কিন্তু আমি কোনো OTP request করিনি! কেউ কি আমার SIM hack করেছে?
+
+**২. এজেন্টঃ** স্যার, আমি নাহিদ বলছি GP customer care থেকে। এই পরিস্থিতি seriously নেওয়া উচিত। আমি কিছু বিষয় check করি। প্রথমে বলুন, আপনার phone-এ এখন GP network signal ঠিকমতো আছে?
+
+**৩. কাস্টমারঃ** হ্যাঁ ভাইয়া, signal ঠিক আছে, call-ও করতে পারছি। কিন্তু এই OTP গুলো কেন আসছে?
+
+**৪. এজেন্টঃ** স্যার, signal ঠিক থাকা মানে আপনার SIM clone হয়নি — SIM clone হলে আপনার phone-এ network থাকতো না। তবে এর মানে হচ্ছে কেউ আপনার GP number ব্যবহার করে Facebook, Gmail, bKash-এ login করার চেষ্টা করছে।
+
+**৫. কাস্টমারঃ** মানে কেউ আমার account-এ ঢোকার চেষ্টা করছে? কিন্তু কিভাবে?
+
+**৬. এজেন্টঃ** স্যার, আপনার email বা phone number কোথাও leak হয়ে থাকতে পারে — কোনো website-এ data breach হলে এরকম হয়। Hacker-রা সেই number দিয়ে login attempt করছে। কিন্তু OTP তো আপনার phone-এ আসছে, তাই OTP না দিলে তারা ঢুকতে পারবে না।
+
+**৭. কাস্টমারঃ** OTP তো কাউকে দিইনি! কিন্তু ভাইয়া, কি করা উচিত?
+
+**৮. এজেন্টঃ** স্যার, কিছু জরুরি পদক্ষেপ নিন। এক — এখনই Facebook, Gmail-এর password change করুন। দুই — Two-Factor Authentication (2FA) চালু করুন সব account-এ। তিন — bKash PIN change করুন। চার — কোনো unknown OTP-র link-এ click করবেন না।
+
+**৯. কাস্টমারঃ** Password change করছি ভাইয়া। আচ্ছা, GP-র দিক থেকে কি কোনো security measure নেওয়া যায়?
+
+**১০. এজেন্টঃ** স্যার, GP-র দিক থেকে আমি আপনার account-এ "SIM Lock" enable করে দিতে পারি। এটা করলে কেউ আপনার SIM replace বা swap করতে গেলে extra verification লাগবে, fraudulent SIM swap prevent হবে।
+
+**১১. কাস্টমারঃ** SIM Lock! হ্যাঁ ভাইয়া, করে দিন! কেউ যেন আমার SIM swap করতে না পারে।
+
+**১২. এজেন্টঃ** স্যার, SIM Lock enable করে দিলাম। এখন থেকে আপনার SIM replace করতে গেলে GP Center-এ আপনার personal presence আর biometric verification দুটোই mandatory হবে, extra security layer যোগ হলো।
+
+**১৩. কাস্টমারঃ** ভালো। আচ্ছা ভাইয়া, এই OTP গুলো আসা কি বন্ধ হবে?
+
+**১৪. এজেন্টঃ** স্যার, OTP গুলো Facebook, Gmail-এর system থেকে আসছে, GP control করতে পারবে না। কিন্তু আপনি password change করলে আর 2FA চালু করলে hacker-রা আর login attempt করতে পারবে না, OTP আসাও বন্ধ হয়ে যাবে ধীরে ধীরে।
+
+**১৫. কাস্টমারঃ** বুঝেছি। ভাইয়া, আমি কি police-এ report করা উচিত?
+
+**১৬. এজেন্টঃ** স্যার, যদি মনে হয় targeted attack, তাহলে Cyber Crime Division-এ report করতে পারেন — 999 number-এ call করুন বা www.cid.gov.bd-তে online complaint করুন। তবে আপাতত password change আর 2FA-ই যথেষ্ট হওয়া উচিত।
+
+**১৭. কাস্টমারঃ** ঠিক আছে, আগে password আর 2FA করি। অনেক ধন্যবাদ নাহিদ ভাইয়া, SIM Lock-ও করে দিলেন, এখন safe feel করছি।
+
+**১৮. এজেন্টঃ** স্যার, আপনার security আমাদের priority। সব password strong রাখবেন — uppercase, lowercase, number, special character মিলিয়ে। ভালো থাকবেন, safe থাকবেন!
+
+**১৯. কাস্টমারঃ** ধন্যবাদ ভাইয়া, ভালো থাকবেন!
