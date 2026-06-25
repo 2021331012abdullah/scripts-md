@@ -2521,68 +2521,2618 @@
 
 **১১. কাস্টমারঃ** বুঝেছি, আগে balance খরচ করবো। আচ্ছা ভাইয়া, MNP-র কোনো condition আছে? মানে সবাই কি MNP করতে পারবে?
 
-**১২. এজেন্টঃ** স্যার, কিছু condition আছে। আপনার Banglalink number কমপক্ষে ৯০ দিন active থাকতে হবে। কোনো outstanding bill বা due থাকলে MNP হবে না। আর Banglalink-এর সাথে কোনো contractual obligation থাকলেও MNP সম্ভব হবে না।
+**১২. এজেন্টঃ** স্যার, কিছু condition আছে। আপনার Banglalink number কমপক্ষে ৯০ দিন active থাকতে হবে�**৯. কাস্টমারঃ** আচ্ছা ভাইয়া, আমার তো phone সচল নেই কারণ eSIM-টি এখনও সচল করা হয়নি। তাহলে dynamic OTP verification কোডটি আমি কীভাবে সংগ্রহ করতে পারবো?
 
-**১৩. কাস্টমারঃ** আমার Banglalink number ৫ বছরের পুরনো, কোনো due নেই। তাহলে কোনো সমস্যা হওয়ার কথা না।
+**১০. এজেন্টঃ** Sir, অত্যন্ত গুরুত্বপূর্ণ একটি প্রশ্ন করেছেন। এই ক্ষেত্রে আপনি eSIM কেনার সময় যে alternate mobile number বা email address দিয়েছিলেন, সেখানে OTP যাবে।
 
-**১৪. এজেন্টঃ** স্যার, ঠিক, ৫ বছরের number-এ কোনো সমস্যা হবে না। MNP-র পর আপনার number ০১৩XX format-ই থাকবে, কিন্তু GP network-এ কাজ করবে। যারা call করবে তারা বুঝতেও পারবে না যে operator পাল্টেছেন।
+**১১. কাস্টমারঃ** হ্যাঁ, আমি আমার একটি alternate number ও ইমেইল দিয়েছিলাম। ওগুলোতে OTP পাঠালে আমি কোডটি দেখতে পারবো। এর পরের ধাপ কী?
 
-**১৫. কাস্টমারঃ** মানে number ০১৩-ই থাকবে কিন্তু GP-র network আর service পাবো? Perfect!
+**১২. এজেন্টঃ** Sir, OTP verification সম্পন্ন হলে screen-এ একটি PDF download করার অপশন আসবে। সেটি download করলে আপনি আপনার eSIM QR code-টি পেয়ে যাবেন।
 
-**১৬. এজেন্টঃ** স্যার, exactly! আর GP-তে এলে MyGP app download করবেন, সেখানে সব pack, offer দেখতে পাবেন। MNP customer-দের জন্য GP কিছু welcome offer-ও দেয়।
+**১৩. কাস্টমারঃ** আচ্ছা ভাইয়া, এই digital QR code-টি কি আমি অন্য কোনো device যেমন laptop-এ open করে আমার phone দিয়ে scan করতে পারবো?
 
-**১৭. কাস্টমারঃ** Welcome offer! কি ধরনের offer?
+**১৪. এজেন্টঃ** Sir, হ্যাঁ! আপনি অন্য screen-এ QR code-টি প্রদর্শন করে আপনার phone-এর settings থেকে cellular network option-এ গিয়ে সহজেই scan করতে পারবেন।
 
-**১৮. এজেন্টঃ** স্যার, MNP customer-দের জন্য সাধারণত free data, bonus minute দেওয়া হয়। Current offer GP Center-এ জানতে পারবেন, offer সময়ে সময়ে পরিবর্তন হয়।
+**১৫. কাস্টমারঃ** স্ক্যান করার পর eSIM সচল হতে কত সময় লাগতে পারে? আর আমার পুরাতন physical SIM-টি কি সাথে সাথেই বন্ধ হয়ে যাবে?
 
-**১৯. কাস্টমারঃ** বেশ ভালো! তাহলে আগামীকাল GP Center-এ যাবো, Banglalink-এর balance আজ রাতে শেষ করবো! ধন্যবাদ রাফি ভাইয়া!
+**১৬. এজেন্টঃ** Sir, QR code scan করার পর সাধারণত ১ থেকে ২ ঘণ্টার মধ্যে eSIM সচল হয়। এবং eSIM চালু হওয়ার সাথে সাথেই পুরাতন SIM-টি বন্ধ হয়ে যাবে।
 
-**২০. এজেন্টঃ** স্যার, GP family-তে স্বাগতম হবেন! GP-র better network experience পাবেন ইনশাআল্লাহ। ভালো থাকবেন!
+**১৭. কাস্টমারঃ** বুঝতে পেরেছি। আচ্ছা, এই ডিজিটাল QR code-টি কি আমি ভবিষ্যতের জন্য সংরক্ষণ করে রাখতে পারবো? নাকি এটি একবারই ব্যবহার করা যাবে?
 
-**২১. কাস্টমারঃ** ইনশাআল্লাহ। ধন্যবাদ ভাইয়া, ভালো থাকবেন!
+**১৮. এজেন্টঃ** Sir, আপনি PDF-টি ভবিষ্যতের জন্য অবশ্যই safe custody-তে সংরক্ষণ করে রাখবেন। কোনো কারণে phone reset দিলে এটি পুনরায় setup করতে প্রয়োজন হবে।
+
+**১৯. কাস্টমারঃ** অনেক ধন্যবাদ ফয়সাল ভাইয়া। আপনার চমৎকার বুঝিয়ে বলার পদ্ধতি এবং দ্রুত সমাধানের পথ দেখানোর জন্য আমি আপনার প্রতি অত্যন্ত কৃতজ্ঞ।
+
+**২০. এজেন্টঃ** Sir, আপনাকে সেবা দিতে পেরে আনন্দিত। আপনার কি alternate number-টি মনে আছে, নাকি সেটি চেক করতে আমার সহায়তা প্রয়োজন হবে?
+
+**২১. কাস্টমারঃ** হ্যাঁ ভাইয়া, আমার alternate number-টি মনে আছে। আমি নিজেই এখন MyGP app থেকে এটি সংগ্রহ করে নিতে পারবো। ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Sir, আপনাকে অনেক ধন্যবাদ। জিপির সাথেই থাকুন এবং আপনার দিনটি অনেক শুভ হোক। যেকোনো প্রয়োজনে সর্বদা যোগাযোগ করবেন, শুভ বিদায়।
 
 
 ---
 
 
-## সিনারিও 51ঃ অজানা OTP আসছে বারবার — SIM clone/hack সন্দেহ (Receiving unknown OTPs repeatedly — suspecting SIM cloning or hacking)
+## সিনারিও 99ঃ জিপি স্টার পার্টনার হাসপাতালে ডিসকাউন্ট সুবিধা নেওয়া (GP Star Labaid hospital diagnostic discount process)
 
-> কাস্টমার বিভিন্ন platform-এর OTP পাচ্ছেন যেগুলো তিনি request করেননি। SIM hack হয়েছে ভেবে আতঙ্কিত।
+> জিপি স্টার কাস্টমার ল্যাবএইড হাসপাতালে ডায়াগনস্টিক পরীক্ষার উপর জিপি স্টার ডিসকাউন্ট হার, আউটডোর সেবা ও কিউআর/এসএমএস কোড ভেরিফিকেশন করার প্রক্রিয়া সম্পর্কে বিস্তারিত জানতে চান।
 
-**১. কাস্টমারঃ** ভাইয়া, আমি খুব ভয়ে আছি! আজ সকাল থেকে আমার phone-এ অনেকগুলো OTP আসছে — Facebook, Gmail, bKash — কিন্তু আমি কোনো OTP request করিনি! কেউ কি আমার SIM hack করেছে?
+**১. কাস্টমারঃ** হ্যালো আপু, আমি জিপির একজন loyal GP Star গ্রাহক। শুনেছি Labaid Hospital-এ জিপি স্টারের জন্য diagnostic test-এ বিশেষ discount পাওয়া যায় কি?
 
-**২. এজেন্টঃ** স্যার, আমি নাহিদ বলছি GP customer care থেকে। এই পরিস্থিতি seriously নেওয়া উচিত। আমি কিছু বিষয় check করি। প্রথমে বলুন, আপনার phone-এ এখন GP network signal ঠিকমতো আছে?
+**২. এজেন্টঃ** Mam, আমি সাবিনা বলছি GP customer care থেকে। হ্যাঁ, জিপি স্টার গ্রাহকদের জন্য Labaid-এ diagnostic checkup-এ বিশেষ ছাড়ের সুবিধা রয়েছে।
 
-**৩. কাস্টমারঃ** হ্যাঁ ভাইয়া, signal ঠিক আছে, call-ও করতে পারছি। কিন্তু এই OTP গুলো কেন আসছে?
+**৩. কাস্টমারঃ** এটি জেনে আমার খুব ভালো লাগলো। Labaid-এ জিপি স্টারের জন্য ঠিক কত শতাংশ ডিসকাউন্ট দেওয়া হচ্ছে? আর সব টেস্টেই কি ছাড় আছে?
 
-**৪. এজেন্টঃ** স্যার, signal ঠিক থাকা মানে আপনার SIM clone হয়নি — SIM clone হলে আপনার phone-এ network থাকতো না। তবে এর মানে হচ্ছে কেউ আপনার GP number ব্যবহার করে Facebook, Gmail, bKash-এ login করার চেষ্টা করছে।
+**৪. এজেন্টঃ** Mam, pathological tests-এর ওপর ১৫% এবং imaging tests যেমন X-ray, MRI, CT scan-এর ওপর ১০% special discount প্রযোজ্য হবে। আপনি এই ছাড় পাবেন।
 
-**৫. কাস্টমারঃ** মানে কেউ আমার account-এ ঢোকার চেষ্টা করছে? কিন্তু কিভাবে?
+**৫. কাস্টমারঃ** আচ্ছা আপু, Labaid-এর যেকোনো diagnostic branch-এই কি এই discount সুবিধাটি পাওয়া যাবে? নাকি জিপির নির্দিষ্ট কোনো নির্ধারিত জিপি পার্টনার শাখায় যেতে হবে?
 
-**৬. এজেন্টঃ** স্যার, আপনার email বা phone number কোথাও leak হয়ে থাকতে পারে — কোনো website-এ data breach হলে এরকম হয়। Hacker-রা সেই number দিয়ে login attempt করছে। কিন্তু OTP তো আপনার phone-এ আসছে, তাই OTP না দিলে তারা ঢুকতে পারবে না।
+**৬. এজেন্টঃ** Mam, Labaid Diagnostic-এর সারা দেশের সকল শাখা এবং Labaid Cancer Hospital-এও আপনি এই জিপি স্টার ডিসকাউন্ট সুবিধাটি খুব সহজে উপভোগ করতে পারবেন।
 
-**৭. কাস্টমারঃ** OTP তো কাউকে দিইনি! কিন্তু ভাইয়া, কি করা উচিত?
+**৭. কাস্টমারঃ** এটি অনেক ভালো সুবিধা। এই diagnostic discount-টি পাওয়ার জন্য আমাকে কীভাবে coupon code বা SMS জেনারেট করতে হবে? দয়া করে নিয়মটি বলুন।
 
-**৮. এজেন্টঃ** স্যার, কিছু জরুরি পদক্ষেপ নিন। এক — এখনই Facebook, Gmail-এর password change করুন। দুই — Two-Factor Authentication (2FA) চালু করুন সব account-এ। তিন — bKash PIN change করুন। চার — কোনো unknown OTP-র link-এ click করবেন না।
+**৮. এজেন্টঃ** Mam, Labaid-এর জন্য "LABAID" লিখে "29000" নম্বরে SMS পাঠাতে হবে। অথবা MyGP app-এর "GP Star" tab থেকে কোড নিতে পারেন।
 
-**৯. কাস্টমারঃ** Password change করছি ভাইয়া। আচ্ছা, GP-র দিক থেকে কি কোনো security measure নেওয়া যায়?
+**৯. কাস্টমারঃ** আচ্ছা আপু, এই diagnostic discount কি শুধুমাত্র outdoor patients-দের জন্য প্রযোজ্য, নাকি hospital-এ ভর্তি থাকা রোগীদের ক্ষেত্রেও কাজ করবে? সেটি জানান।
 
-**১০. এজেন্টঃ** স্যার, GP-র দিক থেকে আমি আপনার account-এ "SIM Lock" enable করে দিতে পারি। এটা করলে কেউ আপনার SIM replace বা swap করতে গেলে extra verification লাগবে, fraudulent SIM swap prevent হবে।
+**১০. এজেন্টঃ** Mam, এই discount শুধুমাত্র outdoor patients-দের diagnostic tests-এর জন্য প্রযোজ্য। Hospital cabin, surgery বা medicine-এর ওপর কোনো ছাড় থাকবে না।
 
-**১১. কাস্টমারঃ** SIM Lock! হ্যাঁ ভাইয়া, করে দিন! কেউ যেন আমার SIM swap করতে না পারে।
+**১১. কাস্টমারঃ** ও আচ্ছা, মানে শুধুমাত্র diagnostic test-এর ওপর ছাড় পাওয়া যাবে। তো এই offer code-টির validity বা মেয়াদ কত দিন থাকবে?
 
-**১২. এজেন্টঃ** স্যার, SIM Lock enable করে দিলাম। এখন থেকে আপনার SIM replace করতে গেলে GP Center-এ আপনার personal presence আর biometric verification দুটোই mandatory হবে, extra security layer যোগ হলো।
+**১২. এজেন্টঃ** Mam, আপনি SMS বা MyGP app-এর মাধ্যমে যে discount code-টি পাবেন, তার validity জেনারেশনের দিন থেকে পরবর্তী ৩ দিন পর্যন্ত সচল থাকবে।
 
-**১৩. কাস্টমারঃ** ভালো। আচ্ছা ভাইয়া, এই OTP গুলো আসা কি বন্ধ হবে?
+**১৩. কাস্টমারঃ** আচ্ছা আপু, আমার পরিবারের কোনো সদস্যের টেস্ট করানোর সময় কি আমি আমার জিপি স্টার মোবাইল নাম্বার ব্যবহার করে এই ডিসকাউন্ট নিতে পারবো?
 
-**১৪. এজেন্টঃ** স্যার, OTP গুলো Facebook, Gmail-এর system থেকে আসছে, GP control করতে পারবে না। কিন্তু আপনি password change করলে আর 2FA চালু করলে hacker-রা আর login attempt করতে পারবে না, OTP আসাও বন্ধ হয়ে যাবে ধীরে ধীরে।
+**১৪. এজেন্টঃ** Mam, হ্যাঁ! জিপি স্টার গ্রাহক নিজে উপস্থিত থেকে পরিবারের সদস্যের বিল পরিশোধের সময় নিজের স্টার কোডটি ব্যবহার করে ছাড় নিতে পারবেন।
 
-**১৫. কাস্টমারঃ** বুঝেছি। ভাইয়া, আমি কি police-এ report করা উচিত?
+**১৫. কাস্টমারঃ** এটি তো আমাদের জন্য খুব চমৎকার সুযোগ! আচ্ছা, চিকিৎসকদের consultation fee বা ভিজিটের ওপর কি জিপি স্টারের কোনো ছাড় বা discount আছে?
 
-**১৬. এজেন্টঃ** স্যার, যদি মনে হয় targeted attack, তাহলে Cyber Crime Division-এ report করতে পারেন — 999 number-এ call করুন বা www.cid.gov.bd-তে online complaint করুন। তবে আপাতত password change আর 2FA-ই যথেষ্ট হওয়া উচিত।
+**১৬. এজেন্টঃ** Mam, আমরা দুঃখিত। Labaid-এর ডাক্তারদের consultation fee বা visiting charge-এর ওপর জিপি স্টারের কোনো ছাড় বা discount সুবিধা বর্তমানে প্রযোজ্য নয়।
 
-**১৭. কাস্টমারঃ** ঠিক আছে, আগে password আর 2FA করি। অনেক ধন্যবাদ নাহিদ ভাইয়া, SIM Lock-ও করে দিলেন, এখন safe feel করছি।
+**১৭. কাস্টমারঃ** ঠিক আছে আপু, ডায়াগনস্টিক টেস্টের ওপর ডিসকাউন্ট পেলেই আমার অনেক সাশ্রয় হবে। হাসপাতালে কাউন্টারে কোড দেখালেই কি তারা বিল সরাসরি কমিয়ে দেবে?
 
-**১৮. এজেন্টঃ** স্যার, আপনার security আমাদের priority। সব password strong রাখবেন — uppercase, lowercase, number, special character মিলিয়ে। ভালো থাকবেন, safe থাকবেন!
+**১৮. এজেন্টঃ** Mam, হ্যাঁ! বিল সম্পন্ন করার পূর্বে কাউন্টারের স্টাফকে কোডটি দেখালে তারা system-এ discount apply করে আপনার বিলের পরিমাণ কমিয়ে প্রিন্ট করে দেবে।
+
+**১৯. কাস্টমারঃ** অনেক ধন্যবাদ সাবিনা আপু। আমার মায়ের বেশ কিছু টেস্ট করাতে হবে, আমি কালকেই সরাসরি Labaid-এ যাবো এবং কোডটি ব্যবহার করে ডিসকাউন্ট নেবো।
+
+**২০. এজেন্টঃ** Mam, আপনাকে সেবা দিতে পেরে জিপি অত্যন্ত আনন্দিত। আপনার মায়ের দ্রুত সুস্থতা কামনা করছি। হাসপাতালে যাওয়ার পূর্বেই কোডটি জেনারেট করে সাথে রাখবেন।
+
+**২১. কাস্টমারঃ** হ্যাঁ আপু, হাসপাতালে যাওয়ার পথেই discount code-টি ফোনে জেনারেট করে নেবো। অনেক ধন্যবাদ আপনাকে সবকিছু এত সুন্দর করে বুঝিয়ে বলার জন্য, ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Mam, জিপিকে বেছে নেওয়ার জন্য ধন্যবাদ। ভালো থাকুন এবং জিপির সাথেই থাকুন। কোনো সমস্যা হলে আমাদের অবশ্যই জানাবেন, শুভ বিদায়।
+
+
+---
+
+
+## সিনারিও 100ঃ পোস্টপেইড সংযোগ থেকে প্রিপেইড সংযোগে রূপান্তর করা (GP postpaid to prepaid reverse migration process)
+
+> পোস্টপেইড কাস্টমার তার সংযোগটি পুনরায় প্রিপেইডে রূপান্তর করতে চান। এজেন্ট তাকে বকেয়া বিল পরিশোধ, সিকিউরিটি ডিপোজিট সমন্বয়, প্রিপেইডে রূপান্তরের সময়সীমা এবং জিপি সেন্টারে বায়োমেট্রিক ভেরিফিকেশনের নিয়মাবলী বুঝিয়ে দিচ্ছেন।
+
+**১. কাস্টমারঃ** হ্যালো ভাইয়া, আমার জিপির postpaid connection-টি আমি আবার সাধারণ prepaid connection-এ রূপান্তর বা migrate করতে চাচ্ছি। এটার সঠিক নিয়মটি কী?
+
+**২. এজেন্টঃ** Sir, আমি আরিফ বলছি GP customer care থেকে। হ্যাঁ, আপনি আপনার postpaid connection-টি prepaid-এ রূপান্তর করতে পারবেন। আমি নিয়মগুলো বলে দিচ্ছি।
+
+**৩. কাস্টমারঃ** ধন্যবাদ ভাইয়া। এই migration করার জন্য কি কোনো charge বা fee দিতে হবে? আর আমি কি ঘরে বসেই এটি করতে পারবো?
+
+**৪. এজেন্টঃ** Sir, এর জন্য কোনো extra charge লাগবে না। তবে সুরক্ষার স্বার্থে এবং biometric verification-এর জন্য আপনাকে যেকোনো GP Center-এ যেতে হবে।
+
+**৫. কাস্টমারঃ** ও আচ্ছা, তার মানে GP Center-এ সশরীরে যেতে হবে। যাওয়ার আগে কি আমার জিপি সিমের সকল outstanding bill বা বকেয়া পরিশোধ করে নিতে হবে?
+
+**৬. এজেন্টঃ** Sir, হ্যাঁ! Migration request করার পূর্বে আপনার সমস্ত outstanding bill পরিশোধ করতে হবে। আপনি MyGP app-এর মাধ্যমে বিল পরিশোধ করতে পারেন।
+
+**৭. কাস্টমারঃ** বুঝতে পারলাম। আচ্ছা ভাইয়া, আমি যখন প্রথমবার এই postpaid SIM-টি নিয়েছিলাম, তখন ৩,০০০ টাকা security deposit জমা দিয়েছিলাম। সেই জমানো টাকাটার কী হবে?
+
+**৮. এজেন্টঃ** Sir, আপনার security deposit-এর টাকাটি আপনার final bill-এর সাথে adjust করা হবে। আর অবশিষ্ট টাকা আপনার prepaid account-এর main balance-এ যোগ হবে।
+
+**৯. কাস্টমারঃ** এটি তো গ্রাহকদের জন্য খুব ভালো নিয়ম! আচ্ছা ভাইয়া, পোস্টপেইড থেকে প্রিপেইডে মাইগ্রেট হতে কত সময় লাগবে? আর সংযোগ কি সাময়িকভাবে বন্ধ থাকবে?
+
+**১০. এজেন্টঃ** Sir, GP Center-এ biometric verification দেওয়ার পর ২৪ ঘণ্টার মধ্যে migration সম্পন্ন হবে। এই সময় সংযোগ সাময়িক ১ ঘণ্টার জন্য বিচ্ছিন্ন হতে পারে।
+
+**১১. কাস্টমারঃ** আচ্ছা, প্রিপেইডে মাইগ্রেট হওয়ার পর আমার postpaid SIM-এ থাকা active internet pack এবং অবশিষ্ট talktime মিনিটগুলো কি prepaid-এ transfer হবে?
+
+**১২. এজেন্টঃ** Sir, দুঃখিত। Migration-এর পর পূর্বের কোনো active pack, talktime বা internet volume প্রিপেইডে স্থানান্তরিত হবে না, সেগুলো automatically বাতিল হয়ে যাবে।
+
+**১৩. কাস্টমারঃ** ও আচ্ছা, তাহলে প্রিপেইডে যাওয়ার আগেই আমার সিমের অবশিষ্ট মিনিট ও ইন্টারনেট ডেটা ব্যবহার করে সম্পূর্ণ শেষ করে ফেলাই সবচেয়ে ভালো হবে।
+
+**১৪. এজেন্টঃ** Sir, হ্যাঁ! আপনার বর্তমান billing cycle শেষ হওয়ার কাছাকাছি সময়ে এবং pack-এর মেয়াদ শেষ হলে migration করাটাই সবচেয়ে বুদ্ধিমানের কাজ হবে।
+
+**১৫. কাস্টমারঃ** আচ্ছা ভাইয়া, প্রিপেইডে সফলভাবে চলে যাওয়ার পর আমি কি আবার জিপির regular prepaid offers এবং রিচার্জ বোনাসগুলো স্বাভাবিকভাবে পাওয়া শুরু করবো?
+
+**১৬. এজেন্টঃ** Sir, হ্যাঁ! প্রিপেইড হওয়ার সাথে সাথেই আপনি জিপির সাধারণ গ্রাহকদের মতো সকল regular offers, recharge bonus এবং internet packs উপভোগ করতে পারবেন।
+
+**১৭. কাস্টমারঃ** এটি অনেক ভালো সুবিধা। GP Center-এ যাওয়ার সময় আমার original NID card বা অন্য কোনো documents সাথে করে নিয়ে যেতে হবে কি না?
+
+**১৮. এজেন্টঃ** Sir, হ্যাঁ! আপনার original NID card-টি অবশ্যই সাথে নিয়ে যাবেন। কারণ SIM-এর মালিকানা যাচাই এবং biometric re-verification সম্পন্ন করার জন্য এটি আবশ্যিক।
+
+**১৯. কাস্টমারঃ** অনেক ধন্যবাদ আরিফ ভাইয়া। খুব সুন্দর করে প্রতিটি প্রশ্নের উত্তর দেওয়ার জন্য। আমি এ সপ্তাহের বিল পরিশোধ করে GP Center-এ যাবো।
+
+**২০. এজেন্টঃ** Sir, আপনাকে সেবা দিতে পেরে জিপি আনন্দিত। আশা করি আপনি সবসময় জিপির সাথেই থাকবেন। আর কোনো তথ্য জানার প্রয়োজন আছে কি আপনার?
+
+**২১. কাস্টমারঃ** না ভাইয়া, আমার আর কোনো বাড়তি তথ্যের প্রয়োজন নেই। আপনি আমার সব প্রশ্নের খুব চমৎকার ও স্পষ্ট উত্তর দিয়ে সাহায্য করেছেন, ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Sir, আপনাকেও জিপির পক্ষ থেকে অনেক ধন্যবাদ। আপনার দিনটি অনেক শুভ ও সুন্দর হোক এবং সবসময় জিপির সাথেই থাকুন। ভালো থাকবেন, বিদায়।তি সপ্তাহে automatically renew হচ্ছে! আমি তো বারবার কেনার permission দিইনি!
+
+**২. এজেন্টঃ** ম্যাম, আমি তানহা বলছি GP customer care থেকে। আপনার frustration বুঝতে পারছি। অনেক GP internet pack-এ default-এ auto-renewal ON থাকে। আমি এখনই বন্ধ করে দিচ্ছি।
+
+**৩. কাস্টমারঃ** Default-এ ON থাকে? সেটা তো ঠিক না! আমাকে জিজ্ঞেস করা উচিত ছিল auto-renew চাই কিনা।
+
+**৪. এজেন্টঃ** ম্যাম, আপনার কথা ঠিক। Pack purchase-এর সময় auto-renewal-এর বিষয়ে notification SMS আসে, তবে অনেকে সেটা miss করেন। আমি এখন আপনার ১৯৯ টাকার pack-এর auto-renewal OFF করে দিচ্ছি।
+
+**৫. কাস্টমারঃ** হ্যাঁ আপু, OFF করে দিন! আচ্ছা, এই সপ্তাহের renew হওয়া ১৯৯ টাকা কি refund পাবো?
+
+**৬. এজেন্টঃ** ম্যাম, auto-renewal-এ যে pack activate হয়ে গেছে সেটা already active, তাই refund করা সম্ভব হবে না। তবে এই সপ্তাহের pack-এর data ব্যবহার করতে পারবেন, আর পরের সপ্তাহে আর renew হবে না।
+
+**৭. কাস্টমারঃ** ঠিক আছে, এই সপ্তাহের data use করবো। আপু, আমার অন্য কোনো pack-এও কি auto-renewal ON আছে?
+
+**৮. এজেন্টঃ** ম্যাম, আমি check করি। হ্যাঁ ম্যাম, আপনার ২৯ টাকার Night pack-এও auto-renewal ON আছে। সেটাও OFF করে দিই?
+
+**৯. কাস্টমারঃ** হ্যাঁ আপু, সব auto-renewal বন্ধ করে দিন! আমি নিজে যখন দরকার তখন pack কিনবো।
+
+**১০. এজেন্টঃ** ম্যাম, দুটোই OFF করে দিলাম। এখন থেকে কোনো pack auto-renew হবে না। আপনি manually যখন চাইবেন তখন pack কিনবেন।
+
+**১১. কাস্টমারঃ** ধন্যবাদ আপু। আচ্ছা, ভবিষ্যতে pack কেনার সময় auto-renewal বন্ধ রাখতে কি করবো?
+
+**১২. এজেন্টঃ** ম্যাম, MyGP app থেকে pack কেনার সময় "Auto-Renewal" toggle দেখতে পাবেন, সেটা OFF রাখবেন। USSD code দিয়ে কিনলেও pack activate হওয়ার পর auto-renewal OFF করতে পারবেন *121*1*5# dial করে।
+
+**১৩. কাস্টমারঃ** *121*1*5# dial করলে auto-renewal manage করা যায়?
+
+**১৪. এজেন্টঃ** ম্যাম, জ্বী, *121*1*5# dial করলে আপনার active pack-এর auto-renewal status দেখতে পাবেন এবং ON/OFF করতে পারবেন।
+
+**১৫. কাস্টমারঃ** সহজ! Code টা মনে রাখবো। আচ্ছা আপু, auto-renewal-এর কোনো benefit আছে কি?
+
+**১৬. এজেন্টঃ** ম্যাম, auto-renewal-এর একটা benefit হচ্ছে — pack expire হওয়ার আগেই নতুন pack automatically activate হয়, internet service-এ কোনো gap থাকে না। যারা regularly same pack ব্যবহার করেন তাদের জন্য convenient। তবে আপনি চাইলে manual-ই রাখুন।
+
+**১৭. কাস্টমারঃ** আমি manual-ই রাখবো, নিজে decide করবো কবে কিনবো। অনেক ধন্যবাদ তানহা আপু, সব auto-renewal বন্ধ করে দিলেন!
+
+**১৮. এজেন্টঃ** ম্যাম, আপনাকেও ধন্যবাদ। যখন pack দরকার হবে MyGP app থেকে কিনবেন, ভালো থাকবেন!
+
+**১৯. কাস্টমারঃ** ভালো থাকবেন আপু!
+
+
+---
+
+
+## সিনারিও 53ঃ Company-র জন্য GP corporate bulk SIM নিতে চাওয়া — HR manager-এর inquiry (Corporate bulk SIM purchase inquiry — HR manager for garment factory)
+
+> কাস্টমার garment factory-র HR manager। ৫০ জন employee-র জন্য GP corporate connection নিতে চান। Billing, plan, আর discount জানতে চান।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি ABC Garments-এর HR manager। আমাদের ৫০ জন senior staff-এর জন্য GP corporate SIM নিতে চাই। Corporate plan কেমন?
+
+**২. এজেন্টঃ** স্যার, আমি রাফি বলছি GP customer care থেকে। Corporate bulk SIM-এর জন্য GP-র dedicated Business Solutions team আছে। আমি আপনাকে initial information দিই, তারপর team-এর কাছে forward করবো।
+
+**৩. কাস্টমারঃ** হ্যাঁ ভাইয়া, initial information দিন। আমাদের requirement হচ্ছে — ৫০টা SIM, সবার unlimited GP-GP call, আর প্রত্যেকের minimum 5GB data লাগবে।
+
+**৪. এজেন্টঃ** স্যার, GP Corporate plan-এ ৫০+ SIM-এর bulk order-এ significant volume discount পাবেন। Standard corporate plan-এ per SIM ৩৯৯-৫৯৯ টাকা range-এ plan available, unlimited GP-GP call আর 5-15GB data included।
+
+**৫. কাস্টমারঃ** ৩৯৯ টাকায় per SIM? ৫০ SIM-এ মাসে ২০,০০০ টাকা? সেটা reasonable। কিন্তু bulk discount কতটুকু?
+
+**৬. এজেন্টঃ** স্যার, bulk discount GP-র Business team negotiate করবে আপনার company-র সাথে। ৫০+ SIM-এ সাধারণত ১০-২০% discount দেওয়া হয়, তবে exact figure আলোচনা সাপেক্ষ। এছাড়া centralized billing পাবেন — ৫০টা SIM-এর একটাই bill আসবে company-র নামে।
+
+**৭. কাস্টমারঃ** Centralized billing! সেটা খুব important, individual bill manage করা impossible। আচ্ছা ভাইয়া, employee resign করলে SIM কি company-র কাছে থাকবে?
+
+**৮. এজেন্টঃ** স্যার, corporate SIM company-র property হিসেবে থাকে। Employee resign করলে SIM company return করবে, আপনি নতুন employee-কে assign করতে পারবেন, number change হবে না।
+
+**৯. কাস্টমারঃ** ভালো, SIM company-র property থাকবে। আচ্ছা, কোনো employee বেশি call বা data use করলে কি alert পাবো?
+
+**১০. এজেন্টঃ** স্যার, GP Corporate portal-এ admin access পাবেন। সেখান থেকে প্রতিটা SIM-এর usage monitor করতে পারবেন — কে কত call করছে, কত data use করছে। Usage limit set করতে পারবেন আর threshold cross হলে alert পাবেন।
+
+**১১. কাস্টমারঃ** Admin portal! দারুণ! মানে আমি HR থেকে সব monitor করতে পারবো?
+
+**১২. এজেন্টঃ** স্যার, ঠিক তাই। Admin portal web-based, আপনি office-র computer থেকে access করবেন। SIM activate/deactivate, usage limit set, bill download — সব admin portal থেকে manage করতে পারবেন।
+
+**১৩. কাস্টমারঃ** Excellent! আচ্ছা ভাইয়া, corporate SIM-এ employee-রা personal call করলে কি company pay করবে?
+
+**১৪. এজেন্টঃ** স্যার, corporate plan-এ included minute আর data company pay করবে। তবে আপনি usage policy set করতে পারবেন — office hour-এ unlimited, off-hour-এ limit, এরকম customization possible।
+
+**১৫. কাস্টমারঃ** Usage policy set করা যাবে? Perfect! Factory-র working hour ৮টা-৬টা, সেই সময়ে unlimited রাখবো, বাকি সময়ে limit দেবো।
+
+**১৬. এজেন্টঃ** স্যার, সেটা GP Business team configure করে দেবে। আমি এখন আপনার contact information নিয়ে GP Business Solutions team-এর কাছে forward করি। তারা ২৪ ঘণ্টার মধ্যে আপনাকে call করে detailed proposal দেবে।
+
+**১৭. কাস্টমারঃ** হ্যাঁ ভাইয়া, forward করুন। আমার number ০১৭১২৩৪৫৭৮০, email hr@abcgarments.com।
+
+**১৮. এজেন্টঃ** স্যার, noted — ০১৭১২৩৪৫৭৮০, hr@abcgarments.com। GP Business Solutions team আগামীকালের মধ্যে আপনাকে contact করবে, company visit-ও করতে পারবে presentation দিতে।
+
+**১৯. কাস্টমারঃ** Company visit! আরো ভালো, MD sir-এর সামনে presentation দিলে approval তাড়াতাড়ি পাবো। ধন্যবাদ রাফি ভাইয়া!
+
+**২০. এজেন্টঃ** স্যার, আপনাকেও ধন্যবাদ। ABC Garments GP-র corporate client হবে ইনশাআল্লাহ। ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ইনশাআল্লাহ, ভালো থাকবেন ভাইয়া!
+
+
+---
+
+
+## সিনারিও 54ঃ Data speed অনেক কমে গেছে — Fair Usage Policy (FUP) নিয়ে অভিযোগ (Data speed throttled after fair usage limit — customer complaining about slow internet)
+
+> কাস্টমার "unlimited" internet pack কিনেছেন কিন্তু একটা নির্দিষ্ট পরিমাণ data ব্যবহারের পর speed drastically কমে গেছে। Fair Usage Policy বুঝতে পারছেন না।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি ৪৯৯ টাকায় "unlimited internet" pack কিনেছিলাম ৩০ দিনের জন্য। প্রথম ১০ দিন ভালো speed ছিল, এখন YouTube buffer করে, কোনো কিছুই load হয় না। Speed কেন কমে গেছে?
+
+**২. এজেন্টঃ** স্যার, আমি ফারজানা বলছি GP customer care থেকে। আপনার "unlimited" pack-এ Fair Usage Policy (FUP) প্রযোজ্য। আমি check করি আপনি FUP limit cross করেছেন কিনা।
+
+**৩. কাস্টমারঃ** Fair Usage Policy? সেটা কি? Pack তো "unlimited" বলে কিনেছি!
+
+**৪. এজেন্টঃ** স্যার, "unlimited" pack-এ data volume unlimited, মানে internet কখনো বন্ধ হবে না। কিন্তু একটা নির্দিষ্ট data limit আছে — সেটা cross করলে speed কমিয়ে দেওয়া হয়। আপনার pack-এ FUP limit 15GB, আপনি ইতিমধ্যে 18GB ব্যবহার করেছেন।
+
+**৫. কাস্টমারঃ** ১৫GB cross করলে speed কমিয়ে দেয়? তাহলে "unlimited" বলার মানে কি? এটা তো misleading!
+
+**৬. এজেন্টঃ** স্যার, আপনার হতাশা বুঝতে পারি। "Unlimited" মানে data volume-এ কোনো cap নেই, আপনি যত খুশি ব্যবহার করতে পারবেন। কিন্তু 15GB-র পর speed 512Kbps-এ নেমে আসে। এটা pack-এর terms-এ উল্লেখ আছে, তবে অনেকে সেটা খেয়াল করেন না।
+
+**৭. কাস্টমারঃ** ৫১২Kbps? সেটা দিয়ে কিছুই করা যায় না! YouTube দেখা impossible, শুধু WhatsApp message চলে। কি করবো এখন?
+
+**৮. এজেন্টঃ** স্যার, কিছু option আছে। আপনি একটা "Speed Booster" pack কিনতে পারেন — ৯৯ টাকায় 3GB full speed data পাবেন, FUP-র পরও full speed-এ চলবে।
+
+**৯. কাস্টমারঃ** Speed Booster? আরেকটা pack কিনতে হবে? মানে ৪৯৯ টাকা unlimited-এর উপর আরো ৯৯ টাকা?
+
+**১০. এজেন্টঃ** স্যার, জ্বী, Speed Booster আলাদা add-on pack। তবে আপনি চাইলে পরবর্তী মাসে আরেকটু বেশি FUP limit-এর pack নিতে পারেন। ৬৯৯ টাকার pack-এ FUP limit 30GB, আপনার ব্যবহারে সেটাই যথেষ্ট হতে পারে।
+
+**১১. কাস্টমারঃ** ৬৯৯ টাকায় 30GB FUP limit? মাসে ২০০ টাকা বেশি দিলে double data পাবো full speed-এ? সেটা better deal মনে হচ্ছে।
+
+**১২. এজেন্টঃ** স্যার, ঠিক বলেছেন। আর আপনার data ব্যবহারের pattern দেখলে মনে হচ্ছে 30GB FUP-তে comfortable থাকবেন। YouTube HD quality-তে না দেখে 480p-তে দেখলে data-ও কম লাগবে।
+
+**১৩. কাস্টমারঃ** 480p-তে দেখলে কতটুকু data বাঁচবে?
+
+**১৪. এজেন্টঃ** স্যার, YouTube-এ HD (720p)-তে ঘণ্টায় প্রায় 1.5GB data লাগে, কিন্তু 480p-তে ঘণ্টায় মাত্র 600MB লাগে — প্রায় ৬০% data save হয়।
+
+**১৫. কাস্টমারঃ** ৬০% save! সেটা অনেক। ঠিক আছে, YouTube-এ quality কমিয়ে দেখবো। আচ্ছা আপু, এই মাসের জন্য Speed Booster কিনে দিন ৯৯ টাকার।
+
+**১৬. এজেন্টঃ** স্যার, Speed Booster activate করে দিলাম, 3GB full speed data পেলেন। এটা ব্যবহার শেষ হলে আবার FUP speed-এ চলবে। আর পরের মাসে ৬৯৯ টাকার pack কিনুন।
+
+**১৭. কাস্টমারঃ** বুঝেছি আপু। আচ্ছা, FUP কতটুকু data বাকি আছে সেটা কিভাবে check করবো?
+
+**১৮. এজেন্টঃ** স্যার, MyGP app-এ "My Pack" section-এ FUP data remaining দেখতে পাবেন। সেখানে "Full Speed Data" আর "Total Data Used" আলাদা করে দেখাবে।
+
+**১৯. কাস্টমারঃ** ঠিক আছে, MyGP app-এ check করবো। ধন্যবাদ ফারজানা আপু, FUP ব্যাপারটা বোঝালেন নাহলে ভাবতাম network-এ সমস্যা!
+
+**২০. এজেন্টঃ** স্যার, আপনাকেও ধন্যবাদ। Data wisely ব্যবহার করুন, ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ভালো থাকবেন আপু!
+
+
+---
+
+
+## সিনারিও 55ঃ GP conference call কিভাবে করবো — ব্যবসায়ী মিটিং-এর জন্য একসাথে ৩ জনকে call করতে চান (Conference call setup — businessman wants multi-party call for meeting)
+
+> কাস্টমার ব্যবসায়ী, ঢাকায় আছেন কিন্তু ২ জন partner চট্টগ্রাম আর রাজশাহীতে। একসাথে ৩ জনে call-এ কথা বলতে চান।
+
+**১. কাস্টমারঃ** আপু, আমার urgent meeting দরকার কিন্তু আমি ঢাকায়, একজন partner চট্টগ্রামে, আরেকজন রাজশাহীতে। GP-তে কি conference call করা যায়? একসাথে ৩ জনে কথা বলা?
+
+**২. এজেন্টঃ** স্যার, আমি সায়মা বলছি GP customer care থেকে। জ্বী স্যার, GP-তে conference call বা multi-party call feature আছে। আপনি একসাথে ৫ জন পর্যন্ত call-এ যোগ করতে পারবেন।
+
+**৩. কাস্টমারঃ** ৫ জন পর্যন্ত! আমার তো ৩ জন-ই যথেষ্ট। কিভাবে করবো আপু?
+
+**৪. এজেন্টঃ** স্যার, step by step বলছি। প্রথমে আপনার একজন partner-কে normal call করুন। Call connect হলে phone-এ "Add Call" বা "+" button দেখবেন, সেটা tap করুন। প্রথম call hold-এ যাবে। এবার দ্বিতীয় partner-এর number dial করুন।
+
+**৫. কাস্টমারঃ** Add call করলে প্রথম call hold-এ যাবে, তারপর?
+
+**৬. এজেন্টঃ** স্যার, দ্বিতীয় call connect হলে phone-এ "Merge" বা "Conference" button দেখবেন। সেটা tap করলে তিনজনই একসাথে কথা বলতে পারবেন।
+
+**৭. কাস্টমারঃ** Merge button! বুঝেছি। আচ্ছা আপু, conference call-এ charge কিভাবে হবে? ৩ জনের জন্য triple charge?
+
+**৮. এজেন্টঃ** স্যার, conference call-এ আপনি যিনি call initiate করবেন, আপনার balance থেকে charge কাটবে। প্রতিটা connected person-এর জন্য আলাদা per minute charge applicable হবে। মানে ২ জনকে call করলে per minute ২x rate charge হবে।
+
+**৯. কাস্টমারঃ** ২ গুণ rate, মানে minute pack থেকলে ২ মিনিট কাটবে প্রতি মিনিটে?
+
+**১০. এজেন্টঃ** স্যার, ঠিক ধরেছেন। ২ জনের সাথে conference-এ ১ মিনিট কথা বললে আপনার pack থেকে ২ মিনিট কাটবে। তাই দীর্ঘ meeting-এর জন্য minute pack থাকা important।
+
+**১১. কাস্টমারঃ** বুঝেছি। আচ্ছা আপু, আমার partner-রা যদি Robi user হয়, তাহলেও conference call হবে?
+
+**১২. এজেন্টঃ** স্যার, জ্বী, conference call-এ GP, Robi, Banglalink, Teletalk — যেকোনো operator-এর number add করতে পারবেন। Cross-network conference call সম্পূর্ণ supported।
+
+**১৩. কাস্টমারঃ** ভালো, কারণ একজন partner Robi user। আচ্ছা আপু, conference call চলাকালীন কি একজনকে বাদ দেওয়া যায়?
+
+**১৪. এজেন্টঃ** স্যার, জ্বী, conference চলাকালীন "Manage" button tap করলে প্রতিটা participant আলাদা দেখাবে। যে কাউকে individually disconnect করতে পারবেন, বাকিরা connected থাকবে।
+
+**১৫. কাস্টমারঃ** Manage button-এ individual disconnect! সেটা useful, meeting-এর শেষে একজন আগে যেতে চাইলে তাকে disconnect করবো।
+
+**১৬. এজেন্টঃ** স্যার, exactly। আর conference call-এর quality ভালো রাখতে quiet environment-এ call করুন আর speakerphone ব্যবহার করতে পারেন।
+
+**১৭. কাস্টমারঃ** ভালো tip! আচ্ছা আপু, এই conference call feature-টা activate করতে হবে নাকি default-এ আছে?
+
+**১৮. এজেন্টঃ** স্যার, conference call GP-র default feature, আলাদা activate করতে হয় না। আপনার phone-এ multi-party call support থাকলেই চলবে, আজকাল সব smartphone-এ support আছে।
+
+**১৯. কাস্টমারঃ** দারুণ! তাহলে এখনই partner-দের call করি। অনেক ধন্যবাদ সায়মা আপু, business meeting save হলো!
+
+**২০. এজেন্টঃ** স্যার, meeting successful হোক! ব্যবসায় ভালো হোক, ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** আমিন, ভালো থাকবেন আপু!
+
+
+---
+
+
+## সিনারিও 56ঃ অপরিচিত number থেকে threatening call আসছে — harassment complaint (Receiving threatening calls from unknown number — harassment report and blocking)
+
+> কাস্টমার (মহিলা) বিগত ৩ দিন ধরে একটা unknown number থেকে রাতে threatening call পাচ্ছেন। ভয়ে আছেন, GP-র সাহায্য চান।
+
+**১. কাস্টমারঃ** আপু, আমি অনেক ভয়ে আছি। গত ৩ দিন ধরে রাতে একটা number থেকে বারবার call আসছে, ধমকি দিচ্ছে। আমি কি করবো?
+
+**২. এজেন্টঃ** ম্যাম, আমি তানহা বলছি GP customer care থেকে। এই পরিস্থিতি অত্যন্ত গুরুতর। আপনি ভয় পাবেন না, আমি আপনাকে সাহায্য করবো। ওই number টা বলুন।
+
+**৩. কাস্টমারঃ** Number টা হচ্ছে ০১৭XXXXXXXX। রাত ১১টা-১২টার দিকে call আসে, আমি receive না করলেও বারবার call দেয়।
+
+**৪. এজেন্টঃ** ম্যাম, আমি এই number-টা note করেছি। প্রথমে আপনার phone থেকে এই number block করুন — phone-এর call log-এ ওই number-এ long press করে "Block Number" option পাবেন।
+
+**৫. কাস্টমারঃ** Block করলাম আপু। কিন্তু ভয় হচ্ছে অন্য number থেকেও call দিতে পারে।
+
+**৬. এজেন্টঃ** ম্যাম, আপনার ভয় justified। এখন কিছু important পদক্ষেপ নেওয়া দরকার। প্রথমত — আমি এই number-টা GP-র abuse team-এর কাছে report করছি, তারা investigate করবে এবং ওই number-এর বিরুদ্ধে action নিতে পারবে।
+
+**৭. কাস্টমারঃ** GP কি ওই number বন্ধ করতে পারবে?
+
+**৮. এজেন্টঃ** ম্যাম, investigation-এ harassment প্রমাণিত হলে GP ওই number permanently block করতে পারবে। কিন্তু আরো important হচ্ছে police-এ report করা। 999 dial করে বা নিকটস্থ থানায় GD (General Diary) করুন।
+
+**৯. কাস্টমারঃ** Police-এ report করবো? কিন্তু আপু, police কি আসলে কিছু করবে?
+
+**১০. এজেন্টঃ** ম্যাম, হ্যাঁ, হয়রানি আইনে শাস্তিযোগ্য অপরাধ। Telecommunication Act 2001-এ ধারা ৮৬-এ phone-এ হয়রানি করলে ৩ বছর কারাদণ্ড হতে পারে। Police GD থাকলে legal action নেওয়া সহজ হয়।
+
+**১১. কাস্টমারঃ** ৩ বছর কারাদণ্ড! বুঝেছি আপু, GD করবো। আচ্ছা, আমার phone-এ কি "Do Not Disturb" mode চালু করা উচিত রাতে?
+
+**১২. এজেন্টঃ** ম্যাম, হ্যাঁ, DND mode চালু করলে রাতে unknown number থেকে call আসবে না। Phone Settings-এ "Do Not Disturb" ON করুন, scheduled time set করুন রাত ১০টা-সকাল ৭টা, আর "Allow calls from Contacts only" select করুন। তাহলে শুধু আপনার saved contact-রাই call করতে পারবে।
+
+**১৩. কাস্টমারঃ** Contacts only allow! সেটা করলে অচেনা number থেকে রাতে call আসবে না। ভালো idea!
+
+**১৪. এজেন্টঃ** ম্যাম, আর একটা option — GP-র "Call Block" service। *2*number# dial করলে specific number block হয়ে যায় GP network level-এ। Phone-ও block আর GP-ও block — double protection!
+
+**১৫. কাস্টমারঃ** GP network level-এ block! *2*number# — এটা করবো। আপু, কি ওই ব্যক্তি জানবে যে আমি block করেছি?
+
+**১৬. এজেন্টঃ** ম্যাম, ওই ব্যক্তি call করলে "This number is not reachable" শুনবে, মানে বুঝতে পারবে না যে block করা হয়েছে নাকি network-এ সমস্যা।
+
+**১৭. কাস্টমারঃ** ভালো, জানবে না block করেছি। আপু, আমি কি Cyber Crime Division-এও report করতে পারি?
+
+**১৮. এজেন্টঃ** ম্যাম, অবশ্যই! www.cid.gov.bd-তে online complaint করতে পারবেন বা 999-এ call করে cyber crime section-এ কথা বলুন। Call recording বা SMS screenshot থাকলে evidence হিসেবে দিন।
+
+**১৯. কাস্টমারঃ** Call recording আছে, screenshot-ও নিয়ে রেখেছি। ধন্যবাদ তানহা আপু, আজকে অনেকটা safe feel করছি। GP report, police GD, phone block — সব করবো।
+
+**২০. এজেন্টঃ** ম্যাম, আপনি সাহসী। নিরাপদে থাকবেন, পরিবারকে জানাবেন। GP আপনার পাশে আছে। যেকোনো সময় 121-এ call করবেন, ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ধন্যবাদ আপু, আল্লাহ আপনার মঙ্গল করুক। ভালো থাকবেন।
+
+
+---
+
+
+## সিনারিও 57ঃ Malaysia যাওয়ার আগে international roaming চালু করতে চাওয়া (Activating international roaming before traveling to Malaysia)
+
+> কাস্টমার garment buyer, প্রথমবার Malaysia যাচ্ছেন business trip-এ। GP number-এ roaming চালু করে যেতে চান যাতে দেশ থেকে call আসলে receive করতে পারেন।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি আগামী সপ্তাহে Malaysia যাচ্ছি business trip-এ। আমার GP number-এ international roaming চালু করতে চাই। কিভাবে করবো?
+
+**২. এজেন্টঃ** স্যার, আমি রাফি বলছি GP customer care থেকে। Malaysia trip-এর আগে roaming activate করা ভালো decision। আমি এখনই process শুরু করি।
+
+**৩. কাস্টমারঃ** হ্যাঁ ভাইয়া, process কি? আমি আগে কখনো roaming ব্যবহার করিনি।
+
+**৪. এজেন্টঃ** স্যার, প্রথমে আপনার connection type check করি। আপনি prepaid নাকি postpaid?
+
+**৫. কাস্টমারঃ** Prepaid ভাইয়া।
+
+**৬. এজেন্টঃ** স্যার, prepaid roaming activate করতে minimum ৫০০ টাকা main balance থাকতে হবে। আপনার এখন কত balance আছে?
+
+**৭. কাস্টমারঃ** Balance তো check করি — ৩২০ টাকা আছে। আরো recharge করতে হবে?
+
+**৮. এজেন্টঃ** স্যার, জ্বী, আরো ২০০ টাকা recharge করলে ৫২০ হবে, সেটা যথেষ্ট। Recharge করার পর *222*1# dial করুন, roaming activate হয়ে যাবে। তবে Malaysia-তে পৌঁছানোর পর phone restart করতে হবে।
+
+**৯. কাস্টমারঃ** *222*1# dial করবো। আচ্ছা ভাইয়া, roaming-এ call receive করতে কত charge লাগবে?
+
+**১০. এজেন্টঃ** স্যার, Malaysia-তে GP roaming-এ incoming call receive করতে per minute প্রায় ২০-৩০ টাকা লাগবে, আর Bangladesh-তে call করতে per minute ৫০-৬০ টাকা। SMS পাঠাতে প্রতিটা ২৫ টাকা।
+
+**১১. কাস্টমারঃ** Per minute ৫০ টাকা call করতে? সেটা তো অনেক বেশি! কোনো সস্তা option আছে?
+
+**১২. এজেন্টঃ** স্যার, GP-র "Roaming Bundle" pack আছে। Malaysia-র জন্য ৪৯৯ টাকায় 30 মিনিট incoming, 10 মিনিট outgoing, 500MB data পাবেন ৭ দিনের জন্য। Per minute rate-এর চেয়ে অনেক সস্তা।
+
+**১৩. কাস্টমারঃ** ৪৯৯ টাকায় bundle! সেটা ভালো। 30 মিনিট incoming আমার business call-এর জন্য যথেষ্ট। কিভাবে কিনবো?
+
+**১৪. এজেন্টঃ** স্যার, Malaysia-তে পৌঁছানোর পর MyGP app থেকে "Roaming Pack" section-এ কিনতে পারবেন। অথবা দেশে থাকতেই কিনতে পারেন, validity শুরু হবে roaming country-তে পৌঁছানোর পর।
+
+**১৫. কাস্টমারঃ** দেশে থাকতেই কিনবো, নিশ্চিন্ত থাকবো। আচ্ছা ভাইয়া, roaming-এ data ব্যবহার করলে WhatsApp, Viber — এগুলো চলবে?
+
+**১৬. এজেন্টঃ** স্যার, জ্বী, roaming data দিয়ে WhatsApp, Viber, Messenger — সব চলবে। আর WhatsApp call বা Viber call ব্যবহার করলে normal call-এর চেয়ে অনেক সস্তা হবে, data charge-ই শুধু কাটবে।
+
+**১৭. কাস্টমারঃ** WhatsApp call roaming-এ! সেটা smart, normal call না করে WhatsApp call করবো দেশে। Data দিয়ে call হবে, per minute rate লাগবে না।
+
+**১৮. এজেন্টঃ** স্যার, exactly! আর roaming-এ data save করতে background app refresh OFF রাখবেন, automatic update OFF রাখবেন। না হলে background-এ অনেক data চলে যাবে।
+
+**১৯. কাস্টমারঃ** ভালো tip! Background refresh OFF করবো। আচ্ছা ভাইয়া, দেশে ফিরে এলে কি roaming automatically বন্ধ হবে?
+
+**২০. এজেন্টঃ** স্যার, দেশে ফিরলে phone GP network ধরলে roaming charge আর applicable হবে না। তবে roaming service active-ই থাকবে — পরবর্তী trip-এও কাজে আসবে। চাইলে *222*2# dial করে deactivate করতে পারবেন।
+
+**২১. কাস্টমারঃ** বুঝেছি ভাইয়া। Recharge করে roaming activate করবো, bundle pack কিনবো। অনেক ধন্যবাদ রাফি ভাইয়া!
+
+**২২. এজেন্টঃ** স্যার, Malaysia trip safe আর successful হোক! ভালো থাকবেন!
+
+**২৩. কাস্টমারঃ** ধন্যবাদ ভাইয়া, ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 58ঃ নতুন iPhone-এ e-SIM activate করতে চাওয়া — physical SIM থেকে e-SIM-এ switch (e-SIM activation on new iPhone — switching from physical SIM to e-SIM)
+
+> কাস্টমার নতুন iPhone 16 কিনেছেন, dual SIM ব্যবহার করতে চান। GP physical SIM-কে e-SIM-এ convert করতে চান।
+
+**১. কাস্টমারঃ** আপু, আমি নতুন iPhone 16 কিনেছি। শুনেছি GP-তে e-SIM আছে। আমার physical SIM-কে e-SIM-এ convert করতে চাই।
+
+**২. এজেন্টঃ** স্যার, আমি সায়মা বলছি GP customer care থেকে। Congratulations নতুন iPhone-এর জন্য! জ্বী, GP e-SIM support করে এবং iPhone 16-ও e-SIM compatible।
+
+**৩. কাস্টমারঃ** ধন্যবাদ আপু! e-SIM-এ switch করলে কি আমার same number থাকবে?
+
+**৪. এজেন্টঃ** স্যার, জ্বী, same number-ই থাকবে। Physical SIM-এর number e-SIM-এ transfer হবে, শুধু SIM format পাল্টাবে — physical card থেকে digital SIM হবে।
+
+**৫. কাস্টমারঃ** ভালো, number same থাকলে কোনো সমস্যা নেই। Process কি আপু?
+
+**৬. এজেন্টঃ** স্যার, e-SIM activate করতে GP Center-এ যেতে হবে, NID original নিয়ে যাবেন। GP Center-এ e-SIM request করলে তারা একটা QR code দেবেন, সেই QR code আপনার iPhone-এ scan করলেই e-SIM activate হয়ে যাবে।
+
+**৭. কাস্টমারঃ** QR code scan করলেই activate! শুনতে সহজ মনে হচ্ছে। iPhone-এ কোথায় scan করবো?
+
+**৮. এজেন্টঃ** স্যার, iPhone-এ Settings, Cellular, Add Cellular Plan, scan QR code। QR code scan হলে e-SIM automatically download আর activate হবে।
+
+**৯. কাস্টমারঃ** বুঝেছি। আচ্ছা আপু, e-SIM activate হলে পুরনো physical SIM কি আর কাজ করবে?
+
+**১০. এজেন্টঃ** স্যার, না, e-SIM activate হওয়ার পর physical SIM deactivate হয়ে যাবে। একই number দুটো SIM-এ active থাকতে পারে না। Physical SIM card টা আপনি রেখে দিতে পারেন বা GP Center-এ return করতে পারেন।
+
+**১১. কাস্টমারঃ** ঠিক আছে। আচ্ছা আপু, e-SIM-এর advantage কি? Physical SIM-এর চেয়ে কি ভালো?
+
+**১২. এজেন্টঃ** স্যার, e-SIM-এর কয়েকটা advantage আছে। এক — physical SIM slot free থাকবে, আপনি চাইলে অন্য operator-এর SIM বা travel SIM physical slot-এ ব্যবহার করতে পারবেন। দুই — SIM হারানো বা চুরি হওয়ার risk নেই, digital তাই। তিন — phone switch করা সহজ, QR code দিয়ে নতুন phone-এ activate করতে পারবেন।
+
+**১৩. কাস্টমারঃ** মানে আমি GP e-SIM রাখবো আর physical slot-এ travel-এর সময় foreign SIM দিতে পারবো? Dual SIM!
+
+**১৪. এজেন্টঃ** স্যার, exactly! অনেক traveler এভাবে ব্যবহার করেন — GP e-SIM-এ Bangladesh-এর call receive করেন, আর local physical SIM-এ সস্তায় local call আর data ব্যবহার করেন।
+
+**১৫. কাস্টমারঃ** দারুণ! Malaysia trip-এও কাজে আসবে। আচ্ছা আপু, e-SIM-এর charge কত?
+
+**১৬. এজেন্টঃ** স্যার, e-SIM conversion charge ২০০ টাকা। GP Center-এ pay করবেন। আর e-SIM activate হওয়ার পর আপনার সব balance, pack, GP Star points — সব unchanged থাকবে।
+
+**১৭. কাস্টমারঃ** ২০০ টাকা, reasonable। সব balance ঠিক থাকবে, ভালো। আচ্ছা আপু, পরে যদি আবার physical SIM-এ ফিরতে চাই?
+
+**১৮. এজেন্টঃ** স্যার, e-SIM থেকে আবার physical SIM-এ ফিরতে পারবেন, GP Center-এ গিয়ে request করলেই হবে। একই ২০০ টাকা charge applicable।
+
+**১৯. কাস্টমারঃ** ফিরতেও পারবো, ভালো! তাহলে আগামীকাল GP Center-এ গিয়ে e-SIM নেবো। ধন্যবাদ সায়মা আপু!
+
+**২০. এজেন্টঃ** স্যার, NID original নিতে ভুলবেন না। নতুন iPhone enjoy করুন, ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ভালো থাকবেন আপু!
+
+
+---
+
+
+## সিনারিও 59ঃ নদীতে মাছ ধরতে গেলে network থাকে না — missed call alert চালু করতে চাওয়া (No network while fishing in river — wants missed call alert service)
+
+> কাস্টমার (জেলে) প্রতিদিন নদীতে মাছ ধরতে যান, সেখানে GP network থাকে না। ফিরে এসে দেখেন অনেক missed call, কিন্তু কে call করেছে জানতে পারেন না। Missed call alert চান।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি মাঝি, প্রতিদিন নদীতে মাছ ধরতে যাই। নদীর মাঝে network থাকে না। ফিরে এসে দেখি অনেকে call করেছে কিন্তু কে করেছে জানি না। কোনো উপায় আছে?
+
+**২. এজেন্টঃ** স্যার, আমি নাহিদ বলছি GP customer care থেকে। আপনার সমস্যার জন্য GP-র "Missed Call Alert" service আছে। এটা চালু করলে আপনি network-এ ফিরে আসলে SMS-এ জানাবে কে কে call করেছিল।
+
+**৩. কাস্টমারঃ** SMS-এ জানাবে কে call করেছিল? সেটা তো দারুণ! কিভাবে চালু করবো ভাইয়া?
+
+**৪. এজেন্টঃ** স্যার, খুব সহজ। আপনার phone থেকে *151*1# dial করুন, Missed Call Alert activate হয়ে যাবে। এরপর যখনই কেউ call করবে আর আপনার phone off বা out of network থাকবে, আপনি network-এ আসলেই SMS পাবেন — caller-এর number আর time সহ।
+
+**৫. কাস্টমারঃ** *151*1#, সহজ! এটা কি free নাকি charge আছে?
+
+**৬. এজেন্টঃ** স্যার, Missed Call Alert service-এ প্রতিদিন ০.৫০ টাকা charge হয়, মানে মাসে ১৫ টাকা। আপনার main balance থেকে কাটবে।
+
+**৭. কাস্টমারঃ** মাসে ১৫ টাকা, সেটা ঠিক আছে। আচ্ছা ভাইয়া, কতগুলো missed call-এর notification পাবো?
+
+**৮. এজেন্টঃ** স্যার, সর্বোচ্চ ১০টা missed call-এর notification পাবেন। মানে আপনি নদীতে থাকাকালীন ১০ জন call করলে ফিরে এসে ১০টাই জানতে পারবেন।
+
+**৯. কাস্টমারঃ** ১০টা যথেষ্ট, আমাকে এতো মানুষ call করে না! আচ্ছা ভাইয়া, আমি কি phone off করে যাই নাকি on রাখি? Network না থাকলে battery-ও শেষ হয়ে যায়।
+
+**১০. এজেন্টঃ** স্যার, ভালো question! Network না থাকলে phone signal search করতে থাকে আর battery দ্রুত শেষ হয়। আপনি "Airplane Mode" ON করে রাখুন — battery save হবে, আর নদী থেকে ফেরার সময় Airplane Mode OFF করলে network connect হবে, missed call alert আসবে।
+
+**১১. কাস্টমারঃ** Airplane Mode! সেটা কিভাবে ON করবো?
+
+**১২. এজেন্টঃ** স্যার, phone-এর উপর থেকে swipe down করুন, একটা airplane icon পাবেন, সেটা tap করলেই Airplane Mode ON হবে। আবার tap করলে OFF।
+
+**১৩. কাস্টমারঃ** Airplane icon, বুঝেছি। সেটা করবো, battery-ও save হবে। আচ্ছা ভাইয়া, আমার পরিবার আমাকে urgent call করলে কি আমি জানতে পারবো?
+
+**১৪. এজেন্টঃ** স্যার, Airplane Mode-এ থাকলে কোনো call বা SMS আসবে না। Urgent call জানতে পারবেন না সেই সময়ে। কিন্তু ফেরার সাথে সাথে Missed Call Alert SMS-এ জানাবে। তাই পরিবারকে বলুন urgent হলে SMS করতে, আপনি ফিরে দেখবেন।
+
+**১৫. কাস্টমারঃ** ঠিক আছে, পরিবারকে বলবো urgent হলে SMS করতে। ভাইয়া, *151*1# dial করে activate করছি এখন। Done! "Missed Call Alert activated" message এসেছে।
+
+**১৬. এজেন্টঃ** স্যার, activate হয়ে গেছে! এখন থেকে যখনই আপনার phone off বা out of network থাকবে, ফিরে এলে SMS-এ missed call notification পাবেন।
+
+**১৭. কাস্টমারঃ** অনেক ধন্যবাদ নাহিদ ভাইয়া! এতদিন ধরে এই সমস্যায় ছিলাম, আজ solution পেলাম।
+
+**১৮. এজেন্টঃ** স্যার, আপনাকেও ধন্যবাদ। মাছ ধরা ভালো হোক, পরিবারকে সালাম! ভালো থাকবেন!
+
+**১৯. কাস্টমারঃ** আমিন ভাইয়া, ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 60ঃ অজানা VAS subscription চালু হয়ে balance কেটে যাচ্ছে — বন্ধ করতে চাওয়া (Unknown VAS subscriptions draining balance — wants to stop all subscriptions)
+
+> কাস্টমার দেখেছেন প্রতিদিন ৫-১০ টাকা করে balance কমে যাচ্ছে। কোনো call বা internet ব্যবহার করেননি। কিছু VAS (Value Added Service) চালু হয়ে গেছে যা তিনি জানেন না।
+
+**১. কাস্টমারঃ** ভাইয়া, আমার balance কেন কমে যাচ্ছে? আমি কিছু করছি না, কোনো call নেই, internet নেই, তবুও প্রতিদিন ৫-১০ টাকা কেটে যাচ্ছে!
+
+**২. এজেন্টঃ** স্যার, আমি ফারজানা বলছি GP customer care থেকে। আপনার account-এ কিছু VAS বা Value Added Service subscription active থাকতে পারে যেগুলো automatically charge করছে। আমি check করি।
+
+**৩. কাস্টমারঃ** VAS? সেটা কি? আমি তো কোনো subscription কিনিনি!
+
+**৪. এজেন্টঃ** স্যার, VAS হচ্ছে বিভিন্ন content service — যেমন ringtone, horoscope, news alert, health tips ইত্যাদি। অনেক সময় কোনো link-এ click করলে বা promotional SMS-এ reply করলে automatically subscribe হয়ে যায়। আমি আপনার account check করছি।
+
+**৫. কাস্টমারঃ** Link-এ click করলেই subscribe? সেটা তো ঠিক না!
+
+**৬. এজেন্টঃ** স্যার, check করে দেখছি — আপনার account-এ ৩টা VAS active আছে। "Daily Horoscope" — প্রতিদিন ৩ টাকা, "Cricket Score Alert" — প্রতিদিন ২ টাকা, আর "Islamic Ringtone" — সপ্তাহে ১৫ টাকা। মোট প্রতিদিন গড়ে ৭ টাকা charge হচ্ছে।
+
+**৭. কাস্টমারঃ** Horoscope? Cricket? Ringtone? আমি এগুলো কোনোটাই activate করিনি! এখনই বন্ধ করুন!
+
+**৮. এজেন্টঃ** স্যার, আমি এখনই ৩টাই deactivate করে দিচ্ছি। কয়েক সেকেন্ড wait করুন। Done! তিনটাই বন্ধ হয়ে গেছে। এখন থেকে আর এই charge কাটবে না।
+
+**৯. কাস্টমারঃ** ধন্যবাদ আপু! কিন্তু গত কত দিন ধরে charge কেটেছে? সেটা কি refund পাবো?
+
+**১০. এজেন্টঃ** স্যার, আমি usage history দেখছি — "Daily Horoscope" ১৫ দিন ধরে active ছিল, মোট ৪৫ টাকা কেটেছে। "Cricket Score Alert" ১০ দিন, মোট ২০ টাকা। "Islamic Ringtone" ৩ সপ্তাহ, মোট ৪৫ টাকা। Total ১১০ টাকা charge হয়েছে।
+
+**১১. কাস্টমারঃ** ১১০ টাকা! আমি জানতামই না! Refund করুন আপু!
+
+**১২. এজেন্টঃ** স্যার, আমি refund request raise করছি। তবে পুরো amount refund-এর guarantee দিতে পারছি না, investigation-এর পর partial বা full refund হতে পারে। সাধারণত ৭২ ঘণ্টার মধ্যে refund process হয়।
+
+**১৩. কাস্টমারঃ** ৭২ ঘণ্টা, ঠিক আছে। আচ্ছা আপু, ভবিষ্যতে যেন এরকম কোনো VAS automatically activate না হয়, কি করবো?
+
+**১৪. এজেন্টঃ** স্যার, GP-র "Content Manager" service আছে। *1211# dial করলে আপনার সব active VAS দেখতে পাবেন এবং বন্ধ করতে পারবেন। আর আমি আপনার account-এ "VAS Block" enable করে দিচ্ছি — এটা করলে কোনো third-party VAS automatically subscribe হতে পারবে না।
+
+**১৫. কাস্টমারঃ** VAS Block! হ্যাঁ আপু, enable করে দিন! আর কখনো যেন এরকম না হয়।
+
+**১৬. এজেন্টঃ** স্যার, VAS Block enable করে দিলাম। এখন থেকে কোনো third-party content service আপনার number-এ activate হতে পারবে না। তবে GP-র নিজস্ব service — যেমন internet pack, minute pack — এগুলো normal-ভাবে কাজ করবে।
+
+**১৭. কাস্টমারঃ** Perfect! GP-র নিজস্ব service চলবে কিন্তু third-party VAS block। এটাই চেয়েছিলাম।
+
+**১৮. এজেন্টঃ** স্যার, আর একটা পরামর্শ — ভবিষ্যতে unknown link-এ click করবেন না, promotional SMS-এ reply করবেন না। এভাবেই VAS accidentally activate হয়।
+
+**১৯. কাস্টমারঃ** হ্যাঁ আপু, এখন থেকে সাবধান থাকবো। অনেক ধন্যবাদ ফারজানা আপু, VAS বন্ধ করলেন, block করলেন, refund-ও দিলেন!
+
+**২০. এজেন্টঃ** স্যার, আপনাকেও ধন্যবাদ। Refund SMS আসলে জানবেন, ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ভালো থাকবেন আপু!
+
+
+---
+
+
+## সিনারিও 61ঃ দোকানের সময় call miss হয়ে যায় — call waiting আর call forwarding চালু করতে চাওয়া (Missing calls while busy — setting up call waiting and call forwarding for shop owner)
+
+> কাস্টমার ছোট দোকানদার। একটা call-এ কথা বললে অন্য customer-এর call miss হয়ে যায়। Call waiting আর ব্যস্ত থাকলে অন্য number-এ call forward করতে চান।
+
+**১. কাস্টমারঃ** আপু, আমার দোকান আছে, customer-রা phone করে order দেয়। কিন্তু একটা call-এ কথা বললে অন্য call miss হয়ে যায়। কি করবো?
+
+**২. এজেন্টঃ** স্যার, আমি তানহা বলছি GP customer care থেকে। আপনার জন্য দুটো service কাজে আসবে — "Call Waiting" আর "Call Forwarding"। Call Waiting চালু করলে একটা call-এ থাকা অবস্থায় আরেকটা call আসলে alert পাবেন।
+
+**৩. কাস্টমারঃ** Call Waiting! মানে দুটো call একসাথে handle করতে পারবো?
+
+**৪. এজেন্টঃ** স্যার, exactly! একটা call-এ থাকলে দ্বিতীয় call আসলে beep শুনবেন। আপনি চাইলে প্রথম call hold করে দ্বিতীয় call receive করতে পারবেন, আবার ফিরে আসতে পারবেন প্রথম call-এ।
+
+**৫. কাস্টমারঃ** দারুণ! কিভাবে চালু করবো আপু?
+
+**৬. এজেন্টঃ** স্যার, Call Waiting চালু করতে phone থেকে *43# dial করুন। একটু wait করলে "Call Waiting activated" message আসবে।
+
+**৭. কাস্টমারঃ** *43# dial করছি। হ্যাঁ আপু, "Service was enabled" message এসেছে! আচ্ছা আপু, Call Waiting-এর charge কত?
+
+**৮. এজেন্টঃ** স্যার, Call Waiting GP-তে free service, কোনো extra charge নেই। শুধু দ্বিতীয় call-এ কথা বললে normal per minute charge applicable হবে।
+
+**৯. কাস্টমারঃ** Free! ভালো। আচ্ছা আপু, আমি যখন নামাজে থাকি বা দোকান বন্ধ করে বাজারে যাই, তখন call কি আমার ভাইয়ের phone-এ forward করতে পারি?
+
+**১০. এজেন্টঃ** স্যার, জ্বী, "Call Forwarding" service দিয়ে সেটা সম্ভব। কয়েক ধরনের call forwarding আছে — "Always Forward" মানে সব call forward হবে, "Forward when busy" মানে ব্যস্ত থাকলে forward হবে, আর "Forward when no answer" মানে ১০-১৫ সেকেন্ড receive না করলে forward হবে।
+
+**১১. কাস্টমারঃ** "Forward when no answer" সেটা আমার দরকার! আমি receive না করলে ভাইয়ের phone-এ যাবে।
+
+**১২. এজেন্টঃ** স্যার, "Forward when no answer" চালু করতে **61*ভাইয়ের-number# dial করুন। যেমন ভাইয়ের number ০১৭XXXXXXXX হলে **61*01711111111# dial করুন।
+
+**১৩. কাস্টমারঃ** **61*01711111111# — dial করছি। "Call Forwarding activated" message এসেছে!
+
+**১৪. এজেন্টঃ** স্যার, চালু হয়ে গেছে। এখন থেকে আপনি call receive না করলে ভাইয়ের phone-এ ring করবে। তবে forwarded call-এ আপনার balance থেকে charge কাটবে, কারণ call আপনার number দিয়ে যাচ্ছে।
+
+**১৫. কাস্টমারঃ** আমার balance থেকে কাটবে? মানে forwarded call-ও আমার expense?
+
+**১৬. এজেন্টঃ** স্যার, জ্বী, forwarded call-এ দুটো charge — caller-এর normal charge আর আপনার number থেকে ভাইয়ের number-এ forward charge। তাই balance একটু বেশি রাখবেন।
+
+**১৭. কাস্টমারঃ** বুঝেছি, balance রাখবো। আচ্ছা আপু, দোকান খোলার পর forwarding বন্ধ করতে কি করবো?
+
+**১৮. এজেন্টঃ** স্যার, ##61# dial করলে "Forward when no answer" বন্ধ হবে। আর সব ধরনের forwarding একসাথে বন্ধ করতে ##002# dial করুন।
+
+**১৯. কাস্টমারঃ** ##61# বন্ধ করতে, **61*number# চালু করতে। সহজ! দোকান বন্ধ করে বাজারে গেলে চালু করবো, ফিরে এসে বন্ধ করবো।
+
+**২০. এজেন্টঃ** স্যার, perfect plan! দোকানের ব্যবসা ভালো হোক, কোনো customer-এর call miss না হোক। ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ধন্যবাদ তানহা আপু, দোকানের জন্য অনেক কাজে আসবে! ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 62ঃ পুরনো GP number বন্ধ হয়ে গেছে — আবার চালু করতে চাওয়া (Old GP number expired/deactivated — wants to reactivate the same number)
+
+> কাস্টমার বিদেশ থেকে ফিরেছেন। ৩ বছর আগে GP number recharge না করায় বন্ধ হয়ে গেছে। পুরনো number-ই আবার পেতে চান কারণ সব জায়গায় এই number দেওয়া আছে।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি ৩ বছর Dubai-তে ছিলাম। আমার GP number ০১৭XXXXXXXX, এটা recharge না করায় বন্ধ হয়ে গেছে। আমি এই number-ই আবার পেতে চাই, সম্ভব?
+
+**২. এজেন্টঃ** স্যার, আমি রাফি বলছি GP customer care থেকে। ৩ বছর inactive থাকলে number pool-এ ফিরে যায়। আমি check করি আপনার number-এর current status কি।
+
+**৩. কাস্টমারঃ** Check করুন ভাইয়া, এই number অনেক important — bank account, bKash, passport, সব জায়গায় এই number দেওয়া আছে।
+
+**৪. এজেন্টঃ** স্যার, আমি check করেছি। আপনার number ০১৭XXXXXXXX বর্তমানে "recycled" status-এ আছে, মানে এই number অন্য কাউকে issue করা হয়নি এখনো। তাই আপনি এই number আবার পেতে পারেন!
+
+**৫. কাস্টমারঃ** অন্য কাউকে দেওয়া হয়নি! আলহামদুলিল্লাহ! কিভাবে আবার পাবো ভাইয়া?
+
+**৬. এজেন্টঃ** স্যার, GP Center-এ যেতে হবে আপনার NID original আর passport-এর copy নিয়ে। GP Center-এ "Number Reactivation" request করবেন। তারা verify করবেন যে এই number আগে আপনার NID-তে registered ছিল, match হলে same number-এ নতুন SIM issue করবে।
+
+**৭. কাস্টমারঃ** NID আর passport নিয়ে GP Center-এ যাবো। কত সময় লাগবে reactivation-এ?
+
+**৮. এজেন্টঃ** স্যার, GP Center-এ সব verification ঠিক থাকলে সাধারণত ২৪-৪৮ ঘণ্টার মধ্যে number active হয়ে যায়। কোনো কোনো ক্ষেত্রে same day-তেও হয়।
+
+**৯. কাস্টমারঃ** ২৪-৪৮ ঘণ্টা, ঠিক আছে। আচ্ছা ভাইয়া, reactivation charge কত?
+
+**১০. এজেন্টঃ** স্যার, number reactivation charge ৩০০ টাকা, SIM cost সহ। এছাড়া minimum ১০০ টাকা recharge করতে হবে। মোট ৪০০ টাকা প্রস্তুত রাখুন।
+
+**১১. কাস্টমারঃ** ৪০০ টাকা, কোনো সমস্যা নেই। আচ্ছা ভাইয়া, আগের balance বা pack কি ফেরত পাবো?
+
+**১২. এজেন্টঃ** স্যার, দুঃখিত, ৩ বছর inactive থাকার পর আগের balance, pack, bonus — কোনোকিছুই ফেরত পাওয়া সম্ভব না। Number fresh start হবে, শূন্য balance থেকে। তবে number-ই সবচেয়ে important, সেটা পাচ্ছেন।
+
+**১৩. কাস্টমারঃ** Number-ই important, balance তো আবার করবো। আচ্ছা ভাইয়া, reactivation হলে কি আমার GP Star status ফিরবে?
+
+**১৪. এজেন্টঃ** স্যার, GP Star status-ও reset হবে, নতুন করে Regular থেকে শুরু হবে। তবে আপনি regular usage করলে আবার Silver, Gold tier-এ যেতে পারবেন।
+
+**১৫. কাস্টমারঃ** বুঝেছি, নতুন শুরু। কোনো সমস্যা নেই। আচ্ছা ভাইয়া, যদি number অন্য কাউকে দেওয়া থাকতো, তাহলে কি করতাম?
+
+**১৬. এজেন্টঃ** স্যার, সেক্ষেত্রে দুঃখজনকভাবে সেই number আর ফেরত পাওয়া possible হতো না। তবে আপনার ক্ষেত্রে number available, তাই lucky!
+
+**১৭. কাস্টমারঃ** সত্যিই lucky! ভাইয়া, একটা important পরামর্শ — reactivation হলে bank, bKash-এ কি আবার verify করতে হবে?
+
+**১৮. এজেন্টঃ** স্যার, হ্যাঁ, নতুন SIM-এ same number active হওয়ার পর bKash-এ নতুন করে register করতে হতে পারে। Bank-এও phone number update verify করাতে হতে পারে। SIM active হওয়ার পর bKash helpline-এ call করুন আর bank branch-এ visit করুন।
+
+**১৯. কাস্টমারঃ** bKash আর bank — দুটোতেই যাবো। ধন্যবাদ রাফি ভাইয়া, ৩ বছর পর number ফিরে পাবো ভাবতেই ভালো লাগছে!
+
+**২০. এজেন্টঃ** স্যার, দেশে ফেরা স্বাগত! NID আর passport নিয়ে GP Center-এ যান, ইনশাআল্লাহ number ফিরে পাবেন। ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ইনশাআল্লাহ! ধন্যবাদ ভাইয়া, ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 63ঃ মৃত বাবার NID-তে registered GP number — নিজের নামে transfer করতে চাওয়া (GP number registered under deceased father's NID — transferring to own name)
+
+> কাস্টমার-এর বাবা মারা গেছেন। বাবার NID-তে registered GP number কাস্টমার ১০ বছর ধরে ব্যবহার করছেন। নিজের নামে transfer করতে চান।
+
+**১. কাস্টমারঃ** আপু, আমার বাবা গত বছর মারা গেছেন, ইন্নালিল্লাহি ওয়া ইন্না ইলাইহি রাজিউন। আমার GP number বাবার NID-তে registered। এখন নিজের নামে করতে চাই।
+
+**২. এজেন্টঃ** ম্যাম, ইন্নালিল্লাহ, আপনার বাবার জন্য দোয়া করি। আমি সায়মা বলছি GP customer care থেকে। জ্বী ম্যাম, মৃত ব্যক্তির NID-তে registered SIM নিজের নামে transfer করা possible। আমি process বলছি।
+
+**৩. কাস্টমারঃ** হ্যাঁ আপু, process বলুন। এই number ১০ বছর ধরে ব্যবহার করছি, সব জায়গায় এই number দেওয়া আছে।
+
+**৪. এজেন্টঃ** ম্যাম, বুঝতে পারছি number-টা আপনার জন্য কতটা important। Transfer করতে GP Center-এ যেতে হবে কিছু documents নিয়ে। প্রথমত — আপনার NID original, দ্বিতীয়ত — বাবার death certificate, তৃতীয়ত — ওয়ারিশ সনদ বা succession certificate।
+
+**৫. কাস্টমারঃ** NID আছে, death certificate আছে। ওয়ারিশ সনদ কোথা থেকে পাবো আপু?
+
+**৬. এজেন্টঃ** ম্যাম, ওয়ারিশ সনদ আপনার এলাকার ইউনিয়ন পরিষদ বা পৌরসভা থেকে পাবেন। Chairman বা Mayor-এর কাছে আবেদন করলে ওয়ারিশ সনদ issue করবেন। সেখানে উল্লেখ থাকবে যে আপনি মৃত ব্যক্তির ওয়ারিশ।
+
+**৭. কাস্টমারঃ** ইউনিয়ন পরিষদ থেকে ওয়ারিশ সনদ, ঠিক আছে। সেটা নিয়ে GP Center-এ গেলেই হবে?
+
+**৮. এজেন্টঃ** ম্যাম, জ্বী। GP Center-এ এই ৩টা document জমা দিলে "Ownership Transfer (Deceased)" request process হবে। GP verify করবে এবং ৩-৫ কার্যদিবসের মধ্যে SIM আপনার NID-তে transfer হয়ে যাবে।
+
+**৯. কাস্টমারঃ** ৩-৫ দিন? এই সময়ে কি আমার number চলবে?
+
+**১০. এজেন্টঃ** ম্যাম, জ্বী, processing-এর সময় আপনার number normal-ভাবে চলবে, call, SMS, internet — সব কাজ করবে। শুধু registration backend-এ update হবে।
+
+**১১. কাস্টমারঃ** ভালো, number চালু থাকবে। আচ্ছা আপু, transfer-এর charge কত?
+
+**১২. এজেন্টঃ** ম্যাম, deceased ownership transfer-এ charge ৩০০ টাকা। GP Center-এ pay করবেন।
+
+**১৩. কাস্টমারঃ** ৩০০ টাকা, ঠিক আছে। আচ্ছা আপু, আমার ভাই-ও বাবার NID-তে GP SIM ব্যবহার করেন। তিনিও কি same process-এ নিজের নামে করতে পারবেন?
+
+**১৪. এজেন্টঃ** ম্যাম, জ্বী, আপনার ভাই-ও একই process follow করবেন — NID, death certificate, ওয়ারিশ সনদ নিয়ে GP Center-এ যাবেন। দুজনে একসাথে গেলে সুবিধা হবে, same documents দেখাতে পারবেন।
+
+**১৫. কাস্টমারঃ** একসাথে যাবো, ভালো idea। আচ্ছা আপু, transfer-এর পর কি আমার balance, pack সব ঠিক থাকবে?
+
+**১৬. এজেন্টঃ** ম্যাম, জ্বী, ownership transfer-এ শুধু registration change হয়, আপনার balance, active pack, GP Star points — সবকিছু unchanged থাকবে।
+
+**১৭. কাস্টমারঃ** সব ঠিক থাকবে, ভালো! আচ্ছা আপু, ভবিষ্যতে কি কোনো সমস্যা হবে? মানে বাবার নাম থাকায় কিছু?
+
+**১৮. এজেন্টঃ** ম্যাম, transfer complete হলে registration সম্পূর্ণ আপনার নামে আর NID-তে হবে। ভবিষ্যতে SIM replace, ownership verification — সব আপনার NID দিয়ে হবে, কোনো সমস্যা হবে না।
+
+**১৯. কাস্টমারঃ** ধন্যবাদ সায়মা আপু। বাবার স্মৃতির সাথে এই number-টা জড়িয়ে আছে, ফেলে দিতে পারি না।
+
+**২০. এজেন্টঃ** ম্যাম, আপনার আবেগ বুঝতে পারি। আল্লাহ আপনার বাবাকে জান্নাত দান করুন। ওয়ারিশ সনদ নিয়ে GP Center-এ যান, number নিজের নামে হয়ে যাবে। ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** আমিন। ধন্যবাদ আপু, আল্লাহ আপনার মঙ্গল করুক। ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 64ঃ Postpaid bill বাকি পড়ে গেছে, service বন্ধ হতে যাচ্ছে — urgent payment করতে চাওয়া (Postpaid bill overdue, service about to be suspended — urgent payment options)
+
+> কাস্টমার postpaid user, ২ মাসের bill বাকি। GP warning SMS দিয়েছে যে service suspend হবে। Urgent-এ bill pay করতে চান কিন্তু GP Center-এ যাওয়ার সময় নেই।
+
+**১. কাস্টমারঃ** ভাইয়া, আমার GP postpaid-এর ২ মাসের bill বাকি, SMS এসেছে যে ৪৮ ঘণ্টার মধ্যে service suspend হবে! কিন্তু আমি office-এ busy, GP Center-এ যেতে পারবো না। Online কিভাবে pay করবো?
+
+**২. এজেন্টঃ** স্যার, আমি নাহিদ বলছি GP customer care থেকে। আপনার urgency বুঝতে পারি। GP Center-এ না গিয়েও কয়েকটা way-তে bill pay করতে পারবেন।
+
+**৩. কাস্টমারঃ** বলুন ভাইয়া, তাড়াতাড়ি pay করতে চাই, number বন্ধ হলে বিপদ।
+
+**৪. এজেন্টঃ** স্যার, সবচেয়ে দ্রুত উপায় — MyGP app থেকে bill pay করুন। bKash, Nagad, rocket, debit/credit card — যেকোনো method-এ pay করতে পারবেন। Payment instantly reflect হবে।
+
+**৫. কাস্টমারঃ** MyGP app-এ bKash দিয়ে pay করতে পারবো? সেটা সবচেয়ে সহজ!
+
+**৬. এজেন্টঃ** স্যার, জ্বী। MyGP app open করুন, "Bill" section-এ যান, আপনার due amount দেখাবে, "Pay Now" tap করুন, payment method-এ "bKash" select করুন, bKash PIN দিন — done!
+
+**৭. কাস্টমারঃ** আচ্ছা, আমার due কত ভাইয়া? App-তো এখন open করতে পারছি না, আপনি বলুন।
+
+**৮. এজেন্টঃ** স্যার, আমি check করি। আপনার total due ৩,৪৫০ টাকা — গত মাসের bill ১,৮৫০ টাকা, এই মাসের bill ১,৬০০ টাকা। Late payment fee ৫০ টাকা ও ১৫% VAT সহ total ৩,৪৫০ টাকা।
+
+**৯. কাস্টমারঃ** ৩,৪৫০ টাকা! আচ্ছা, late payment fee কেন লাগলো?
+
+**১০. এজেন্টঃ** স্যার, due date-এর মধ্যে bill pay না করলে late payment charge applicable হয়। গত মাসের bill-এর due date ছিল ১৫ তারিখ, সেটা miss হয়েছে তাই ৫০ টাকা late fee যোগ হয়েছে।
+
+**১১. কাস্টমারঃ** বুঝেছি, পরের বার সময়মতো দেবো। আচ্ছা ভাইয়া, এখন কি শুধু একটা মাসের bill দিলে service চালু থাকবে? ৩,৪৫০ একবারে দিতে একটু কষ্ট।
+
+**১২. এজেন্টঃ** স্যার, minimum গত মাসের due ১,৯০০ টাকা (late fee সহ) pay করলে service suspension avoid হবে। বাকি এই মাসের bill পরবর্তী due date-এর মধ্যে দিলে হবে।
+
+**১৩. কাস্টমারঃ** ১,৯০০ টাকা আগে দেবো, বাকিটা salary পেলে দেবো। MyGP app ছাড়া আর কোন way-তে pay করা যায়?
+
+**১৪. এজেন্টঃ** স্যার, bKash app থেকেও directly GP bill pay করতে পারবেন — bKash app open করুন, "Pay Bill" section-এ "Grameenphone" select করুন, আপনার GP number দিন, amount দিন, PIN দিন। আর Nagad, Rocket থেকেও same way-তে bill pay possible।
+
+**১৫. কাস্টমারঃ** bKash app থেকেই করবো, সেটা বেশি familiar। ভাইয়া, bill pay করার পর service কতক্ষণে restore হবে?
+
+**১৬. এজেন্টঃ** স্যার, online payment-এ সাধারণত ১৫-৩০ মিনিটের মধ্যে payment reflect হয়ে service normal হয়ে যায়। যদি ১ ঘণ্টার মধ্যে restore না হয়, 121-এ call করবেন।
+
+**১৭. কাস্টমারঃ** ১৫-৩০ মিনিট, ভালো। ভাইয়া, ভবিষ্যতে auto-pay setup করা যায়? যেন due date-এ automatically pay হয়ে যায়?
+
+**১৮. এজেন্টঃ** স্যার, জ্বী, MyGP app-এ "Auto-Pay" feature আছে। আপনার debit card বা bKash link করলে প্রতি মাসে due date-এ automatically bill pay হয়ে যাবে, আপনাকে কিছু করতে হবে না।
+
+**১৯. কাস্টমারঃ** Auto-Pay! সেটা setup করবো bill pay করার পর। আর কখনো late payment হবে না।
+
+**২০. এজেন্টঃ** স্যার, smart decision! Auto-Pay setup করলে late fee save হবে, service suspension risk-ও থাকবে না। ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ধন্যবাদ নাহিদ ভাইয়া, এখনই bKash থেকে pay করছি! ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 65ঃ Balance শূন্য, emergency call করতে হবে — জরুরি balance ধার নিতে চাওয়া (Zero balance, needs emergency call — wants emergency balance loan)
+
+> কাস্টমার-এর balance শূন্য। রাতে urgent call করতে হবে কিন্তু recharge করার কোনো উপায় নেই। GP-র emergency balance/loan service সম্পর্কে জানতে চান।
+
+**১. কাস্টমারঃ** ভাইয়া, আমার balance শূন্য, রাতের বেলা, কোনো recharge point খোলা নেই। কিন্তু urgent call করতে হবে। GP কি ধার balance দেয়?
+
+**২. এজেন্টঃ** স্যার, আমি রাফি বলছি GP customer care থেকে। জ্বী স্যার, GP-র "Emergency Balance" বা "জরুরি ব্যালেন্স" service আছে। আপনি ধার হিসেবে balance নিতে পারবেন।
+
+**৩. কাস্টমারঃ** Emergency Balance! কিভাবে নেবো ভাইয়া? তাড়াতাড়ি বলুন!
+
+**৪. এজেন্টঃ** স্যার, *1010# dial করুন, emergency balance-এর option আসবে। অথবা সরাসরি *1010*1# dial করুন, ১২ টাকা emergency balance পাবেন।
+
+**৫. কাস্টমারঃ** *1010*1# — dial করছি। "Emergency balance of Tk 12 has been credited" message এসেছে! ১২ টাকা পেলাম!
+
+**৬. এজেন্টঃ** স্যার, পেয়ে গেছেন। এখন আপনি call করতে পারবেন, SMS পাঠাতে পারবেন। পরবর্তী recharge-এ ১২ টাকা আর ২ টাকা service charge, মোট ১৪ টাকা কেটে নেওয়া হবে।
+
+**৭. কাস্টমারঃ** ২ টাকা service charge? মানে ১২ টাকার জন্য ১৪ দিতে হবে? ঠিক আছে, emergency-তে এটুকু চলবে। আচ্ছা ভাইয়া, ১২ টাকা দিয়ে কত মিনিট কথা বলতে পারবো?
+
+**৮. এজেন্টঃ** স্যার, আপনার current call rate per minute ১.৫ টাকা GP-GP-তে, তাহলে প্রায় ৮ মিনিট GP-GP call করতে পারবেন। অন্য operator-এ rate বেশি হবে, তাহলে কম মিনিট পাবেন।
+
+**৯. কাস্টমারঃ** ৮ মিনিট GP-GP-তে, enough! আচ্ছা ভাইয়া, emergency balance কি বারবার নেওয়া যায়?
+
+**১০. এজেন্টঃ** স্যার, একবারে একটাই emergency balance নেওয়া যায়। আগেরটা repay না হওয়া পর্যন্ত আরেকটা নিতে পারবেন না। মানে পরবর্তী recharge-এ ১৪ টাকা কাটার পর আবার eligible হবেন।
+
+**১১. কাস্টমারঃ** বুঝেছি, repay হলে আবার নিতে পারবো। আচ্ছা ভাইয়া, emergency data কি আছে? Internet-এর জন্য?
+
+**১২. এজেন্টঃ** স্যার, হ্যাঁ, GP-র "Emergency Data" service-ও আছে। *1010*2# dial করলে emergency data পাবেন, সাধারণত ৫০MB-100MB range-এ। Internet urgent হলে এটা ব্যবহার করতে পারবেন।
+
+**১৩. কাস্টমারঃ** Emergency data-ও আছে! ভালো। তবে এখন call করাটা বেশি urgent। আচ্ছা ভাইয়া, emergency balance নেওয়ার কোনো condition আছে?
+
+**১৪. এজেন্টঃ** স্যার, কিছু condition আছে। আপনার main balance ৫ টাকার নিচে থাকতে হবে। আর আপনার number কমপক্ষে ৯০ দিন active থাকতে হবে। আপনার number পুরনো, তাই condition fulfill হয়েছে।
+
+**১৫. কাস্টমারঃ** ৯০ দিন, আমার number ৫ বছরের পুরনো, সমস্যা নেই। ভাইয়া, রাতে recharge point বন্ধ, কাল সকালে recharge করবো। তখন ১৪ টাকা কেটে নেবে?
+
+**১৬. এজেন্টঃ** স্যার, ঠিক তাই। কাল recharge করলে automatically ১৪ টাকা কেটে emergency balance repay হয়ে যাবে, আপনাকে আলাদা কিছু করতে হবে না।
+
+**১৭. কাস্টমারঃ** Automatic repayment! সুবিধা। ধন্যবাদ রাফি ভাইয়া, emergency-তে অনেক কাজে আসলো এই service!
+
+**১৮. এজেন্টঃ** স্যার, GP always আপনার পাশে আছে। Emergency-তে *1010# মনে রাখবেন। এখন urgent call করুন, ভালো থাকবেন!
 
 **১৯. কাস্টমারঃ** ধন্যবাদ ভাইয়া, ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 66ঃ ঘূর্ণিঝড়ে GP network বন্ধ — উপকূলীয় এলাকার কাস্টমারের অভিযোগ (GP network down during cyclone — coastal area customer complaint)
+
+> কাস্টমার Cox's Bazar-এর উপকূলীয় এলাকায় থাকেন। ঘূর্ণিঝড়ের পর GP network সম্পূর্ণ বন্ধ। পরিবারের সাথে যোগাযোগ করতে পারছেন না, desperate।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি Cox's Bazar-এর পেকুয়ায় থাকি। গতকাল ঘূর্ণিঝড়ের পর থেকে GP network একদম নেই! কোনো call যাচ্ছে না, internet নেই। ঢাকায় পরিবার চিন্তায় আছে, যোগাযোগ করতে পারছি না!
+
+**২. এজেন্টঃ** স্যার, আমি ফারজানা বলছি GP customer care থেকে। আপনি নিরাপদ আছেন জেনে ভালো লাগলো। ঘূর্ণিঝড়ের কারণে পেকুয়া এলাকায় কিছু GP tower damaged হয়েছে, তাই network down আছে। GP-র emergency restoration team ইতিমধ্যে কাজ শুরু করেছে।
+
+**৩. কাস্টমারঃ** Tower damaged! কবে ঠিক হবে আপু? আমি কোনোভাবেই পরিবারকে জানাতে পারছি না!
+
+**৪. এজেন্টঃ** স্যার, GP-র disaster response team ২৪-৪৮ ঘণ্টার মধ্যে temporary mobile tower বা COW (Cell on Wheels) deploy করবে আপনার এলাকায়। তার আগে যদি কোথাও একটু signal পান, একটা SMS পাঠিয়ে দিন পরিবারকে।
+
+**৫. কাস্টমারঃ** COW? সেটা কি?
+
+**৬. এজেন্টঃ** স্যার, COW হচ্ছে গাড়িতে বসানো mobile tower। দুর্যোগের সময় GP এই portable tower গুলো আক্রান্ত এলাকায় পাঠায় — গাড়ি পৌঁছালেই network restore হয়।
+
+**৭. কাস্টমারঃ** গাড়িতে tower! GP-র তো ভালো ব্যবস্থা আছে। কিন্তু ২৪-৪৮ ঘণ্টা অনেক সময়। এখন কি কোনো উপায় আছে?
+
+**৮. এজেন্টঃ** স্যার, কিছু পরামর্শ আছে। এক — পেকুয়া থানা বা union parishad office-এ যান, সেখানে সরকারি landline বা satellite phone থাকতে পারে, emergency call করতে দেবে। দুই — nearby এলাকায় যেখানে signal আছে সেখানে গিয়ে SMS পাঠাতে পারেন।
+
+**৯. কাস্টমারঃ** থানায় গিয়ে try করবো। আচ্ছা আপু, ঘূর্ণিঝড়ে আমার GP SIM-এর validity expire হলে কি হবে? Recharge তো করতে পারছি না।
+
+**১০. এজেন্টঃ** স্যার, দুর্যোগ-আক্রান্ত এলাকায় GP automatically SIM validity extend করে দেয়। আপনার SIM validity নিয়ে চিন্তা করবেন না, GP management already আক্রান্ত এলাকার সব SIM-এর validity বাড়িয়ে দিয়েছে।
+
+**১১. কাস্টমারঃ** Validity extend! সেটা একটা relief। আচ্ছা আপু, network restore হলে কি SMS আসবে?
+
+**১২. এজেন্টঃ** স্যার, network restore হলে আপনার phone automatically connect হবে। আর GP থেকে SMS পাবেন "Network restored in your area" মর্মে। Phone-এর Airplane Mode ON করে ৩০ সেকেন্ড পর OFF করলে দ্রুত network ধরবে।
+
+**১৩. কাস্টমারঃ** Airplane Mode trick, করবো। আচ্ছা আপু, ঘূর্ণিঝড়ে ক্ষতিগ্রস্ত মানুষদের জন্য GP কি কিছু করে?
+
+**১৪. এজেন্টঃ** স্যার, জ্বী, GP দুর্যোগের সময় কিছু relief দেয় — free talktime, free data, emergency balance limit increase। এবারও GP management relief package ঘোষণা করেছে — আক্রান্ত এলাকার customer-রা ৫০ মিনিট free talktime আর 500MB free data পাবেন।
+
+**১৫. কাস্টমারঃ** ৫০ মিনিট free talktime! Network আসলেই পরিবারকে ফোন করবো! GP-র জন্য ধন্যবাদ।
+
+**১৬. এজেন্টঃ** স্যার, network restore হলে free talktime আর data automatically আপনার account-এ credit হবে। আর 999 number-এ call করে disaster relief information পাবেন।
+
+**১৭. কাস্টমারঃ** ৯৯৯-এ call করবো। আপু, আমার পরিবার ঢাকায়, তাদের কি আপনি আমার পক্ষ থেকে জানাতে পারবেন যে আমি নিরাপদ আছি?
+
+**১৮. এজেন্টঃ** স্যার, দুঃখিত, আমরা সরাসরি তৃতীয় ব্যক্তিকে call করতে পারি না। তবে আপনি এই call-এই connected আছেন মানে আপনি কোনোভাবে network পেয়েছেন — পরিবারকে এখনই একটা SMS পাঠিয়ে দিন "আমি নিরাপদ আছি"।
+
+**১৯. কাস্টমারঃ** হ্যাঁ আপু, neighbor-এর phone থেকে call করছি। SMS পাঠাবো। ধন্যবাদ ফারজানা আপু, দুর্যোগেও GP সেবা দিচ্ছে!
+
+**২০. এজেন্টঃ** স্যার, আপনি আর আপনার এলাকার সবাই নিরাপদ থাকুন, আল্লাহ হাফেজ। GP আপনাদের পাশে আছে!
+
+**২১. কাস্টমারঃ** আল্লাহ হাফেজ আপু, ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 67ঃ বৃদ্ধ বাবা-মা recharge করতে পারেন না — পরিবারের জন্য shared balance বা balance transfer চাওয়া (Elderly parents can't recharge — wants family balance sharing or transfer)
+
+> কাস্টমার ঢাকায় চাকরি করেন, বৃদ্ধ বাবা-মা গ্রামে থাকেন। বাবা-মা smartphone চালাতে পারেন না, recharge point অনেক দূরে। কাস্টমার ঢাকা থেকে বাবা-মার GP number-এ balance পাঠাতে চান।
+
+**১. কাস্টমারঃ** আপু, আমার বাবা-মা গ্রামে থাকেন, বয়স হয়েছে। কাছে কোনো recharge point নেই, smartphone-ও চালাতে পারেন না। আমি ঢাকা থেকে তাদের GP number-এ balance পাঠাতে চাই।
+
+**২. এজেন্টঃ** স্যার, আমি তানহা বলছি GP customer care থেকে। আপনার বাবা-মায়ের জন্য আপনার চিন্তা দেখে ভালো লাগলো। GP-তে কয়েকটা way-তে balance পাঠাতে পারবেন।
+
+**৩. কাস্টমারঃ** বলুন আপু, সবচেয়ে সহজ উপায় কোনটা?
+
+**৪. এজেন্টঃ** স্যার, সবচেয়ে সহজ উপায় "Balance Transfer"। আপনার GP number থেকে বাবা-মায়ের GP number-এ balance transfer করতে পারবেন। *1000*recipient-number*amount# dial করুন। যেমন *1000*01711111111*50# dial করলে ৫০ টাকা transfer হবে।
+
+**৫. কাস্টমারঃ** *1000*number*amount# — সহজ! কিন্তু আপু, আমার নিজের balance থেকে কাটবে তো? আর charge কত?
+
+**৬. এজেন্টঃ** স্যার, জ্বী, আপনার main balance থেকে কাটবে। Transfer-এ ৫% service charge applicable, মানে ৫০ টাকা transfer করলে আপনার থেকে ৫২.৫০ টাকা কাটবে, বাবা-মা ৫০ টাকা পাবেন।
+
+**৭. কাস্টমারঃ** ৫% charge, ঠিক আছে। কিন্তু আপু, প্রতিবার balance transfer করতে হবে, সেটা ভুলে যেতে পারি। কোনো automatic system আছে?
+
+**৮. এজেন্টঃ** স্যার, MyGP app-এ "Auto-Recharge" feature আছে। আপনি set করতে পারেন যে বাবা-মায়ের number-এ balance যখন ১০ টাকার নিচে যাবে, automatically ৫০ টাকা recharge হবে আপনার bKash বা card থেকে।
+
+**৯. কাস্টমারঃ** Auto-Recharge! Balance কমলে automatically recharge! সেটা দারুণ। কিভাবে set করবো?
+
+**১০. এজেন্টঃ** স্যার, MyGP app open করুন, "Gift" বা "Recharge for Others" section-এ যান, বাবা-মায়ের number দিন, "Auto-Recharge" enable করুন, threshold set করুন ১০ টাকা, recharge amount ৫০ টাকা, payment method bKash select করুন। Setup complete!
+
+**১১. কাস্টমারঃ** দারুণ! দুটো number-ই set করবো — বাবার আর মায়ের। আচ্ছা আপু, বাবা-মায়ের phone-এ internet pack-ও কি আমি activate করতে পারি?
+
+**১২. এজেন্টঃ** স্যার, জ্বী, MyGP app থেকে "Gift Pack" option-এ অন্যের number-এ internet pack, minute pack কিনে দিতে পারবেন। তবে বাবা-মা smartphone না চালালে internet pack-এর দরকার নেই, শুধু minute pack দিন।
+
+**১৩. কাস্টমারঃ** হ্যাঁ, বাবা-মা শুধু call করেন। Minute pack কিনে দেবো। কোন pack ভালো হবে বৃদ্ধদের জন্য?
+
+**১৪. এজেন্টঃ** স্যার, GP-র "GP Easy" সিরিজের pack ভালো হবে — ৬৯ টাকায় GP-GP ২০০ মিনিট, ৩০ দিনের validity। বাবা-মা বেশিরভাগ GP-GP call করেন তাহলে এটাই sufficient।
+
+**১৫. কাস্টমারঃ** ৬৯ টাকায় ২০০ মিনিট! সেটাই কিনে দেবো। আচ্ছা আপু, বাবা-মায়ের phone-এ জরুরি number save করিয়ে রেখেছি, তাদের জন্য emergency balance-ও কাজ করবে?
+
+**১৬. এজেন্টঃ** স্যার, জ্বী, emergency balance সবার জন্য কাজ করে। তবে বাবা-মাকে *1010# dial করতে শেখান, মনে রাখার জন্য phone-এ speed dial set করে দিন। আর 999 emergency number-ও speed dial-এ রাখুন।
+
+**১৭. কাস্টমারঃ** Speed dial-এ *1010# আর 999 — ভালো idea! পরের বার গ্রামে গেলে set করে দেবো।
+
+**১৮. এজেন্টঃ** স্যার, আপনি দায়িত্বশীল সন্তান। বাবা-মায়ের জন্য Auto-Recharge set করুন, minute pack কিনে দিন — তাহলে তারা নিশ্চিন্তে phone ব্যবহার করতে পারবেন।
+
+**১৯. কাস্টমারঃ** ধন্যবাদ তানহা আপু, বাবা-মায়ের যত্ন নেওয়ার সুযোগ দিলেন! ভালো থাকবেন!
+
+**২০. এজেন্টঃ** স্যার, আপনার বাবা-মা সুস্থ আর নিরাপদ থাকুক। আল্লাহ আপনাকে ভালো রাখুন। ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** আমিন আপু, ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 68ঃ Data pack থাকা সত্ত্বেও internet চলছে না — APN settings ঠিক করা (Internet not working despite having data pack — fixing APN settings)
+
+> কাস্টমার নতুন Android phone কিনেছেন, GP SIM দিয়েছেন। Data pack active আছে কিন্তু internet কাজ করছে না। APN settings সঠিক নেই।
+
+**১. কাস্টমারঃ** ভাইয়া, আমার নতুন phone-এ GP SIM দিয়েছি, data pack active আছে কিন্তু internet একদম কাজ করছে না! WiFi দিয়ে চলে কিন্তু mobile data দিয়ে চলে না।
+
+**২. এজেন্টঃ** স্যার, আমি নাহিদ বলছি GP customer care থেকে। Data pack active থাকলেও internet না চললে সাধারণত APN settings-এর সমস্যা হয়। আমি step by step ঠিক করে দিচ্ছি।
+
+**৩. কাস্টমারঃ** APN? সেটা কি ভাইয়া?
+
+**৪. এজেন্টঃ** স্যার, APN মানে Access Point Name — এটা হচ্ছে phone আর GP network-এর মধ্যে internet connection-এর address। নতুন phone-এ অনেক সময় automatic set হয় না, manually দিতে হয়।
+
+**৫. কাস্টমারঃ** Manual set! আমি তো কম বুঝি এসব, আপনি বলুন কি করতে হবে।
+
+**৬. এজেন্টঃ** স্যার, চিন্তা করবেন না, সহজ। Phone-এর Settings-এ যান, তারপর "Mobile Networks" বা "SIM & Network" option-এ tap করুন, তারপর "Access Point Names" বা "APN" tap করুন।
+
+**৭. কাস্টমারঃ** Settings, Mobile Networks, APN — পেয়েছি ভাইয়া। এখানে কিছু option দেখাচ্ছে।
+
+**৮. এজেন্টঃ** স্যার, উপরে "+" বা "Add" button দেখবেন, সেটা tap করুন নতুন APN add করতে। এখন আমি বলে দিচ্ছি কি কি দিতে হবে — Name লিখুন "GP Internet", APN লিখুন "gpinternet"। বাকি সব field ফাঁকা রাখুন, শুধু এই দুটো দিলেই হবে।
+
+**৯. কাস্টমারঃ** Name: GP Internet, APN: gpinternet — দিয়ে দিয়েছি। আর কিছু?
+
+**১০. এজেন্টঃ** স্যার, এখন উপরে ৩-dot menu বা "Save" button tap করুন save করতে। Save হলে APN list-এ "GP Internet" দেখাবে, সেটা select করুন — পাশে radio button বা tick mark দিন।
+
+**১১. কাস্টমারঃ** Save করলাম, GP Internet select করলাম। এখন internet চলবে?
+
+**১২. এজেন্টঃ** স্যার, একটু wait করুন। Phone-এর notification bar-এ Mobile Data ON আছে কিনা check করুন — উপর থেকে swipe down করে mobile data icon দেখুন, ON থাকতে হবে।
+
+**১৩. কাস্টমারঃ** Mobile Data ON আছে ভাইয়া। কিন্তু এখনো internet আসছে না।
+
+**১৪. এজেন্টঃ** স্যার, phone restart করুন একবার। Restart হলে নতুন APN settings apply হবে।
+
+**১৫. কাস্টমারঃ** Restart করছি। Phone আবার চালু হলো — ভাইয়া, 4G icon দেখাচ্ছে! Browser open করি — হ্যাঁ! Google চলছে! Internet এসেছে!
+
+**১৬. এজেন্টঃ** স্যার, excellent! APN ঠিক হয়ে গেছে। এখন থেকে mobile data দিয়ে সব app চলবে — YouTube, Facebook, WhatsApp সব।
+
+**১৭. কাস্টমারঃ** চলছে সব! ধন্যবাদ ভাইয়া। আচ্ছা, একটা জিনিস — 4G দেখাচ্ছে, কিন্তু speed কেমন পাবো?
+
+**১৮. এজেন্টঃ** স্যার, 4G-তে GP-র average download speed ১০-২০ Mbps, location আর congestion-এর উপর নির্ভর করে। YouTube HD video smooth-এ চলবে। Speed test করতে চাইলে browser-এ speedtest.net যান বা "Speedtest" app install করুন।
+
+**১৯. কাস্টমারঃ** ১০-২০ Mbps, সেটা ভালো! Speedtest করে দেখবো। অনেক ধন্যবাদ নাহিদ ভাইয়া, নতুন phone-এ internet setup হয়ে গেলো!
+
+**২০. এজেন্টঃ** স্যার, নতুন phone enjoy করুন! কোনো সমস্যা হলে 121-এ call করবেন। ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ভালো থাকবেন ভাইয়া!
+
+
+---
+
+
+## সিনারিও 69ঃ Biometric re-verification notice এসেছে — BTRC SIM re-registration নিয়ে confusion (Received biometric re-verification notice — confusion about BTRC SIM re-registration)
+
+> কাস্টমার SMS পেয়েছেন যে biometric re-verification করতে হবে, না হলে SIM বন্ধ হবে। কাস্টমার ভয় পেয়েছেন, কী করতে হবে জানেন না।
+
+**১. কাস্টমারঃ** আপু, SMS এসেছে যে আমার SIM-এর biometric re-verification করতে হবে, না হলে SIM বন্ধ হবে! এটা কি সত্যি নাকি scam?
+
+**২. এজেন্টঃ** ম্যাম, আমি সায়মা বলছি GP customer care থেকে। জ্বী ম্যাম, এটা সত্যি — BTRC (Bangladesh Telecommunication Regulatory Commission) এর নির্দেশে সব SIM-এর biometric re-verification হচ্ছে। এটা scam না, GP-র official SMS।
+
+**৩. কাস্টমারঃ** Official SMS! বুঝেছি আপু। কিন্তু biometric re-verification কি? আমাকে কি করতে হবে?
+
+**৪. এজেন্টঃ** ম্যাম, biometric re-verification মানে আপনার fingerprint আবার verify করা। আপনি প্রথমে SIM কেনার সময় fingerprint দিয়েছিলেন, এখন BTRC আবার confirm করতে চায় যে SIM আপনিই ব্যবহার করছেন।
+
+**৫. কাস্টমারঃ** Fingerprint দিতে হবে? কোথায় যাবো?
+
+**৬. এজেন্টঃ** ম্যাম, নিকটস্থ GP Center, GP authorized retailer, বা যেকোনো biometric point-এ যেতে পারবেন। NID original নিয়ে যাবেন, সেখানে fingerprint machine-এ আঙুল দিলেই হবে। ২-৩ মিনিটের কাজ।
+
+**৭. কাস্টমারঃ** ২-৩ মিনিট, তাহলে তো সহজ। আচ্ছা আপু, deadline কবে? SMS-এ তো specific date বলেনি।
+
+**৮. এজেন্টঃ** ম্যাম, সাধারণত SMS পাওয়ার ৩০ দিনের মধ্যে re-verification করতে হয়। তবে deadline-এর আগেই করে ফেলা ভালো, শেষ দিকে অনেক ভিড় হয়।
+
+**৯. কাস্টমারঃ** ৩০ দিন, ঠিক আছে। আগামী সপ্তাহে যাবো। আচ্ছা আপু, আমার নামে ২টা GP SIM আছে, দুটোই করতে হবে?
+
+**১০. এজেন্টঃ** ম্যাম, জ্বী, আপনার NID-তে registered সব SIM-এর re-verification করতে হবে। GP Center-এ গেলে একসাথে দুটোই verify করিয়ে নেবেন।
+
+**১১. কাস্টমারঃ** একসাথে দুটো, ভালো। আচ্ছা আপু, আমার স্বামীর SIM-ও আমার NID-তে registered, সেটাও কি আমি verify করতে পারবো?
+
+**১২. এজেন্টঃ** ম্যাম, না, biometric verification NID holder নিজেকেই করতে হবে, কারণ fingerprint NID holder-এর সাথে match করাতে হয়। আপনার NID-তে registered হলে আপনার fingerprint দিয়ে verify হবে।
+
+**১৩. কাস্টমারঃ** মানে আমার NID-তে স্বামীর SIM? তাহলে আমিই verify করবো?
+
+**১৪. এজেন্টঃ** ম্যাম, ঠিক তাই। যেহেতু আপনার NID-তে registered, আপনার fingerprint দিয়ে verify হবে। তবে ভবিষ্যতে better হবে স্বামীর SIM তার নিজের NID-তে transfer করা, সেটা GP Center-এ ownership transfer করে করতে পারবেন।
+
+**১৫. কাস্টমারঃ** Ownership transfer, পরে করবো। আচ্ছা আপু, re-verification না করলে কি সত্যিই SIM বন্ধ হবে?
+
+**১৬. এজেন্টঃ** ম্যাম, হ্যাঁ, BTRC-র নির্দেশ অনুযায়ী deadline-এর মধ্যে re-verification না হলে SIM temporarily deactivate হতে পারে। তবে deactivate হলেও পরে re-verification করলে আবার activate হবে।
+
+**১৭. কাস্টমারঃ** Deactivate হলেও আবার চালু হবে? তাহলে একটু relief। তবু আমি সময়মতো করবো।
+
+**১৮. এজেন্টঃ** ম্যাম, সময়মতো করাই best। GP Center-এ NID original নিয়ে যান, ২-৩ মিনিটে শেষ। সকাল সকাল গেলে ভিড় কম থাকে।
+
+**১৯. কাস্টমারঃ** সকালে যাবো। ধন্যবাদ সায়মা আপু, ভয় পেয়ে গিয়েছিলাম scam ভেবে, এখন clear হলো!
+
+**২০. এজেন্টঃ** ম্যাম, ভবিষ্যতে কোনো SMS নিয়ে সন্দেহ হলে 121-এ call করে confirm করবেন। GP কখনো SMS-এ PIN বা OTP চাইবে না, সেটা মনে রাখবেন। ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** মনে রাখবো আপু, ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 70ঃ GP special/golden number কিনতে চাওয়া — VIP number inquiry (Wants to buy GP special/golden number — VIP number inquiry)
+
+> কাস্টমার ব্যবসায়ী, easy-to-remember "golden" বা "VIP" number কিনতে চান ব্যবসার জন্য। GP-তে special number কিভাবে পাওয়া যায় জানতে চান।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি একটা সহজে মনে রাখার মতো GP number চাই ব্যবসার জন্য। যেমন ০১৭১১-১১১১১ বা ০১৩-৫৫৫৫৫৫ এরকম। এগুলো কিভাবে পাবো?
+
+**২. এজেন্টঃ** স্যার, আমি রাফি বলছি GP customer care থেকে। আপনি GP "Special Number" বা "Golden Number" খুঁজছেন। GP-তে এই ধরনের premium number available আছে, তবে সাধারণ SIM-এর চেয়ে দাম বেশি।
+
+**৩. কাস্টমারঃ** দাম বেশি হবে সেটা জানি ভাইয়া। কিন্তু ব্যবসার জন্য easy number অনেক important — customer-রা মনে রাখতে পারে। কত দাম?
+
+**৪. এজেন্টঃ** স্যার, special number-এর দাম pattern অনুযায়ী vary করে। Category অনুযায়ী — "Silver" category যেখানে কিছু repeating digit থাকে, সেগুলো ৫০০-২,০০০ টাকা। "Gold" category যেখানে ৩-৪টা digit repeat, সেগুলো ৫,০০০-২০,০০০ টাকা। "Platinum" category যেখানে পুরো number-ই sequential বা same digit, সেগুলো ৫০,০০০ টাকা থেকে শুরু।
+
+**৫. কাস্টমারঃ** ৫০,০০০ টাকা! সেটা একটু বেশি। Gold category-তে কি ভালো number পাবো?
+
+**৬. এজেন্টঃ** স্যার, Gold category-তে অনেক ভালো number আছে। যেমন ০১৭XX-XX৭৭৭৭ বা ০১৩XX-XX১২৩৪ এই ধরনের pattern — শেষের ৪-৫ digit repeating বা sequential। এগুলো ৫,০০০-১৫,০০০ টাকা range-এ পাবেন।
+
+**৭. কাস্টমারঃ** শেষে ৭৭৭৭ বা ১২৩৪ — সেটা ভালো! Customer-রা মনে রাখতে পারবে। কোথায় পাবো এই number?
+
+**৮. এজেন্টঃ** স্যার, দুটো way আছে। এক — GP-র official website-এ "Buy Number" section-এ available special number browse করতে পারবেন, online-এ কিনতেও পারবেন। দুই — GP Center-এ গিয়ে available special number-এর list দেখতে পারবেন, পছন্দমতো কিনতে পারবেন।
+
+**৯. কাস্টমারঃ** Online-এ browse করবো আগে। আচ্ছা ভাইয়া, আমার existing GP number তো পাল্টাতে চাই না, নতুন SIM হিসেবে কি special number নিতে পারি?
+
+**১০. এজেন্টঃ** স্যার, জ্বী, special number নতুন SIM হিসেবে কিনতে পারবেন। আপনার existing number চালু থাকবে, নতুন special number-ও আলাদা SIM হিসেবে চলবে। Dual SIM phone হলে দুটোই ব্যবহার করতে পারবেন।
+
+**১১. কাস্টমারঃ** দুটো SIM — personal আর business, perfect! আচ্ছা ভাইয়া, special number কি postpaid-এও পাওয়া যায়?
+
+**১২. এজেন্টঃ** স্যার, জ্বী, prepaid আর postpaid — দুটোতেই special number available। ব্যবসার জন্য postpaid recommend করবো, কারণ postpaid-এ bill-এ usage details থাকে, account management easy, আর credit limit-ও থাকে।
+
+**১৩. কাস্টমারঃ** Postpaid-এ নেবো তাহলে। ভাইয়া, special number কি কেউ চুরি করতে পারে বা নিতে পারে?
+
+**১৪. এজেন্টঃ** স্যার, special number আপনার NID-তে registered থাকবে, অন্য কেউ নিতে পারবে না। তবে SIM security-র জন্য SIM Lock enable করবেন, PIN set করবেন, আর MyGP app-এ account secure রাখবেন।
+
+**১৫. কাস্টমারঃ** SIM Lock, PIN — করবো। আচ্ছা ভাইয়া, special number-এর monthly charge কি বেশি? নাকি শুধু কেনার সময়ই extra charge?
+
+**১৬. এজেন্টঃ** স্যার, শুধু কেনার সময়ই one-time premium price দিতে হবে। এরপর monthly charge normal postpaid plan-এর মতোই, কোনো extra premium নেই।
+
+**১৭. কাস্টমারঃ** One-time charge! সেটা ভালো, monthly extra নেই। ভাইয়া, তাহলে GP website-এ number browse করে পছন্দমতো একটা বেছে নেবো।
+
+**১৮. এজেন্টঃ** স্যার, gp.com.bd-তে "Special Number" section-এ যান। Filter-এ আপনার budget range দিন, পছন্দের pattern select করুন — available number দেখাবে। Reserve করতে পারবেন online-এ।
+
+**১৯. কাস্টমারঃ** gp.com.bd-তে যাবো। ধন্যবাদ রাফি ভাইয়া, ব্যবসার জন্য ভালো number পেলে অনেক সুবিধা হবে!
+
+**২০. এজেন্টঃ** স্যার, আপনার ব্যবসা আরো বড় হোক! Special number দিয়ে customer-দের impress করুন। ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ইনশাআল্লাহ! ধন্যবাদ ভাইয়া, ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 71ঃ কোম্পানির ৫০+ কর্মচারীর জন্য GP corporate connection নিতে চাওয়া (Wants GP corporate connection for company with 50+ employees)
+
+> কাস্টমার একটা garments factory-র HR manager। ৫০+ কর্মচারীর জন্য GP corporate SIM connection নিতে চান company bill-এ। Corporate plan-এর details জানতে চান।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি একটা garments factory-র HR manager। আমাদের ৫০ জন officer-এর জন্য GP corporate SIM connection নিতে চাই, company bill-এ। Corporate plan কিভাবে কাজ করে?
+
+**২. এজেন্টঃ** স্যার, আমি নাহিদ বলছি GP customer care থেকে। GP Business Solutions-এ corporate connection available আছে ৫০+ SIM-এর জন্য। আমি আপনাকে GP-র B2B team-এর সাথে connect করার ব্যবস্থা করি, তবে আগে basic information দিচ্ছি।
+
+**৩. কাস্টমারঃ** হ্যাঁ ভাইয়া, basic information দিন আগে। তারপর B2B team-এর সাথে কথা বলবো।
+
+**৪. এজেন্টঃ** স্যার, GP corporate plan-এ আপনার company-র নামে একটা master account থাকবে। সব ৫০টা SIM সেই account-এর under-এ থাকবে। Monthly bill একটাই আসবে company-র নামে, individual bill-এর ঝামেলা নেই।
+
+**৫. কাস্টমারঃ** একটাই bill, সেটা ভালো! Accounts team-এর জন্য easy হবে। আচ্ছা ভাইয়া, per SIM cost কত?
+
+**৬. এজেন্টঃ** স্যার, corporate plan-এ per SIM monthly cost customizable — আপনার usage requirement অনুযায়ী plan design হবে। সাধারণত ৫০+ SIM-এর bulk deal-এ per SIM ৩০০-৫০০ টাকায় unlimited GP-GP call, ২-৫GB data, আর SMS bundle include থাকে। B2B team exact pricing দেবে।
+
+**৭. কাস্টমারঃ** ৩০০-৫০০ per SIM, reasonable! কিন্তু আমাদের officer-রা GP ছাড়া অন্য operator-এও call করেন, সেটার জন্য কি?
+
+**৮. এজেন্টঃ** স্যার, corporate plan-এ cross-net minute-ও include থাকে। ৫০+ connection-এ negotiated rate পাবেন — GP-GP unlimited, cross-net ১০০-২০০ মিনিট per SIM। Extra usage হলে discounted per minute rate-এ bill হবে।
+
+**৯. কাস্টমারঃ** Cross-net-ও included, ভালো। আচ্ছা ভাইয়া, কিছু officer আছেন যারা বেশি call করেন, কিছু officer কম করেন। Different plan কি দেওয়া যায়?
+
+**১০. এজেন্টঃ** স্যার, জ্বী, GP corporate-এ "Tiered Plan" possible। Manager level-এ premium plan — unlimited call, ১০GB data। General officer-এ standard plan — limited call, ২GB data। HR হিসেবে আপনি decide করবেন কোন tier কাকে দিতে চান।
+
+**১১. কাস্টমারঃ** Tiered plan — perfect! MD আর Director-দের premium দেবো, বাকিদের standard। আচ্ছা ভাইয়া, corporate SIM-এ কি company control থাকে? মানে কোনো employee personal use করলে?
+
+**১২. এজেন্টঃ** স্যার, GP corporate portal আছে — সেখানে real-time usage monitoring, call limit set করা, data cap set করা — সব control পাবেন। কোনো employee limit cross করলে alert পাবেন, চাইলে restrict-ও করতে পারবেন।
+
+**১৩. কাস্টমারঃ** Corporate portal! Real-time monitoring, limit set — সেটা তো HR-এর জন্য dream feature। Portal access কিভাবে পাবো?
+
+**১৪. এজেন্টঃ** স্যার, corporate connection activate হলে GP B2B team আপনাকে corporate portal-এর login credentials দেবে। Web-based portal, যেকোনো browser থেকে access করতে পারবেন। Training-ও দেবে B2B team।
+
+**১৫. কাস্টমারঃ** Training-ও দেবে, ভালো! আচ্ছা ভাইয়া, corporate connection-এর জন্য কি documents লাগবে?
+
+**১৬. এজেন্টঃ** স্যার, company-র trade license, TIN certificate, company letterhead-এ application, authorized person-এর NID, আর employee list with NID numbers। B2B team exact document checklist দেবে।
+
+**১৭. কাস্টমারঃ** Trade license, TIN, employee NID list — সব ready আছে। কত দিনে connection পাবো?
+
+**১৮. এজেন্টঃ** স্যার, documents জমা দেওয়ার পর সাধারণত ৫-৭ কার্যদিবসের মধ্যে সব SIM ready হয়ে যায়। B2B team office-এ এসে SIM deliver আর setup করে দেবে।
+
+**১৯. কাস্টমারঃ** Office-এ এসে deliver! Convenient। ভাইয়া, B2B team-এর contact দিন, আমি যোগাযোগ করি।
+
+**২০. এজেন্টঃ** স্যার, GP Business Solutions-এর number ০১৭১১-৮৮৮৮৮৮ অথবা business@grameenphone.com-এ email করুন। আমি আপনার number B2B team-কে forward করছি, তারাও আপনাকে contact করবে।
+
+**২১. কাস্টমারঃ** দুই দিক থেকে contact, excellent! ধন্যবাদ নাহিদ ভাইয়া, খুব helpful ছিলেন। ভালো থাকবেন!
+
+**২২. এজেন্টঃ** স্যার, আপনার company-র সাথে GP-র partnership হোক! ভালো থাকবেন!
+
+**২৩. কাস্টমারঃ** ইনশাআল্লাহ! ভালো থাকবেন ভাইয়া!
+
+
+---
+
+
+## সিনারিও 72ঃ GP number Robi-তে port করতে চাওয়া — MNP সম্পর্কে জানতে চাওয়া (Wants to port GP number to Robi — MNP inquiry and retention attempt)
+
+> কাস্টমার GP-র service নিয়ে অসন্তুষ্ট, Robi-তে port করতে চান। এজেন্ট retention attempt করেন — ভালো offer দেন।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি GP ছেড়ে Robi-তে যেতে চাই। আমার এই GP number-ই Robi-তে নিয়ে যেতে পারবো? মানে MNP করতে চাই।
+
+**২. এজেন্টঃ** স্যার, আমি রাফি বলছি GP customer care থেকে। জ্বী, MNP বা Mobile Number Portability দিয়ে আপনার GP number Robi-তে নিয়ে যেতে পারবেন। তবে আমি জানতে চাই, GP-তে কি সমস্যা হচ্ছে? হয়তো আমরা solve করতে পারি।
+
+**৩. কাস্টমারঃ** ভাইয়া, আমার এলাকায় GP-র network খারাপ, call drop হয়, internet slow। Robi-র network ভালো শুনেছি।
+
+**৪. এজেন্টঃ** স্যার, আপনার এলাকার network সমস্যার কথা আমি note করছি। GP-র network team-কে জানাবো। তবে আপনি কি জানেন, GP সম্প্রতি আপনার এলাকায় 4G tower upgrade শুরু করেছে? আগামী ২-৩ মাসের মধ্যে network অনেক improve হবে।
+
+**৫. কাস্টমারঃ** ২-৩ মাস? ততদিন তো আমাকে suffer করতে হবে। Robi-তে এখনই ভালো network পাবো।
+
+**৬. এজেন্টঃ** স্যার, আপনার frustration বুঝতে পারি। তবে port করার আগে কিছু বিষয় জেনে রাখুন — আপনার GP Star Gold status আছে, এটা port করলে হারাবেন। Robi-তে নতুন customer হিসেবে start করতে হবে। আর আপনার বর্তমানে ২,৩০০ GP Star points আছে যেগুলো expire হয়ে যাবে।
+
+**৭. কাস্টমারঃ** ২,৩০০ points! সেগুলো হারাবো? আচ্ছা, সেটা একটু সমস্যা। তবু network ভালো না হলে কি করবো?
+
+**৮. এজেন্টঃ** স্যার, আপনার জন্য একটা special offer আছে। আপনি GP-র loyal customer, তাই আমি আপনাকে "Win Back" offer দিতে পারি — ৩ মাসের জন্য ৫০% discounted rate-এ ৫GB data pack, unlimited GP-GP call, আর ২০০ cross-net minute। এটা try করে দেখুন, network-ও improve হবে এই সময়ে।
+
+**৯. কাস্টমারঃ** ৫০% discount! সেটা তো ভালো offer। কিন্তু ৩ মাস পরে?
+
+**১০. এজেন্টঃ** স্যার, ৩ মাস পরেও আপনি সন্তুষ্ট না হলে MNP করতে পারবেন, কোনো restriction নেই। তবে আশা করি network upgrade হলে আপনি satisfied হবেন।
+
+**১১. কাস্টমারঃ** আচ্ছা, offer-টা নেবো। কিন্তু network improve না হলে port করবোই। MNP process-টা জেনে রাখি — কিভাবে করে?
+
+**১২. এজেন্টঃ** স্যার, MNP process সহজ। আপনার GP number থেকে "PORT" লিখে ২৮২৮ number-এ SMS পাঠাবেন। তারপর Robi-র retailer বা center-এ গিয়ে MNP request করবেন NID নিয়ে। ৭২ ঘণ্টার মধ্যে port complete হবে।
+
+**১৩. কাস্টমারঃ** PORT লিখে ২৮২৮-এ SMS, তারপর Robi center। সহজ। ৭২ ঘণ্টার মধ্যে হবে?
+
+**১৪. এজেন্টঃ** স্যার, জ্বী, ৭২ ঘণ্টা maximum time। তবে port করার কিছু condition আছে — আপনার GP number কমপক্ষে ৯০ দিন active থাকতে হবে, কোনো outstanding bill বা loan থাকলে clear করতে হবে, আর আগে ৯০ দিনের মধ্যে port করে থাকলে আবার করতে পারবেন না।
+
+**১৫. কাস্টমারঃ** ৯০ দিন active, আমার number ৫ বছরের পুরনো। কোনো bill নেই। তাহলে eligible।
+
+**১৬. এজেন্টঃ** স্যার, জ্বী, আপনি eligible। তবে আজকের special offer-টা activate করি? ৩ মাস ৫০% discount — try করে দেখুন, GP-কে আরেকটা chance দিন!
+
+**১৭. কাস্টমারঃ** ঠিক আছে ভাইয়া, GP-কে last chance দিচ্ছি। Offer activate করুন। কিন্তু ৩ মাস পরে network ভালো না হলে port করবো!
+
+**১৮. এজেন্টঃ** স্যার, offer activate করে দিলাম! আপনি SMS পাবেন confirmation-এর। Network complaint-ও আমি escalate করছি priority হিসেবে। ৩ মাসে দেখবেন improvement!
+
+**১৯. কাস্টমারঃ** ধন্যবাদ রাফি ভাইয়া, দেখি কি হয়। Offer-এর জন্য ধন্যবাদ!
+
+**২০. এজেন্টঃ** স্যার, GP আপনাকে হারাতে চায় না। কোনো সমস্যা হলে সরাসরি 121-এ call করবেন। ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ভালো থাকবেন ভাইয়া!
+
+
+---
+
+
+## সিনারিও 73ঃ Phone update-এর পর GP SIM "No Service" দেখাচ্ছে — troubleshooting (GP SIM showing 'No Service' after phone software update)
+
+> কাস্টমার-এর Samsung phone software update-এর পর GP SIM "No Service" বা "SIM not registered" দেখাচ্ছে। অন্য SIM ঠিক চলছে, শুধু GP SIM-এ সমস্যা।
+
+**১. কাস্টমারঃ** আপু, আমার Samsung phone-এ update দেওয়ার পর GP SIM "No Service" দেখাচ্ছে! অন্য slot-এ Banglalink SIM আছে সেটা ঠিক চলছে, শুধু GP SIM-এ সমস্যা।
+
+**২. এজেন্টঃ** স্যার, আমি তানহা বলছি GP customer care থেকে। Phone update-এর পর এই সমস্যা মাঝে মাঝে হয়। Banglalink চলছে মানে phone-এ hardware সমস্যা নেই, GP SIM বা network settings-এ কিছু হয়েছে। Step by step try করি।
+
+**৩. কাস্টমারঃ** হ্যাঁ আপু, Banglalink ঠিক চলছে। GP SIM-এ "No Service" লেখা।
+
+**৪. এজেন্টঃ** স্যার, প্রথমে GP SIM-টা বের করে আবার ভালো করে লাগান। SIM tray বের করুন, SIM card clean করুন, আবার ঢোকান।
+
+**৫. কাস্টমারঃ** SIM বের করে আবার দিলাম। এখনো "No Service" দেখাচ্ছে আপু।
+
+**৬. এজেন্টঃ** স্যার, ঠিক আছে। এবার Airplane Mode ON করুন, ১০ সেকেন্ড wait করুন, তারপর OFF করুন। এটা network fresh connect করতে help করে।
+
+**৭. কাস্টমারঃ** Airplane Mode ON, ১০ সেকেন্ড, OFF — করলাম। Wait করছি। আপু, এখনো same! "No Service"!
+
+**৮. এজেন্টঃ** স্যার, তাহলে network settings reset করি। Settings-এ যান, "General Management" বা "System"-এ যান, "Reset"-এ tap করুন, "Reset Network Settings" select করুন। এটা WiFi password, Bluetooth pairing মুছে দেবে, তবে network fresh start হবে।
+
+**৯. কাস্টমারঃ** WiFi password মুছে যাবে? ঠিক আছে, আবার দেবো। "Reset Network Settings" করছি। Phone restart হচ্ছে।
+
+**১০. এজেন্টঃ** স্যার, restart হলে GP SIM-এ network search করবে। কিছুক্ষণ wait করুন।
+
+**১১. কাস্টমারঃ** Phone চালু হলো — আপু! GP SIM-এ "Grameenphone" লেখা এসেছে! Signal bar-ও দেখাচ্ছে! কাজ করেছে!
+
+**১২. এজেন্টঃ** স্যার, excellent! Network settings reset কাজ করেছে। Update-এর পর পুরনো network configuration conflict করছিল, reset করায় fresh settings load হয়েছে।
+
+**১৩. কাস্টমারঃ** বুঝেছি আপু! Call try করি — হ্যাঁ, call যাচ্ছে! Internet-ও চলছে! Full solved!
+
+**১৪. এজেন্টঃ** স্যার, সব কাজ করছে, ভালো! এখন WiFi password আবার দিয়ে নিন। আর ভবিষ্যতে phone update-এর পর যদি এই সমস্যা হয়, Airplane Mode toggle আর Network Settings Reset — এই দুটো try করবেন।
+
+**১৫. কাস্টমারঃ** Airplane Mode আর Network Reset — মনে রাখবো। আচ্ছা আপু, GP SIM-টা কি পুরনো হয়ে গেছে? Change করা দরকার?
+
+**১৬. এজেন্টঃ** স্যার, আপনার SIM কতদিনের পুরনো? ৫ বছরের বেশি হলে SIM card-এর chip একটু worn out হতে পারে। GP Center-এ free SIM replacement পাবেন — same number, just নতুন SIM card।
+
+**১৭. কাস্টমারঃ** ৭ বছরের পুরনো SIM! তাহলে replace করাই ভালো। GP Center-এ NID নিয়ে গেলেই হবে?
+
+**১৮. এজেন্টঃ** স্যার, জ্বী, NID original নিয়ে GP Center-এ যান, "SIM Replacement" request করুন। ১০-১৫ মিনিটে নতুন SIM active হবে, same number, same balance, same pack — সব intact।
+
+**১৯. কাস্টমারঃ** ১০-১৫ মিনিট! তাহলে এই weekend-এ যাবো। ধন্যবাদ তানহা আপু, "No Service" problem solve হলো!
+
+**২০. এজেন্টঃ** স্যার, খুশি হলাম সমস্যা solve হয়েছে। SIM replacement-ও করিয়ে নিন, ভবিষ্যতে আর সমস্যা হবে না। ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ভালো থাকবেন আপু!
+
+
+---
+
+
+## সিনারিও 74ঃ MyGP app-এ login করতে পারছেন না — OTP আসছে না (Cannot login to MyGP app — OTP not arriving)
+
+> কাস্টমার MyGP app-এ login করতে চাইছেন কিন্তু OTP SMS আসছে না। Internet pack কিনতে app দরকার কিন্তু access পাচ্ছেন না।
+
+**১. কাস্টমারঃ** আপু, MyGP app-এ login করতে পারছি না! GP number দিচ্ছি, OTP আসার কথা কিন্তু SMS আসছে না। Internet pack কিনতে হবে urgent!
+
+**২. এজেন্টঃ** ম্যাম, আমি ফারজানা বলছি GP customer care থেকে। OTP না আসা বেশ common সমস্যা। কয়েকটা কারণে হতে পারে — আমি check করি।
+
+**৩. কাস্টমারঃ** হ্যাঁ আপু, ৩ বার try করেছি, কোনোবারই OTP আসেনি!
+
+**৪. এজেন্টঃ** ম্যাম, প্রথমে confirm করি — আপনি কি GP SIM দিয়েই app-এ login করছেন? মানে যে number দিচ্ছেন সেই SIM phone-এ আছে?
+
+**৫. কাস্টমারঃ** হ্যাঁ আপু, GP SIM phone-এই আছে, same number দিচ্ছি।
+
+**৬. এজেন্টঃ** ম্যাম, ঠিক আছে। এবার check করুন — phone-এ SMS inbox full হয়ে যায়নি তো? Inbox full থাকলে নতুন SMS আসে না।
+
+**৭. কাস্টমারঃ** SMS inbox check করি — আপু, ৯০০+ SMS আছে! Full হয়ে গেছে হয়তো!
+
+**৮. এজেন্টঃ** ম্যাম, সেটাই সমস্যা! পুরনো SMS কিছু delete করুন — বিশেষ করে promotional SMS গুলো। ১০০-২০০টা delete করুন, তারপর আবার OTP request করুন।
+
+**৯. কাস্টমারঃ** Promotional SMS delete করছি — অনেকগুলো delete করলাম। এখন আবার MyGP app-এ try করি। Number দিলাম, "Send OTP" tap করলাম। Wait করছি — আপু, OTP এসেছে! ৬ digit code!
+
+**১০. এজেন্টঃ** ম্যাম, OTP পেয়ে গেছেন! তাড়াতাড়ি enter করুন, OTP-র validity ৩ মিনিট।
+
+**১১. কাস্টমারঃ** OTP দিলাম — login হয়ে গেছে! MyGP app-এ ঢুকেছি! ধন্যবাদ আপু!
+
+**১২. এজেন্টঃ** ম্যাম, দারুণ! এখন internet pack কিনতে পারবেন। আচ্ছা ম্যাম, ভবিষ্যতে OTP সমস্যা এড়াতে regularly SMS inbox clean রাখবেন। আর MyGP app-এ "Stay Logged In" option enable করুন, তাহলে বারবার login করতে হবে না।
+
+**১৩. কাস্টমারঃ** "Stay Logged In" — সেটা কোথায় আপু?
+
+**১৪. এজেন্টঃ** ম্যাম, login করার সময় "Remember Me" বা "Keep Me Logged In" checkbox থাকে, সেটা tick করুন। আর app-এর Settings-এ "Auto Login" enable করুন।
+
+**১৫. কাস্টমারঃ** করে দিলাম। আচ্ছা আপু, MyGP app দিয়ে কি কি করতে পারি? শুধু pack কেনা ছাড়াও?
+
+**১৬. এজেন্টঃ** ম্যাম, অনেক কিছু! Balance check, pack কেনা, usage history দেখা, bill pay (postpaid হলে), offer browse করা, recharge করা, অন্যের number-এ recharge, GP Star points redeem, GP Center-এর location খুঁজে বের করা — সব এক app-এই।
+
+**১৭. কাস্টমারঃ** এতো features! আমি তো শুধু balance check-এর জন্যই *566# dial করতাম। এখন app দিয়েই করবো সব।
+
+**১৮. এজেন্টঃ** ম্যাম, MyGP app ব্যবহার করলে exclusive app-only offer-ও পাবেন — অনেক সময় app-এ pack কিনলে extra data bonus থাকে!
+
+**১৯. কাস্টমারঃ** App-only offer! সেটা তো bonus! ধন্যবাদ ফারজানা আপু, OTP problem solve হলো, app-এর features-ও জানলাম!
+
+**২০. এজেন্টঃ** ম্যাম, আপনাকেও ধন্যবাদ। Internet pack কিনে enjoy করুন, ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ভালো থাকবেন আপু!
+
+
+---
+
+
+## সিনারিও 75ঃ ছাত্র online class-এর জন্য সস্তা data pack চায় — student offer inquiry (Student wants cheapest data pack for online classes — student offer inquiry)
+
+> কাস্টমার বিশ্ববিদ্যালয়ের ছাত্র, budget কম। Online class-এর জন্য বেশি data দরকার কিন্তু খরচ কম রাখতে চান। GP student offer আছে কিনা জানতে চান।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি ঢাকা বিশ্ববিদ্যালয়ের student। Online class চলছে, প্রতিদিন ২-৩ ঘণ্টা Zoom-এ class করতে হয়। কিন্তু data pack-এ অনেক টাকা যাচ্ছে। GP-তে কি student-দের জন্য কোনো সস্তা data pack আছে?
+
+**২. এজেন্টঃ** স্যার, আমি নাহিদ বলছি GP customer care থেকে। জ্বী, GP-তে student-দের জন্য বিশেষ offer আছে। আপনার university-র student ID থাকলে special rate-এ data pack পাবেন।
+
+**৩. কাস্টমারঃ** Student ID আছে ভাইয়া! কি offer পাবো?
+
+**৪. এজেন্টঃ** স্যার, GP-র "Student Pack" offer-এ regular price-এর চেয়ে ৩০-৪০% কম দামে data পাবেন। যেমন, ১৫GB 30-day pack regular ৩৯৯ টাকা, student offer-এ ২৪৯ টাকায় পাবেন।
+
+**৫. কাস্টমারঃ** ২৪৯ টাকায় ১৫GB! সেটা তো অনেক save! কিভাবে activate করবো?
+
+**৬. এজেন্টঃ** স্যার, MyGP app open করুন, "Offers" section-এ "Student Pack" category-তে দেখুন। অথবা *121*3# dial করুন, student offer-এর list আসবে। প্রথমবার student verification-এর জন্য student ID-র photo upload করতে হতে পারে।
+
+**৭. কাস্টমারঃ** Student ID upload! আচ্ছা, করবো। ভাইয়া, Zoom-এ class করতে কত data লাগে? ১৫GB কতদিন চলবে?
+
+**৮. এজেন্টঃ** স্যার, Zoom-এ video call-এ প্রতি ঘণ্টায় প্রায় ৫০০MB-৮০০MB data লাগে। দিনে ৩ ঘণ্টা class হলে প্রায় ১.৫-২.৫GB per day। ১৫GB-তে প্রায় ৭-১০ দিন চলবে। পুরো মাসে ৪০-৫০GB দরকার হতে পারে।
+
+**৯. কাস্টমারঃ** ৪০-৫০GB! সেটা তো অনেক। ১৫GB-তে হবে না তাহলে। আরো বড় pack আছে?
+
+**১০. এজেন্টঃ** স্যার, GP-র "Mega Pack" আছে — ৫০GB, ৩০ দিনের, student offer-এ ৪৯৯ টাকা। এছাড়া একটা tip — Zoom-এর settings-এ video quality "Low" বা "Medium" set করলে data অর্ধেক খরচ হবে, তখন ৩০GB-তেও চলবে।
+
+**১১. কাস্টমারঃ** ৫০GB ৪৯৯ টাকায়! আর Zoom-এ quality কমালে data save! দুটোই করবো। ভাইয়া, আচ্ছা, রাতে data কম খরচে পাওয়া যায় শুনেছি?
+
+**১২. এজেন্টঃ** স্যার, জ্বী, GP-তে "Night Pack" আছে — রাত ১২টা থেকে সকাল ৮টা পর্যন্ত। ৫GB night pack মাত্র ৪৯ টাকা! Online class-এর recorded lecture রাতে download করে রাখতে পারেন, তাহলে দিনের data save হবে।
+
+**১৩. কাস্টমারঃ** ৫GB ৪৯ টাকায়! Recorded lecture রাতে download — smart idea! দিনের data শুধু live class-এ ব্যবহার হবে।
+
+**১৪. এজেন্টঃ** স্যার, ঠিক তাই! আরেকটা tip — WiFi available হলে সেটা ব্যবহার করুন, mobile data save হবে। University campus-এ WiFi থাকলে সেখানে ভারী download করুন।
+
+**১৫. কাস্টমারঃ** Campus-এ WiFi আছে, সেখানে ব্যবহার করি। কিন্তু hostel-এ WiFi নেই, সেখানে mobile data-ই ভরসা।
+
+**১৬. এজেন্টঃ** স্যার, বুঝেছি। তাহলে combination করুন — ৫০GB student pack ৪৯৯ টাকা + ৫GB night pack ৪৯ টাকা = মাসে ৫৫GB মাত্র ৫৪৮ টাকায়! এটা আপনার online class-এর জন্য enough হবে।
+
+**১৭. কাস্টমারঃ** ৫৫GB ৫৪৮ টাকায়! আগে শুধু ১০GB ৩৯৯ টাকায় কিনতাম! Student offer আর night pack combination-এ অনেক save!
+
+**১৮. এজেন্টঃ** স্যার, ঠিক তাই! Smart budgeting! পড়ালেখায় মনোযোগ দিন, data-র চিন্তা GP-র উপর ছেড়ে দিন!
+
+**১৯. কাস্টমারঃ** ধন্যবাদ নাহিদ ভাইয়া, অনেক helpful ছিলেন! Student pack আর night pack — দুটোই activate করবো!
+
+**২০. এজেন্টঃ** স্যার, আপনার পড়ালেখা ভালো হোক! কোনো প্রশ্ন থাকলে 121-এ call করবেন। ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ভালো থাকবেন ভাইয়া!
+
+
+---
+
+
+## সিনারিও 76ঃ GP SIM clone/duplicate হয়েছে সন্দেহ — অন্য কেউ আমার call receive করছে (Suspects GP SIM cloned — someone else receiving customer's calls)
+
+> কাস্টমারের বন্ধুরা বলছে তার number-এ call করলে অন্য কেউ receive করছে। কাস্টমার ভয় পেয়েছেন, SIM clone হয়েছে সন্দেহ করছেন।
+
+**১. কাস্টমারঃ** ভাইয়া, অনেক ভয়ের ব্যাপার! আমার বন্ধুরা বলছে আমার GP number-এ call দিলে অন্য একজন receive করছে! আমার SIM কি clone হয়ে গেছে?
+
+**২. এজেন্টঃ** স্যার, আমি রাফি বলছি GP customer care থেকে। এটা অবশ্যই serious, আমি এখনই investigate করি। আপনার number confirm করুন, আর বলুন কখন থেকে এই সমস্যা হচ্ছে?
+
+**৩. কাস্টমারঃ** আমার number ০১৭XX-XXXXXX। গতকাল থেকে। বন্ধু বলছে call দিলে একটা মেয়ে receive করছে, কিন্তু আমি কোনো call পাচ্ছি না!
+
+**৪. এজেন্টঃ** স্যার, আমি আপনার account check করছি। স্যার, একটা possibility — কেউ আপনার number-এ "Call Forwarding" activate করে দিয়েছে, তাই আপনার call অন্য number-এ forward হচ্ছে। SIM clone বাংলাদেশে অনেক rare।
+
+**৫. কাস্টমারঃ** Call Forwarding! আমি তো activate করিনি! কেউ কিভাবে করবে?
+
+**৬. এজেন্টঃ** স্যার, কেউ আপনার phone access পেলে বা কোনো link-এ click করে থাকলে remotely activate হতে পারে। আগে forwarding বন্ধ করি। আপনার phone থেকে ##002# dial করুন — এটা সব call forwarding cancel করে দেবে।
+
+**৭. কাস্টমারঃ** ##002# dial করছি। "All call forwarding cancelled" message এসেছে! মানে forwarding ছিল!
+
+**৮. এজেন্টঃ** স্যার, হ্যাঁ, কেউ আপনার call forward করে দিয়েছিল। এখন বন্ধ হয়ে গেছে। বন্ধুকে বলুন আবার call দিতে, এখন আপনার phone-ই ring করবে।
+
+**৯. কাস্টমারঃ** বন্ধুকে বলছি call দিতে — ভাইয়া, phone ring করছে! আমার phone-এই আসছে! Problem solved!
+
+**১০. এজেন্টঃ** স্যার, call forwarding ছিল সমস্যা, SIM clone না। তবে এটা security concern — কেউ আপনার phone access পেয়ে forwarding set করেছে। কিছু security measure নিন।
+
+**১১. কাস্টমারঃ** Security measure! কি করতে হবে ভাইয়া? আমি অনেক worried!
+
+**১২. এজেন্টঃ** স্যার, এক — phone-এ screen lock দিন, PIN বা fingerprint। দুই — GP SIM-এ SIM PIN enable করুন, phone restart হলে PIN ছাড়া SIM কাজ করবে না। তিন — MyGP app-এ password change করুন strong password দিয়ে। চার — সন্দেহজনক কোনো link-এ click করবেন না।
+
+**১৩. কাস্টমারঃ** SIM PIN enable করবো! সেটা কিভাবে?
+
+**১৪. এজেন্টঃ** স্যার, phone Settings-এ "Security" বা "Lock Screen & Security"-তে যান, "SIM Card Lock" option-এ "Lock SIM card" enable করুন। Default PIN 0000 বা 1234 হতে পারে, চালু করে নিজের মতো PIN set করুন। PIN ভুলে গেলে PUK code লাগবে, সেটা SIM-এর card-এ থাকে।
+
+**১৫. কাস্টমারঃ** SIM PIN set করছি। আচ্ছা ভাইয়া, আমার bKash GP number-এ linked, কেউ কি bKash access পেতে পারে call forwarding থাকলে?
+
+**১৬. এজেন্টঃ** স্যার, হ্যাঁ, call forwarding থাকলে bKash OTP অন্য number-এ যেতে পারতো! এটা বড় risk ছিল। এখনই bKash app check করুন, কোনো unauthorized transaction হয়েছে কিনা। bKash PIN-ও change করুন safety-র জন্য।
+
+**১৭. কাস্টমারঃ** bKash check করছি — Alhamdulillah, কোনো unauthorized transaction নেই! PIN change করে দিচ্ছি।
+
+**১৮. এজেন্টঃ** স্যার, ভালো! সময়মতো ধরা পড়েছে। আর একটা কাজ করুন — *#21# dial করুন, এটা দেখাবে কোনো call forwarding active আছে কিনা। Periodically check করবেন।
+
+**১৯. কাস্টমারঃ** *#21# — "No call forwarding active" দেখাচ্ছে। Safe! ভাইয়া, সবকিছু secure করে ফেললাম। ধন্যবাদ, অনেক বড় danger থেকে বাঁচালেন!
+
+**২০. এজেন্টঃ** স্যার, সতর্ক থাকবেন সবসময়। কোনো suspicious কিছু দেখলে সাথে সাথে 121-এ call করবেন। আপনি নিরাপদ থাকুন!
+
+**২১. কাস্টমারঃ** ইনশাআল্লাহ! ধন্যবাদ রাফি ভাইয়া, ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 77ঃ হজ্জে যাচ্ছেন — Saudi Arabia-র জন্য GP roaming pack চাই (Going for Hajj — wants GP roaming pack for Saudi Arabia)
+
+> কাস্টমার আগামী সপ্তাহে হজ্জে যাচ্ছেন Saudi Arabia-তে। GP number সাথে নিতে চান, roaming activate করতে চান, call আর internet ব্যবহার করতে চান।
+
+**১. কাস্টমারঃ** আপু, আমি আগামী সপ্তাহে হজ্জে যাচ্ছি Saudi Arabia-তে। আমার GP number সাথে নিয়ে যেতে চাই। Roaming কিভাবে activate করবো?
+
+**২. এজেন্টঃ** স্যার, আমি সায়মা বলছি GP customer care থেকে। মাশাআল্লাহ, হজ্জে যাচ্ছেন! আল্লাহ কবুল করুন। GP-র International Roaming দিয়ে Saudi Arabia-তে call, SMS আর internet সব ব্যবহার করতে পারবেন।
+
+**৩. কাস্টমারঃ** ধন্যবাদ আপু! Roaming activate করতে কি করতে হবে?
+
+**৪. এজেন্টঃ** স্যার, GP Roaming activate করতে *111*3# dial করুন অথবা MyGP app-এ "International Roaming" option-এ "Activate" করুন। তবে roaming activate-এর জন্য আপনার GP connection কমপক্ষে ৩ মাস পুরনো হতে হবে, আর postpaid হলে কোনো overdue bill থাকলে clear করতে হবে।
+
+**৫. কাস্টমারঃ** আমার GP SIM ১০ বছরের পুরনো, prepaid। তাহলে eligible তো?
+
+**৬. এজেন্টঃ** স্যার, অবশ্যই eligible! এখনই activate করতে পারি। তবে Saudi Arabia-তে GP roaming-এর rate জেনে রাখুন — incoming call প্রায় ৪০-৫০ টাকা/মিনিট, outgoing Bangladesh-এ call ৮০-১০০ টাকা/মিনিট, data ১৫-২০ টাকা/MB।
+
+**৭. কাস্টমারঃ** ১০০ টাকা per minute! ২০ টাকা per MB! সেটা তো অনেক বেশি! কোনো pack আছে যেটা সস্তা হবে?
+
+**৮. এজেন্টঃ** স্যার, জ্বী, GP-র "Hajj Roaming Pack" আছে! এটা specially হজ্জযাত্রীদের জন্য — ৯৯৯ টাকায় ৫০ মিনিট Bangladesh call, 500MB data, আর 50 SMS, ১৫ দিনের validity। Normal rate-এর চেয়ে অনেক সস্তা!
+
+**৯. কাস্টমারঃ** ৯৯৯ টাকায় ৫০ মিনিট আর 500MB! সেটাই নেবো। Hajj-এ ১৫-২০ দিন থাকবো, ১৫ দিনে শেষ হলে আবার কিনতে পারবো?
+
+**১০. এজেন্টঃ** স্যার, জ্বী, আবার কিনতে পারবেন। তবে আরেকটা tip — Hajj-এ WiFi available থাকে অনেক hotel-এ আর Haram Sharif-এ। WiFi দিয়ে WhatsApp call করলে data কম খরচ হবে, voice call-এর চেয়ে সস্তা।
+
+**১১. কাস্টমারঃ** WhatsApp call! সেটা ভালো idea। WiFi দিয়ে WhatsApp call করবো পরিবারকে। Data শুধু emergency-তে ব্যবহার করবো।
+
+**১২. এজেন্টঃ** স্যার, perfect plan! আরেকটা বিষয় — Saudi Arabia-তে landing-এর পর phone-এ "Data Roaming" ON করতে হবে। Settings-এ "Mobile Networks"-এ "Data Roaming" enable করুন, না হলে internet কাজ করবে না।
+
+**১৩. কাস্টমারঃ** Data Roaming ON, মনে রাখবো। আচ্ছা আপু, Bangladesh থেকে কেউ আমাকে call দিলে কি তাদেরও extra charge হবে?
+
+**১৪. এজেন্টঃ** স্যার, Bangladesh থেকে আপনাকে call দিলে caller-এর normal rate কাটবে, extra charge হবে না। তবে আপনার incoming call receive করলে আপনার roaming charge কাটবে।
+
+**১৫. কাস্টমারঃ** মানে আমি receive করলেও charge! তাহলে unnecessary call receive করবো না। পরিবারকে বলবো WhatsApp-এ call দিতে।
+
+**১৬. এজেন্টঃ** স্যার, exactly! WhatsApp call WiFi দিয়ে free। আর SMS receive করা free, তাই important notification SMS-এ আসবে, charge হবে না।
+
+**১৭. কাস্টমারঃ** SMS receive free, সেটা ভালো। আচ্ছা আপু, Hajj Pack activate করে দিন।
+
+**১৮. এজেন্টঃ** স্যার, Hajj Roaming Pack activate করে দিলাম! আপনি SMS পাবেন confirmation-এর। Saudi Arabia-তে landing করে Airplane Mode OFF করলে GP roaming automatically connect হবে।
+
+**১৯. কাস্টমারঃ** Activate হয়ে গেছে! ধন্যবাদ সায়মা আপু।
+
+**২০. এজেন্টঃ** স্যার, আল্লাহ আপনার হজ্জ কবুল করুন! নিরাপদ যাত্রা হোক। কোনো roaming সমস্যা হলে Saudi Arabia থেকেও 121-এ call করতে পারবেন।
+
+**২১. কাস্টমারঃ** আমিন! ধন্যবাদ আপু, আল্লাহ হাফেজ!
+
+**২২. এজেন্টঃ** আল্লাহ হাফেজ স্যার, নিরাপদে ফিরে আসুন!
+
+
+---
+
+
+## সিনারিও 78ঃ অজানা VAS subscription থেকে balance কেটে যাচ্ছে — রাগান্বিত কাস্টমার (Angry customer about unwanted VAS subscriptions auto-deducting balance)
+
+> কাস্টমার রাগান্বিত — প্রতিদিন balance কমে যাচ্ছে কিন্তু কোনো call বা internet ব্যবহার করেননি। VAS (Value Added Service) subscription থেকে auto-deduction হচ্ছে।
+
+**১. কাস্টমারঃ** ভাইয়া, GP আমার সাথে চুরি করছে! প্রতিদিন ৫-১০ টাকা করে balance গায়েব হয়ে যাচ্ছে! কোনো call করিনি, internet চালাইনি, তাও টাকা কাটছে! এটা কি ধরনের business?
+
+**২. এজেন্টঃ** স্যার, আমি নাহিদ বলছি GP customer care থেকে। আপনার রাগ বুঝতে পারছি, আর এই বিষয়টা seriously নিচ্ছি। আমি এখনই আপনার account check করে বলছি কেন balance কাটছে।
+
+**৩. কাস্টমারঃ** Check করুন! গত সপ্তাহে ২০০ টাকা recharge করেছিলাম, কিছু ব্যবহার করিনি, এখন balance ১২০ টাকা! ৮০ টাকা কোথায় গেলো?
+
+**৪. এজেন্টঃ** স্যার, আমি আপনার usage history দেখছি। স্যার, আপনার number-এ ৩টা VAS subscription active আছে — একটা "Daily Horoscope" service দৈনিক ৫ টাকা, একটা "Health Tips" service দৈনিক ৩ টাকা, আর একটা "Cricket Score" service দৈনিক ২.৩৮ টাকা। এগুলো থেকে auto-deduction হচ্ছে।
+
+**৫. কাস্টমারঃ** Horoscope! Health Tips! Cricket Score! আমি তো কোনোটাই activate করিনি! কিভাবে হলো?
+
+**৬. এজেন্টঃ** স্যার, এগুলো সাধারণত mobile browser-এ কোনো advertisement-এ click করলে বা কোনো website-এর pop-up-এ "OK" press করলে automatically subscribe হয়ে যায়। অনেক সময় customer জানেনই না।
+
+**৭. কাস্টমারঃ** মানে ভুলে click হয়ে গেছে আর টাকা কাটছে! এটা তো scam! GP কেন এসব allow করে?
+
+**৮. এজেন্টঃ** স্যার, আপনার complaint justified। BTRC-র নিয়ম অনুযায়ী VAS subscription-এ customer-এর explicit consent থাকতে হবে। আমি এখনই তিনটা VAS subscription বন্ধ করে দিচ্ছি।
+
+**৯. কাস্টমারঃ** বন্ধ করুন এখনই! আর আমার যে টাকা গেছে সেটা ফেরত দিন!
+
+**১০. এজেন্টঃ** স্যার, তিনটাই unsubscribe করে দিলাম। আর গত ৭ দিনে VAS থেকে কাটা মোট ৭২.৬৬ টাকা আপনার balance-এ refund করে দিচ্ছি। ২৪ ঘণ্টার মধ্যে refund পাবেন।
+
+**১১. কাস্টমারঃ** ৭২ টাকা refund! ঠিক আছে, কিন্তু আগেও কেটেছে তো! পুরনো টাকাগুলো?
+
+**১২. এজেন্টঃ** স্যার, গত ৩০ দিনের VAS charge refund করতে পারি, তার আগের জন্য আমাদের limitations আছে। ৩০ দিনের total VAS charge ছিল প্রায় ৩১০ টাকা। আমি full refund request raise করছি।
+
+**১৩. কাস্টমারঃ** ৩১০ টাকা! ৩১০ টাকা VAS-এ গেছে! ঠিক আছে, refund করুন। আর ভবিষ্যতে যাতে এরকম না হয় সেটা ensure করুন!
+
+**১৪. এজেন্টঃ** স্যার, ভবিষ্যতে VAS subscription block করতে আপনার number-এ "Content Lock" activate করে দিচ্ছি। এটা active থাকলে কোনো VAS subscription হবে না, কোনো third-party service charge হবে না।
+
+**১৫. কাস্টমারঃ** Content Lock! সেটা আগে কেন বলেননি? এটা by default চালু থাকা উচিত!
+
+**১৬. এজেন্টঃ** স্যার, আপনার কথা একদম সঠিক, আমি আপনার feedback record করছি management-এর জন্য। Content Lock activate করে দিলাম। এখন থেকে কোনো VAS subscription আর হবে না।
+
+**১৭. কাস্টমারঃ** Content Lock activate হয়ে গেছে? আর কোনো ভুল subscription হবে না?
+
+**১৮. এজেন্টঃ** স্যার, জ্বী, ১০০% safe। কোনো third-party content service এখন আর subscribe হবে না। আর আপনি নিজে check করতে চাইলে *121*5# dial করে active subscription list দেখতে পারবেন যেকোনো সময়।
+
+**১৯. কাস্টমারঃ** *121*5# — মনে রাখবো। আচ্ছা ভাইয়া, ৩১০ টাকা refund কবে পাবো?
+
+**২০. এজেন্টঃ** স্যার, ৭২.৬৬ টাকা ২৪ ঘণ্টায়, বাকি ২৩৭.৩৪ টাকা ৩-৫ কার্যদিবসে আপনার main balance-এ refund হবে। Refund হলে SMS পাবেন।
+
+**২১. কাস্টমারঃ** ৫ দিন, ঠিক আছে। ভাইয়া, রাগ করে কথা বলেছি, sorry। কিন্তু এটা সত্যিই frustrating ছিল।
+
+**২২. এজেন্টঃ** স্যার, আপনার রাগ সম্পূর্ণ যুক্তিসঙ্গত ছিল। GP-র পক্ষ থেকে আমি দুঃখিত এই অসুবিধার জন্য। ভবিষ্যতে আর এই সমস্যা হবে না, Content Lock active আছে। ভালো থাকবেন!
+
+**২৩. কাস্টমারঃ** ভালো থাকবেন ভাইয়া, ধন্যবাদ!
+
+
+---
+
+
+## সিনারিও 79ঃ GP postpaid bill অস্বাভাবিক বেশি এসেছে — itemized bill চাওয়া (GP postpaid bill unusually high — wants itemized bill review)
+
+> কাস্টমার GP postpaid user। এ মাসের bill সাধারণত ৮০০-১,০০০ টাকা হয়, কিন্তু এবার ৩,৫০০ টাকা এসেছে। কেন বেশি হলো জানতে চান।
+
+**১. কাস্টমারঃ** আপু, আমার GP postpaid bill এই মাসে ৩,৫০০ টাকা এসেছে! সাধারণত ৮০০-১,০০০ টাকার মধ্যে থাকে। কেন এত বেশি? Breakdown দেখতে চাই।
+
+**২. এজেন্টঃ** ম্যাম, আমি তানহা বলছি GP customer care থেকে। ৩,৫০০ টাকা! সেটা তো বেশি পার্থক্য। আমি এখনই আপনার itemized bill check করি।
+
+**৩. কাস্টমারঃ** হ্যাঁ আপু, ৩ গুণ বেশি! কিছু extra ব্যবহার করিনি আমি।
+
+**৪. এজেন্টঃ** ম্যাম, আপনার এই মাসের bill breakdown দেখাচ্ছে — monthly plan charge ৫৯৯ টাকা (এটা regular), voice call ৩৫০ টাকা (এটাও normal range-এ), কিন্তু "Data Usage" charge ২,৪৫০ টাকা! আপনার plan-এ ৫GB data included ছিল, সেটা মাসের মাঝামাঝিতেই শেষ হয়ে গেছে, তারপর থেকে pay-per-use rate-এ data charge হয়েছে।
+
+**৫. কাস্টমারঃ** ২,৪৫০ টাকা data charge! আমি তো জানতামই না data pack শেষ হয়ে গেছে! GP কোনো alert দেয়নি?
+
+**৬. এজেন্টঃ** ম্যাম, GP data usage ৮০% আর ১০০% হলে SMS alert পাঠায়। আপনার phone-এ SMS check করুন — হয়তো miss হয়ে গেছে। তবে আপনার usage দেখাচ্ছে ৫GB শেষ হওয়ার পর আরো ১২GB data ব্যবহার হয়েছে pay-per-use rate-এ।
+
+**৭. কাস্টমারঃ** ১২GB extra! আমি এত data কিভাবে ব্যবহার করলাম? Video দেখি মাঝে মাঝে, কিন্তু ১২GB?
+
+**৮. এজেন্টঃ** ম্যাম, ১২GB-র বেশিরভাগ বিকেল ৪টা থেকে রাত ১০টার মধ্যে ব্যবহার হয়েছে। আপনার phone-এ কোনো app background-এ data ব্যবহার করছে কিনা check করুন — YouTube, Netflix, বা কোনো app-এ auto-play চালু থাকলে অনেক data যায়।
+
+**৯. কাস্টমারঃ** YouTube! হ্যাঁ, ছেলে আমার phone-এ YouTube দেখে বিকেলে। তাহলে সেখান থেকেই গেছে! কিন্তু আপু, pay-per-use rate-এ তো অনেক বেশি charge!
+
+**১০. এজেন্টঃ** ম্যাম, ঠিক বলেছেন। Pay-per-use rate-এ per MB প্রায় ২ টাকা, কিন্তু data pack-এ per MB ০.১০ টাকা — ২০ গুণ বেশি! তাই pack শেষ হওয়ার আগেই নতুন pack কেনা উচিত।
+
+**১১. কাস্টমারঃ** ২০ গুণ! তাহলে ১২GB-র জন্য pack কিনলে কত হতো?
+
+**১২. এজেন্টঃ** ম্যাম, ১৫GB add-on pack মাত্র ৩৯৯ টাকা! মানে ২,৪৫০ টাকার জায়গায় মাত্র ৩৯৯ টাকা! আপনি ২,০৫০ টাকা save করতে পারতেন।
+
+**১৩. কাস্টমারঃ** ২,০৫০ টাকা save! এটা আমার ভুল হয়েছে, জানতাম না data শেষ। কিন্তু GP-র উচিত ছিল stronger alert দেওয়া!
+
+**১৪. এজেন্টঃ** ম্যাম, আপনার জন্য একটা solution — "Data Cap" বা "Spending Limit" set করতে পারি। Data pack শেষ হলে automatically data বন্ধ হয়ে যাবে, pay-per-use charge হবে না। চাইলে activate করি?
+
+**১৫. কাস্টমারঃ** Data Cap! সেটা activate করুন! Data শেষ হলে internet বন্ধ হোক, extra charge চাই না।
+
+**১৬. এজেন্টঃ** ম্যাম, Data Cap activate করে দিলাম। এখন থেকে data pack শেষ হলে internet speed ০ হবে, কোনো extra charge হবে না। নতুন pack কিনলেই আবার চালু হবে। আর একটু — আপনার plan-এ ৫GB included, সেটা ১০GB plan-এ upgrade করলে আরো ভালো হবে, মাত্র ১৫০ টাকা extra per month।
+
+**১৭. কাস্টমারঃ** ১০GB plan-এ upgrade! করুন আপু। আর এবারের bill — ৩,৫০০ টাকা একবারে দিতে পারবো না। Installment-এ দিতে পারি?
+
+**১৮. এজেন্টঃ** ম্যাম, GP-তে bill installment option আছে। ৩,৫০০ টাকা ৩ মাসে ভাগ করে দিতে পারবেন — প্রতি মাসে প্রায় ১,১৭০ টাকা, regular bill-এর সাথে। Interest নেই। Activate করি?
+
+**১৯. কাস্টমারঃ** ৩ মাসের installment, interest নেই — করুন আপু! এবারের ভুল থেকে শিখলাম, Data Cap আর plan upgrade দুটোই করে ফেললাম।
+
+**২০. এজেন্টঃ** ম্যাম, installment set করে দিলাম, plan upgrade-ও হয়ে গেছে। Data Cap active — এখন থেকে surprise bill আর আসবে না! ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ধন্যবাদ তানহা আপু, অনেক সমস্যার সমাধান হলো আজকে! ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 80ঃ GP account hack হয়েছে — MyGP password changed, eSIM order দেওয়া হয়েছে (GP account hacked — someone changed MyGP password and ordered eSIM)
+
+> কাস্টমার MyGP app-এ login করতে পারছেন না, password change-এর SMS পেয়েছেন যেটা তিনি করেননি। eSIM conversion request-ও পেয়েছেন। Account compromise হয়েছে।
+
+**১. কাস্টমারঃ** ভাইয়া, emergency! আমার MyGP account hack হয়েছে! Password change-এর SMS পেয়েছি, কিন্তু আমি change করিনি! আর eSIM conversion request-এর SMS-ও এসেছে! কেউ আমার GP number নিয়ে নিচ্ছে!
+
+**২. এজেন্টঃ** স্যার, আমি রাফি বলছি GP customer care থেকে। এটা critical security issue, আমি এখনই action নিচ্ছি। প্রথমে আপনার identity verify করি — আপনার NID-র শেষ ৪ ডিজিট বলুন।
+
+**৩. কাস্টমারঃ** ১২৩৪! দ্রুত করুন ভাইয়া, eSIM activate হলে আমার physical SIM বন্ধ হয়ে যাবে!
+
+**৪. এজেন্টঃ** স্যার, verified। আমি এখনই eSIM conversion request cancel করছি আর আপনার MyGP account-এ temporary lock দিচ্ছি যাতে hacker আর কিছু করতে না পারে। Done — eSIM request cancelled, account locked।
+
+**৫. কাস্টমারঃ** Alhamdulillah! সময়মতো ধরা পড়েছে! কিন্তু ভাইয়া, hacker কিভাবে আমার MyGP-তে ঢুকলো?
+
+**৬. এজেন্টঃ** স্যার, কয়েকভাবে হতে পারে — আপনার MyGP password কি অন্য কোনো website-এও ব্যবহার করেন? কোনো data breach হলে সেখান থেকে password পেয়ে যেতে পারে। অথবা phishing link-এ click করে login information দিয়ে থাকতে পারেন।
+
+**৭. কাস্টমারঃ** হ্যাঁ, same password অনেক জায়গায় ব্যবহার করি! সেটা ভুল হয়েছে।
+
+**৮. এজেন্টঃ** স্যার, প্রতিটা account-এ unique password ব্যবহার করা উচিত। এখন আমরা আপনার account recover করি। আমি MyGP account unlock করছি আর নতুন password set করতে OTP পাঠাচ্ছি আপনার number-এ।
+
+**৯. কাস্টমারঃ** OTP পাঠান! নতুন strong password দেবো।
+
+**১০. এজেন্টঃ** স্যার, OTP পাঠিয়ে দিলাম। আর নতুন password set করার সময় — minimum ৮ characters, uppercase, lowercase, number, আর special character মিলিয়ে দিন। "Gp@2024" এরকম না, কঠিন কিছু দিন।
+
+**১১. কাস্টমারঃ** OTP পেয়েছি, নতুন password set করছি — strong একটা দিলাম। Login হয়ে গেছে! Account ফেরত পেলাম!
+
+**১২. এজেন্টঃ** স্যার, excellent! এখন কিছু additional security measure নিন। এক — MyGP app-এ "Two-Factor Authentication" enable করুন, login-এ password-এর সাথে OTP-ও লাগবে। দুই — SIM Lock enable করুন phone Settings থেকে।
+
+**১৩. কাস্টমারঃ** Two-Factor Authentication enable করছি। আচ্ছা ভাইয়া, hacker কি আমার account থেকে কিছু করেছে? Pack কিনেছে বা balance transfer করেছে?
+
+**১৪. এজেন্টঃ** স্যার, check করছি — হ্যাঁ, hacker আপনার account থেকে ১০০ টাকা balance transfer করেছে অন্য একটা number-এ, আর একটা ৯৯ টাকার data pack কিনেছে। মোট ১৯৯ টাকা damage।
+
+**১৫. কাস্টমারঃ** ১৯৯ টাকা! Refund পাবো? আর যে number-এ transfer হয়েছে সেটা কার?
+
+**১৬. এজেন্টঃ** স্যার, ১৯৯ টাকা refund করে দিচ্ছি আপনার balance-এ। Recipient number-এর information আমরা law enforcement-কে দিতে পারি, কিন্তু আপনাকে directly দেওয়া allowed না privacy policy-র কারণে। আপনি চাইলে nearest thana-য় GD (General Diary) করতে পারেন।
+
+**১৭. কাস্টমারঃ** GD করবো, ১৯৯ টাকার জন্য না, কিন্তু hacker-কে ধরতে হবে! Refund-এর জন্য ধন্যবাদ।
+
+**১৮. এজেন্টঃ** স্যার, সঠিক সিদ্ধান্ত। GD করলে GP reference number দরকার হবে — আপনার case-এর reference number হচ্ছে GP-SEC-2024-XXXXX, এটা note করুন।
+
+**১৯. কাস্টমারঃ** GP-SEC-2024-XXXXX — note করলাম। ভাইয়া, সব password change করবো — email, Facebook, bKash সব।
+
+**২০. এজেন্টঃ** স্যার, অবশ্যই! সব account-এ unique password দিন আর Two-Factor Authentication enable করুন যেখানে available। আপনার GP account এখন safe, কোনো concern হলে 121-এ call করবেন।
+
+**২১. কাস্টমারঃ** ধন্যবাদ রাফি ভাইয়া, আমার GP number বাঁচিয়ে দিলেন! ভালো থাকবেন!
+
+**২২. এজেন্টঃ** স্যার, সতর্ক থাকবেন। Digital security সবার জন্য important। ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 81ঃ FnF number ভুল set হওয়ায় call charge বেশি যাচ্ছে — FnF management (Wrong FnF number causing high call charges — FnF setup and management)
+
+> কাস্টমার লক্ষ্য করেছেন যে নির্দিষ্ট কিছু number-এ call করতে বেশি charge হচ্ছে। FnF (Friends and Family) list-এ ভুল number আছে, সঠিক number add করতে চান।
+
+**১. কাস্টমারঃ** ভাইয়া, আমার GP SIM-এ কিছু number-এ call করলে অনেক বেশি charge কাটে। কিন্তু FnF rate তো কম হওয়ার কথা, তাই না?
+
+**২. এজেন্টঃ** Sir, আমি তানিম বলছি GP customer care থেকে। জ্বী, FnF number-এ call করলে discounted rate পাবেন। আমি check করি আপনার FnF list-এ কোন number গুলো আছে।
+
+**৩. কাস্টমারঃ** হ্যাঁ ভাইয়া, check করুন। আমি প্রতিদিন বউকে আর office-এ অনেক call করি, charge অনেক বেশি যাচ্ছে।
+
+**৪. এজেন্টঃ** Sir, আপনার FnF list-এ ২টা number আছে — একটা ০১৩XX আর আরেকটা ০১৯XX। এই number দুটো কি আপনার বউ আর office-এর? নাকি অন্য কারো?
+
+**৫. কাস্টমারঃ** ০১৩XX? এটা তো আমার পুরনো বন্ধুর number, ওকে এখন call-ই করি না! আর ০১৯XX — এটা চিনি না! বউ-এর number ০১৭XX, office ০১৫XX — দুটোই FnF-এ নেই!
+
+**৬. এজেন্টঃ** Sir, তাহলে আপনি বউ আর office-এ regular rate-এ call করছেন, FnF discount পাচ্ছেন না। এজন্যই charge বেশি লাগছে। পুরনো number গুলো remove করে সঠিক গুলো add করে দিই?
+
+**৭. কাস্টমারঃ** হ্যাঁ ভাইয়া, পুরনো দুটো remove করে বউ আর office-এর number add করুন।
+
+**৮. এজেন্টঃ** Sir, ০১৩XX আর ০১৯XX remove করে দিলাম। নতুন FnF-এ ০১৭XX আর ০১৫XX add করে দিচ্ছি। আপনার plan-এ maximum ৫টা FnF number add করতে পারবেন, এখন ২টা দিলাম, আরো ৩টা slot খালি।
+
+**৯. কাস্টমারঃ** ৫টা পর্যন্ত! তাহলে মা-বাবা আর ভাইয়ের number-ও add করতে চাই।
+
+**১০. এজেন্টঃ** Sir, number গুলো বলুন, আমি add করে দিচ্ছি।
+
+**১১. কাস্টমারঃ** মা — ০১৭XX-YYYYYY, বাবা — ০১৫XX-ZZZZZZ, ভাই — ০১৮XX-AAAAAA।
+
+**১২. এজেন্টঃ** Sir, তিনটাই add করে দিলাম। এখন আপনার FnF list-এ ৫টা number — বউ, office, মা, বাবা, ভাই। এই ৫টা number-এ call করলে per minute rate প্রায় ০.৫০ টাকা, normal rate ১.৫০ টাকার বদলে!
+
+**১৩. কাস্টমারঃ** ০.৫০ বনাম ১.৫০! মানে ৩ ভাগের ১ ভাগ! এত দিন বউকে ১.৫০ rate-এ call করেছি! কত টাকা extra গেছে!
+
+**১৪. এজেন্টঃ** Sir, হ্যাঁ, এখন থেকে অনেক save হবে। আর ভবিষ্যতে নিজেই FnF manage করতে পারবেন — *121*2# dial করলে FnF menu আসবে, add, remove, view সব করতে পারবেন।
+
+**১৫. কাস্টমারঃ** *121*2# — সহজ! নিজেই পারবো। ভাইয়া, FnF number কি শুধু GP number হতে হবে, নাকি Robi-Banglalink-ও দেওয়া যায়?
+
+**১৬. এজেন্টঃ** Sir, FnF-এ যেকোনো operator-এর number দিতে পারবেন — GP, Robi, Banglalink, Teletalk সব। তবে GP-to-GP FnF rate সবচেয়ে কম, cross-net FnF rate একটু বেশি হতে পারে।
+
+**১৭. কাস্টমারঃ** বুঝলাম, GP-to-GP cheapest। ভাইয়া, FnF change করতে কি কোনো charge লাগে?
+
+**১৮. এজেন্টঃ** Sir, FnF number add করা free। তবে FnF number change বা remove করলে ১০ টাকা charge হতে পারে per change। তাই ভেবেচিন্তে FnF set করুন, বারবার change করলে charge হবে।
+
+**১৯. কাস্টমারঃ** ১০ টাকা per change, ঠিক আছে। এবার ৫টা সঠিক number দিয়ে দিয়েছি, change করার plan নেই।
+
+**২০. এজেন্টঃ** Sir, perfect! এখন থেকে আপনার সবচেয়ে বেশি call করা number গুলোতে FnF discount পাবেন। Monthly অনেক save হবে। ভালো থাকবেন!
+
+**২১. কাস্টমারঃ** ধন্যবাদ তানিম ভাইয়া, আগে জানলে ভালো হতো! ভালো থাকবেন!
+
+
+---
+
+
+## সিনারিও 82ঃ মৃত বাবার GP number নিজের নামে নিতে চাওয়া — ownership transfer of deceased person's SIM (Wants to transfer deceased father's GP number to own name)
+
+> কাস্টমারের বাবা মারা গেছেন। বাবার GP number-টা পরিবারের জন্য গুরুত্বপূর্ণ — অনেক business contact এই number-এ যোগাযোগ করে। ছেলে number-টা নিজের নামে transfer করতে চান।
+
+**১. কাস্টমারঃ** আপু, আমার বাবা গত মাসে মারা গেছেন, ইন্নালিল্লাহ। বাবার GP number-টা আমার নামে transfer করতে চাই। বাবার ব্যবসায়িক সব contact এই number-এ call করে।
+
+**২. এজেন্টঃ** Sir, আমি ফারজানা বলছি GP customer care থেকে। আপনার বাবার জন্য আল্লাহর কাছে মাগফিরাত কামনা করছি। জ্বী sir, মৃত ব্যক্তির SIM নিকটাত্মীয়ের নামে transfer করা যায়। আমি process-টা বলছি।
+
+**৩. কাস্টমারঃ** ধন্যবাদ আপু। কি কি document লাগবে?
+
+**৪. এজেন্টঃ** Sir, কয়েকটা document লাগবে — আপনার NID original আর photocopy, বাবার death certificate, বাবার NID-র photocopy (যদি থাকে), আর succession certificate বা উত্তরাধিকার সনদ। এগুলো নিয়ে নিকটস্থ GP Center-এ যেতে হবে।
+
+**৫. কাস্টমারঃ** Death certificate আছে, আমার NID আছে। কিন্তু succession certificate নেই আপু। সেটা ছাড়া হবে না?
+
+**৬. এজেন্টঃ** Sir, succession certificate ছাড়া alternative হিসেবে — chairman বা ward councillor-এর কাছ থেকে "Legal Heir Certificate" বা "উত্তরাধিকার প্রত্যয়নপত্র" নিতে পারেন। সেটাও গ্রহণযোগ্য হবে। Local union parishad বা municipality office থেকে পাবেন।
+
+**৭. কাস্টমারঃ** Chairman-এর কাছ থেকে certificate! সেটা manage করতে পারবো। আচ্ছা আপু, এই transfer-এ কত দিন লাগবে?
+
+**৮. এজেন্টঃ** Sir, GP Center-এ documents submit করলে সাধারণত ৭-১০ কার্যদিবসে verification হয়ে transfer complete হয়। মাঝে মাঝে একটু বেশি সময় লাগতে পারে document verification-এ।
+
+**৯. কাস্টমারঃ** ৭-১০ দিন, ঠিক আছে। আচ্ছা আপু, transfer হওয়ার আগ পর্যন্ত number-টা চালু থাকবে তো? বাবার SIM আমার phone-এ ব্যবহার করছি।
+
+**১০. এজেন্টঃ** Sir, জ্বী, transfer process চলাকালীন number চালু থাকবে, কোনো সমস্যা নেই। তবে নিশ্চিত করুন যে balance-এ recharge আছে, কারণ validity শেষ হলে number বন্ধ হতে পারে।
+
+**১১. কাস্টমারঃ** Balance আছে, regularly recharge করছি। আচ্ছা আপু, transfer-এ কোনো fee আছে?
+
+**১২. এজেন্টঃ** Sir, ownership transfer-এর জন্য GP service fee ২০০ টাকা। GP Center-এ documents submit করার সময় এই fee দিতে হবে।
+
+**১৩. কাস্টমারঃ** ২০০ টাকা, সেটা ঠিক আছে। আচ্ছা আপু, transfer হলে বাবার existing balance, pack — এসব কি থাকবে নাকি চলে যাবে?
+
+**১৪. এজেন্টঃ** Sir, transfer হলে existing balance, active data pack, SMS pack — সব intact থাকবে। শুধু ownership change হবে, বাকি সব same। Number-ও same থাকবে।
+
+**১৫. কাস্টমারঃ** Number same, balance same — ভালো। মানে customer-রা আগের মতোই এই number-এ call করতে পারবে।
+
+**১৬. এজেন্টঃ** Sir, exactly! Number change হচ্ছে না, শুধু NID registration আপনার নামে হবে। বাইরে থেকে কেউ বুঝবে না কোনো change হয়েছে।
+
+**১৭. কাস্টমারঃ** Perfect। আচ্ছা আপু, বাবার নামে আরেকটা GP number ছিল, সেটা আর দরকার নেই। সেটা বন্ধ করতে চাই।
+
+**১৮. এজেন্টঃ** Sir, সেই number-ও GP Center-এ same documents নিয়ে গিয়ে "SIM Deactivation Request" দিতে পারবেন। একই visit-এ একটা transfer আর একটা deactivation — দুটোই করিয়ে নিন।
+
+**১৯. কাস্টমারঃ** একই visit-এ দুটো! সুবিধা। আগামী সপ্তাহে chairman-এর certificate নিয়ে GP Center-এ যাবো।
+
+**২০. এজেন্টঃ** Sir, documents-এর checklist আবার বলি — আপনার NID original ও copy, বাবার death certificate, legal heir certificate, আর বাবার NID copy। সব নিয়ে Dhanmondi বা Motijheel GP Center-এ যান, ওখানে ownership transfer desk আছে।
+
+**২১. কাস্টমারঃ** সব note করে নিলাম আপু। ধন্যবাদ অনেক, আপনি অনেক helpful ছিলেন।
+
+**২২. এজেন্টঃ** Sir, আবারও আপনার বাবার জন্য দোয়া করছি। কোনো support লাগলে 121-এ call করবেন। ভালো থাকবেন।
+
+**২৩. কাস্টমারঃ** আমিন। ভালো থাকবেন আপু।
+
+
+---
+
+
+## সিনারিও 83ঃ জিপি স্টার লয়্যালটি প্রোগ্রামের স্ট্যাটাস চেক এবং ডিসকাউন্ট রিডিম করা (Checking GP Star loyalty program status and redeeming discount)
+
+> কাস্টমার তার জিপি স্টার স্ট্যাটাস জানতে চান এবং পার্টনার রেস্টুরেন্টে ডিসকাউন্ট ব্যবহারের নিয়ম সম্পর্কে জিজ্ঞাসা করছেন।
+
+**১. কাস্টমারঃ** আপু, আমি অনেক দিন ধরে জিপি ব্যবহার করছি। আমার এক ফ্রেন্ড বললো আমি নাকি GP Star গ্রাহক। এটা আসলে কী এবং আমি কীভাবে এর সুবিধা পাবো?
+
+**২. এজেন্টঃ** Mam, আমি তানিয়া বলছি GP customer care থেকে। GP Star হচ্ছে আমাদের বিশ্বস্ত গ্রাহকদের জন্য একটি loyalty program, যার মাধ্যমে আপনি বিভিন্ন brand-এ special discount পাবেন।
+
+**৩. কাস্টমারঃ** আচ্ছা, আমি কি আসলেই GP Star? এটা কীভাবে চেক করবো? আর আমার কী star status আছে তা কীভাবে জানা যাবে?
+
+**৪. এজেন্টঃ** Mam, আপনি বর্তমানে Silver star status-এ আছেন। আপনার status চেক করতে mobile-এর message option-এ গিয়ে STAR লিখে send করুন 29000 number-এ, অথবা MyGP app-এ সরাসরি দেখতে পাবেন।
+
+**৫. কাস্টমারঃ** ও আচ্ছা, আমি Silver star! তো সিলভার স্টার হিসেবে আমি কী কী ডিসকাউন্ট বা অফার পাবো? একটু বুঝিয়ে বলবেন কি?
+
+**৬. এজেন্টঃ** Mam, আপনি বিভিন্ন partner outlets যেমন restaurants, hospitals, fashion house এবং travel booking-এ ৫% থেকে ২০% পর্যন্ত exclusive discount সুবিধা উপভোগ করতে পারবেন।
+
+**৭. কাস্টমারঃ** আমাদের ধানমন্ডির কোনো নামকরা restaurant বা cafe-তে কি ডিসকাউন্ট পাওয়া যাবে? আর সেখানে গিয়ে ডিসকাউন্ট দাবি করার process-টা আসলে কেমন?
+
+**৮. এজেন্টঃ** Mam, ধানমন্ডির অনেক restaurant-এ discount আছে। যেমন, "CP" বা "Gloria Jean's"-এ বিল দেওয়ার সময় outlet-এর specific code-টি লিখে 29000-এ SMS পাঠালে একটি reply code পাবেন, যা ক্যাশিয়ারে দেখাতে হবে।
+
+**৯. কাস্টমারঃ** আচ্ছা, এই SMS পাঠানোর জন্য কি কোনো charge কাটবে? নাকি এটা সম্পূর্ণ free? আর SMS-এর code-টা কীভাবে পাবো?
+
+**১০. এজেন্টঃ** Mam, এই verification SMS পাঠানো সম্পূর্ণ free, কোনো charge কাটবে না। আর outlet-এর code-টি ক্যাশিয়ারের কাছে বা আমাদের MyGP app-এর GP Star section-এ পেয়ে যাবেন।
+
+**১১. কাস্টমারঃ** দারুণ তো! আমি কি আমার star points ব্যবহার করে কোনো free internet বা talktime কিনতে পারবো? আমার কত points আছে?
+
+**১২. এজেন্টঃ** Mam, GP Star-এ আলাদা কোনো point system নেই। এটি সম্পূর্ণ আপনার monthly usage-এর ওপর ভিত্তি করে status নির্ধারণ করে। তবে আপনি MyGP app-এ star গ্রাহকদের জন্য exclusive internet packs কিনতে পারবেন।
+
+**১৩. কাস্টমারঃ** ও আচ্ছা, points নেই! তাহলে আমি কীভাবে Silver থেকে Gold বা Platinum star-এ upgrade হতে পারবো? সেটার নিয়ম কী?
+
+**১৪. এজেন্টঃ** Mam, Star status upgrade হয় আপনার প্রতি ৩ মাসের average usage বিলের ওপর। Silver-এর জন্য minimum ২৫০ টাকা, Gold-এর জন্য ৭৫০ টাকা আর Platinum-এর জন্য ২,০০০ টাকা usage প্রয়োজন।
+
+**১৫. কাস্টমারঃ** বুঝতে পেরেছি। আমার মা একজন GP user, উনি কি আমার এই স্টার ডিসকাউন্ট ব্যবহার করতে পারবেন? নাকি SIM মালিককেই সশরীরে থাকতে হবে?
+
+**১৬. এজেন্টঃ** Mam, ডিসকাউন্ট কোডটি আপনার phone-এ SMS-এর মাধ্যমে আসবে। তাই code-টি ক্যাশিয়ারে দেখালেই হবে, SIM-এর মালিককে সশরীরে সেখানে উপস্থিত থাকার কোনো বাধ্যবাধকতা নেই।
+
+**১৭. কাস্টমারঃ** এটা তো খুব ভালো সুবিধা! আচ্ছা, ঢাকার বাইরে যেমন সিলেটে বা চট্টগ্রামে গেলেও কি এই স্টার ডিসকাউন্টগুলো কাজ করবে?
+
+**১৮. এজেন্টঃ** Mam, অবশ্যই! এটি একটি nationwide program। সারা বাংলাদেশের যেকোনো partner brand বা outlet-এ আমাদের GP Star discount সুবিধা সমানভাবে প্রযোজ্য হবে।
+
+**১৯. কাস্টমারঃ** থ্যাংক ইউ আপু। আমি আজকেই ধানমন্ডি গিয়ে এই offer-টি try করবো। MyGP app-এ partner outlets-এর full list-টা চেক করে নেবো।
+
+**২০. এজেন্টঃ** Mam, আপনাকে স্বাগত। MyGP app-এ dynamic map-ও আছে, যা আপনার আশেপাশের partner outlets খুঁজে পেতে সাহায্য করবে। আশা করি আপনি discount উপভোগ করবেন।
+
+**২১. কাস্টমারঃ** অনেক ধন্যবাদ আপু, GP Star-এর ব্যাপারে বিস্তারিত তথ্য দেওয়ার জন্য। আমি আজকেই অফারগুলো ব্যবহার করা শুরু করবো। ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Mam, GP Star হিসেবে আপনাকে সেবা দিতে পেরে আনন্দিত। জিপির সাথেই থাকুন এবং discount উপভোগ করুন। ভালো থাকবেন।
+
+
+---
+
+
+## সিনারিও 84ঃ জিপি 5G কানেক্টিভিটি চালু ও কনফিগারেশন করা (GP 5G connectivity troubleshooting and configuration)
+
+> কাস্টমার গুলশানে নতুন 5G ফোন কিনেছেন কিন্তু সিগন্যালে 5G পাচ্ছেন না। তিনি কিভাবে 5G চালু করবেন তা নিয়ে এজেন্টের সাথে কথা বলছেন।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি গুলশানে থাকি এবং গতকাল একটি নতুন 5G phone কিনেছি। কিন্তু আমার phone-এ এখনও 4G সিগন্যাল দেখাচ্ছে। জিপি 5G কীভাবে চালু করবো?
+
+**২. এজেন্টঃ** Sir, আমি ফাহিম বলছি GP customer care থেকে। গুলশানে আমাদের 5G coverage আছে। আপনার phone-এ 5G চালু করতে সাহায্য করছি, কিছু details প্রয়োজন।
+
+**৩. কাস্টমারঃ** হ্যাঁ ভাইয়া বলুন, কী details লাগবে? আমি তো খুব excited ছিলাম 5G speed test করার জন্য, কিন্তু 4G দেখে খারাপ লাগলো।
+
+**৪. এজেন্টঃ** Sir, প্রথমে জানতে চাচ্ছি আপনার phone-এর model কোনটি? আর আপনার mobile settings-এ preferred network type কি 5G select করা আছে?
+
+**৫. কাস্টমারঃ** আমার phone হচ্ছে Samsung Galaxy S23 Ultra। আর settings-এ গিয়ে preferred network-এ "5G/LTE/3G/2G auto connect" select করা আছে ভাইয়া।
+
+**৬. এজেন্টঃ** Sir, phone compatibility ঠিক আছে এবং settings-ও সঠিক। এবার বলুন আপনার GP SIM card-টি কত বছরের পুরোনো এবং এটি কি 4G SIM?
+
+**৭. কাস্টমারঃ** আমার SIM card-টি প্রায় ৩ বছরের পুরোনো, এটি একটি 4G SIM। 5G ব্যবহার করার জন্য কি নতুন কোনো SIM কিনতে হবে?
+
+**৮. এজেন্টঃ** Sir, না, নতুন SIM কিনতে হবে না। আমাদের সকল standard 4G SIM-ই 5G network-এর সাথে compatible। তবে আপনার SIM-এ 5G service activate করা আছে কিনা দেখতে হবে।
+
+**৯. কাস্টমারঃ** আচ্ছা, 5G service কি automatically active থাকে না? নাকি আলাদা কোনো charge বা settings দিয়ে active করতে হয়?
+
+**১০. এজেন্টঃ** Sir, 5G service activation সম্পূর্ণ free। তবে অনেক সময় system থেকে এটি automatically active হয় না। আমি আপনার number-এ 5G service-টি এখনই manually enable করে দিচ্ছি।
+
+**১১. কাস্টমারঃ** ও আচ্ছা, manually enable করতে হবে! এখনই করে দিন ভাইয়া, তাহলে আমি এখনই 5G speed-এর মজা নিতে পারবো।
+
+**১২. এজেন্টঃ** Sir, আমি আপনার number-এ 5G service active করে দিয়েছি। এখন অনুগ্রহ করে আপনার phone-টি একবার restart দিন বা flight mode ON-OFF করুন।
+
+**১৩. কাস্টমারঃ** আচ্ছা, আমি phone-টি flight mode ON করে আবার OFF করলাম। এই তো ভাইয়া, সিগন্যাল বারে এখন "5G" লেখা এসেছে!
+
+**১৪. এজেন্টঃ** Sir, অভিনন্দন! আপনার 5G active হয়ে গেছে। আপনি গুলশানের GP 5G coverage area-তে আছেন, তাই এখন ultra-high speed internet ব্যবহার করতে পারবেন।
+
+**১৫. কাস্টমারঃ** দারুণ! কিন্তু ভাইয়া, 5G ব্যবহার করলে কি আমার data pack-এর MB অনেক দ্রুত শেষ হয়ে যাবে? খরচ কি বেশি হবে?
+
+**১৬. এজেন্টঃ** Sir, 5G-তে speed বেশি হওয়ায় video download বা streaming অনেক দ্রুত হবে, ফলে file-এর size অনুযায়ী data খরচ হবে। আলাদা কোনো rate বা charge নেই।
+
+**১৭. কাস্টমারঃ** বুঝতে পেরেছি, মানে fast download হলে MB-ও দ্রুত শেষ হবে। জিপির কি 5G-র জন্য বিশেষ কোনো unlimited data pack আছে?
+
+**১৮. এজেন্টঃ** Sir, জ্বী, আমাদের MyGP app-এর "5G Special Pack" section-এ কিছু heavy data volume packs আছে। আপনি চাইলে সেখান থেকে unlimited 5G packs select করতে পারেন।
+
+**১৯. কাস্টমারঃ** অনেক ধন্যবাদ ভাইয়া। আমি MyGP app চেক করে একটা বড় pack কিনে নেবো। গুলশানের বাইরে আর কোথায় 5G পাবো?
+
+**২০. এজেন্টঃ** Sir, বর্তমানে ঢাকা ও চট্টগ্রামের major areas যেমন Banani, Dhanmondi, Agrabad-এ 5G coverage আছে। আমরা পর্যায়ক্রমে সারা দেশেই 5G network expand করছি।
+
+**২১. কাস্টমারঃ** খুব ভালো উদ্যোগ! অনেক ধন্যবাদ ফাহিম ভাইয়া, আপনার prompt help-এর কারণে অবশেষে 5G চালু করতে পারলাম। ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Sir, আপনাকে সেবা দিতে পেরে ভালো লাগলো। জিপি 5G-র ultra speed উপভোগ করুন। যেকোনো প্রয়োজনে পাশে আছি, ভালো থাকবেন।
+
+
+---
+
+
+## সিনারিও 85ঃ জিপি কর্পোরেট কাস্টমারদের অ্যাকাউন্ট ম্যানেজমেন্ট এবং সুবিধা (GP Business SIM loyalty and corporate account management)
+
+> কর্পোরেট কাস্টমার তার কোম্পানির ৫০টি জিপি বিজনেস সিমের জন্য ডেডিকেটেড অ্যাকাউন্ট ম্যানেজারের তথ্য ও কর্পোরেট সুবিধা জানতে চাচ্ছেন।
+
+**১. কাস্টমারঃ** হ্যালো, আমাদের company-তে প্রায় ৫০টি GP Business SIM ব্যবহার করা হচ্ছে। আমাদের dedicated corporate account manager-এর details কীভাবে পেতে পারি?
+
+**২. এজেন্টঃ** Sir, আমি শাফিন বলছি GP corporate support থেকে। আপনার company-র name এবং registered primary contact mobile number-টি কি দয়া করে শেয়ার করবেন?
+
+**৩. কাস্টমারঃ** আমাদের company-র name হচ্ছে "TechBD Solutions" আর registered primary contact number-টি হলো ০১৭XX-YYYYYY। আমার নাম আসিফ, আমি HR manager।
+
+**৪. এজেন্টঃ** Sir, verification-এর জন্য ধন্যবাদ। আপনার account details check করে দেখছি আপনার account-এর dedicated manager হলেন Mr. Sakib Rahman। ওনার contact number-টি দিচ্ছি।
+
+**৫. কাস্টমারঃ** ওনার number-টি বলুন, আমি note করে নিচ্ছি। আর ওনাকে call করলে কি উনি billing সংক্রান্ত সব সমস্যার সমাধান করতে পারবেন?
+
+**৬. এজেন্টঃ** Sir, ওনার number হলো ০১৭XX-ZZZZZZ। উনি আপনার corporate billing, limit enhancement, SIM replacement এবং যেকোনো official issue direct solve করে দিতে পারবেন।
+
+**৭. কাস্টমারঃ** ধন্যবাদ। আমাদের company-র SIM গুলোর spending limit একটু বাড়াতে হবে। এটা কি উনি করে দিতে পারবেন? নাকি আলাদা চিঠি লাগবে?
+
+**৮. এজেন্টঃ** Sir, Mr. Sakib-এর সাথে কথা বলে আপনার company letterhead pad-এ একটি request mail পাঠালেই উনি SIM গুলোর credit limit বাড়িয়ে দেবেন।
+
+**৯. কাস্টমারঃ** আচ্ছা, corporate billing cycle-টা কীভাবে চলে? আমাদের প্রতি মাসের বিল payment করার deadline কত তারিখ পর্যন্ত থাকে সাধারণত?
+
+**১০. এজেন্টঃ** Sir, GP corporate accounts-এর billing cycle প্রতি মাসের ১ তারিখ থেকে শুরু হয়ে ৩০ বা ৩১ তারিখে শেষ হয়। বিল পরিশোধের deadline থাকে পরবর্তী মাসের ১৫ তারিখ পর্যন্ত।
+
+**১১. কাস্টমারঃ** আমরা কি সরাসরি bank transfer বা check-এর মাধ্যমে বিল pay করতে পারি? নাকি অনলাইন payment gateway ব্যবহার করতে হবে?
+
+**১২. এজেন্টঃ** Sir, আপনারা EFT, bank check, MyGP Business portal অথবা যেকোনো online payment channel ব্যবহার করে সহজেই bill pay করতে পারবেন।
+
+**১৩. কাস্টমারঃ** আচ্ছা, আমাদের company-র SIM গুলো কি "GP Star Business" loyalty benefits পাবে? এটার জন্য কি আলাদা কোনো criteria আছে?
+
+**১৪. এজেন্টঃ** Sir, আপনাদের corporate SIM গুলোর monthly total usage-এর ওপর ভিত্তি করে company-টি GP Star Business status পাবে, যার মাধ্যমে সকল employee discounts পাবেন।
+
+**১৫. কাস্টমারঃ** এটা তো খুব ভালো সুবিধা! কী ধরনের discount বা benefits আমাদের employee-রা পেতে পারেন? একটু বিস্তারিত বলতে পারবেন কি?
+
+**১৬. এজেন্টঃ** Sir, আপনাদের employee-রা বিভিন্ন hotels, restaurants, airlines এবং corporate trainings-এ বিশেষ ছাড় পাবেন। এছাড়া জিপি স্টার লাউঞ্জে priority service পাবেন।
+
+**১৭. কাস্টমারঃ** চমৎকার। আমাদের employee-রা যাতে নিজেদের MyGP app-এর মাধ্যমে individual bills check করতে পারেন, এমন কোনো system কি GP-তে চালু করা সম্ভব?
+
+**১৮. এজেন্টঃ** Sir, হ্যাঁ! প্রতিটি employee তাদের নিজস্ব MyGP app-এ corporate billing details দেখতে পাবেন। এছাড়া management-এর জন্য আমাদের "MyGP Business Portal" আছে।
+
+**১৯. কাস্টমারঃ** MyGP Business Portal-টি আমরা কীভাবে access করতে পারবো? আর ওখান থেকে কি সব employee-র SIM-এর usage reports download করা সম্ভব?
+
+**২০. এজেন্টঃ** Sir, Mr. Sakib আপনাকে portal-এর login details প্রদান করবেন। ওখান থেকে real-time bill summary এবং usage reports download করতে পারবেন, তবে call details privacy-র জন্য locked থাকবে।
+
+**২১. কাস্টমারঃ** Privacy settings-এর ব্যাপারটা খুবই ভালো। অনেক ধন্যবাদ শাফিন ভাইয়া, আমি Mr. Sakib-এর সাথে যোগাযোগ করে নিচ্ছি। ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Sir, জিপির সাথেই থাকুন। আপনাদের ব্যবসায়িক পথচলা আরো সমৃদ্ধ হোক। যেকোনো প্রয়োজনে আমাদের 121-এ call করবেন। ভালো থাকবেন।
+
+
+---
+
+
+## সিনারিও 86ঃ বিদেশে থাকাকালীন সিম রিপ্লেসমেন্ট করা — SIM replacement while customer is abroad (SIM replacement while customer is abroad)
+
+> কাস্টমার বর্তমানে যুক্তরাজ্যে (UK) আছেন। বাংলাদেশে তার জিপি সিমটি হারিয়ে গেছে। তিনি কিভাবে তার ভাইয়ের মাধ্যমে বাংলাদেশে সিম রিপ্লেস করবেন তা জিজ্ঞাসা করছেন।
+
+**১. কাস্টমারঃ** আপু, আমি বর্তমানে UK-তে আছি। বাংলাদেশে আমার GP SIM-টি হারিয়ে গেছে, কিন্তু ওটাতে আমার bank OTP আসে। আমি কীভাবে SIM replacement পেতে পারি?
+
+**২. এজেন্টঃ** Mam, আমি সায়মা বলছি GP customer care থেকে। আপনি বিদেশে থাকলেও আপনার পক্ষে বাংলাদেশে কেউ SIM replacement তুলতে পারবে। আমি এর process-টি বলে দিচ্ছি।
+
+**৩. কাস্টমারঃ** ও আচ্ছা, খুবই ভালো খবর! আমার ছোট ভাই ঢাকায় থাকে। ও কি আমার হয়ে SIM replacement-টি তুলতে পারবে? কী কী ডকুমেন্ট লাগবে?
+
+**৪. এজেন্টঃ** Mam, আপনার ভাইকে GP Center-এ যেতে হবে। ওনার সাথে আপনার একটি signed authorization letter, আপনার NID-র copy এবং ওনার নিজের NID original থাকতে হবে।
+
+**৫. কাস্টমারঃ** আচ্ছা, authorization letter-এ কী কী details থাকতে হবে? আর আমার signature কি জিপির database-এর registration-এর সাথে হুবহু মিলতে হবে?
+
+**৬. এজেন্টঃ** Mam, letter-এ লিখবেন যে আপনার অনুপস্থিতিতে আপনার ভাইকে SIM-টি তোলার অনুমতি দিচ্ছেন। Signature-টি আপনার NID-র signature-এর সাথে মিললেই হবে, biometric signature-এর প্রয়োজন নেই।
+
+**৭. কাস্টমারঃ** বুঝলাম। কিন্তু biometric verification ছাড়া কীভাবে ওনাকে SIM replacement-টি হস্তান্তর করা হবে? GP Center থেকে কি কোনো security check করা হবে?
+
+**৮. এজেন্টঃ** Mam, অবশ্যই! সুরক্ষার জন্য আমাদের representative আপনার ভাইকে কয়েকটি ownership questions করবেন। যেমন, SIM-টি কার নামে registered এবং সর্বশেষ কত টাকা recharge করা হয়েছিল।
+
+**৯. কাস্টমারঃ** এই details গুলো তো আমি ওনাকে বলে দিতে পারবো। কিন্তু SIM replacement-এর জন্য ওনাকে GP Center-এ কোনো fee দিতে হবে কি?
+
+**১০. এজেন্টঃ** Mam, SIM replacement-এর জন্য ২০০ টাকা fee প্রযোজ্য হবে। আপনার ভাই GP Center-এ সরাসরি এই fee পরিশোধ করতে পারবেন।
+
+**১১. কাস্টমারঃ** আচ্ছা, SIM-টি তোলার পর সেটি কি সঙ্গে সঙ্গে active হয়ে যাবে? নাকি UK থেকে আমাকে আলাদা কোনো settings চালু করতে হবে?
+
+**১২. এজেন্টঃ** Mam, replacement SIM-টি উত্তোলনের ১ থেকে ২ ঘণ্টার মধ্যে active হয়ে যাবে। তবে বিদেশে roam করতে হলে SIM-টিতে roaming active থাকতে হবে।
+
+**১৩. কাস্টমারঃ** আমার SIM-এ আগে থেকেই international roaming চালু আছে। নতুন SIM-টি ফোনে ঢোকালে কি roaming automatically কানেক্ট হয়ে যাবে?
+
+**১৪. এজেন্টঃ** Mam, হ্যাঁ! যেহেতু roaming আগে থেকেই active ছিল, তাই নতুন SIM-টি ফোনে ঢুকিয়ে network refresh করলেই এটি automatically active হয়ে যাবে।
+
+**১৫. কাস্টমারঃ** ধন্যবাদ আপু। আমার ভাই কি ঢাকার যেকোনো GP Center থেকে এটা তুলতে পারবে, নাকি নির্দিষ্ট কোনো center-এ যেতে হবে?
+
+**১৬. এজেন্টঃ** Mam, ঢাকার যেকোনো GP Center বা জিপি এক্সপেরিয়েন্স সেন্টার থেকেই আপনার ভাই এই replacement SIM-টি তুলতে পারবেন। তবে franchise retail shop-এ হবে না।
+
+**১৭. কাস্টমারঃ** ফ্র্যাঞ্চাইজি দোকানে হবে না, ঠিক আছে। আমি ওনাকে গুলশানের GP Center-এ যেতে বলবো। ওটার timing কি জানা আছে?
+
+**১৮. এজেন্টঃ** Mam, Gulshan GP Center সকাল ৯টা থেকে রাত ৮টা পর্যন্ত খোলা থাকে, শুধু সরকারি ছুটির দিন ব্যতীত। ওনাকে অফিস সময়ে যাওয়ার অনুরোধ করছি।
+
+**১৯. কাস্টমারঃ** অনেক ধন্যবাদ সায়মা আপু। আমি আজকেই authorization letter-টি sign করে ওনাকে mail করে দিচ্ছি। আপনি অনেক সাহায্য করলেন।
+
+**২০. এজেন্টঃ** Mam, আপনাকে স্বাগত। আর একটি বিষয়, SIM replacement তোলার পর আগের হারিয়ে যাওয়া SIM-টি automatically চিরতরে block হয়ে যাবে।
+
+**২১. কাস্টমারঃ** হ্যাঁ, আগের SIM-টি block হওয়া খুবই জরুরি, যাতে কেউ ওটার অপব্যবহার না করতে পারে। ধন্যবাদ তথ্যটির জন্য, ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Mam, আপনিও ভালো থাকবেন। যেকোনো প্রয়োজনে UK থেকেও আমাদের support channels-এ যোগাযোগ করতে পারেন। জিপির সাথেই থাকুন, শুভ বিদায়।
+
+
+---
+
+
+## সিনারিও 87ঃ নির্দিষ্ট এলাকায় নেটওয়ার্ক সমস্যা ও অভিযোগ জমা দেওয়া (GP network outage and rural area signal drops troubleshooting)
+
+> সিলেটের হরিপুর এলাকার কাস্টমার গত ৩ দিন ধরে নেটওয়ার্ক ড্রপ ও দুর্বল ৪জি সিগন্যাল পাওয়ার অভিযোগ করছেন। এজেন্ট নেটওয়ার্ক আউটেজ চেক করে অভিযোগ নিলেন।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি সিলেটের হরিপুর এলাকা থেকে বলছি। গত ৩ দিন ধরে এখানে জিপি network-এ খুবই সমস্যা হচ্ছে। ফোনে ৪জি সিগন্যাল পাচ্ছি না, শুধু ২জি দেখাচ্ছে।
+
+**২. এজেন্টঃ** Sir, আমি হৃদয় বলছি GP customer care থেকে। আপনার এলাকায় network সংক্রান্ত সমস্যার জন্য আমি আন্তরিকভাবে দুঃখিত। আমি এখনই আপনার area-র network status চেক করছি।
+
+**৩. কাস্টমারঃ** একটু চেক করুন ভাইয়া। কোনো call ঠিকমতো করা যাচ্ছে না, বারবার drop হচ্ছে। আর internet তো একদমই চলছে না।
+
+**৪. এজেন্টঃ** Sir, সিলেটে আমাদের হরিপুর এলাকায় একটি network tower-এ কারিগরি ত্রুটির কারণে সাময়িক outage চলছে। আমাদের technical team অলরেডি এটি মেরামত করতে কাজ করছে।
+
+**৫. কাস্টমারঃ** ও আচ্ছা, টাওয়ারে সমস্যা! কিন্তু মেরামত করতে আর কত দিন লাগবে? গত ৩ দিন ধরে আমরা অনেক ভোগান্তিতে আছি।
+
+**৬. এজেন্টঃ** Sir, আমাদের team জানিয়েছে যে আগামী ২৪ ঘণ্টার মধ্যে কাজ সম্পন্ন হবে এবং network service সম্পূর্ণ স্বাভাবিক অবস্থায় ফিরে আসবে বলে আশা করছি।
+
+**৭. কাস্টমারঃ** ২৪ ঘণ্টা! ভাইয়া, আমার কি এই সমস্যার জন্য আলাদা কোনো network complaint register করা উচিত, নাকি automatically ঠিক হয়ে যাবে?
+
+**৮. এজেন্টঃ** Sir, আমি আপনার number থেকে আমাদের system-এ একটি official complaint register করে দিচ্ছি। এর ফলে কাজটি দ্রুত শেষ করার জন্য extra pressure তৈরি হবে।
+
+**৯. কাস্টমারঃ** হ্যাঁ ভাইয়া, complaint-টি register করে দিলে ভালো হয়। এটার কি কোনো reference number বা confirmation SMS আমি ফোনে পাবো?
+
+**১০. এজেন্টঃ** Sir, আপনার complaint ticket number-টি হলো GP-NET-2026-XXXXX। আপনার number-এ এই reference details সহ একটি confirmation SMS এখনই চলে যাবে।
+
+**১১. কাস্টমারঃ** SMS পেয়েছি ভাইয়া। আচ্ছা, আমাদের এলাকায় কি ভবিষ্যতে ৪জি সিগন্যাল আরও improve করার কোনো plan আছে জিপির?
+
+**১২. এজেন্টঃ** Sir, হ্যাঁ! আমাদের network expansion program-এর আওতায় এ বছরের শেষের দিকে সিলেটের বিভিন্ন গ্রামীণ এলাকায় আরো দুটি নতুন ৪জি টাওয়ার স্থাপন করা হবে।
+
+**১৩. কাস্টমারঃ** সেটা হলে তো ভালো হয়। আচ্ছা, নেটওয়ার্ক না থাকায় আমার active data pack-এর validity কি বাড়িয়ে দেওয়া হবে?
+
+**১৪. এজেন্টঃ** Sir, দুঃখিত, network outage-এর জন্য data pack validity automatically বাড়ে না। তবে service স্বাভাবিক হলে আপনি ক্ষতিপূরণ হিসেবে কিছু free bonus data পাবেন।
+
+**১৫. কাস্টমারঃ** আচ্ছা, free bonus data! এটা পেতে কি আমাকে আবার call করতে হবে, নাকি system থেকেই automatically দেওয়া হবে?
+
+**১৬. এজেন্টঃ** Sir, outage resolved হওয়ার পর system থেকে স্বয়ংক্রিয়ভাবে eligible গ্রাহকদের কাছে SMS notification এবং bonus data পৌঁছে যাবে। আপনার আলাদা কোনো প্রয়োজন হবে না।
+
+**১৭. কাস্টমারঃ** খুব ভালো। তাহলে আমি আগামীকাল পর্যন্ত অপেক্ষা করি। আশা করি আগামীকাল দুপুরের মধ্যে নেটওয়ার্ক স্বাভাবিক হয়ে যাবে।
+
+**১৮. এজেন্টঃ** Sir, আমরা সর্বোচ্চ চেষ্টা করছি যাতে দ্রুত সমাধান হয়। যেকোনো প্রয়োজনে আপনি MyGP app-এর মাধ্যমেও real-time network status চেক করতে পারবেন।
+
+**১৯. কাস্টমারঃ** MyGP app-এ কীভাবে এই network details চেক করবো ভাইয়া? সেখানে কি network status চেক করার মতো আলাদা কোনো options আছে?
+
+**২০. এজেন্টঃ** Sir, MyGP app-এর "Support" section-এ "Network Status" option-টি পাবেন। সেখানে আপনার location-এর বর্তমান network coverage এবং outage updates লাইভ দেখতে পাবেন।
+
+**২১. কাস্টমারঃ** বুঝতে পেরেছি ভাইয়া। অনেক ধন্যবাদ সুন্দর এবং বিস্তারিত তথ্যের জন্য। আশা করি সমস্যার দ্রুত সমাধান হবে। ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Sir, আপনাকেও অনেক ধন্যবাদ ধৈর্য ধারণ করার জন্য। আপনার দিনটি শুভ হোক এবং জিপির সাথেই থাকুন। ভালো থাকবেন।
+
+
+---
+
+
+## সিনারিও 88ঃ বয়স্ক গ্রাহককে ইন্টারনেট সেটিংস (APN) ম্যানুয়ালি কনফিগার করতে সাহায্য করা (Elderly customer needing manual APN settings configuration)
+
+> নতুন স্মার্টফোন কেনা এক বয়স্ক কাস্টমার ইন্টারনেট চালাতে পারছেন না। এজেন্ট তাকে ধাপে ধাপে ফোনের সেটিংস ও APN কনফিগার করতে সহায়তা করছেন।
+
+**১. কাস্টমারঃ** বাবা, আমি একটি নতুন touch phone কিনেছি আর একটা internet pack-ও কিনেছি। কিন্তু আমার ফোনে internet চলে না। কী করতে হবে বাবা?
+
+**২. এজেন্টঃ** Sir, আমি রাশেদ বলছি GP customer care থেকে। আপনার ফোনে internet সচল করতে সাহায্য করছি। আপনার phone-এর screen-টি চালু করুন, আমি settings বলে দিচ্ছি।
+
+**৩. কাস্টমারঃ** হ্যাঁ বাবা, screen চালু আছে। ফোনের ওপরের দিকে data option-টি চালু করেছি, তাও কোনো ছবি বা ভিডিও আসে না।
+
+**৪. এজেন্টঃ** Sir, এটি সাধারণত APN বা Access Point Name configuration-এর সমস্যার কারণে হয়। অনুগ্রহ করে আপনার ফোনের Settings-এ প্রবেশ করুন, আমি বাকিটা নির্দেশ করছি।
+
+**৫. কাস্টমারঃ** হ্যাঁ বাবা, Settings-এ ঢুকেছি। এখানে অনেকগুলো option দেখাচ্ছে যেমন Connections, Display, Apps। এখন আমি কোনটার ভেতরে যাবো?
+
+**৬. এজেন্টঃ** Sir, "Connections" বা "Network & Internet" option-টিতে touch করুন। এরপর সেখানে "Mobile Networks" নামে একটি লেখা দেখতে পাবেন, ওটাতে ক্লিক করুন।
+
+**৭. কাস্টমারঃ** হ্যাঁ বাবা, পেয়েছি! "Mobile Networks"-এ চাপ দেওয়ার পর "Access Point Names" নামে একটা লেখা এসেছে। ওটাতে চাপ দেবো?
+
+**৮. এজেন্টঃ** Sir, হ্যাঁ! "Access Point Names" বা সংক্ষেপে "APN"-এ চাপ দিন। এরপর ডানদিকের ওপরে "Add" বা "+" চিহ্ন দেখতে পাবেন, ওটাতে চাপুন।
+
+**৯. কাস্টমারঃ** হ্যাঁ বাবা, "+" চিহ্নে চাপ দেওয়ার পর Name আর APN লেখার খালি জায়গা এসেছে। সেখানে কী লিখতে হবে?
+
+**১০. এজেন্টঃ** Sir, "Name" লেখাটিতে touch করে ইংরেজিতে "GP" লিখুন। আর তার ঠিক নিচে "APN" লেখাটিতে touch করে ছোট হাতের অক্ষরে "gpinternet" লিখুন।
+
+**১১. কাস্টমারঃ** আমি Name-এ GP আর APN-এ gpinternet লিখেছি বাবা। এখন এটা কীভাবে phone-এ save বা জমা করবো? আর কোনো লেখা নেই তো?
+
+**১২. এজেন্টঃ** Sir, ডানদিকের ওপরে তিনটি dot বা menu দেখতে পাবেন, ওটাতে touch করে "Save" option-এ চাপুন। এরপর নতুন তৈরি হওয়া "GP" APN-টি select করুন।
+
+**১৩. কাস্টমারঃ** হ্যাঁ বাবা, select করেছি। ওটার পাশে একটা গোল চিহ্নে নীল রঙ এসেছে। এখন কি ইন্টারনেট কাজ করবে বাবা?
+
+**১৪. এজেন্টঃ** Sir, এবার অনুগ্রহ করে আপনার phone-টি একবার বন্ধ করে আবার চালু করুন, যাকে আমরা restart বলি। এরপর internet চালু করে চেক করুন।
+
+**১৫. কাস্টমারঃ** আচ্ছা বাবা, আমি ফোনটি বন্ধ করে আবার চালু করছি। তুমি একটু লাইনেই থাকো বাবা, চালু হতে এক মিনিট লাগবে। দেখি চলে কি না।
+
+**১৬. এজেন্টঃ** Sir, অবশ্যই আমি লাইনে আছি। আপনি ফোনটি চালু করে Google বা YouTube open করে দেখুন যে কোনো video load হচ্ছে কিনা।
+
+**১৭. কাস্টমারঃ** এই তো বাবা, phone চালু হয়েছে। YouTube-এ চাপ দিতেই সুন্দর সুন্দর গানের ভিডিও চলে এসেছে! ইন্টারনেট কাজ করছে বাবা!
+
+**১৮. এজেন্টঃ** Sir, শুনে খুব ভালো লাগলো! আপনার ফোনের APN setup সফলভাবে সম্পন্ন হয়েছে। এখন থেকে আপনার internet ব্যবহারে আর কোনো সমস্যা হবে না।
+
+**১৯. কাস্টমারঃ** অনেক ধন্যবাদ বাবা। আমার মতো বয়স্ক মানুষের জন্য এগুলো বোঝা কঠিন। তুমি খুব সুন্দর করে বুঝিয়ে দিয়েছো, দোয়া করি।
+
+**২০. এজেন্টঃ** Sir, আপনার এই দোয়া আমার জন্য অনেক মূল্যবান। যেকোনো প্রয়োজনে আমরা সর্বদা পাশে আছি। আপনার data pack-এর মেয়াদ শেষ হলে MyGP app থেকে রিচার্জ করতে পারবেন।
+
+**২১. কাস্টমারঃ** আচ্ছা বাবা, MyGP app-এর কথা আমি মনে রাখবো। পরে ওটা ব্যবহার করা শিখে নেবো। ভালো থেকো বাবা, আল্লাহ হাফেজ।
+
+**২২. এজেন্টঃ** Sir, আল্লাহ হাফেজ। আপনার সুস্থতা এবং দীর্ঘায়ু কামনা করছি। যেকোনো সমস্যায় আমাদের সাথে যোগাযোগ করবেন, ভালো থাকবেন।
+
+
+---
+
+
+## সিনারিও 89ঃ কর্পোরেট সিম পার্সোনাল প্রিপেইড সিমে রূপান্তর করা (Corporate SIM migration to personal prepaid SIM)
+
+> কাস্টমার তার প্রাক্তন কোম্পানির দেওয়া কর্পোরেট জিপি সিমটি কোম্পানি থেকে প্রাপ্ত এনওসি (NOC) ব্যবহার করে নিজের নামে ব্যক্তিগত প্রিপেইড সিমে রূপান্তর করতে চান।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি আগের company-র corporate SIM-টি নিজের নামে personal prepaid করে নিতে চাই। Company থেকে NOC দেওয়া হয়েছে। কীভাবে করবো?
+
+**২. এজেন্টঃ** Sir, আমি আরিফ বলছি GP customer care থেকে। আপনার corporate SIM-টি personal prepaid-এ migrate করতে সাহায্য করছি। এর পুরো process-টি আপনাকে বুঝিয়ে দিচ্ছি।
+
+**৩. কাস্টমারঃ** ধন্যবাদ ভাইয়া। আমার কাছে company-র official NOC-র copy আছে। এছাড়া আর কী কী documents সাথে নিয়ে যেতে হবে?
+
+**৪. এজেন্টঃ** Sir, আপনার original NID card, NOC letter-এর photocopy এবং corporate SIM-টি নিয়ে আমাদের যেকোনো GP Center-এ সশরীরে উপস্থিত হতে হবে।
+
+**৫. কাস্টমারঃ** আচ্ছা, আমার কি সশরীরে যাওয়া বাধ্যতামূলক? আমি যদি অন্য কাউকে আমার documents দিয়ে পাঠাই, তাহলে কি কাজটা হবে না?
+
+**৬. এজেন্টঃ** Sir, হ্যাঁ, সশরীরে যাওয়া বাধ্যতামূলক। কারণ ownership transfer ও migration-এর জন্য আপনার biometric NID verification বা আঙুলের ছাপের প্রয়োজন হবে, যা অন্য কেউ দিতে পারবে না।
+
+**৭. কাস্টমারঃ** ও আচ্ছা, biometric verification-এর জন্য যেতে হবে, বুঝলাম। এই migration-এর জন্য কি কোনো charge বা fee পরিশোধ করতে হবে?
+
+**৮. এজেন্টঃ** Sir, corporate থেকে prepaid-এ migrate করার জন্য ২০০ টাকা service charge প্রযোজ্য হবে। এটি আপনাকে GP Center-এ payment করতে হবে।
+
+**৯. কাস্টমারঃ** আচ্ছা, corporate SIM-এর কোনো outstanding bill থাকলে সেটা কে পরিশোধ করবে? আমাদের company নাকি আমাকে নিজেকে করতে হবে?
+
+**১০. এজেন্টঃ** Sir, migration-এর পূর্বে SIM-টির সকল outstanding bill সম্পূর্ণ পরিশোধ করতে হবে। আপনার company-র POC-এর মাধ্যমে অথবা আপনি নিজে বিলটি pay করতে পারেন।
+
+**১১. কাস্টমারঃ** আমাদের company অলরেডি সব bill clear করে দিয়েছে। জিপির system-এ কি bill clearance details দেখাচ্ছে নাকি আমাকে receipt দেখাতে হবে?
+
+**১২. এজেন্টঃ** Sir, আমাদের system-এ bill clear দেখাচ্ছে, তাই আলাদা কোনো receipt দেখানোর প্রয়োজন নেই। আপনার NOC-র copy-টি দেখালেই আমাদের representative কাজ শুরু করবেন।
+
+**১৩. কাস্টমারঃ** আচ্ছা ভাইয়া, migration complete হতে কত সময় লাগবে? SIM-টি কি সাথে সাথেই active হবে নাকি কয়েক দিন বন্ধ থাকবে?
+
+**১৪. এজেন্টঃ** Sir, GP Center-এ request submit করার ২ থেকে ৩ ঘণ্টার মধ্যে migration complete হয়ে যাবে। এই সময়ে your SIM-টি সচলই থাকবে, বন্ধ হবে না।
+
+**১৫. কাস্টমারঃ** খুব ভালো। আচ্ছা, আমার corporate plan-এর active data pack বা balance কি prepaid-এ migrate হবে? নাকি ওগুলো চলে যাবে?
+
+**১৬. এজেন্টঃ** Sir, দুঃখিত, corporate postpaid-এর active data pack বা balance prepaid-এ transfer হবে না। তাই migration করার আগেই existing balance ব্যবহার করে ফেলার অনুরোধ করছি।
+
+**১৭. কাস্টমারঃ** আচ্ছা, ব্যালেন্স শেষ করে নিবো। আর prepaid-এ migrate হওয়ার পর আমি কি যেকোনো regular prepaid packages ও offers উপভোগ করতে পারবো?
+
+**১৮. এজেন্টঃ** Sir, হ্যাঁ! Migration সম্পন্ন হওয়ার পর আপনি সাধারণ prepaid গ্রাহক হিসেবে সকল voice, data packs এবং MyGP app-এর exclusive offers উপভোগ করতে পারবেন।
+
+**১৯. কাস্টমারঃ** চমৎকার। আমি আগামীকাল সকালেই ধানমন্ডি GP Center-এ চলে যাবো। অনেক ধন্যবাদ আরিফ ভাইয়া, খুব সুন্দর করে বুঝিয়ে দেওয়ার জন্য।
+
+**২০. এজেন্টঃ** Sir, আপনাকে স্বাগত। GP Center-এ যাওয়ার সময় অবশ্যই সচল SIM card-টি সাথে রাখবেন। আর কোনো তথ্যের প্রয়োজন আছে কি?
+
+**২১. কাস্টমারঃ** না ভাইয়া, আর কোনো তথ্যের প্রয়োজন নেই। আপনি আমার সব প্রশ্নের খুব স্পষ্ট উত্তর দিয়েছেন, ধন্যবাদ। ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Sir, আপনাকে সেবা দিতে পেরে জিপি আনন্দিত। আপনার দিনটি অনেক শুভ হোক এবং জিপির সাথেই থাকুন। ভালো থাকবেন।
+
+
+---
+
+
+## সিনারিও 90ঃ দীর্ঘদিন বন্ধ থাকা সিম পুনরায় সচল করা (Reactivating a long-term inactive SIM)
+
+> কাস্টমারের একটি জিপি প্রিপেইড সিম দেড় বছর ধরে বন্ধ রয়েছে। তিনি সিমটি রিসাইকেল হয়েছে কিনা জানতে চান এবং পুনরায় বায়োমেট্রিক নিবন্ধনের মাধ্যমে সচল করার নিয়ম ও ফি সম্পর্কে বিস্তারিত জিজ্ঞাসা করছেন।
+
+**১. কাস্টমারঃ** আপু, আমার একটা পুরনো GP SIM প্রায় দেড় বছর ধরে বন্ধ আছে। আমি কি এটা আবার চালু করতে পারবো, নাকি এটা recycle হয়ে গেছে?
+
+**২. এজেন্টঃ** Mam, আমি অন্তরা বলছি GP customer care থেকে। আপনার SIM-টি সচল করা সম্ভব কিনা তা চেক করার জন্য আপনার mobile number-টি কি বলবেন?
+
+**৩. কাস্টমারঃ** হ্যাঁ আপু, number-টি হলো ০১৭XX-AAAAAA। এটা আমার NID দিয়ে register করা ছিল। একটু চেক করে বলুন তো।
+
+**৪. এজেন্টঃ** Mam, চেক করে দেখছি আপনার number-টি এখনও recycle বা অন্য কারো কাছে বিক্রি করা হয়নি। এটি বর্তমানে inactive state-এ আছে, আপনি এটি চালু করতে পারবেন।
+
+**৫. কাস্টমারঃ** যাক, শুনে খুব ভালো লাগলো! কিন্তু দেড় বছর বন্ধ থাকায় কি কোনো penalty বা fee দিতে হবে? কীভাবে চালু করবো?
+
+**৬. এজেন্টঃ** Mam, কোনো penalty নেই। তবে SIM-টি পুনরায় সচল করতে হলে আপনাকে biometric re-registration করতে হবে, যার জন্য ২০০ টাকা replacement fee দিতে হবে।
+
+**৭. কাস্টমারঃ** আচ্ছা, biometric re-registration করার জন্য কি আমাকে নিজে যেতে হবে, নাকি আমার NID এবং SIM card নিয়ে অন্য কেউ যেতে পারবে?
+
+**৮. এজেন্টঃ** Mam, যেহেতু biometric verification লাগবে, তাই SIM-এর মূল মালিককে সশরীরে যেকোনো GP Center-এ উপস্থিত হতে হবে। অন্য কেউ এটি করতে পারবে না।
+
+**৯. কাস্টমারঃ** বুঝতে পেরেছি। আমার NID card আর পুরাতন SIM card ছাড়া আর কোনো documents বা কাগজপত্রের প্রয়োজন হবে কি?
+
+**১০. এজেন্টঃ** Mam, না, excuse me, অন্য কোনো document লাগবে না। শুধু আপনার original NID card এবং পুরাতন SIM card-টি সাথে নিয়ে গেলেই re-registration সম্পন্ন করা যাবে।
+
+**১১. কাস্টমারঃ** আচ্ছা, re-registration করার পর SIM-টি সচল হতে কত সময় লাগবে? আর ওটাতে কি কোনো outstanding bill বা charge বাকি আছে?
+
+**১২. এজেন্টঃ** Mam, এটি একটি prepaid number ছিল, তাই কোনো outstanding bill নেই। Re-registration সম্পন্ন হওয়ার ৩ থেকে ৪ ঘণ্টার মধ্যে SIM-টি সচল হয়ে যাবে।
+
+**১৩. কাস্টমারঃ** খুব ভালো সুবিধা। আচ্ছা, SIM-টি আবার সচল হওয়ার পর ওটাতে কি জিপির কোনো welcome bonus বা special internet offers দেওয়া হবে?
+
+**১৪. এজেন্টঃ** Mam, হ্যাঁ! দীর্ঘ মেয়াদে বন্ধ থাকা SIM সচল করলে আপনি "GP Reactivation Offer" পাবেন, যার আওতায় কম মূল্যে heavy internet packs কিনতে পারবেন।
+
+**১৫. কাস্টমারঃ** বাহ, এটি তো খুব দারুণ অফার! এই reactivation offer-টি चालू করতে কি আমাকে আলাদা কোনো code dial করতে হবে, নাকি MyGP-তে পাবো?
+
+**১৬. এজেন্টঃ** Mam, SIM সচল হওয়ার পর আপনি MyGP app-এ অফারটি দেখতে পাবেন অথবা *121*reactivation_code# dial করে অফারটি খুব সহজেই চালু করতে পারবেন।
+
+**১৭. কাস্টমারঃ** আচ্ছা আপু, আমার old SIM card-টি যদি হারিয়ে গিয়ে থাকে, তাহলে কি আমি শুধু NID নিয়ে গিয়ে নতুন SIM তুলতে পারবো?
+
+**১৮. এজেন্টঃ** Mam, হ্যাঁ! পুরাতন SIM হারিয়ে গেলেও সমস্যা নেই। আপনি শুধু original NID নিয়ে গিয়ে SIM replacement-এর মাধ্যমে re-registration সম্পন্ন করতে পারবেন।
+
+**১৯. কাস্টমারঃ** অনেক ধন্যবাদ অন্তরা আপু। আমি কালকেই আমাদের কাছের GP Center-এ যাবো। আপনার ব্যবহার এবং তথ্যগুলো অনেক ভালো লেগেছে।
+
+**২০. এজেন্টঃ** Mam, আপনাকে সেবা দিতে পেরে আনন্দিত। GP Center সকাল ৯টা থেকে রাত ৮টা পর্যন্ত খোলা থাকে। যাওয়ার সময় NID নিতে ভুলবেন না।
+
+**২১. কাস্টমারঃ** ঠিক আছে আপু, আমি NID মনে করে সাথে নিয়ে যাবো। অনেক ধন্যবাদ আপনাকে সব বুঝিয়ে দেওয়ার জন্য, ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Mam, জিপিকে বেছে নেওয়ার জন্য আপনাকে অনেক ধন্যবাদ। ভালো থাকুন এবং জিপির সাথেই থাকুন, শুভ বিদায়।
+
+
+---
+
+
+## সিনারিও 91ঃ মাইজিপি অ্যাপে জিপি পয়েন্ট চেক এবং ফ্রিতে প্যাক রিডিম করা (Checking GP Points and redeeming free packs on MyGP app)
+
+> কাস্টমার তার মাইজিপি অ্যাপে অর্জিত জিপি পয়েন্ট ব্যবহার করে কীভাবে ফ্রিতে ১ জিবি ইন্টারনেট প্যাক রিডিম করবেন এবং পয়েন্টের মেয়াদ ও ব্যবহার বিধি সম্পর্কে জানতে চাচ্ছেন।
+
+**১. কাস্টমারঃ** হ্যালো ভাইয়া, আমি MyGP app-এ অনেক GP Points জমিয়েছি। কিন্তু এই points দিয়ে কীভাবে free internet pack নেবো তা বুঝতে পারছি না।
+
+**২. এজেন্টঃ** Sir, আমি জাহিদ বলছি GP customer care থেকে। আপনার জমাকৃত GP Points ব্যবহার করে free internet pack নিতে আমি সাহায্য করছি।
+
+**৩. কাস্টমারঃ** ধন্যবাদ ভাইয়া। আমার ফোনে কত GP Points আছে তা কীভাবে চেক করবো? আর ১ জিবি ইন্টারনেট নিতে কত পয়েন্ট লাগবে?
+
+**৪. এজেন্টঃ** Sir, আপনি MyGP app-এর "GP Points" section-এ গিয়ে বর্তমান points balance দেখতে পাবেন। ১ জিবির জন্য সাধারণত ২,৫০০ পয়েন্ট প্রয়োজন হয়।
+
+**৫. কাস্টমারঃ** ও আচ্ছা, আমার প্রায় ৪,০০০ পয়েন্ট আছে। তাহলে তো আমি সহজেই ১ জিবি ইন্টারনেট প্যাকটি ফ্রিতে নিতে পারবো, তাই না?
+
+**৬. এজেন্টঃ** Sir, হ্যাঁ! আপনি খুব সহজেই নিতে পারবেন। MyGP app-এর "Redeem Points" অপশনে গিয়ে ১ জিবি প্যাকটি select করে redeem করুন।
+
+**৭. কাস্টমারঃ** আচ্ছা ভাইয়া, এই free pack-টির validity বা মেয়াদ কত দিন থাকবে? আর এটা ব্যবহারের জন্য কি মূল ব্যালেন্স থেকে কোনো টাকা কাটবে?
+
+**৮. এজেন্টঃ** Sir, পয়েন্ট দিয়ে নেওয়া ১ জিবি প্যাকটির মেয়াদ থাকবে ৩ দিন। আর এটি সম্পূর্ণ ফ্রি, আপনার মূল ব্যালেন্স থেকে কোনো টাকা কাটা হবে না।
+
+**৯. কাস্টমারঃ** চমৎকার! আচ্ছা, আমি কি চাইলে এই GP Points আমার অন্য কোনো বন্ধু বা আত্মীয়ের জিপি নাম্বারে gift বা transfer করতে পারবো?
+
+**১০. এজেন্টঃ** Sir, দুঃখিত, GP Points সরাসরি অন্য কোনো নাম্বারে transfer বা gift করার সুযোগ নেই। তবে আপনি বন্ধুর নাম্বারে pack gift করার সময় points ব্যবহার করতে পারেন।
+
+**১১. কাস্টমারঃ** ও আচ্ছা, নিজের points দিয়ে অন্যকে pack gift করা যাবে! তো এই GP Points-এর কি কোনো expiry date বা মেয়াদ থাকে?
+
+**১২. এজেন্টঃ** Sir, হ্যাঁ! অর্জিত প্রতিটি GP Points-এর মেয়াদ থাকে অর্জনের তারিখ থেকে ১ বছর। ১ বছর পর অব্যবহৃত পয়েন্টগুলো system থেকে automatically expire হয়ে যাবে।
+
+**১৩. কাস্টমারঃ** বুঝতে পেরেছি, মানে এক বছরের মধ্যে ব্যবহার করে ফেলতে হবে। আচ্ছা, জিপি পয়েন্ট কীভাবে বেশি বেশি অর্জন করা যায়? নিয়মটি বলবেন?
+
+**১৪. এজেন্টঃ** Sir, আপনি MyGP app-এর মাধ্যমে যেকোনো internet pack, talktime pack কিনলে অথবা online recharge করলেই প্রতি টাকায় নির্দিষ্ট জিপি পয়েন্ট পেয়ে যাবেন।
+
+**১৫. কাস্টমারঃ** আচ্ছা, আমি যদি regular scratch card দিয়ে recharge করি, তাহলে কি কোনো জিপি পয়েন্ট পাবো? নাকি শুধুমাত্র অনলাইন রিচার্জেই পাওয়া যাবে?
+
+**১৬. এজেন্টঃ** Sir, দুঃখিত, physical scratch card বা retail shop-এর সাধারণ রিচার্জে GP Points পাওয়া যাবে না। এটি শুধুমাত্র MyGP digital platform-এর জন্য প্রযোজ্য।
+
+**১৭. কাস্টমারঃ** ওকে ভাইয়া, এখন আমি MyGP app থেকেই রিচার্জ করবো। পয়েন্ট রিডিম করার পর কি সাথে সাথেই ইন্টারনেট সচল হয়ে যাবে?
+
+**১৮. এজেন্টঃ** Sir, হ্যাঁ! পয়েন্ট রিডিম করার সাথে সাথেই আপনার ফোনে একটি confirmation SMS যাবে এবং আপনার ১ জিবি ইন্টারনেট প্যাকটি সচল হয়ে যাবে।
+
+**১৯. কাস্টমারঃ** থ্যাংক ইউ ভাইয়া। আমি এখনই MyGP app-এ গিয়ে ১ জিবি প্যাকটি redeem করে নিচ্ছি। আপনার পরামর্শগুলো অনেক কাজে লাগলো।
+
+**২০. এজেন্টঃ** Sir, আপনাকে সেবা দিতে পেরে জিপি আনন্দিত। আপনি MyGP app-এ জিপি পয়েন্ট দিয়ে talktime ও SMS pack-ও রিডিম করতে পারেন।
+
+**২১. কাস্টমারঃ** অনেক ভালো তথ্য দিলেন ভাইয়া, পরবর্তী সময়ে প্রয়োজন হলে talktime প্যাকও নেবো। ভালো থাকবেন ভাইয়া, অনেক ধন্যবাদ।
+
+**২২. এজেন্টঃ** Sir, আপনাকেও ধন্যবাদ। আপনার দিনটি অনেক শুভ হোক এবং জিপির সাথেই থাকুন। যেকোনো প্রয়োজনে কল করবেন, ভালো থাকবেন।
+
+
+---
+
+
+## সিনারিও 92ঃ রোমিং বিল সংক্রান্ত অসঙ্গতি ও অভিযোগ দায়ের করা (GP high roaming usage bill inquiry and dispute registration)
+
+> সিঙ্গাপুর ভ্রমণকারী এক জিপি পোস্টপেইড কাস্টমার ১৫,০০০ টাকার অতিরিক্ত রোমিং বিলের অসঙ্গতি নিয়ে অভিযোগ করছেন। এজেন্ট চেক করে দেখলেন ট্রানজিট দেশ মালয়েশিয়াতে মোবাইল ডাটা সচল থাকায় এই পে-পার-ইউজ চার্জটি হয়েছে।
+
+**১. কাস্টমারঃ** হ্যালো, আমি Singapore থেকে ফিরেছি। আমার postpaid roaming bill ১৫,০০০ টাকা এসেছে! আমি তো ৮০০ টাকার daily pack নিয়েছিলাম। এত বিল কেন?
+
+**২. এজেন্টঃ** Sir, আমি রাফি বলছি GP customer care থেকে। আপনার অতিরিক্ত roaming bill আসার বিষয়টির জন্য দুঃখিত। আপনার mobile number-টি দিন, আমি বিবরণ চেক করছি।
+
+**৩. কাস্টমারঃ** আমার জিপি নাম্বারটি হলো ০১৭XX-BBBBBB। দয়া করে চেক করুন, ৮০০ টাকার জায়গায় ১৫,০০০ টাকা বিল আসা তো অযৌক্তিক!
+
+**৪. এজেন্টঃ** Sir, চেক করে দেখছি আপনি Singapore-এর জন্য daily roaming pack চালু করেছিলেন। তবে Singapore যাওয়ার পথে Malaysia-তে transit থাকার সময় আপনার phone-এ data used হয়েছে।
+
+**৫. কাস্টমারঃ** হ্যাঁ, Malaysia airport-এ আমার ৪ ঘণ্টার transit ছিল। কিন্তু ওটার জন্য কি আলাদা বিল কাটবে? আমার তো unlimited pack নেওয়া ছিল।
+
+**৬. এজেন্টঃ** Sir, আপনার Singapore pack-টি শুধু Singapore-এর নির্দিষ্ট partner network-এর জন্য প্রযোজ্য ছিল। Malaysia-তে phone চালু করায় সেখানে pay-per-use হিসেবে data consumption হয়েছে।
+
+**৭. কাস্টমারঃ** ও আচ্ছা! কিন্তু Malaysia-তে তো GP-র network automatic কানেক্ট হয়েছিল। আমার pack কি ওখানে কাজ করার কথা ছিল না?
+
+**৮. এজেন্টঃ** Sir, না। প্রতিটি country-র জন্য আলাদা roaming pack থাকে। Transit-এর সময় phone-এর data roaming option বন্ধ না রাখলে, background apps data download করার ফলে এই charge হয়েছে।
+
+**৯. কাস্টমারঃ** তো এটার সমাধান কী? আমি তো জানতাম না যে transit-এ data charge হবে। এই ১৫,০০০ টাকা কি আমাকে পুরোই দিতে হবে?
+
+**১০. এজেন্টঃ** Sir, অসাবধানতাবশত চার্জটি হওয়ায় আমরা দুঃখিত। আপনার সুবিধার্থে আমি আমাদের senior team-এর কাছে এই billing dispute-টি review করার জন্য একটি request পাঠাচ্ছি।
+
+**১১. কাস্টমারঃ** রিভিউ করতে কত দিন লাগবে? আর এই রিভিউ করার সময় কি আমার SIM-এর outgoing call বা network বন্ধ হয়ে যাবে?
+
+**১২. এজেন্টঃ** Sir, dispute review করতে আমাদের ৩ কার্যদিবস সময় লাগবে। এই সময়ের মধ্যে আপনার outgoing service বা SIM-টি সচল থাকবে, কোনো সংযোগ বিচ্ছিন্ন হবে না।
+
+**১৩. কাস্টমারঃ** ধন্যবাদ ভাইয়া। এই dispute review-তে কি অতিরিক্ত বিলটি কমানো বা মওকুফ করার কোনো সুযোগ আছে? এটার সম্ভাবনা কেমন?
+
+**১৪. এজেন্টঃ** Sir, যেহেতু আপনি একজন জিপি স্টার গ্রাহক এবং এটি আপনার প্রথম অসাবধানতাবশত ভুল, তাই আমাদের technical team কিছু portion মওকুফ করতে পারে।
+
+**১৫. কাস্টমারঃ** পরবর্তী সময়ে ভ্রমণের সময় এরকম বাড়তি বিল এড়ানোর জন্য আমার কী করা উচিত? কোনো settings পরিবর্তন করতে হবে?
+
+**১৬. এজেন্টঃ** Sir, হ্যাঁ! যখনই আপনি কোনো transit country-তে থাকবেন, তখন আপনার phone settings থেকে "Data Roaming" option-টি samoyikbhabe OFF করে রাখবেন। শুধু গন্তব্যে পৌঁছে চালু করবেন।
+
+**১৭. কাস্টমারঃ** বুঝতে পেরেছি। আচ্ছা, MyGP app থেকে কি multi-country বা একাধিক দেশের জন্য একসঙ্গে কোনো roaming pack কেনা সম্ভব?
+
+**১৮. এজেন্টঃ** Sir, হ্যাঁ! আমাদের "Global Roaming Pack" আছে যা একাধিক দেশে একসঙ্গে কাজ করে। আপনার পরবর্তী ভ্রমণের পূর্বে আমাদের roaming support helpdesk-এ যোগাযোগ করতে পারেন।
+
+**১৯. কাস্টমারঃ** ওকে ভাইয়া, আমি পরবর্তী ট্রিপের আগে অবশ্যই চেক করে নেবো। এই বিলের dispute request-এর confirmation SMS কি পাবো?
+
+**২০. এজেন্টঃ** Sir, হ্যাঁ! আপনার dispute ticket reference number সহ একটি confirmation SMS আপনার জিপি নাম্বারে ২ মিনিটের মধ্যে চলে যাবে।
+
+**২১. কাস্টমারঃ** অনেক ধন্যবাদ রাফি ভাইয়া। আপনার সুন্দর করে বুঝিয়ে দেওয়ার জন্য এবং dispute request-টি নিয়ে সাহায্য করার জন্য ধন্যবাদ। ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Sir, আপনাকে সেবা দিতে পেরে জিপি আনন্দিত. যেকোনো প্রয়োজনে আমাদের 121-এ call করবেন। ভালো থাকুন এবং জিপির সাথেই থাকুন।
+
+
+---
+
+
+## সিনারিও 93ঃ অজান্তে ব্যালেন্স কাটা এবং সকল ভ্যালু অ্যাডেড সার্ভিস (VAS) বন্ধ করা (GP balance deduction mystery and VAS Stop All code)
+
+> কাস্টমার অভিযোগ করছেন যে তার সিম থেকে প্রতিদিন ২-৩ টাকা কেটে নেওয়া হচ্ছে। এজেন্ট চেক করে দেখলেন যে ওয়েলকাম টিউন এবং এসএমএস অ্যালার্ট সার্ভিস সচল আছে এবং কাস্টমারকে সকল সার্ভিস বন্ধ করার কোড শিখিয়ে দিলেন।
+
+**১. কাস্টমারঃ** আপু, আমার ফোনে কোনো pack না কিনলেও প্রতিদিন ২-৩ টাকা করে কেটে যাচ্ছে। কোনো ফালতু service তো আমি চালু করিনি। চেক করুন তো।
+
+**২. এজেন্টঃ** Mam, আমি নিপা বলছি GP customer care থেকে। আপনার অজান্তেই balance cut হওয়ার জন্য দুঃখিত। আপনার mobile number-টি দিন, আমি চেক করছি।
+
+**৩. কাস্টমারঃ** আমার জিপি নাম্বার হলো ০১৭XX-CCCCCC। আপনি একটু চেক করে দেখুন কেন প্রতিদিন আমার balance থেকে এই টাকাগুলো কেটে নেওয়া হচ্ছে।
+
+**৪. এজেন্টঃ** Mam, চেক করে দেখছি আপনার নাম্বারে একটি third-party SMS alerts portal এবং "Welcome Tune" service-টি active আছে, যা প্রতি দিন auto-renew হচ্ছে।
+
+**৫. কাস্টমারঃ** আমি তো এগুলো কোনোদিন নিজে থেকে চালু করিনি! তাহলে আমার অজান্তে এগুলো কীভাবে চালু হলো? আর কেনই বা টাকা কেটে নিচ্ছে?
+
+**৬. এজেন্টঃ** Mam, অনেক সময় internet-এ browsing করার সময় কোনো promotional banner বা pop-up-এ ভুলবশত touch লাগলে এই subscription active হয়ে যায়।
+
+**৭. কাস্টমারঃ** ও আচ্ছা, ভুলবশত touch লেগে হতে পারে। এখন এই ফালতু service গুলো কীভাবে বন্ধ করবো? এখনই বন্ধ করে দিন আপু।
+
+**৮. এজেন্টঃ** Mam, আমি আপনার number থেকে "Welcome Tune" এবং third-party alerts service-টি এখনই manually deactivate করে দিচ্ছি।
+
+**৯. কাস্টমারঃ** ধন্যবাদ আপু। ভবিষ্যতে যাতে এই ধরনের কোনো service আর কখনো চালু না হতে পারে, সেটার কি কোনো স্থায়ী সমাধান আছে?
+
+**১০. এজেন্টঃ** Mam, হ্যাঁ! আপনি চাইলে আপনার phone-এর dial options-এ গিয়ে *121*6*1# dial করে সব ধরনের active VAS সশরীরে বন্ধ করতে পারেন।
+
+**১১. কাস্টমারঃ** আচ্ছা, *121*6*1# dial করলেই কি সব active VAS বন্ধ হয়ে যাবে? আর এই code-টি dial করতে কি বাতি কোনো charge কাটবে?
+
+**১২. এজেন্টঃ** Mam, না! এটি সম্পূর্ণ free USSD code এবং এটি dial করলে জিপির সকল value-added services একবারে permanent deactivate হয়ে যাবে।
+
+**১৩. কাস্টমারঃ** এটি সত্যিই খুবই ভালো ব্যবস্থা! আচ্ছা, MyGP app থেকেও কি এই active value-added services চেক বা বন্ধ করা সম্ভব?
+
+**১৪. এজেন্টঃ** Mam, হ্যাঁ! MyGP app-এর "Services" section-এ গিয়ে "Active Services" অপশনটি চেক করলে আপনি নিজেই যেকোনো service দেখতে এবং বন্ধ করতে পারবেন।
+
+**১৫. কাস্টমারঃ** বুঝলাম. কিন্তু যে টাকাগুলো আমার অজান্তে অলরেডি কেটে নেওয়া হয়েছে, সেগুলো কি রিফান্ড বা ফেরত পাওয়ার কোনো সুযোগ আছে?
+
+**১৬. এজেন্টঃ** Mam, দুঃখিত, system-এ service active থাকায় data consumed হয়েছে, তাই রিফান্ড সম্ভব নয়। তবে আজ থেকে আর কোনো টাকা কাটা হবে না।
+
+**১৭. কাস্টমারঃ** আচ্ছা ঠিক আছে, অন্তত ঝামেলার service গুলো তো বন্ধ হলো। MyGP app-এর promotional SMS notification-ও কি আমি বন্ধ করতে পারবো?
+
+**১৮. এজেন্টঃ** Mam, হ্যাঁ! MyGP app settings-এ গিয়ে "Do Not Disturb" বা "DND" option active করলে সকল promotional SMS বন্ধ হয়ে যাবে।
+
+**১৯. কাস্টমারঃ** অনেক ধন্যবাদ নিপা আপু। আজ অনেক দরকারি কিছু জানতে পারলাম। আমি এখনই code-টি dial করে রাখছি। ভালো থাকবেন।
+
+**২০. এজেন্টঃ** Mam, আপনাকে সেবা দিতে পেরে জিপি আনন্দিত। আশা করি এখন থেকে আপনার balance সম্পূর্ণ নিরাপদ থাকবে। ভালো থাকবেন এবং জিপির সাথেই থাকুন।
+
+**২১. কাস্টমারঃ** না আপু, আর কোনো সাহায্য লাগবে না। আমার সব সমস্যার সমাধান হয়ে গেছে। ভালো থাকবেন এবং সাবধানে থাকবেন, খোদা হাফেজ।
+
+**২২. এজেন্টঃ** Mam, আল্লাহ হাফেজ। আপনার সুস্থতা কামনা করছি। যেকোনো প্রয়োজনে আমাদের সাথে যোগাযোগ করবেন এবং জিপির সাথেই থাকবেন। বিদায়।
+
+
+---
+
+
+## সিনারিও 94ঃ পোস্টপেইড বিলে ক্রেডিট কার্ডের মাধ্যমে অটো-ডেবিট সেট করা (Postpaid auto-debit registration using credit card)
+
+> পোস্টপেইড কাস্টমার প্রতি মাসে ম্যানুয়ালি বিল দেওয়ার ঝামেলা এড়াতে মাইজিপি অ্যাপে তার ক্রেডিট কার্ড দিয়ে অটো-ডেবিট চালু করার নিয়ম ও সুবিধা সম্পর্কে জানতে চাচ্ছেন।
+
+**১. কাস্টমারঃ** ভাইয়া, আমার GP postpaid bill প্রতি মাসে ম্যানুয়ালি দিতে ঝামেলা হয়। আমি কি আমার credit card দিয়ে auto-debit set করতে পারবো?
+
+**২. এজেন্টঃ** Sir, আমি তানভীর বলছি GP customer care থেকে। হ্যাঁ, আপনি আপনার Visa বা Mastercard credit card ব্যবহার করে auto-debit set করতে পারবেন।
+
+**৩. কাস্টমারঃ** এটি তো খুব ভালো সুবিধা। Auto-debit चालू করার জন্য কি আমাকে GP Center-এ যেতে হবে, নাকি ঘরে বসেই করা যাবে?
+
+**৪. এজেন্টঃ** Sir, GP Center-এ যাওয়ার প্রয়োজন নেই। আপনি ঘরে বসেই MyGP app-এর মাধ্যমে খুব সহজে auto-debit register করতে পারবেন।
+
+**৫. কাস্টমারঃ** মাইজিপি অ্যাপের মাধ্যমে কীভাবে করবো ভাইয়া? App-এর ঠিক কোন section-এ যেতে হবে এবং card details কীভাবে add করতে হবে?
+
+**৬. এজেন্টঃ** Sir, MyGP app-এর "Bill Pay" section-এ গিয়ে "Auto-Debit" option-টি সিলেক্ট করুন। এরপর আপনার credit card details প্রদান করে OTP verification সম্পন্ন করুন।
+
+**৭. কাস্টমারঃ** বুঝলাম। কার্ড অ্যাড করার সময় কি কোনো security charge বা initial deposit টাকা কাটবে, যা পরে রিফান্ড করা হবে?
+
+**৮. এজেন্টঃ** Sir, কার্ডের validity check করার জন্য ১০ টাকা কাটা হবে, যা ২ থেকে ৩ কার্যদিবসের মধ্যে আপনার card-এ automatically refund হয়ে যাবে।
+
+**৯. কাস্টমারঃ** আচ্ছা, আমার credit card-এ auto-debit feature-টি চালু করলে কি জিপি কোনো cashback বা bill-এর ওপর special discount প্রদান করে?
+
+**১০. এজেন্টঃ** Sir, হ্যাঁ! প্রথম তিন মাস auto-debit-এর মাধ্যমে বিল পরিশোধে আপনি প্রতি মাসে ৫% cashback বা সর্বোচ্চ ১০০ টাকা পর্যন্ত ছাড় পাবেন।
+
+**১১. কাস্টমারঃ** দারুণ অফার! আচ্ছা, প্রতি মাসের ঠিক কত তারিখে আমার কার্ড থেকে বিলের টাকা কেটে নেওয়া হবে? billing cycle-টা কেমন?
+
+**১২. এজেন্টঃ** Sir, আপনার bill generate হওয়ার ৩ দিনের মধ্যে automatically card থেকে bill পরিশোধ হয়ে যাবে। আপনি ইমেইলে bill payment-এর receipt-ও পেয়ে যাবেন।
+
+**১৩. কাস্টমারঃ** যদি কোনো মাসে আমার credit card-এ পর্যাপ্ত ব্যালেন্স বা limit না থাকে, তাহলে কি জিপি থেকে জরিমানা কাটবে?
+
+**১৪. এজেন্টঃ** Sir, জিপি থেকে কোনো জরিমানা কাটা হবে না। তবে transaction failed হলে আপনাকে SMS-এর মাধ্যমে জানানো হবে এবং ম্যানুয়ালি বিল পরিশোধ করতে হবে।
+
+**১৫. কাস্টমারঃ** বুঝতে পেরেছি। যদি কোনো কারণে আমি এই auto-debit feature-টি বন্ধ করতে চাই, তবে কি সহজেই বন্ধ করা যাবে?
+
+**১৬. এজেন্টঃ** Sir, হ্যাঁ! আপনি যেকোনো সময় MyGP app-এ লগইন করে এক ক্লিকেই auto-debit feature-টি বন্ধ বা ডিলিট করতে পারবেন। এটি খুবই সহজ।
+
+**১৭. কাস্টমারঃ** বাহ, এটি তো খুবই নমনীয়! আর আমার একাধিক postpaid নাম্বারের জন্য কি একই কার্ড দিয়ে অটো-ডেবিট সেট করা যাবে?
+
+**১৮. এজেন্টঃ** Sir, হ্যাঁ! আপনি একই credit card ব্যবহার করে সর্বোচ্চ ৩টি জিপি postpaid নাম্বারে auto-debit configuration সম্পন্ন করতে পারবেন।
+
+**১৯. কাস্টমারঃ** অনেক ধন্যবাদ তানভীর ভাইয়া। আমি আজকেই MyGP app-এর মাধ্যমে আমার কার্ডটি লিঙ্ক করে অটো-ডেবিট চালু করে নেবো।
+
+**২০. এজেন্টঃ** Sir, আপনাকে স্বাগত। সফলভাবে auto-debit setup সম্পন্ন হওয়ার পর আপনার জিপি নাম্বারে একটি confirmation SMS এবং ইমেইল নোটিফিকেশন পাঠানো হবে।
+
+**২১. কাস্টমারঃ** খুবই ভালো জিপি সার্ভিস. আপনার সাথে কথা বলে সব তথ্য খুব সহজেই বুঝতে পারলাম. ভালো থাকবেন ভাইয়া, বিদায়.
+
+**২২. এজেন্টঃ** Sir, জিপিকে বেছে নেওয়ার জন্য আপনাকে অনেক ধন্যবাদ। আপনার দিনটি অনেক শুভ হোক এবং জিপির সাথেই থাকুন। ভালো থাকবেন।
+
+
+---
+
+
+## সিনারিও 95ঃ ব্যালেন্স ট্রান্সফার করার নিয়ম ও পিন কোড রেজিস্টার করা (GP balance transfer feature process and PIN registration)
+
+> কাস্টমার তার জিপি সিম থেকে মেয়ের জিপি সিমে ব্যালেন্স ট্রান্সফার করার নিয়ম, লেনদেনের সীমাবদ্ধতা, চার্জ এবং পিন কোড রেজিস্ট্রেশন করার পদ্ধতি জানতে চাচ্ছেন।
+
+**১. কাস্টমারঃ** হ্যালো আপু, আমার জিপি সিম থেকে আমার মেয়ের জিপি সিমে কীভাবে balance transfer করবো? এটার নিয়ম ও PIN কোড কীভাবে পাবো?
+
+**২. এজেন্টঃ** Mam, আমি মারিয়া বলছি GP customer care থেকে। আপনার জিপি সিমের balance transfer করার প্রক্রিয়া এবং PIN registration-এর নিয়মটি আমি বলে দিচ্ছি।
+
+**৩. কাস্টমারঃ** ধন্যবাদ আপু। ব্যালেন্স পাঠানোর আগে প্রথমে কি আমাকে PIN registration করতে হবে? এটার জন্য কি কোনো USSD code ডায়াল করতে হবে?
+
+**৪. এজেন্টঃ** Mam, হ্যাঁ! আপনার phone-এর dial options-এ গিয়ে *121*1500# dial করে ১ নম্বরে চাপ দিলে আপনার কাছে একটি registration PIN SMS-এর মাধ্যমে চলে যাবে।
+
+**৫. কাস্টমারঃ** আচ্ছা, PIN code পাওয়ার পর কীভাবে টাকা পাঠাবো? ডায়াল কোডটি কেমন এবং কীভাবে মেয়ের নাম্বার ও টাকার পরিমাণ লিখবো?
+
+**৬. এজেন্টঃ** Mam, আপনি আবার *121*1500# dial করে ২ নম্বরে চাপবেন। এরপর মেয়ের জিপি নাম্বার, টাকার পরিমাণ এবং আপনার received PIN-টি প্রবেশ করাবেন।
+
+**৭. কাস্টমারঃ** বুঝলাম। একবারে সর্বনিম্ন এবং সর্বোচ্চ কত টাকা transfer করা যাবে? আর প্রতি মাসে কি কোনো সর্বোচ্চ limit বা সীমাবদ্ধতা আছে?
+
+**৮. এজেন্টঃ** Mam, একবারে সর্বনিম্ন ১০ টাকা এবং সর্বোচ্চ ১০০ টাকা transfer করতে পারবেন। আর প্রতি মাসে সর্বোচ্চ ১,০০০ টাকা পর্যন্ত transfer করা সম্ভব।
+
+**৯. কাস্টমারঃ** আচ্ছা, এই balance transfer করার জন্য কি কোনো transaction fee বা extra charge কাটা হবে? নাকি সার্ভিসটি সম্পূর্ণ ফ্রি?
+
+**১০. এজেন্টঃ** Mam, প্রতিটি সফল balance transfer-এর জন্য ২ টাকা VAT এবং tax সহ transaction fee কাটা হবে। এটি আপনার মূল ব্যালেন্স থেকে কাটা হবে।
+
+**১১. কাস্টমারঃ** মেয়ের ফোনে কি এই টাকা পৌঁছানোর পর কোনো validity বা মেয়াদ যোগ হবে? নাকি শুধু ওটার main balance-ই বাড়বে?
+
+**১২. এজেন্টঃ** Mam, balance transfer-এর মাধ্যমে প্রাপ্ত টাকার সাথে কোনো extra validity বা মেয়াদ যোগ হবে না। মেয়ের SIM-এর পূর্বের মেয়াদই বহাল থাকবে।
+
+**১৩. কাস্টমারঃ** বুঝতে পেরেছি। আচ্ছা, MyGP app ব্যবহার করে কি আরও সহজে balance transfer করা যায়? সেখানেও কি এই PIN code-এর প্রয়োজন হবে?
+
+**১৪. এজেন্টঃ** Mam, হ্যাঁ! MyGP app-এর "Balance Transfer" অপশন ব্যবহার করে খুব সহজে PIN ছাড়াই টাকা পাঠাতে পারবেন। তবে security OTP-র প্রয়োজন হবে।
+
+**১৫. কাস্টমারঃ** এটি তো আরও অনেক সহজ! আমি কি জিপি থেকে অন্য অপারেটর যেমন বাংলালিংক বা রবি-তে ব্যালেন্স পাঠাতে পারবো?
+
+**১৬. এজেন্টঃ** Mam, দুঃখিত। Balance transfer শুধুমাত্র জিপি প্রিপেইড থেকে অন্য জিপি প্রিপেইড নাম্বারে করা সম্ভব। অন্য কোনো operator-এ করা যাবে না।
+
+**১৭. কাস্টমারঃ** আচ্ছা আপু, কোনো কারণে যদি আমি আমার ব্যালেন্স ট্রান্সফারের PIN কোডটি ভুলে যাই, তাহলে কি সেটি reset করা সম্ভব?
+
+**১৮. এজেন্টঃ** Mam, হ্যাঁ! আপনি *121*1500# dial করে ৪ নম্বর option-টি সিলেক্ট করে সহজেই আপনার balance transfer PIN reset করে নিতে পারবেন।
+
+**১৯. কাস্টমারঃ** অনেক ধন্যবাদ মারিয়া আপু, খুব সুন্দর এবং সহজে বুঝিয়ে দেওয়ার জন্য। আমি MyGP app ব্যবহার করেই টাকাটা পাঠিয়ে দিচ্ছি।
+
+**২০. এজেন্টঃ** Mam, আপনাকে স্বাগত। আর একটি বিষয়, আপনার SIM-টি অবশ্যই ৩০ দিনের বেশি পুরনো হতে হবে balance transfer করতে হলে।
+
+**২১. কাস্টমারঃ** আমার SIM-টি প্রায় ৩ বছরের পুরনো, তাই আশা করি কোনো সমস্যা হবে না। অনেক ভালো লাগলো আপনার সার্ভিস, ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Mam, আপনার SIM-এ ব্যালেন্স ট্রান্সফার সচল থাকবে. জিপির সাথেই থাকুন এবং যেকোনো প্রয়োজনে আমাদের 121-এ call করবেন. শুভ বিদায়.
+
+
+---
+
+
+## সিনারিও 96ঃ জিপি স্টার গ্রাহকদের বিমানবন্দরে লাউঞ্জ সুবিধা ও ডিসকাউন্ট (GP Star Balaka Lounge access and benefits at airport)
+
+> জিপি প্ল্যাটিনাম স্টার কাস্টমার হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে বিদেশে যাওয়ার সময় বলাকা লাউঞ্জ অ্যাক্সেস, পরিবারের সদস্যদের ডিসকাউন্ট এবং ভেরিফিকেশন প্রক্রিয়া সম্পর্কে জানতে চাচ্ছেন।
+
+**১. কাস্টমারঃ** হ্যালো, আমি জিপি Platinum Star গ্রাহক। ঢাকা airport থেকে আমার flight আছে। আমি কি Balaka Lounge-এ কোনো discount বা free access পাবো?
+
+**২. এজেন্টঃ** Sir, আমি সানি বলছি GP customer care থেকে। হ্যাঁ, জিপি Platinum Star গ্রাহক হিসেবে আপনি Balaka Lounge-এ বিশেষ সুবিধা পাবেন। আমি এর বিবরণ জানাচ্ছি।
+
+**৩. কাস্টমারঃ** ধন্যবাদ ভাইয়া। এই lounge-এ কি আমি সম্পূর্ণ ফ্রিতে ঢুকতে পারবো, নাকি কোনো charge দিতে হবে? আর আমার সাথে পরিবারের কেউ থাকলে কী হবে?
+
+**৪. এজেন্টঃ** Sir, Platinum Star গ্রাহক হিসেবে আপনি Balaka Lounge-এ সম্পূর্ণ free access পাবেন। তবে আপনার companion বা পরিবারের সদস্যদের জন্য ৫০% discount প্রযোজ্য হবে।
+
+**৫. কাস্টমারঃ** companion-এর জন্য ৫০% ডিসকাউন্ট! এটি তো খুব ভালো সুবিধা। লাউঞ্জে প্রবেশ করার সময় আমাকে কী দেখাতে বা প্রমাণ করতে হবে?
+
+**৬. এজেন্টঃ** Sir, আপনাকে আপনার MyGP app থেকে আপনার Platinum Star status-টি লাউঞ্জের counter-এ দেখাতে হবে। অথবা আপনি একটি SMS-এর মাধ্যমেও এটি verify করতে পারেন।
+
+**৭. কাস্টমারঃ** SMS-এর মাধ্যমে কীভাবে এটি verify করতে হবে? কোনো নির্দিষ্ট keyword লিখে কোনো code-এ পাঠাতে হবে কি? Process-টি বলুন।
+
+**৮. এজেন্টঃ** Sir, হ্যাঁ! আপনার message option-এ গিয়ে "BALAKA" লিখে "29000" নাম্বারে SMS করতে হবে। ফিরতি SMS-এ প্রাপ্ত code-টি কাউন্টারে প্রদর্শন করতে হবে।
+
+**৯. কাস্টমারঃ** আচ্ছা, এই verification code-টি কি ফ্লাইটের দিন airport-এ গিয়েই জেনারেট করতে হবে, নাকি আমি আগে থেকেও জেনারেট করে রাখতে পারবো?
+
+**১০. এজেন্টঃ** Sir, কোডটির validity বা মেয়াদ থাকে ২৪ ঘণ্টা। তাই আপনার ভ্রমণের দিন বিমানবন্দরে পৌঁছানোর পর কোডটি জেনারেট করাই সবচেয়ে নিরাপদ হবে।
+
+**১১. কাস্টমারঃ** Balaka Lounge-এ কি আমি বছরজুড়ে যতবার খুশি যেতে পারবো? জিপি কি এটার জন্য কোনো বাৎসরিক limit বা সীমাবদ্ধতা রেখেছে?
+
+**১২. এজেন্টঃ** Sir, Platinum Star গ্রাহকরা প্রতি calendar year বা বছরে সর্বোচ্চ ৪ বার Balaka Lounge-এর free access সুবিধা উপভোগ করতে পারবেন।
+
+**১৩. কাস্টমারঃ** বছরে ৪ বার, যথেষ্ট। লাউঞ্জ অ্যাক্সেস ছাড়া বিমানবন্দরে GP Star গ্রাহকদের কি আলাদা কোনো fast-track priority check-in সুবিধা দেওয়া হয়?
+
+**১৪. এজেন্টঃ** Sir, দুঃখিত। বিমানবন্দরে fast-track security check বা custom priority সুবিধা জিপির পক্ষ থেকে সরাসরি নেই। তবে আপনি GP Center-এ priority counter পাবেন।
+
+**১৫. কাস্টমারঃ** আচ্ছা, লাউঞ্জে প্রবেশ করার সময় GP Star verification code-এর পাশাপাশি কি আমার valid passport ও flight boarding pass দেখাতে হবে?
+
+**১৬. এজেন্টঃ** Sir, হ্যাঁ! Balaka Lounge-এর নিয়ম অনুযায়ী আপনার passport এবং ওই দিনের flight boarding pass কাউন্টারে অবশ্যই প্রদর্শন করতে হবে।
+
+**১৭. কাস্টমারঃ** ঠিক আছে ভাইয়া, এগুলো তো আমার সাথেই থাকবে। লাউঞ্জে কি ছোট বাচ্চাদের জন্য কোনো free access বা বিশেষ কোনো ছাড়ের সুবিধা আছে?
+
+**১৮. এজেন্টঃ** Sir, ৫ বছরের কম বয়সী বাচ্চাদের জন্য Balaka Lounge-এ প্রবেশ সম্পূর্ণ ফ্রি। আর ৫ বছরের বেশি হলে ৫০% companion discount প্রযোজ্য হবে।
+
+**১৯. কাস্টমারঃ** অনেক ধন্যবাদ সানি ভাইয়া। আমার ফ্লাইট আগামী পরশু। আমি বিমানবন্দরে গিয়ে SMS-টি পাঠিয়ে কোড নিয়ে নেবো। ভালো থাকবেন।
+
+**২০. এজেন্টঃ** Sir, আপনার যাত্রা শুভ ও নিরাপদ হোক। আপনার ভ্রমণের সময় কোনো রোমিং সুবিধার প্রয়োজন হলে আমাদের জানাতে ভুলবেন না।
+
+**২১. কাস্টমারঃ** আমার GP SIM-এ roaming আগে থেকেই active করা আছে, তাই সমস্যা নেই। ধন্যবাদ আপনার সুন্দর সার্ভিসের জন্য, ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Sir, আপনাকে সেবা দিতে পেরে জিপি আনন্দিত। আপনার বিদেশ ভ্রমণ আনন্দময় হোক এবং জিপির সাথেই থাকুন। ভালো থাকবেন।
+
+
+---
+
+
+## সিনারিও 97ঃ জিপি স্টার পার্টনার আউটলেটে ডিসকাউন্ট সংক্রান্ত সমস্যা সমাধান (GP Star partner outlet discount error troubleshooting)
+
+> কাস্টমার একটি রেস্তোরাঁয় ১৫% জিপি স্টার ডিসকাউন্ট পেতে এসএমএস পাঠিয়ে ভুল কিওয়ার্ডের কারণে প্রত্যাখ্যান হয়েছেন। এজেন্ট চেক করে সঠিক কিওয়ার্ডটি প্রদান করে সাহায্য করলেন।
+
+**১. কাস্টমারঃ** হ্যালো, আমি একটি partner restaurant-এ এসে ১৫% GP Star discount-এর জন্য SMS পাঠিয়েছিলাম। কিন্তু "Invalid keyword" মেসেজ এসেছে। এখন কী করবো?
+
+**২. এজেন্টঃ** Mam, আমি নিলা বলছি GP customer care থেকে। জিপি পার্টনার আউটলেটে ডিসকাউন্ট পেতে সমস্যা হওয়ার জন্য দুঃখিত। আমি এখনই চেক করছি।
+
+**৩. কাস্টমারঃ** রেস্টুরেন্টের লোক তো বলছে ডিসকাউন্ট কোড না দেখালে ছাড় দেবে না। তারা আমার বিল অলরেডি করে ফেলেছে। জলদি করুন।
+
+**৪. এজেন্টঃ** Mam, আপনি ঠিক কোন রেস্টুরেন্টে আছেন এবং জিপির "29000" নাম্বারে কোন keyword-টি লিখে SMS পাঠিয়েছিলেন তা বলবেন কি?
+
+**৫. কাস্টমারঃ** আমি Gloria Jean's-এ আছি। আমি GJC লিখে 29000-এ SMS পাঠিয়েছিলাম। কিন্তু জিপি থেকে রিপ্লাই এসেছে Keyword is incorrect, দয়া করে পুনরায় চেষ্টা করুন।
+
+**৬. এজেন্টঃ** Mam, দুঃখিত। Gloria Jean's-এর merchant code-টি সম্প্রতি আপডেট হয়ে "GJCOFFEE" হয়েছে। পুরাতন কোডটি ব্যবহারের কারণেই system "invalid" দেখাচ্ছিল।
+
+**৭. কাস্টমারঃ** ওহ! কিন্তু MyGP app-এ তো এখনো GJC কোডটাই দেখাচ্ছে। অ্যাপের তথ্য আপডেট না থাকলে আমরা কীভাবে জানবো?
+
+**৮. এজেন্টঃ** Mam, অ্যাপে তথ্য আপডেট হতে কিছুটা বিলম্ব হয়েছে। আপনি অনুগ্রহ করে আপনার message option-এ গিয়ে "GJCOFFEE" লিখে "29000"-এ SMS পাঠান।
+
+**৯. কাস্টমারঃ** আচ্ছা, আমি এখনই নতুন keyword GJCOFFEE লিখে SMS পাঠাচ্ছি। দেখি এবার সঠিক কোডটি ফোনে আসে কি না। আপনি লাইনেই থাকুন আপু।
+
+**১০. এজেন্টঃ** Mam, অবশ্যই আমি লাইনে আছি। নতুন কোডটি পাওয়ার সাথে সাথেই রেস্টুরেন্টের কাউন্টারে প্রদর্শন করুন, তারা ১৫% ছাড় দিয়ে দেবে।
+
+**১১. কাস্টমারঃ** হ্যাঁ আপু, এবার একটি code এসেছে! কোডটি হলো STAR-GJ-XXXXX। কাউন্টারের লোক কোডটি দেখে বিল সংশোধন করছে।
+
+**১২. এজেন্টঃ** Mam, শুনে ভালো লাগলো। আপনার পরিবর্তিত বিলে ১৫% ডিসকাউন্ট সঠিকভাবে প্রয়োগ করা হয়েছে কিনা তা দয়া করে নিশ্চিত করবেন।
+
+**১৩. কাস্টমারঃ** হ্যাঁ, তারা ডিসকাউন্ট দিয়ে বিল ঠিক করেছে। আচ্ছা, MyGP app-এর মাধ্যমে কি সরাসরি এই ডিসকাউন্ট কোড জেনারেট করা যায়?
+
+**১৪. এজেন্টঃ** Mam, হ্যাঁ! MyGP app-এর "GP Star" tab-এ গিয়ে নির্দিষ্ট partner brand সিলেক্ট করে "Get Code" বাটনে চাপ দিলেই কোড জেনারেট হয়।
+
+**১৫. কাস্টমারঃ** কিন্তু আমি তো আজ MyGP-তে গিয়েই Gloria Jean's খুঁজেছিলাম, সেখানে counter-এ থাকা অবস্থায় কোড জেনারেট হচ্ছিল না। এটার কারণ কী?
+
+**১৬. এজেন্টঃ** Mam, গতকাল আমাদের MyGP-র backend server-এ কারিগরি কাজ চলায় সাময়িক সমস্যা হয়েছিল। তবে এখন সেটি সম্পূর্ণ সচল ও সঠিক তথ্য দেখাচ্ছে।
+
+**১৭. কাস্টমারঃ** বুঝতে পেরেছি। আচ্ছা, জিপি স্টারের এই পার্টনার ডিসকাউন্ট অফারগুলো কি কোনো নির্দিষ্ট লিমিট বা ব্যবহারের সীমাবদ্ধতা থাকে?
+
+**১৮. এজেন্টঃ** Mam, প্রতিটি পার্টনার ব্র্যান্ডের ক্ষেত্রে মাসে বা বছরে ব্যবহারের নির্দিষ্ট লিমিট থাকে, যা MyGP app-এর terms and conditions-এ উল্লেখ থাকে।
+
+**১৯. কাস্টমারঃ** ঠিক আছে আপু। আজকের সমস্যার সমাধান হয়ে গেছে। আপনার তাৎক্ষণিক সাহায্য ও সুন্দর ব্যবহারের জন্য অনেক ধন্যবাদ। ভালো থাকবেন।
+
+**২০. এজেন্টঃ** Mam, আপনাকেও অনেক ধন্যবাদ। Gloria Jean's-এর এই ১৫% ডিসকাউন্ট অফারটি এ মাসের শেষ তারিখ পর্যন্ত সচল থাকবে। ভালো থাকবেন।
+
+**২১. কাস্টমারঃ** অনেক চমৎকার সুবিধা। পরবর্তী সময়ে আবারও বন্ধুদের নিয়ে এই ডিসকাউন্ট অফারটি উপভোগ করতে আসবো। ধন্যবাদ আপু, আল্লাহ হাফেজ।
+
+**২২. এজেন্টঃ** Mam, আল্লাহ হাফেজ। যেকোনো প্রয়োজনে জিপিকে স্মরণ করবেন। আপনার দিনটি অনেক সুন্দর হোক এবং জিপির সাথেই থাকুন। ভালো থাকবেন।
+
+
+---
+
+
+## সিনারিও 98ঃ ক্ষতিগ্রস্ত ই-সিম কিউআর কোড পুনরায় সংগ্রহ করার পদ্ধতি (GP eSIM QR code damaged print retrieval process)
+
+> কাস্টমার তার অনলাইন শপ থেকে কেনা ই-সিমের কিউআর কোডটি ক্ষতিগ্রস্ত হওয়ায় সচল করতে পারছেন না। এজেন্ট তাকে মাইজিপি অ্যাপ বা সেলফ-কেয়ার পোর্টাল থেকে বিকল্প নম্বর বা ইমেইলে ওটিপি ভেরিফিকেশনের মাধ্যমে ডিজিটাল কিউআর কোড ডাউনলোড করার নিয়ম বুঝিয়ে দিচ্ছেন।
+
+**১. কাস্টমারঃ** হ্যালো ভাইয়া, আমি জিপির অনলাইন শপ থেকে একটি eSIM কিনেছিলাম। কিন্তু ডেলিভারির সময় QR code কাগজটি ভিজে ছিঁড়ে গেছে, এখন কীভাবে scan করবো?
+
+**২. এজেন্টঃ** Sir, আমি ফয়সাল বলছি GP customer care থেকে। আপনার eSIM-এর QR code-টি ক্ষতিগ্রস্ত হওয়ায় আমরা আন্তরিকভাবে দুঃখিত। আমি আপনাকে সাহায্য করছি।
+
+**৩. কাস্টমারঃ** ধন্যবাদ ভাইয়া। এখন কি আমাকে আবার নতুন করে টাকা দিয়ে eSIM replacement করতে হবে? নাকি এই QR code-টি অন্যভাবে পাওয়া সম্ভব?
+
+**৪. এজেন্টঃ** Sir, আপনাকে কোনো বাড়তি টাকা দিতে হবে না। আপনি আমাদের GP self-care web portal অথবা MyGP app থেকে এটি ফ্রিতেই সংগ্রহ করতে পারবেন।
+
+**৫. কাস্টমারঃ** সেটি তো খুব ভালো হয়! কিন্তু MyGP app-এর ঠিক কোন অপশনে গিয়ে এই ডিজিটাল QR code-টি খুঁজে পাবো, একটু বলবেন?
+
+**৬. এজেন্টঃ** Sir, MyGP app-এ লগইন করে "Services" অপশনে যান। সেখানে "eSIM QR code" বাটনটি পাবেন, যেখান থেকে আপনি ডিজিটাল কপিটি ডাউনলোড করতে পারবেন।
+
+**৭. কাস্টমারঃ** আচ্ছা, MyGP app-এ ঢোকার পর কি আমার কোনো security check বা NID verification-এর প্রয়োজন হবে? কীভাবে নিশ্চিত করবেন আমিই মালিক?
+
+**৮. এজেন্টঃ** Sir, হ্যাঁ! সুরক্ষার জন্য আপনার NID নম্বরের শেষ ৪ ডিজিট এবং আপনার registered mobile number-এ পাঠানো OTP কোডটি প্রবেশ করাতে হবে।
+
+**৯. কাস্টমারঃ** আচ্ছা, আমার তো phone সচল নেই কারণ eSIM-টি এখনও সচল করা হয়নি। তাহলে OTP কোডটি আমি কীভাবে পাবো?
+
+**১০. এজেন্টঃ** Sir, অত্যন্ত গুরুত্বপূর্ণ একটি প্রশ্ন করেছেন। এই ক্ষেত্রে আপনি eSIM কেনার সময় যে alternate mobile number বা email address দিয়েছিলেন, সেখানে OTP যাবে।
+
+**১১. কাস্টমারঃ** হ্যাঁ, আমি আমার একটি alternate number ও ইমেইল দিয়েছিলাম। ওগুলোতে OTP পাঠালে আমি কোডটি দেখতে পারবো। এর পরের ধাপ কী?
+
+**১২. এজেন্টঃ** Sir, OTP verification সম্পন্ন হলে screen-এ একটি PDF download করার অপশন আসবে। সেটি download করলে আপনি আপনার eSIM QR code-টি পেয়ে যাবেন।
+
+**১৩. কাস্টমারঃ** আচ্ছা ভাইয়া, এই digital QR code-টি কি আমি অন্য কোনো device যেমন laptop-এ open করে আমার phone দিয়ে scan করতে পারবো?
+
+**১৪. এজেন্টঃ** Sir, হ্যাঁ! আপনি অন্য screen-এ QR code-টি প্রদর্শন করে আপনার phone-এর settings থেকে cellular network option-এ গিয়ে সহজেই scan করতে পারবেন।
+
+**১৫. কাস্টমারঃ** স্ক্যান করার পর eSIM সচল হতে কত সময় লাগতে পারে? আর আমার পুরাতন physical SIM-টি কি সাথে সাথেই বন্ধ হয়ে যাবে?
+
+**১৬. এজেন্টঃ** Sir, QR code scan করার পর সাধারণত ১ থেকে ২ ঘণ্টার মধ্যে eSIM সচল হয়। এবং eSIM চালু হওয়ার সাথে সাথেই পুরাতন SIM-টি বন্ধ হয়ে যাবে।
+
+**১৭. কাস্টমারঃ** বুঝতে পেরেছি। আচ্ছা, এই ডিজিটাল QR code-টি কি আমি ভবিষ্যতের জন্য সংরক্ষণ করে রাখতে পারবো? নাকি এটি একবারই ব্যবহার করা যাবে?
+
+**১৮. এজেন্টঃ** Sir, আপনি PDF-টি ভবিষ্যতের জন্য অবশ্যই safe custody-তে সংরক্ষণ করে রাখবেন। কোনো কারণে phone reset দিলে এটি পুনরায় setup করতে প্রয়োজন হবে।
+
+**১৯. কাস্টমারঃ** অনেক ধন্যবাদ ফয়সাল ভাইয়া। আপনার চমৎকার বুঝিয়ে বলার পদ্ধতি এবং দ্রুত সমাধানের পথ দেখানোর জন্য আমি আপনার প্রতি অত্যন্ত কৃতজ্ঞ।
+
+**২০. এজেন্টঃ** Sir, আপনাকে সেবা দিতে পেরে আনন্দিত। আপনার কি alternate number-টি মনে আছে, নাকি সেটি চেক করতে আমার সহায়তা প্রয়োজন হবে?
+
+**২১. কাস্টমারঃ** হ্যাঁ ভাইয়া, আমার alternate number-টি মনে আছে। আমি নিজেই এখন MyGP app থেকে এটি সংগ্রহ করে নিতে পারবো। ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Sir, আপনাকে অনেক ধন্যবাদ। জিপির সাথেই থাকুন এবং আপনার দিনটি অনেক শুভ হোক। যেকোনো প্রয়োজনে সর্বদা যোগাযোগ করবেন, শুভ বিদায়।
+
+
+---
+
+
+## সিনারিও 99ঃ জিপি স্টার পার্টনার হাসপাতালে ডিসকাউন্ট সুবিধা নেওয়া (GP Star Labaid hospital diagnostic discount process)
+
+> জিপি স্টার কাস্টমার ল্যাবএইড হাসপাতালে ডায়াগনস্টিক পরীক্ষার উপর জিপি স্টার ডিসকাউন্ট হার, আউটডোর সেবা ও কিউআর/এসএমএস কোড ভেরিফিকেশন করার প্রক্রিয়া সম্পর্কে বিস্তারিত জানতে চান।
+
+**১. কাস্টমারঃ** হ্যালো আপু, আমি একজন GP Star গ্রাহক। শুনেছি Labaid Hospital-এ জিপি স্টারের জন্য diagnostic test-এ discount পাওয়া যায়?
+
+**২. এজেন্টঃ** Mam, আমি সাবিনা বলছি GP customer care থেকে। হ্যাঁ, জিপি স্টার গ্রাহকদের জন্য Labaid-এ diagnostic checkup-এ বিশেষ ছাড়ের সুবিধা রয়েছে।
+
+**৩. কাস্টমারঃ** এটি জেনে খুব ভালো লাগলো। Labaid-এ জিপি স্টারের ঠিক কত শতাংশ ডিসকাউন্ট দেওয়া হচ্ছে? সব টেস্টেই কি ছাড় আছে?
+
+**৪. এজেন্টঃ** Mam, pathological tests-এর ওপর ১৫% এবং imaging tests যেমন X-ray, MRI, CT scan-এর ওপর ১০% discount প্রযোজ্য হবে।
+
+**৫. কাস্টমারঃ** আচ্ছা, Labaid-এর যেকোনো branch-এই কি এই discount সুবিধাটি পাওয়া যাবে? নাকি জিপির নির্দিষ্ট কোনো নির্ধারিত শাখায় যেতে হবে?
+
+**৬. এজেন্টঃ** Mam, Labaid Diagnostic-এর সারা দেশের সকল শাখা এবং Labaid Cancer Hospital-এও এই জিপি স্টার ডিসকাউন্ট সুবিধাটি উপভোগ করতে পারবেন।
+
+**৭. কাস্টমারঃ** অনেক ভালো সুবিধা। এই ডিসকাউন্টটি পাওয়ার জন্য আমাকে কীভাবে coupon code বা SMS জেনারেট করতে হবে? নিয়মটি বলুন।
+
+**৮. এজেন্টঃ** Mam, Labaid-এর জন্য "LABAID" লিখে "29000" নম্বরে SMS পাঠাতে হবে। অথবা MyGP app-এর "GP Star" tab থেকে কোড নিতে পারেন।
+
+**৯. কাস্টমারঃ** আচ্ছা, এই ডিসকাউন্ট কি শুধুমাত্র outdoor patients-দের জন্য প্রযোজ্য, নাকি hospital-এ ভর্তি থাকা রোগীদের জন্যও কাজ করবে?
+
+**১০. এজেন্টঃ** Mam, এই discount শুধুমাত্র outdoor patients-দের diagnostic tests-এর জন্য প্রযোজ্য। Hospital cabin, surgery বা medicine-এর ওপর কোনো ছাড় থাকবে না।
+
+**১১. কাস্টমারঃ** ও আচ্ছা, মানে শুধুমাত্র diagnostic test-এর ওপর ছাড় পাওয়া যাবে। তো এই offer code-টির validity বা মেয়াদ কত দিন থাকবে?
+
+**১২. এজেন্টঃ** Mam, আপনি SMS বা MyGP app-এর মাধ্যমে যে code-টি পাবেন, তার validity জেনারেশনের দিন থেকে ৩ দিন পর্যন্ত থাকবে।
+
+**১৩. কাস্টমারঃ** আচ্ছা, আমার পরিবারের সদস্যদের টেস্ট করানোর সময় কি আমি আমার জিপি স্টার নাম্বার দিয়ে এই ডিসকাউন্ট নিতে পারবো?
+
+**১৪. এজেন্টঃ** Mam, হ্যাঁ! জিপি স্টার গ্রাহক নিজে উপস্থিত থেকে পরিবারের সদস্যের বিল পরিশোধের সময় নিজের স্টার কোডটি ব্যবহার করে ছাড় নিতে পারবেন।
+
+**১৫. কাস্টমারঃ** এটি তো খুব চমৎকার সুযোগ! আচ্ছা, ডাক্তারের consult fee বা ভিজিটের ওপর কি জিপি স্টারের কোনো ছাড় আছে?
+
+**১৬. এজেন্টঃ** Mam, দুঃখিত। Labaid-এর ডাক্তারদের consultation fee বা visiting charge-এর ওপর জিপি স্টারের কোনো ছাড় বা discount সুবিধা প্রযোজ্য নয়।
+
+**১৭. কাস্টমারঃ** ঠিক আছে আপু, টেস্টের ওপর ডিসকাউন্ট পেলেই অনেক সাশ্রয় হবে। হাসপাতালে কাউন্টারে কোড দেখালেই কি তারা বিল কমিয়ে দেবে?
+
+**১৮. এজেন্টঃ** Mam, হ্যাঁ! বিল করার পূর্বে কাউন্টারের স্টাফকে কোডটি দেখালে তারা system-এ discount apply করে বিলের পরিমাণ কমিয়ে প্রিন্ট করবে।
+
+**১৯. কাস্টমারঃ** অনেক ধন্যবাদ সাবিনা আপু। আমার মায়ের কিছু টেস্ট করাতে হবে, আমি কালকেই Labaid-এ যাবো এবং কোডটি ব্যবহার করবো।
+
+**২০. এজেন্টঃ** Mam, আপনাকে সেবা দিতে পেরে জিপি আনন্দিত। আপনার মায়ের দ্রুত সুস্থতা কামনা করছি। যাওয়ার আগে কোডটি জেনারেট করে নেবেন।
+
+**২১. কাস্টমারঃ** হ্যাঁ আপু, হাসপাতালে যাওয়ার পথেই কোডটি ফোনে জেনারেট করে নেবো। অনেক ধন্যবাদ আপনাকে সব বুঝিয়ে বলার জন্য, ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Mam, জিপিকে বেছে নেওয়ার জন্য ধন্যবাদ। ভালো থাকুন এবং জিপির সাথেই থাকুন। কোনো সমস্যা হলে আমাদের অবশ্যই জানাবেন, শুভ বিদায়।
+
+
+---
+
+
+## সিনারিও 100ঃ পোস্টপেইড সংযোগ থেকে প্রিপেইড সংযোগে রূপান্তর করা (GP postpaid to prepaid reverse migration process)
+
+> পোস্টপেইড কাস্টমার তার সংযোগটি পুনরায় প্রিপেইডে রূপান্তর করতে চান। এজেন্ট তাকে বকেয়া বিল পরিশোধ, সিকিউরিটি ডিপোজিট সমন্বয়, প্রিপেইডে রূপান্তরের সময়সীমা এবং জিপি সেন্টারে বায়োমেট্রিক ভেরিফিকেশনের নিয়মাবলী বুঝিয়ে দিচ্ছেন।
+
+**১. কাস্টমারঃ** হ্যালো ভাইয়া, আমার জিপি postpaid connection-টি আমি আবার prepaid connection-এ রূপান্তর বা migrate করতে চাই। এটার নিয়ম কী?
+
+**২. এজেন্টঃ** Sir, আমি আরিফ বলছি GP customer care থেকে। হ্যাঁ, আপনি আপনার postpaid connection-টি prepaid-এ রূপান্তর করতে পারবেন। আমি নিয়মগুলো বলে দিচ্ছি।
+
+**৩. কাস্টমারঃ** ধন্যবাদ ভাইয়া। এই migration করার জন্য কি কোনো charge বা fee দিতে হবে? আর আমি কি ঘরে বসেই এটি করতে পারবো?
+
+**৪. এজেন্টঃ** Sir, এর জন্য কোনো extra charge লাগবে না। তবে সুরক্ষার স্বার্থে এবং biometric verification-এর জন্য আপনাকে যেকোনো GP Center-এ যেতে হবে।
+
+**৫. কাস্টমারঃ** ও আচ্ছা, তার মানে GP Center-এ সশরীরে যেতে হবে। যাওয়ার আগে কি আমার জিপি সিমের সকল outstanding bill বা বকেয়া পরিশোধ করে নিতে হবে?
+
+**৬. এজেন্টঃ** Sir, হ্যাঁ! Migration request করার পূর্বে আপনার সমস্ত outstanding bill পরিশোধ করতে হবে। আপনি MyGP app-এর মাধ্যমে বিল পরিশোধ করতে পারেন।
+
+**৭. কাস্টমারঃ** বুঝলাম। আচ্ছা, আমি যখন এই postpaid SIM-টি নিয়েছিলাম, তখন ৩,০০০ টাকা security deposit জমা দিয়েছিলাম। সেই টাকাটার কী হবে?
+
+**৮. এজেন্টঃ** Sir, আপনার security deposit-এর টাকাটি আপনার final bill-এর সাথে adjust করা হবে। আর অবশিষ্ট টাকা আপনার prepaid account-এর main balance-এ যোগ হবে।
+
+**৯. কাস্টমারঃ** এটি তো খুব ভালো নিয়ম! আচ্ছা, পোস্টপেইড থেকে প্রিপেইডে মাইগ্রেট হতে কত সময় লাগবে? সংযোগ কি সাময়িকভাবে বন্ধ থাকবে?
+
+**১০. এজেন্টঃ** Sir, GP Center-এ biometric verification দেওয়ার পর ২৪ ঘণ্টার মধ্যে migration সম্পন্ন হবে। এই সময় সংযোগ সাময়িক ১ ঘণ্টার জন্য বিচ্ছিন্ন হতে পারে।
+
+**১১. কাস্টমারঃ** আচ্ছা, প্রিপেইডে মাইগ্রেট হওয়ার পর আমার postpaid SIM-এ থাকা active internet pack এবং অবশিষ্ট talktime মিনিটগুলো কি prepaid-এ transfer হবে?
+
+**১২. এজেন্টঃ** Sir, দুঃখিত। Migration-এর পর পূর্বের কোনো active pack, talktime বা internet volume প্রিপেইডে স্থানান্তরিত হবে না, সেগুলো automatically বাতিল হয়ে যাবে।
+
+**১৩. কাস্টমারঃ** ও আচ্ছা, তাহলে প্রিপেইডে যাওয়ার আগে আমার অবশিষ্ট মিনিট ও ইন্টারনেট ব্যবহার করে শেষ করে ফেলাই ভালো হবে।
+
+**১৪. এজেন্টঃ** Sir, হ্যাঁ! আপনার বর্তমান billing cycle শেষ হওয়ার কাছাকাছি সময়ে এবং pack-এর মেয়াদ শেষ হলে migration করাটাই সবচেয়ে বুদ্ধিমানের কাজ হবে।
+
+**১৫. কাস্টমারঃ** আচ্ছা ভাইয়া, প্রিপেইডে চলে যাওয়ার পর আমি কি আবার জিপির regular prepaid offers এবং রিচার্জ বোনাসগুলো পাওয়া শুরু করবো?
+
+**১৬. এজেন্টঃ** Sir, হ্যাঁ! প্রিপেইড হওয়ার সাথে সাথেই আপনি জিপির সাধারণ গ্রাহকদের মতো সকল regular offers, recharge bonus এবং internet packs উপভোগ করতে পারবেন।
+
+**১৭. কাস্টমারঃ** ভালো সুবিধা। GP Center-এ যাওয়ার সময় আমার NID card বা অন্য কোনো documents সাথে নিয়ে যেতে হবে কি না?
+
+**১৮. এজেন্টঃ** Sir, হ্যাঁ! আপনার original NID card-টি সাথে নিয়ে যাবেন। কারণ SIM-এর মালিকানা যাচাই ও biometric re-verification-এর জন্য এটি আবশ্যিক।
+
+**১৯. কাস্টমারঃ** অনেক ধন্যবাদ আরিফ ভাইয়া। খুব সুন্দর করে প্রতিটি প্রশ্নের উত্তর দেওয়ার জন্য। আমি এ সপ্তাহের বিল পরিশোধ করে GP Center-এ যাবো।
+
+**২০. এজেন্টঃ** Sir, আপনাকে সেবা দিতে পেরে আনন্দিত। আশা করি জিপির সাথেই থাকবেন। আর কোনো তথ্য জানার প্রয়োজন আছে কি আপনার?
+
+**২১. কাস্টমারঃ** না ভাইয়া, আর কোনো তথ্যের প্রয়োজন নেই। আপনি আমার সব প্রশ্নের খুব চমৎকার ও স্পষ্ট উত্তর দিয়েছেন, ভালো থাকবেন।
+
+**২২. এজেন্টঃ** Sir, আপনাকেও অনেক ধন্যবাদ। আপনার দিনটি অনেক শুভ ও সুন্দর হোক এবং জিপির সাথেই থাকুন। ভালো থাকবেন, বিদায়।
