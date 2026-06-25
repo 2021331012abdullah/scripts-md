@@ -4324,7 +4324,7 @@
 
 ---
 
-## সিনারিও 101ঃ বিকাশ অ্যাপে ইউটিলিটি বিল অটো-ডেবিট (Auto-Debit) চালু ও বন্ধ করার নিয়ম সংক্রান্ত জিজ্ঞাসা (Inquiry about enabling and disabling utility bill Auto-Debit on bKash App)
+## সিনারিও 101: বিকাশ অ্যাপে ইউটিলিটি বিল অটো-ডেবিট (Auto-Debit) চালু ও বন্ধ করার নিয়ম সংক্রান্ত জিজ্ঞাসা (Inquiry about enabling and disabling utility bill Auto-Debit on bKash App)
 
 > কাস্টমার তার বিকাশ অ্যাপ ব্যবহার করে প্রতি মাসের বিদ্যুৎ ও গ্যাস বিল স্বয়ংক্রিয়ভাবে পরিশোধের জন্য অটো-ডেবিট ফিচারটি সচল ও নিষ্ক্রিয় করার নিয়ম জানতে চান।
 
@@ -4374,7 +4374,7 @@
 
 ---
 
-## সিনারিও 102ঃ প্রবাসীদের জন্য বিদেশ থেকে এনআইডি (NID) দিয়ে অ্যাপের মাধ্যমে বিকাশ অ্যাকাউন্ট খোলার পদ্ধতি (Procedure for opening bKash account using NID via app for Bangladeshi expatriates)
+## সিনারিও 102: প্রবাসীদের জন্য বিদেশ থেকে এনআইডি (NID) দিয়ে অ্যাপের মাধ্যমে বিকাশ অ্যাকাউন্ট খোলার পদ্ধতি (Procedure for opening bKash account using NID via app for Bangladeshi expatriates)
 
 > প্রবাসী বাংলাদেশী কাস্টমার বিদেশ থেকে তার বাংলাদেশী জাতীয় পরিচয়পত্র এবং বিদেশি মোবাইল নম্বর দিয়ে বিকাশ অ্যাপের মাধ্যমে একাউন্ট খোলার নিয়ম জানতে চান。
 
@@ -4424,7 +4424,7 @@
 
 ---
 
-## সিনারিও 103ঃ বিকাশ অ্যাপের মাধ্যমে সরকারি ট্যাক্স ও হোল্ডিং ট্যাক্স পেমেন্ট করতে সমস্যা (Problems paying government taxes and holding tax via bKash App)
+## সিনারিও 103: বিকাশ অ্যাপের মাধ্যমে সরকারি ট্যাক্স ও হোল্ডিং ট্যাক্স পেমেন্ট করতে সমস্যা (Problems paying government taxes and holding tax via bKash App)
 
 > কাস্টমার তার বিকাশ অ্যাপ ব্যবহার করে সিটি কর্পোরেশনের হোল্ডিং ট্যাক্স বা সরকারি আয়কর পরিশোধ করার সময় পেমেন্ট প্রসেসিং ব্যর্থ হওয়ার কারণ জানতে চান。
 
@@ -4474,7 +4474,7 @@
 
 ---
 
-## সিনারিও 104ঃ বিকাশ একাউন্টের ডরমেট বা নিষ্ক্রিয় (Dormant Account) অবস্থা পুনরায় সচল করার নিয়ম (Procedure to reactivate a dormant bKash account)
+## সিনারিও 104: বিকাশ একাউন্টের ডরমেট বা নিষ্ক্রিয় (Dormant Account) অবস্থা পুনরায় সচল করার নিয়ম (Procedure to reactivate a dormant bKash account)
 
 > কাস্টমার তার দীর্ঘদিন অব্যবহৃত বা ডরমেট বিকাশ একাউন্টটি বন্ধ অবস্থা থেকে পুনরায় সচল করার জন্য প্রয়োজনীয় নিয়মাবলী জানতে চান。
 
@@ -4524,7 +4524,7 @@
 
 ---
 
-## সিনারিও 105ঃ বিকাশ অ্যাপে জন্ম নিবন্ধন সনদ দ্বারা ভেরিফাই করা একাউন্টে তথ্য হালনাগাদের প্রক্রিয়া (Process of updating information for accounts verified with birth certificate on bKash App)
+## সিনারিও 105: বিকাশ অ্যাপে জন্ম নিবন্ধন সনদ দ্বারা ভেরিফাই করা একাউন্টে তথ্য হালনাগাদের প্রক্রিয়া (Process of updating information for accounts verified with birth certificate on bKash App)
 
 > কাস্টমার তার ১৮ বছর পূর্ণ হওয়ার পর জন্ম নিবন্ধন সনদ দিয়ে খোলা বিকাশ অ্যাকাউন্টটি জাতীয় পরিচয়পত্র (NID) দিয়ে আপডেট করার নিয়ম জানতে চান。
 
@@ -4574,7 +4574,7 @@
 
 ---
 
-## সিনারিও 106ঃ বিকাশ মার্চেন্ট অ্যাকাউন্টে পেমেন্ট লিংক (Payment Link) তৈরি ও শেয়ার করার নিয়ম (Procedure for creating and sharing Payment Links in bKash Merchant account)
+## সিনারিও 106: বিকাশ মার্চেন্ট অ্যাকাউন্টে পেমেন্ট লিংক (Payment Link) তৈরি ও শেয়ার করার নিয়ম (Procedure for creating and sharing Payment Links in bKash Merchant account)
 
 > বিকাশ মার্চেন্ট গ্রাহক তার ব্যবসার জন্য বিকাশ মার্চেন্ট অ্যাপের মাধ্যমে অনলাইন পেমেন্ট লিংক তৈরি ও গ্রাহকদের সাথে শেয়ার করার পদ্ধতি জানতে চান。
 
@@ -4624,7 +4624,7 @@
 
 ---
 
-## সিনারিও 107ঃ ই-টিন (e-TIN) সনদপত্র ব্যবহার করে বিকাশের কর সংক্রান্ত তথ্য আপডেট করার নিয়ম (Rules for updating tax info in bKash using e-TIN certificate)
+## সিনারিও 107: ই-টিন (e-TIN) সনদপত্র ব্যবহার করে বিকাশের কর সংক্রান্ত তথ্য আপডেট করার নিয়ম (Rules for updating tax info in bKash using e-TIN certificate)
 
 > কাস্টমার তার বিকাশ মার্চেন্ট বা পার্সোনাল রিটেইল অ্যাকাউন্টে সরকারি কর কর্তন কমানোর জন্য ই-টিন (e-TIN) নম্বর আপডেট করার নিয়ম জানতে চান。
 
@@ -4674,7 +4674,7 @@
 
 ---
 
-## সিনারিও 108ঃ বিকার প্লাস (bKash Plus) বা অন্যান্য নতুন ক্যাম্পেইনের অফার ট্র্যাকিং সংক্রান্ত জিজ্ঞাসা (Inquiry about tracking new campaigns and bKash Plus offers)
+## সিনারিও 108: বিকার প্লাস (bKash Plus) বা অন্যান্য নতুন ক্যাম্পেইনের অফার ট্র্যাকিং সংক্রান্ত জিজ্ঞাসা (Inquiry about tracking new campaigns and bKash Plus offers)
 
 > কাস্টমার তার বিকাশ অ্যাপ ব্যবহার করে বিভিন্ন মার্চেন্ট ক্যাশব্যাক ক্যাম্পেইন এবং 'বিকাশ প্লাস' অফারগুলো কীভাবে ট্র্যাক ও ব্যবহার করতে হয় তা জানতে চান。
 
@@ -4724,7 +4724,7 @@
 
 ---
 
-## সিনারিও 109ঃ বিকাশ পে-ল্যাটার (Pay Later) ফিচার সচল করতে সমস্যা ও এর নিয়মাবলী (Problems enabling and rules of using bKash Pay Later feature)
+## সিনারিও 109: বিকাশ পে-ল্যাটার (Pay Later) ফিচার সচল করতে সমস্যা ও এর নিয়মাবলী (Problems enabling and rules of using bKash Pay Later feature)
 
 > কাস্টমার তার বিকাশ অ্যাপে পে-ল্যাটার বা পরে মূল্য পরিশোধ করার ফিচারটি সচল করার নিয়ম এবং এটি ব্যবহার করতে না পারার কারণ জানতে চান।
 
@@ -4774,7 +4774,7 @@
 
 ---
 
-## সিনারিও 110ঃ বিকাশ ওয়ালেটে ভুল করে রিচার্জ হওয়া টাকা ফেরত পাওয়ার প্রসেস (Process of getting back money accidentally recharged to wrong number in bKash)
+## সিনারিও 110: বিকাশ ওয়ালেটে ভুল করে রিচার্জ হওয়া টাকা ফেরত পাওয়ার প্রসেস (Process of getting back money accidentally recharged to wrong number in bKash)
 
 > কাস্টমার তার বিকাশ অ্যাপ থেকে অন্য একটি ভুল নম্বরে মোবাইল রিচার্জ বা সেন্ড মানি করার পর টাকা ফেরত পাওয়ার সঠিক নিয়মাবলী জানতে চান।
 
@@ -4824,7 +4824,7 @@
 
 ---
 
-## সিনারিও 111ঃ বিকাশ অ্যাপের স্টুডেন্ট অ্যাকাউন্ট (Student Account) ভেরিফিকেশন ও অভিভাবক লিঙ্ক করতে সমস্যা (Problems verifying and linking parent account for bKash Student Account)
+## সিনারিও 111: বিকাশ অ্যাপের স্টুডেন্ট অ্যাকাউন্ট (Student Account) ভেরিফিকেশন ও অভিভাবক লিঙ্ক করতে সমস্যা (Problems verifying and linking parent account for bKash Student Account)
 
 > ১৪ থেকে ১৮ বছর বয়সী কাস্টমার তার জন্ম নিবন্ধন ও অভিভাবকের জাতীয় পরিচয়পত্র দিয়ে বিকাশ স্টুডেন্ট অ্যাকাউন্ট খুলতে ও অভিভাবকের অ্যাকাউন্ট লিঙ্ক করতে সমস্যা নিয়ে যোগাযোগ করেন।
 
@@ -4874,7 +4874,7 @@
 
 ---
 
-## সিনারিও 112ঃ বিকাশ এটিএম (ATM) ক্যাশআউট ট্রানজেকশন সফল হলেও টাকা না পাওয়ার অভিযোগ (Complaint about not receiving cash from ATM despite successful bKash ATM Cash Out)
+## সিনারিও 112: বিকাশ এটিএম (ATM) ক্যাশআউট ট্রানজেকশন সফল হলেও টাকা না পাওয়ার অভিযোগ (Complaint about not receiving cash from ATM despite successful bKash ATM Cash Out)
 
 > কাস্টমার কোনো পার্টনার ব্যাংকের এটিএম বুথ থেকে বিকাশের মাধ্যমে ক্যাশআউট করার সময় অ্যাকাউন্ট থেকে টাকা কেটে নেওয়া অথচ বুথ থেকে নগদ টাকা না পাওয়ার অভিযোগ জানান।
 
@@ -4924,7 +4924,7 @@
 
 ---
 
-## সিনারিও 113ঃ বিকাশ অ্যাপের মাধ্যমে বিদেশগামী যাত্রীদের বিএমইটি (BMET) ফি পরিশোধের নিয়ম (Procedure for paying BMET fee for outbound migrant workers via bKash App)
+## সিনারিও 113: বিকাশ অ্যাপের মাধ্যমে বিদেশগামী যাত্রীদের বিএমইটি (BMET) ফি পরিশোধের নিয়ম (Procedure for paying BMET fee for outbound migrant workers via bKash App)
 
 > কাস্টমার তার বিদেশ যাওয়ার জন্য বিএমইটি (BMET) কার্ড বা রেজিষ্ট্রেশন ফি বিকাশ অ্যাপ ব্যবহার করে ঘরে বসে পরিশোধ করার সঠিক নিয়ম জানতে চান।
 
@@ -4974,7 +4974,7 @@
 
 ---
 
-## সিনারিও 114ঃ বিকাশ অ্যাপ ব্যবহার করে ট্রেনের টিকিট বুকিংয়ের পর টাকা কেটে নেওয়া কিন্তু টিকিট ISSUE না হওয়া (Money deducted but train ticket not issued after booking via bKash App)
+## সিনারিও 114: বিকাশ অ্যাপ ব্যবহার করে ট্রেনের টিকিট বুকিংয়ের পর টাকা কেটে নেওয়া কিন্তু টিকিট ISSUE না হওয়া (Money deducted but train ticket not issued after booking via bKash App)
 
 > কাস্টমার তার বিকাশ অ্যাপ দিয়ে বাংলাদেশ রেলওয়ের ট্রেনের টিকিট কাটার সময় পেমেন্ট সফল হলেও টিকিট ইস্যু না হওয়া এবং টাকা কাটার অভিযোগ করেন।
 
@@ -5024,7 +5024,7 @@
 
 ---
 
-## সিনারিও 115ঃ বিকাশ অ্যাপে সেভিংস অ্যাকাউন্টের মনোনীত নমিনি (Nominee) পরিবর্তন বা আপডেট করার নিয়ম (Procedure for changing or updating nominee for bKash Savings account)
+## সিনারিও 115: বিকাশ অ্যাপে সেভিংস অ্যাকাউন্টের মনোনীত নমিনি (Nominee) পরিবর্তন বা আপডেট করার নিয়ম (Procedure for changing or updating nominee for bKash Savings account)
 
 > কাস্টমার তার বিকাশ অ্যাপের মাধ্যমে পূর্বে খোলা ডিপিএস বা সেভিংস স্কিমের মনোনীত নমিনির তথ্য পরিবর্তন ও নতুন নমিনি যুক্ত করার নিয়ম জানতে চান।
 
@@ -5074,7 +5074,7 @@
 
 ---
 
-## সিনারিও 116ঃ বিকাশ অ্যাপে আইডেন্টিটি ভেরিফিকেশনে ক্যামেরা সচল না হওয়া ও ঝাপসা ছবি আসা (Camera not opening or blurry photo during identity verification on bKash App)
+## সিনারিও 116: বিকাশ অ্যাপে আইডেন্টিটি ভেরিফিকেশনে ক্যামেরা সচল না হওয়া ও ঝাপসা ছবি আসা (Camera not opening or blurry photo during identity verification on bKash App)
 
 > কাস্টমার তার বিকাশ অ্যাপের মাধ্যমে এনআইডি দিয়ে পরিচয় যাচাই বা ফেস ভেরিফিকেশন করার সময় ক্যামেরা সচল না হওয়া ও ঝাপসা ছবির কারণে প্রক্রিয়াটি সম্পন্ন করতে ব্যর্থ হওয়ার অভিযোগ করেন।
 

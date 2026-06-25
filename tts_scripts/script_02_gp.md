@@ -7,7 +7,7 @@
 ---
 
 
-## সিনারিও 1ঃ Internet pack activate করতে টাকা কেটে নেওয়া কিন্তু কোনো data যোগ না হওয়া (Internet pack activation failed, balance deducted without data)
+## সিনারিও 1: Internet pack activate করতে টাকা কেটে নেওয়া কিন্তু কোনো data যোগ না হওয়া (Internet pack activation failed, balance deducted without data)
 
 > কাস্টমার তার গ্রামীণফোন সিমের balance থেকে internet pack কেনার জন্য টাকা কেটে নেওয়ার পরেও মোবাইলে কোনো internet data যোগ না হওয়া নিয়ে অভিযোগ জানাতে call করেন।
 
@@ -59,7 +59,7 @@
 ---
 
 
-## সিনারিও 2ঃ Weekly internet pack-এর auto-renewal এ বিনা অনুমতিতে টাকা কেটে নেওয়া (Auto-renewal deducted money without consent)
+## সিনারিও 2: Weekly internet pack-এর auto-renewal এ বিনা অনুমতিতে টাকা কেটে নেওয়া (Auto-renewal deducted money without consent)
 
 > কাস্টমার জানতেন না যে তার weekly internet pack-এ auto-renewal চালু আছে। প্রতি সপ্তাহে balance থেকে টাকা কেটে যাচ্ছে, এই নিয়ে রাগান্বিত হয়ে call করেন।
 
@@ -111,7 +111,7 @@
 ---
 
 
-## সিনারিও 3ঃ Recharge করার পর emergency balance কেটে নেওয়ায় কম টাকা দেখানো (Emergency balance recovery after recharge)
+## সিনারিও 3: Recharge করার পর emergency balance কেটে নেওয়ায় কম টাকা দেখানো (Emergency balance recovery after recharge)
 
 > বয়স্ক কাস্টমার ৫০ টাকা recharge করেছেন কিন্তু balance-এ মাত্র ২০ টাকা দেখাচ্ছে। আগে নেওয়া emergency balance কেটে যাওয়ার বিষয়টি বুঝতে পারছেন না।
 
@@ -161,7 +161,7 @@
 ---
 
 
-## সিনারিও 4ঃ ভুলে অন্য number-এ ৫০০ টাকা recharge করে ফেলা (Wrong recharge to a different GP number by mistake)
+## সিনারিও 4: ভুলে অন্য number-এ ৫০০ টাকা recharge করে ফেলা (Wrong recharge to a different GP number by mistake)
 
 > কাস্টমার তাড়াহুড়ো করে নিজের number-এর বদলে ভুল number-এ ৫০০ টাকা recharge করে ফেলেছেন এবং টাকা ফেরত পাওয়ার জন্য কল করেন।
 
@@ -213,7 +213,7 @@
 ---
 
 
-## সিনারিও 5ঃ bKash-এ postpaid bill দেওয়ার পরও line বন্ধ থাকা (Postpaid bill paid via bKash but line still suspended)
+## সিনারিও 5: bKash-এ postpaid bill দেওয়ার পরও line বন্ধ থাকা (Postpaid bill paid via bKash but line still suspended)
 
 > কাস্টমার তার গ্রামীণফোন postpaid connection-এর bill bKash-এ পরিশোধ করেছেন কিন্তু line এখনো suspended অবস্থায় আছে, call বা internet কিছুই চলছে না।
 
@@ -261,7 +261,7 @@
 ---
 
 
-## সিনারিও 6ঃ একই minute pack-এর দাম পরিবারের দুই member-এ আলাদা দেখানো (Same pack showing different price for different users — dynamic pricing)
+## সিনারিও 6: একই minute pack-এর দাম পরিবারের দুই member-এ আলাদা দেখানো (Same pack showing different price for different users — dynamic pricing)
 
 > কাস্টমার লক্ষ্য করেছেন একই minute pack তার MyGP app-এ ৪৯ টাকা দেখাচ্ছে কিন্তু তার স্ত্রীর phone-এ ৫৯ টাকা। এই পার্থক্যের কারণ জানতে চান।
 
@@ -301,7 +301,7 @@
 ---
 
 
-## সিনারিও 7ঃ Flexiplan-এ custom pack বানাতে গেলে regular pack-এর চেয়ে বেশি দাম আসা (Flexiplan custom pack costs more than regular pack)
+## সিনারিও 7: Flexiplan-এ custom pack বানাতে গেলে regular pack-এর চেয়ে বেশি দাম আসা (Flexiplan custom pack costs more than regular pack)
 
 > Tech-savvy তরুণ কাস্টমার MyGP app-এর Flexiplan feature-এ নিজের মতো করে pack বানাতে গিয়ে দেখেন দাম ready-made pack-এর চেয়ে বেশি পড়ছে। এই নিয়ে হতাশ হয়ে call করেন।
 
@@ -339,7 +339,7 @@
 ---
 
 
-## সিনারিও 8ঃ bKash দিয়ে recharge করতে গিয়ে দুইবার টাকা কাটা কিন্তু একবারই recharge হওয়া (Double deduction on recharge via bKash)
+## সিনারিও 8: bKash দিয়ে recharge করতে গিয়ে দুইবার টাকা কাটা কিন্তু একবারই recharge হওয়া (Double deduction on recharge via bKash)
 
 > কাস্টমার bKash দিয়ে ১০০ টাকা recharge করতে গিয়ে দুইবার টাকা কেটে গেছে (২০০ টাকা) কিন্তু GP balance-এ মাত্র ১০০ টাকা এসেছে। তাড়াহুড়ায় call করেন।
 
@@ -379,7 +379,7 @@
 ---
 
 
-## সিনারিও 9ঃ Missed Call Alert-এর জন্য প্রতি মাসে ১০ টাকা করে কাটা যাচ্ছে অথচ subscribe করা হয়নি (Unknown recurring charge for Missed Call Alert)
+## সিনারিও 9: Missed Call Alert-এর জন্য প্রতি মাসে ১০ টাকা করে কাটা যাচ্ছে অথচ subscribe করা হয়নি (Unknown recurring charge for Missed Call Alert)
 
 > কাস্টমার (মহিলা) প্রতি মাসে balance থেকে ১০ টাকা করে কাটছে কিন্তু কোনো service নেওয়ার কথা মনে নেই। বিরক্ত হয়ে call করেন।
 
@@ -433,7 +433,7 @@
 ---
 
 
-## সিনারিও 10ঃ GP Star Platinum হওয়া সত্ত্বেও partner hospital-এ discount না পাওয়া (GP Star discount not applied at partner outlet)
+## সিনারিও 10: GP Star Platinum হওয়া সত্ত্বেও partner hospital-এ discount না পাওয়া (GP Star discount not applied at partner outlet)
 
 > কাস্টমার GP Star Platinum member, partner hospital-এ গিয়ে ১৫% discount চেয়েছিলেন কিন্তু hospital reception বলেছে তারা GP Star discount দেয় না। হতাশ হয়ে call করেন।
 
@@ -489,7 +489,7 @@
 ---
 
 
-## সিনারিও 11ঃ মেয়ের SIM-এ balance transfer করতে গিয়ে PIN ভুলে যাওয়া (Balance transfer PIN forgotten — calling for daughter)
+## সিনারিও 11: মেয়ের SIM-এ balance transfer করতে গিয়ে PIN ভুলে যাওয়া (Balance transfer PIN forgotten — calling for daughter)
 
 > মা তার মেয়ের SIM-এ balance transfer করতে চাচ্ছেন কিন্তু PIN মনে নেই। মেয়ের exam চলছে তাই মেয়ে নিজে call করতে পারছে না।
 
@@ -545,7 +545,7 @@
 ---
 
 
-## সিনারিও 12ঃ পুরনো SIM reactivate করার পর promotional offer না পাওয়া (Old SIM reactivated but promotional offer not received)
+## সিনারিও 12: পুরনো SIM reactivate করার পর promotional offer না পাওয়া (Old SIM reactivated but promotional offer not received)
 
 > কাস্টমার গ্রামে গিয়ে পুরনো GP SIM টা চালু করেছেন, SMS-এ দেখেছিলেন reactivation-এ 5GB free internet পাবেন, কিন্তু কিছু পাননি।
 
@@ -597,7 +597,7 @@
 ---
 
 
-## সিনারিও 13ঃ ৭ দিনের ১০০ minute pack মাত্র ২ দিনে শেষ হয়ে যাওয়া (Minute pack exhausted in 2 days instead of 7)
+## সিনারিও 13: ৭ দিনের ১০০ minute pack মাত্র ২ দিনে শেষ হয়ে যাওয়া (Minute pack exhausted in 2 days instead of 7)
 
 > কাস্টমার সন্দেহ করছেন GP তার minute চুরি করছে। ১০০ minute-এর pack কিনেছিলেন ৭ দিনের জন্য কিন্তু মাত্র ২ দিনে শেষ হয়ে গেছে। রাগান্বিত ও সন্দেহপ্রবণ।
 
@@ -653,7 +653,7 @@
 ---
 
 
-## সিনারিও 14ঃ ১০০ টাকা recharge করলে মাত্র ৭৮ টাকা talk-time কেন আসে (VAT and SD calculation on recharge)
+## সিনারিও 14: ১০০ টাকা recharge করলে মাত্র ৭৮ টাকা talk-time কেন আসে (VAT and SD calculation on recharge)
 
 > Corporate customer বিস্তারিত জানতে চান কেন ১০০ টাকা recharge করলে ২২ টাকা কেটে নেওয়া হয়। Government tax structure নিয়ে প্রশ্ন করেন।
 
@@ -705,7 +705,7 @@
 ---
 
 
-## সিনারিও 15ঃ Postpaid bill-এর জন্য credit card থেকে auto-debit চালু করা (Auto-debit setup for postpaid bill via bank card)
+## সিনারিও 15: Postpaid bill-এর জন্য credit card থেকে auto-debit চালু করা (Auto-debit setup for postpaid bill via bank card)
 
 > ব্যস্ত professional customer প্রতি মাসে bill pay করতে ভুলে যান, তাই credit card থেকে automatic payment চালু করতে চান।
 
@@ -757,7 +757,7 @@
 ---
 
 
-## সিনারিও 16ঃ Scratch card-এর PIN ঘষতে গিয়ে নষ্ট হয়ে যাওয়া (Scratch card PIN partially damaged — recovery needed)
+## সিনারিও 16: Scratch card-এর PIN ঘষতে গিয়ে নষ্ট হয়ে যাওয়া (Scratch card PIN partially damaged — recovery needed)
 
 > ছাত্র ১০০ টাকার scratch card-এর PIN ঘষতে গিয়ে ৩টা digit নষ্ট করে ফেলেছেন। Card-এর পেছনের serial number দিয়ে balance recover করতে চান।
 
@@ -805,7 +805,7 @@
 ---
 
 
-## সিনারিও 17ঃ Office reimbursement-এর জন্য itemized postpaid bill চাওয়া (Requesting detailed itemized bill for office reimbursement)
+## সিনারিও 17: Office reimbursement-এর জন্য itemized postpaid bill চাওয়া (Requesting detailed itemized bill for office reimbursement)
 
 > কাস্টমার তার office-এ mobile bill reimbursement claim করতে চান, কিন্তু PDF bill-এ enough detail নেই। HR department itemized call list চাইছে।
 
@@ -857,7 +857,7 @@
 ---
 
 
-## সিনারিও 18ঃ Postpaid থেকে prepaid-এ convert করতে চাওয়া — monthly bill-এর ঝামেলা এড়াতে (Postpaid to prepaid conversion request)
+## সিনারিও 18: Postpaid থেকে prepaid-এ convert করতে চাওয়া — monthly bill-এর ঝামেলা এড়াতে (Postpaid to prepaid conversion request)
 
 > কাস্টমার postpaid connection-এর bill নিয়ে প্রতি মাসে সমস্যায় পড়েন, তাই prepaid-এ convert করতে চান। Same number রাখতে চান।
 
@@ -909,7 +909,7 @@
 ---
 
 
-## সিনারিও 19ঃ Scam call-এ ভুলে OTP দিয়ে ফেলা — bKash থেকে টাকা হারানোর ভয় (Scam call reported — customer shared OTP by mistake)
+## সিনারিও 19: Scam call-এ ভুলে OTP দিয়ে ফেলা — bKash থেকে টাকা হারানোর ভয় (Scam call reported — customer shared OTP by mistake)
 
 > ভয়ে কাঁপছেন বয়স্ক মহিলা কাস্টমার। কেউ GP customer care সেজে call করে OTP চেয়েছে এবং তিনি দিয়ে ফেলেছেন। বুঝতে পেরে সাথে সাথে call করেছেন।
 
@@ -963,7 +963,7 @@
 ---
 
 
-## সিনারিও 20ঃ Night data pack রাত ১২টার আগে expire হয়ে যাওয়া (Night data pack expiring before midnight — timing dispute)
+## সিনারিও 20: Night data pack রাত ১২টার আগে expire হয়ে যাওয়া (Night data pack expiring before midnight — timing dispute)
 
 > কাস্টমার midnight data pack কিনেছেন যেটা রাত ১২টা থেকে ভোর ৬টা পর্যন্ত চলার কথা। কিন্তু রাত ১১:৫৫-এ pack দেখাচ্ছে, ১২:০৫-এ শেষ হয়ে গেছে।
 
@@ -1015,7 +1015,7 @@
 ---
 
 
-## সিনারিও 21ঃ নিজের internet data ছেলেকে share করতে চাওয়া (Sharing internet data with family member)
+## সিনারিও 21: নিজের internet data ছেলেকে share করতে চাওয়া (Sharing internet data with family member)
 
 > মা তার ছেলের GP SIM-এ নিজের internet data থেকে কিছু MB দিতে চান। কিন্তু process জানেন না, সহজভাবে বুঝিয়ে বলতে বলেন।
 
@@ -1071,7 +1071,7 @@
 ---
 
 
-## সিনারিও 22ঃ মৃত বাবার নামে থাকা GP number নিজের নামে transfer করা (Ownership transfer of deceased father's GP number)
+## সিনারিও 22: মৃত বাবার নামে থাকা GP number নিজের নামে transfer করা (Ownership transfer of deceased father's GP number)
 
 > কাস্টমারের বাবা মারা গেছেন, বাবার GP number টা সন্তান হিসেবে নিজের নামে নিতে চান। আবেগপ্রবণ কিন্তু শান্ত।
 
@@ -1123,7 +1123,7 @@
 ---
 
 
-## সিনারিও 23ঃ GP ছেড়ে Banglalink-এ যেতে চাওয়া — MNP process জানতে চাওয়া (Customer wants to port GP number to Banglalink — MNP inquiry)
+## সিনারিও 23: GP ছেড়ে Banglalink-এ যেতে চাওয়া — MNP process জানতে চাওয়া (Customer wants to port GP number to Banglalink — MNP inquiry)
 
 > কাস্টমার GP-র network coverage নিয়ে অসন্তুষ্ট, Banglalink-এ number port করতে চান। Agent retention offer দেন কিন্তু customer আগ্রহী না।
 
@@ -1171,7 +1171,7 @@
 ---
 
 
-## সিনারিও 24ঃ Bonus internet-এর validity মূল pack-এর আগে শেষ হয়ে যাওয়া (Bonus internet expired before main pack validity)
+## সিনারিও 24: Bonus internet-এর validity মূল pack-এর আগে শেষ হয়ে যাওয়া (Bonus internet expired before main pack validity)
 
 > গৃহিণী কাস্টমার ১৯৯ টাকার pack-এ 3GB + 2GB bonus পেয়েছিলেন। মূল pack-এর ৩০ দিন validity থাকলেও bonus-এর 2GB ৭ দিনেই শেষ হয়ে গেছে, এই নিয়ে confused।
 
@@ -1221,7 +1221,7 @@
 ---
 
 
-## সিনারিও 25ঃ Samsung phone কেনার proof হিসেবে GP recharge history চাওয়া (Requesting recharge history as proof of purchase timeline for warranty)
+## সিনারিও 25: Samsung phone কেনার proof হিসেবে GP recharge history চাওয়া (Requesting recharge history as proof of purchase timeline for warranty)
 
 > কাস্টমার Samsung service center-এ phone-এর warranty claim করতে গেলে purchase receipt হারিয়ে ফেলেছেন। GP-র SIM activation date দিয়ে proof দিতে চান।
 
@@ -1275,7 +1275,7 @@
 ---
 
 
-## সিনারিও 26ঃ Phone-এ 4G দেখাচ্ছে কিন্তু speed 2G-র মতো আসছে (4G icon showing but extremely slow speed — tower congestion)
+## সিনারিও 26: Phone-এ 4G দেখাচ্ছে কিন্তু speed 2G-র মতো আসছে (4G icon showing but extremely slow speed — tower congestion)
 
 > কাস্টমার গ্রামে থাকেন, phone-এ 4G icon দেখাচ্ছে কিন্তু website load হয় না, video buffer করে। সন্দেহ করছেন GP ইচ্ছাকৃতভাবে speed কমিয়ে দিচ্ছে।
 
@@ -1325,7 +1325,7 @@
 ---
 
 
-## সিনারিও 27ঃ Phone চুরি হওয়ার পর SIM block আর replacement নেওয়া (SIM block and replacement after phone theft)
+## সিনারিও 27: Phone চুরি হওয়ার পর SIM block আর replacement নেওয়া (SIM block and replacement after phone theft)
 
 > কাস্টমার (তরুণী) রাস্তায় phone ছিনতাই হয়েছে, SIM-সহ phone চলে গেছে। অন্যের phone থেকে call করছেন, ভীত ও চিন্তিত।
 
@@ -1379,7 +1379,7 @@
 ---
 
 
-## সিনারিও 28ঃ Data pack কেনার পরেও hotspot কাজ করছে না (Hotspot not working after buying data pack — freelancer troubleshooting)
+## সিনারিও 28: Data pack কেনার পরেও hotspot কাজ করছে না (Hotspot not working after buying data pack — freelancer troubleshooting)
 
 > কাস্টমার freelancer, phone-এর hotspot দিয়ে laptop-এ কাজ করেন। আজ hotspot চালু করলে laptop connect হচ্ছে না।
 
@@ -1429,7 +1429,7 @@
 ---
 
 
-## সিনারিও 29ঃ India ভ্রমণের আগে international roaming চালু করা (International roaming activation before India trip)
+## সিনারিও 29: India ভ্রমণের আগে international roaming চালু করা (International roaming activation before India trip)
 
 > কাস্টমার পরের সপ্তাহে India যাচ্ছেন medical treatment-এর জন্য। GP SIM-এ international roaming চালু করতে চান যাতে পরিবারের সাথে যোগাযোগ রাখতে পারেন।
 
@@ -1487,7 +1487,7 @@
 ---
 
 
-## সিনারিও 30ঃ iPhone-এ eSIM activate করতে চাওয়া — physical SIM থেকে switch (eSIM activation for iPhone user)
+## সিনারিও 30: iPhone-এ eSIM activate করতে চাওয়া — physical SIM থেকে switch (eSIM activation for iPhone user)
 
 > কাস্টমার নতুন iPhone 15 কিনেছেন, physical SIM থেকে eSIM-এ switch করতে চান। Tech-savvy কিন্তু eSIM concept-এ নতুন।
 
@@ -1539,7 +1539,7 @@
 ---
 
 
-## সিনারিও 31ঃ প্রতিদিন অচেনা number থেকে spam call আসা — বিরক্ত মহিলা কাস্টমার (Daily spam calls from unknown numbers — requesting call blocking)
+## সিনারিও 31: প্রতিদিন অচেনা number থেকে spam call আসা — বিরক্ত মহিলা কাস্টমার (Daily spam calls from unknown numbers — requesting call blocking)
 
 > কাস্টমার (মহিলা) প্রতিদিন ৫-৬টা unknown number থেকে marketing call পাচ্ছেন। বিরক্ত এবং privacy নিয়ে চিন্তিত।
 
@@ -1591,7 +1591,7 @@
 ---
 
 
-## সিনারিও 32ঃ পুরনো 2G SIM আছে, 4G-তে upgrade করতে চাওয়া — বয়স্ক চাচার জন্য ছেলে call করছে (2G SIM upgrade to 4G — nephew calling on behalf of uncle)
+## সিনারিও 32: পুরনো 2G SIM আছে, 4G-তে upgrade করতে চাওয়া — বয়স্ক চাচার জন্য ছেলে call করছে (2G SIM upgrade to 4G — nephew calling on behalf of uncle)
 
 > কাস্টমারের চাচা বহু বছর ধরে পুরনো 2G SIM ব্যবহার করছেন। নতুন smartphone কিনেছেন কিন্তু internet কাজ করছে না কারণ SIM পুরনো। ভাতিজা call করেছেন।
 
@@ -1643,7 +1643,7 @@
 ---
 
 
-## সিনারিও 33ঃ ব্যবসায়িক কারণে call forwarding চালু করতে চাওয়া (Call forwarding setup for businessman who travels frequently)
+## সিনারিও 33: ব্যবসায়িক কারণে call forwarding চালু করতে চাওয়া (Call forwarding setup for businessman who travels frequently)
 
 > কাস্টমার দুইটা GP SIM ব্যবহার করেন — একটা personal, একটা business। Travel-এর সময় business SIM-এর call গুলো personal SIM-এ forward করতে চান।
 
@@ -1697,7 +1697,7 @@
 ---
 
 
-## সিনারিও 34ঃ বন্যার পর GP tower বন্ধ — network নেই, কবে চালু হবে জানতে চাওয়া (Network outage after flood — tower down inquiry)
+## সিনারিও 34: বন্যার পর GP tower বন্ধ — network নেই, কবে চালু হবে জানতে চাওয়া (Network outage after flood — tower down inquiry)
 
 > কাস্টমার সিলেটের বন্যাকবলিত এলাকায় আছেন। ৩ দিন ধরে GP network নেই। অন্যের phone ধার করে call করেছেন — কবে network ফিরবে জানতে চান।
 
@@ -1745,7 +1745,7 @@
 ---
 
 
-## সিনারিও 35ঃ না জেনে GP Music subscription হয়ে যাওয়া — প্রতিদিন balance কাটছে (Unknowing VAS subscription — GP Music auto-deducting balance daily)
+## সিনারিও 35: না জেনে GP Music subscription হয়ে যাওয়া — প্রতিদিন balance কাটছে (Unknowing VAS subscription — GP Music auto-deducting balance daily)
 
 > কলেজ ছাত্রী খেয়াল করেছেন প্রতিদিন ৫ টাকা করে balance কাটছে। কোনো pack কেনেননি, রাগান্বিত।
 
@@ -1795,7 +1795,7 @@
 ---
 
 
-## সিনারিও 36ঃ FnF (Friends & Family) number list পরিবর্তন করতে চাওয়া (Managing FnF number list — adding and removing numbers)
+## সিনারিও 36: FnF (Friends & Family) number list পরিবর্তন করতে চাওয়া (Managing FnF number list — adding and removing numbers)
 
 > কাস্টমার তার GP SIM-এর FnF list update করতে চান। কিছু পুরনো number বাদ দিয়ে নতুন number যোগ করতে চান। কিন্তু limit আর charge নিয়ে confused।
 
@@ -1849,7 +1849,7 @@
 ---
 
 
-## সিনারিও 37ঃ GP Skitto SIM সম্পর্কে জানতে চাওয়া — gaming-এর জন্য ভালো data plan চাই (Asking about GP's Skitto brand for gaming data)
+## সিনারিও 37: GP Skitto SIM সম্পর্কে জানতে চাওয়া — gaming-এর জন্য ভালো data plan চাই (Asking about GP's Skitto brand for gaming data)
 
 > তরুণ কাস্টমার PUBG আর Free Fire খেলেন। Skitto SIM-এ gaming-এর জন্য ভালো data plan আছে শুনেছেন, detail জানতে চান।
 
@@ -1899,7 +1899,7 @@
 ---
 
 
-## সিনারিও 38ঃ ৬ মাস ব্যবহার না করায় SIM বন্ধ — পুরনো number ফেরত চাওয়া (SIM expired after 6 months inactivity — requesting old number back)
+## সিনারিও 38: ৬ মাস ব্যবহার না করায় SIM বন্ধ — পুরনো number ফেরত চাওয়া (SIM expired after 6 months inactivity — requesting old number back)
 
 > কাস্টমার বিদেশে ছিলেন ৬ মাস, ফিরে এসে দেখেন GP SIM বন্ধ। পুরনো number-এ অনেক কিছু linked, same number ফেরত চান।
 
@@ -1951,7 +1951,7 @@
 ---
 
 
-## সিনারিও 39ঃ ভুল number-এ recharge চলে যাওয়া — টাকা ফেরত চাওয়া (Recharge sent to wrong number — requesting reversal)
+## সিনারিও 39: ভুল number-এ recharge চলে যাওয়া — টাকা ফেরত চাওয়া (Recharge sent to wrong number — requesting reversal)
 
 > কাস্টমার bKash দিয়ে ৫০০ টাকা recharge করতে গিয়ে একটা digit ভুল দিয়ে অন্য number-এ recharge হয়ে গেছে। Panicked, টাকা ফেরত চান।
 
@@ -2001,7 +2001,7 @@
 ---
 
 
-## সিনারিও 40ঃ রাত ১২টায় balance শেষ — emergency balance নিতে চাওয়া (Emergency balance loan at midnight — student with zero balance)
+## সিনারিও 40: রাত ১২টায় balance শেষ — emergency balance নিতে চাওয়া (Emergency balance loan at midnight — student with zero balance)
 
 > কাস্টমার (ছাত্র) রাত ১২টায় একা বাইরে আটকে আছেন, balance শেষ, rickshaw ডাকতে call করতে পারছেন না। Emergency balance চান।
 
@@ -2051,7 +2051,7 @@
 ---
 
 
-## সিনারিও 41ঃ GP Star Platinum member-এর benefits জানতে চাওয়া — কিভাবে points redeem করবো (GP Star Platinum benefits and points redemption)
+## সিনারিও 41: GP Star Platinum member-এর benefits জানতে চাওয়া — কিভাবে points redeem করবো (GP Star Platinum benefits and points redemption)
 
 > দীর্ঘদিনের GP customer, recently Platinum member হয়েছেন কিন্তু benefits কি কি সেটা জানেন না। Points-ও অনেক জমেছে কিন্তু redeem করেননি।
 
@@ -2101,7 +2101,7 @@
 ---
 
 
-## সিনারিও 42ঃ GP Center-এর staff-এর rude behaviour নিয়ে formal complaint করতে চাওয়া (Formal complaint about rude GP Center staff — customer demanding escalation)
+## সিনারিও 42: GP Center-এর staff-এর rude behaviour নিয়ে formal complaint করতে চাওয়া (Formal complaint about rude GP Center staff — customer demanding escalation)
 
 > কাস্টমার GP Center-এ SIM replacement করতে গিয়েছিলেন। Staff অনেক rude ছিল, ঠিকমতো সাহায্য করেনি। রাগান্বিত, formal complaint করতে চান।
 
@@ -2151,7 +2151,7 @@
 ---
 
 
-## সিনারিও 43ঃ Postpaid bill payment-এর বিভিন্ন method জানতে চাওয়া — due date miss করলে কি হবে (Postpaid bill payment methods and late payment consequences)
+## সিনারিও 43: Postpaid bill payment-এর বিভিন্ন method জানতে চাওয়া — due date miss করলে কি হবে (Postpaid bill payment methods and late payment consequences)
 
 > কাস্টমার GP postpaid connection নতুন নিয়েছেন, প্রথম bill এসেছে কিন্তু কিভাবে pay করবেন জানেন না। Due date miss করলে কি হবে সেটাও জানতে চান।
 
@@ -2203,7 +2203,7 @@
 ---
 
 
-## সিনারিও 44ঃ Night-time data pack কিনেছে কিন্তু সকালেও ব্যবহার করার চেষ্টা করছে — confused ছাত্র (Night data pack usage confusion — student doesn't understand time restriction)
+## সিনারিও 44: Night-time data pack কিনেছে কিন্তু সকালেও ব্যবহার করার চেষ্টা করছে — confused ছাত্র (Night data pack usage confusion — student doesn't understand time restriction)
 
 > কাস্টমার (মাদ্রাসা ছাত্র) ২৯ টাকার night pack কিনেছেন কিন্তু সকালে internet use করতে গেলে main balance থেকে কাটছে। Night pack-এর সময়সীমা বুঝতে পারছেন না।
 
@@ -2253,7 +2253,7 @@
 ---
 
 
-## সিনারিও 45ঃ ছেলের GP number-এ balance transfer করতে চাওয়া — মা কিভাবে করবেন জানেন না (Balance transfer to son's number — mother needs step-by-step guidance)
+## সিনারিও 45: ছেলের GP number-এ balance transfer করতে চাওয়া — মা কিভাবে করবেন জানেন না (Balance transfer to son's number — mother needs step-by-step guidance)
 
 > কাস্টমার (মা) ছেলে বিশ্ববিদ্যালয়ে পড়ে, balance শেষ হয়ে গেছে। মা নিজের GP থেকে ছেলের GP-তে balance transfer করতে চান কিন্তু process জানেন না।
 
@@ -2303,7 +2303,7 @@
 ---
 
 
-## সিনারিও 46ঃ Prepaid থেকে postpaid-এ migrate করতে চাওয়া — professional unlimited plan খুঁজছেন (Prepaid to postpaid migration — professional wants unlimited calling)
+## সিনারিও 46: Prepaid থেকে postpaid-এ migrate করতে চাওয়া — professional unlimited plan খুঁজছেন (Prepaid to postpaid migration — professional wants unlimited calling)
 
 > কাস্টমার architect, client-দের সাথে প্রতিদিন অনেক call করতে হয়। Prepaid-এ balance ঝামেলা, postpaid-এ যেতে চান।
 
@@ -2353,7 +2353,7 @@
 ---
 
 
-## সিনারিও 47ঃ GP SIM অন্যের NID-তে registered — নিজের নামে transfer করতে চাওয়া (SIM registered under someone else's NID — requesting ownership transfer)
+## সিনারিও 47: GP SIM অন্যের NID-তে registered — নিজের নামে transfer করতে চাওয়া (SIM registered under someone else's NID — requesting ownership transfer)
 
 > কাস্টমার বহু বছর আগে বন্ধুর NID দিয়ে GP SIM কিনেছিলেন। এখন নিজের NID-তে transfer করতে চান কিন্তু process জানেন না।
 
@@ -2403,7 +2403,7 @@
 ---
 
 
-## সিনারিও 48ঃ OTP scam attempt হয়েছে — কেউ বলছে GP থেকে call করেছি, OTP দিন (OTP scam awareness — someone impersonating GP staff asking for OTP)
+## সিনারিও 48: OTP scam attempt হয়েছে — কেউ বলছে GP থেকে call করেছি, OTP দিন (OTP scam awareness — someone impersonating GP staff asking for OTP)
 
 > কাস্টমার (মহিলা) একটা suspicious call পেয়েছেন। Caller নিজেকে GP agent বলে OTP চেয়েছে। কাস্টমার OTP দেননি কিন্তু ভয় পেয়েছেন, GP-কে জানাতে চান।
 
@@ -2449,7 +2449,7 @@
 ---
 
 
-## সিনারিও 49ঃ Basement office-এ network দুর্বল — WiFi calling চালু করতে চাওয়া (Weak indoor signal in basement office — WiFi calling activation request)
+## সিনারিও 49: Basement office-এ network দুর্বল — WiFi calling চালু করতে চাওয়া (Weak indoor signal in basement office — WiFi calling activation request)
 
 > কাস্টমার IT professional, basement office-এ কাজ করেন। GP network signal খুব দুর্বল, call drop হয়। WiFi calling চালু করতে চান।
 
@@ -2495,7 +2495,7 @@
 ---
 
 
-## সিনারিও 50ঃ Banglalink থেকে GP-তে MNP করতে চাওয়া — same number রেখে operator পাল্টানো (Mobile Number Portability from Banglalink to GP — switching operators with same number)
+## সিনারিও 50: Banglalink থেকে GP-তে MNP করতে চাওয়া — same number রেখে operator পাল্টানো (Mobile Number Portability from Banglalink to GP — switching operators with same number)
 
 > কাস্টমার Banglalink-এর network coverage নিয়ে হতাশ। GP-তে আসতে চান কিন্তু number পাল্টাতে চান না। MNP (Mobile Number Portability) সম্পর্কে জানতে চান।
 
@@ -2553,7 +2553,7 @@
 ---
 
 
-## সিনারিও 99ঃ জিপি স্টার পার্টনার হাসপাতালে ডিসকাউন্ট সুবিধা নেওয়া (GP Star Labaid hospital diagnostic discount process)
+## সিনারিও 51: জিপি স্টার পার্টনার হাসপাতালে ডিসকাউন্ট সুবিধা নেওয়া (GP Star Labaid hospital diagnostic discount process)
 
 > জিপি স্টার কাস্টমার ল্যাবএইড হাসপাতালে ডায়াগনস্টিক পরীক্ষার উপর জিপি স্টার ডিসকাউন্ট হার, আউটডোর সেবা ও কিউআর/এসএমএস কোড ভেরিফিকেশন করার প্রক্রিয়া সম্পর্কে বিস্তারিত জানতে চান।
 
@@ -2605,7 +2605,7 @@
 ---
 
 
-## সিনারিও 100ঃ পোস্টপেইড সংযোগ থেকে প্রিপেইড সংযোগে রূপান্তর করা (GP postpaid to prepaid reverse migration process)
+## সিনারিও 52: পোস্টপেইড সংযোগ থেকে প্রিপেইড সংযোগে রূপান্তর করা (GP postpaid to prepaid reverse migration process)
 
 > পোস্টপেইড কাস্টমার তার সংযোগটি পুনরায় প্রিপেইডে রূপান্তর করতে চান। এজেন্ট তাকে বকেয়া বিল পরিশোধ, সিকিউরিটি ডিপোজিট সমন্বয়, প্রিপেইডে রূপান্তরের সময়সীমা এবং জিপি সেন্টারে বায়োমেট্রিক ভেরিফিকেশনের নিয়মাবলী বুঝিয়ে দিচ্ছেন।
 
@@ -2693,7 +2693,7 @@
 ---
 
 
-## সিনারিও 53ঃ Company-র জন্য GP corporate bulk SIM নিতে চাওয়া — HR manager-এর inquiry (Corporate bulk SIM purchase inquiry — HR manager for garment factory)
+## সিনারিও 53: Company-র জন্য GP corporate bulk SIM নিতে চাওয়া — HR manager-এর inquiry (Corporate bulk SIM purchase inquiry — HR manager for garment factory)
 
 > কাস্টমার garment factory-র HR manager। ৫০ জন employee-র জন্য GP corporate connection নিতে চান। Billing, plan, আর discount জানতে চান।
 
@@ -2743,7 +2743,7 @@
 ---
 
 
-## সিনারিও 54ঃ Data speed অনেক কমে গেছে — Fair Usage Policy (FUP) নিয়ে অভিযোগ (Data speed throttled after fair usage limit — customer complaining about slow internet)
+## সিনারিও 54: Data speed অনেক কমে গেছে — Fair Usage Policy (FUP) নিয়ে অভিযোগ (Data speed throttled after fair usage limit — customer complaining about slow internet)
 
 > কাস্টমার "unlimited" internet pack কিনেছেন কিন্তু একটা নির্দিষ্ট পরিমাণ data ব্যবহারের পর speed drastically কমে গেছে। Fair Usage Policy বুঝতে পারছেন না।
 
@@ -2793,7 +2793,7 @@
 ---
 
 
-## সিনারিও 55ঃ GP conference call কিভাবে করবো — ব্যবসায়ী মিটিং-এর জন্য একসাথে ৩ জনকে call করতে চান (Conference call setup — businessman wants multi-party call for meeting)
+## সিনারিও 55: GP conference call কিভাবে করবো — ব্যবসায়ী মিটিং-এর জন্য একসাথে ৩ জনকে call করতে চান (Conference call setup — businessman wants multi-party call for meeting)
 
 > কাস্টমার ব্যবসায়ী, ঢাকায় আছেন কিন্তু ২ জন partner চট্টগ্রাম আর রাজশাহীতে। একসাথে ৩ জনে call-এ কথা বলতে চান।
 
@@ -2843,7 +2843,7 @@
 ---
 
 
-## সিনারিও 56ঃ অপরিচিত number থেকে threatening call আসছে — harassment complaint (Receiving threatening calls from unknown number — harassment report and blocking)
+## সিনারিও 56: অপরিচিত number থেকে threatening call আসছে — harassment complaint (Receiving threatening calls from unknown number — harassment report and blocking)
 
 > কাস্টমার (মহিলা) বিগত ৩ দিন ধরে একটা unknown number থেকে রাতে threatening call পাচ্ছেন। ভয়ে আছেন, GP-র সাহায্য চান।
 
@@ -2893,7 +2893,7 @@
 ---
 
 
-## সিনারিও 57ঃ Malaysia যাওয়ার আগে international roaming চালু করতে চাওয়া (Activating international roaming before traveling to Malaysia)
+## সিনারিও 57: Malaysia যাওয়ার আগে international roaming চালু করতে চাওয়া (Activating international roaming before traveling to Malaysia)
 
 > কাস্টমার garment buyer, প্রথমবার Malaysia যাচ্ছেন business trip-এ। GP number-এ roaming চালু করে যেতে চান যাতে দেশ থেকে call আসলে receive করতে পারেন।
 
@@ -2947,7 +2947,7 @@
 ---
 
 
-## সিনারিও 58ঃ নতুন iPhone-এ e-SIM activate করতে চাওয়া — physical SIM থেকে e-SIM-এ switch (e-SIM activation on new iPhone — switching from physical SIM to e-SIM)
+## সিনারিও 58: নতুন iPhone-এ e-SIM activate করতে চাওয়া — physical SIM থেকে e-SIM-এ switch (e-SIM activation on new iPhone — switching from physical SIM to e-SIM)
 
 > কাস্টমার নতুন iPhone 16 কিনেছেন, dual SIM ব্যবহার করতে চান। GP physical SIM-কে e-SIM-এ convert করতে চান।
 
@@ -2997,7 +2997,7 @@
 ---
 
 
-## সিনারিও 59ঃ নদীতে মাছ ধরতে গেলে network থাকে না — missed call alert চালু করতে চাওয়া (No network while fishing in river — wants missed call alert service)
+## সিনারিও 59: নদীতে মাছ ধরতে গেলে network থাকে না — missed call alert চালু করতে চাওয়া (No network while fishing in river — wants missed call alert service)
 
 > কাস্টমার (জেলে) প্রতিদিন নদীতে মাছ ধরতে যান, সেখানে GP network থাকে না। ফিরে এসে দেখেন অনেক missed call, কিন্তু কে call করেছে জানতে পারেন না। Missed call alert চান।
 
@@ -3043,7 +3043,7 @@
 ---
 
 
-## সিনারিও 60ঃ অজানা VAS subscription চালু হয়ে balance কেটে যাচ্ছে — বন্ধ করতে চাওয়া (Unknown VAS subscriptions draining balance — wants to stop all subscriptions)
+## সিনারিও 60: অজানা VAS subscription চালু হয়ে balance কেটে যাচ্ছে — বন্ধ করতে চাওয়া (Unknown VAS subscriptions draining balance — wants to stop all subscriptions)
 
 > কাস্টমার দেখেছেন প্রতিদিন ৫-১০ টাকা করে balance কমে যাচ্ছে। কোনো call বা internet ব্যবহার করেননি। কিছু VAS (Value Added Service) চালু হয়ে গেছে যা তিনি জানেন না।
 
@@ -3093,7 +3093,7 @@
 ---
 
 
-## সিনারিও 61ঃ দোকানের সময় call miss হয়ে যায় — call waiting আর call forwarding চালু করতে চাওয়া (Missing calls while busy — setting up call waiting and call forwarding for shop owner)
+## সিনারিও 61: দোকানের সময় call miss হয়ে যায় — call waiting আর call forwarding চালু করতে চাওয়া (Missing calls while busy — setting up call waiting and call forwarding for shop owner)
 
 > কাস্টমার ছোট দোকানদার। একটা call-এ কথা বললে অন্য customer-এর call miss হয়ে যায়। Call waiting আর ব্যস্ত থাকলে অন্য number-এ call forward করতে চান।
 
@@ -3143,7 +3143,7 @@
 ---
 
 
-## সিনারিও 62ঃ পুরনো GP number বন্ধ হয়ে গেছে — আবার চালু করতে চাওয়া (Old GP number expired/deactivated — wants to reactivate the same number)
+## সিনারিও 62: পুরনো GP number বন্ধ হয়ে গেছে — আবার চালু করতে চাওয়া (Old GP number expired/deactivated — wants to reactivate the same number)
 
 > কাস্টমার বিদেশ থেকে ফিরেছেন। ৩ বছর আগে GP number recharge না করায় বন্ধ হয়ে গেছে। পুরনো number-ই আবার পেতে চান কারণ সব জায়গায় এই number দেওয়া আছে।
 
@@ -3193,7 +3193,7 @@
 ---
 
 
-## সিনারিও 63ঃ মৃত বাবার NID-তে registered GP number — নিজের নামে transfer করতে চাওয়া (GP number registered under deceased father's NID — transferring to own name)
+## সিনারিও 63: মৃত বাবার NID-তে registered GP number — নিজের নামে transfer করতে চাওয়া (GP number registered under deceased father's NID — transferring to own name)
 
 > কাস্টমার-এর বাবা মারা গেছেন। বাবার NID-তে registered GP number কাস্টমার ১০ বছর ধরে ব্যবহার করছেন। নিজের নামে transfer করতে চান।
 
@@ -3243,7 +3243,7 @@
 ---
 
 
-## সিনারিও 64ঃ Postpaid bill বাকি পড়ে গেছে, service বন্ধ হতে যাচ্ছে — urgent payment করতে চাওয়া (Postpaid bill overdue, service about to be suspended — urgent payment options)
+## সিনারিও 64: Postpaid bill বাকি পড়ে গেছে, service বন্ধ হতে যাচ্ছে — urgent payment করতে চাওয়া (Postpaid bill overdue, service about to be suspended — urgent payment options)
 
 > কাস্টমার postpaid user, ২ মাসের bill বাকি। GP warning SMS দিয়েছে যে service suspend হবে। Urgent-এ bill pay করতে চান কিন্তু GP Center-এ যাওয়ার সময় নেই।
 
@@ -3293,7 +3293,7 @@
 ---
 
 
-## সিনারিও 65ঃ Balance শূন্য, emergency call করতে হবে — জরুরি balance ধার নিতে চাওয়া (Zero balance, needs emergency call — wants emergency balance loan)
+## সিনারিও 65: Balance শূন্য, emergency call করতে হবে — জরুরি balance ধার নিতে চাওয়া (Zero balance, needs emergency call — wants emergency balance loan)
 
 > কাস্টমার-এর balance শূন্য। রাতে urgent call করতে হবে কিন্তু recharge করার কোনো উপায় নেই। GP-র emergency balance/loan service সম্পর্কে জানতে চান।
 
@@ -3339,7 +3339,7 @@
 ---
 
 
-## সিনারিও 66ঃ ঘূর্ণিঝড়ে GP network বন্ধ — উপকূলীয় এলাকার কাস্টমারের অভিযোগ (GP network down during cyclone — coastal area customer complaint)
+## সিনারিও 66: ঘূর্ণিঝড়ে GP network বন্ধ — উপকূলীয় এলাকার কাস্টমারের অভিযোগ (GP network down during cyclone — coastal area customer complaint)
 
 > কাস্টমার Cox's Bazar-এর উপকূলীয় এলাকায় থাকেন। ঘূর্ণিঝড়ের পর GP network সম্পূর্ণ বন্ধ। পরিবারের সাথে যোগাযোগ করতে পারছেন না, desperate।
 
@@ -3389,7 +3389,7 @@
 ---
 
 
-## সিনারিও 67ঃ বৃদ্ধ বাবা-মা recharge করতে পারেন না — পরিবারের জন্য shared balance বা balance transfer চাওয়া (Elderly parents can't recharge — wants family balance sharing or transfer)
+## সিনারিও 67: বৃদ্ধ বাবা-মা recharge করতে পারেন না — পরিবারের জন্য shared balance বা balance transfer চাওয়া (Elderly parents can't recharge — wants family balance sharing or transfer)
 
 > কাস্টমার ঢাকায় চাকরি করেন, বৃদ্ধ বাবা-মা গ্রামে থাকেন। বাবা-মা smartphone চালাতে পারেন না, recharge point অনেক দূরে। কাস্টমার ঢাকা থেকে বাবা-মার GP number-এ balance পাঠাতে চান।
 
@@ -3439,7 +3439,7 @@
 ---
 
 
-## সিনারিও 68ঃ Data pack থাকা সত্ত্বেও internet চলছে না — APN settings ঠিক করা (Internet not working despite having data pack — fixing APN settings)
+## সিনারিও 68: Data pack থাকা সত্ত্বেও internet চলছে না — APN settings ঠিক করা (Internet not working despite having data pack — fixing APN settings)
 
 > কাস্টমার নতুন Android phone কিনেছেন, GP SIM দিয়েছেন। Data pack active আছে কিন্তু internet কাজ করছে না। APN settings সঠিক নেই।
 
@@ -3489,7 +3489,7 @@
 ---
 
 
-## সিনারিও 69ঃ Biometric re-verification notice এসেছে — BTRC SIM re-registration নিয়ে confusion (Received biometric re-verification notice — confusion about BTRC SIM re-registration)
+## সিনারিও 69: Biometric re-verification notice এসেছে — BTRC SIM re-registration নিয়ে confusion (Received biometric re-verification notice — confusion about BTRC SIM re-registration)
 
 > কাস্টমার SMS পেয়েছেন যে biometric re-verification করতে হবে, না হলে SIM বন্ধ হবে। কাস্টমার ভয় পেয়েছেন, কী করতে হবে জানেন না।
 
@@ -3539,7 +3539,7 @@
 ---
 
 
-## সিনারিও 70ঃ GP special/golden number কিনতে চাওয়া — VIP number inquiry (Wants to buy GP special/golden number — VIP number inquiry)
+## সিনারিও 70: GP special/golden number কিনতে চাওয়া — VIP number inquiry (Wants to buy GP special/golden number — VIP number inquiry)
 
 > কাস্টমার ব্যবসায়ী, easy-to-remember "golden" বা "VIP" number কিনতে চান ব্যবসার জন্য। GP-তে special number কিভাবে পাওয়া যায় জানতে চান।
 
@@ -3589,7 +3589,7 @@
 ---
 
 
-## সিনারিও 71ঃ কোম্পানির ৫০+ কর্মচারীর জন্য GP corporate connection নিতে চাওয়া (Wants GP corporate connection for company with 50+ employees)
+## সিনারিও 71: কোম্পানির ৫০+ কর্মচারীর জন্য GP corporate connection নিতে চাওয়া (Wants GP corporate connection for company with 50+ employees)
 
 > কাস্টমার একটা garments factory-র HR manager। ৫০+ কর্মচারীর জন্য GP corporate SIM connection নিতে চান company bill-এ। Corporate plan-এর details জানতে চান।
 
@@ -3643,7 +3643,7 @@
 ---
 
 
-## সিনারিও 72ঃ GP number Robi-তে port করতে চাওয়া — MNP সম্পর্কে জানতে চাওয়া (Wants to port GP number to Robi — MNP inquiry and retention attempt)
+## সিনারিও 72: GP number Robi-তে port করতে চাওয়া — MNP সম্পর্কে জানতে চাওয়া (Wants to port GP number to Robi — MNP inquiry and retention attempt)
 
 > কাস্টমার GP-র service নিয়ে অসন্তুষ্ট, Robi-তে port করতে চান। এজেন্ট retention attempt করেন — ভালো offer দেন।
 
@@ -3693,7 +3693,7 @@
 ---
 
 
-## সিনারিও 73ঃ Phone update-এর পর GP SIM "No Service" দেখাচ্ছে — troubleshooting (GP SIM showing 'No Service' after phone software update)
+## সিনারিও 73: Phone update-এর পর GP SIM "No Service" দেখাচ্ছে — troubleshooting (GP SIM showing 'No Service' after phone software update)
 
 > কাস্টমার-এর Samsung phone software update-এর পর GP SIM "No Service" বা "SIM not registered" দেখাচ্ছে। অন্য SIM ঠিক চলছে, শুধু GP SIM-এ সমস্যা।
 
@@ -3743,7 +3743,7 @@
 ---
 
 
-## সিনারিও 74ঃ MyGP app-এ login করতে পারছেন না — OTP আসছে না (Cannot login to MyGP app — OTP not arriving)
+## সিনারিও 74: MyGP app-এ login করতে পারছেন না — OTP আসছে না (Cannot login to MyGP app — OTP not arriving)
 
 > কাস্টমার MyGP app-এ login করতে চাইছেন কিন্তু OTP SMS আসছে না। Internet pack কিনতে app দরকার কিন্তু access পাচ্ছেন না।
 
@@ -3793,7 +3793,7 @@
 ---
 
 
-## সিনারিও 75ঃ ছাত্র online class-এর জন্য সস্তা data pack চায় — student offer inquiry (Student wants cheapest data pack for online classes — student offer inquiry)
+## সিনারিও 75: ছাত্র online class-এর জন্য সস্তা data pack চায় — student offer inquiry (Student wants cheapest data pack for online classes — student offer inquiry)
 
 > কাস্টমার বিশ্ববিদ্যালয়ের ছাত্র, budget কম। Online class-এর জন্য বেশি data দরকার কিন্তু খরচ কম রাখতে চান। GP student offer আছে কিনা জানতে চান।
 
@@ -3843,7 +3843,7 @@
 ---
 
 
-## সিনারিও 76ঃ GP SIM clone/duplicate হয়েছে সন্দেহ — অন্য কেউ আমার call receive করছে (Suspects GP SIM cloned — someone else receiving customer's calls)
+## সিনারিও 76: GP SIM clone/duplicate হয়েছে সন্দেহ — অন্য কেউ আমার call receive করছে (Suspects GP SIM cloned — someone else receiving customer's calls)
 
 > কাস্টমারের বন্ধুরা বলছে তার number-এ call করলে অন্য কেউ receive করছে। কাস্টমার ভয় পেয়েছেন, SIM clone হয়েছে সন্দেহ করছেন।
 
@@ -3893,7 +3893,7 @@
 ---
 
 
-## সিনারিও 77ঃ হজ্জে যাচ্ছেন — Saudi Arabia-র জন্য GP roaming pack চাই (Going for Hajj — wants GP roaming pack for Saudi Arabia)
+## সিনারিও 77: হজ্জে যাচ্ছেন — Saudi Arabia-র জন্য GP roaming pack চাই (Going for Hajj — wants GP roaming pack for Saudi Arabia)
 
 > কাস্টমার আগামী সপ্তাহে হজ্জে যাচ্ছেন Saudi Arabia-তে। GP number সাথে নিতে চান, roaming activate করতে চান, call আর internet ব্যবহার করতে চান।
 
@@ -3945,7 +3945,7 @@
 ---
 
 
-## সিনারিও 78ঃ অজানা VAS subscription থেকে balance কেটে যাচ্ছে — রাগান্বিত কাস্টমার (Angry customer about unwanted VAS subscriptions auto-deducting balance)
+## সিনারিও 78: অজানা VAS subscription থেকে balance কেটে যাচ্ছে — রাগান্বিত কাস্টমার (Angry customer about unwanted VAS subscriptions auto-deducting balance)
 
 > কাস্টমার রাগান্বিত — প্রতিদিন balance কমে যাচ্ছে কিন্তু কোনো call বা internet ব্যবহার করেননি। VAS (Value Added Service) subscription থেকে auto-deduction হচ্ছে।
 
@@ -3999,7 +3999,7 @@
 ---
 
 
-## সিনারিও 79ঃ GP postpaid bill অস্বাভাবিক বেশি এসেছে — itemized bill চাওয়া (GP postpaid bill unusually high — wants itemized bill review)
+## সিনারিও 79: GP postpaid bill অস্বাভাবিক বেশি এসেছে — itemized bill চাওয়া (GP postpaid bill unusually high — wants itemized bill review)
 
 > কাস্টমার GP postpaid user। এ মাসের bill সাধারণত ৮০০-১,০০০ টাকা হয়, কিন্তু এবার ৩,৫০০ টাকা এসেছে। কেন বেশি হলো জানতে চান।
 
@@ -4049,7 +4049,7 @@
 ---
 
 
-## সিনারিও 80ঃ GP account hack হয়েছে — MyGP password changed, eSIM order দেওয়া হয়েছে (GP account hacked — someone changed MyGP password and ordered eSIM)
+## সিনারিও 80: GP account hack হয়েছে — MyGP password changed, eSIM order দেওয়া হয়েছে (GP account hacked — someone changed MyGP password and ordered eSIM)
 
 > কাস্টমার MyGP app-এ login করতে পারছেন না, password change-এর SMS পেয়েছেন যেটা তিনি করেননি। eSIM conversion request-ও পেয়েছেন। Account compromise হয়েছে।
 
@@ -4101,7 +4101,7 @@
 ---
 
 
-## সিনারিও 81ঃ FnF number ভুল set হওয়ায় call charge বেশি যাচ্ছে — FnF management (Wrong FnF number causing high call charges — FnF setup and management)
+## সিনারিও 81: FnF number ভুল set হওয়ায় call charge বেশি যাচ্ছে — FnF management (Wrong FnF number causing high call charges — FnF setup and management)
 
 > কাস্টমার লক্ষ্য করেছেন যে নির্দিষ্ট কিছু number-এ call করতে বেশি charge হচ্ছে। FnF (Friends and Family) list-এ ভুল number আছে, সঠিক number add করতে চান।
 
@@ -4151,7 +4151,7 @@
 ---
 
 
-## সিনারিও 82ঃ মৃত বাবার GP number নিজের নামে নিতে চাওয়া — ownership transfer of deceased person's SIM (Wants to transfer deceased father's GP number to own name)
+## সিনারিও 82: মৃত বাবার GP number নিজের নামে নিতে চাওয়া — ownership transfer of deceased person's SIM (Wants to transfer deceased father's GP number to own name)
 
 > কাস্টমারের বাবা মারা গেছেন। বাবার GP number-টা পরিবারের জন্য গুরুত্বপূর্ণ — অনেক business contact এই number-এ যোগাযোগ করে। ছেলে number-টা নিজের নামে transfer করতে চান।
 
@@ -4205,7 +4205,7 @@
 ---
 
 
-## সিনারিও 83ঃ জিপি স্টার লয়্যালটি প্রোগ্রামের স্ট্যাটাস চেক এবং ডিসকাউন্ট রিডিম করা (Checking GP Star loyalty program status and redeeming discount)
+## সিনারিও 83: জিপি স্টার লয়্যালটি প্রোগ্রামের স্ট্যাটাস চেক এবং ডিসকাউন্ট রিডিম করা (Checking GP Star loyalty program status and redeeming discount)
 
 > কাস্টমার তার জিপি স্টার স্ট্যাটাস জানতে চান এবং পার্টনার রেস্টুরেন্টে ডিসকাউন্ট ব্যবহারের নিয়ম সম্পর্কে জিজ্ঞাসা করছেন।
 
@@ -4257,7 +4257,7 @@
 ---
 
 
-## সিনারিও 84ঃ জিপি 5G কানেক্টিভিটি চালু ও কনফিগারেশন করা (GP 5G connectivity troubleshooting and configuration)
+## সিনারিও 84: জিপি 5G কানেক্টিভিটি চালু ও কনফিগারেশন করা (GP 5G connectivity troubleshooting and configuration)
 
 > কাস্টমার গুলশানে নতুন 5G ফোন কিনেছেন কিন্তু সিগন্যালে 5G পাচ্ছেন না। তিনি কিভাবে 5G চালু করবেন তা নিয়ে এজেন্টের সাথে কথা বলছেন।
 
@@ -4309,7 +4309,7 @@
 ---
 
 
-## সিনারিও 85ঃ জিপি কর্পোরেট কাস্টমারদের অ্যাকাউন্ট ম্যানেজমেন্ট এবং সুবিধা (GP Business SIM loyalty and corporate account management)
+## সিনারিও 85: জিপি কর্পোরেট কাস্টমারদের অ্যাকাউন্ট ম্যানেজমেন্ট এবং সুবিধা (GP Business SIM loyalty and corporate account management)
 
 > কর্পোরেট কাস্টমার তার কোম্পানির ৫০টি জিপি বিজনেস সিমের জন্য ডেডিকেটেড অ্যাকাউন্ট ম্যানেজারের তথ্য ও কর্পোরেট সুবিধা জানতে চাচ্ছেন।
 
@@ -4361,7 +4361,7 @@
 ---
 
 
-## সিনারিও 86ঃ বিদেশে থাকাকালীন সিম রিপ্লেসমেন্ট করা — SIM replacement while customer is abroad (SIM replacement while customer is abroad)
+## সিনারিও 86: বিদেশে থাকাকালীন সিম রিপ্লেসমেন্ট করা — SIM replacement while customer is abroad (SIM replacement while customer is abroad)
 
 > কাস্টমার বর্তমানে যুক্তরাজ্যে (UK) আছেন। বাংলাদেশে তার জিপি সিমটি হারিয়ে গেছে। তিনি কিভাবে তার ভাইয়ের মাধ্যমে বাংলাদেশে সিম রিপ্লেস করবেন তা জিজ্ঞাসা করছেন।
 
@@ -4413,7 +4413,7 @@
 ---
 
 
-## সিনারিও 87ঃ নির্দিষ্ট এলাকায় নেটওয়ার্ক সমস্যা ও অভিযোগ জমা দেওয়া (GP network outage and rural area signal drops troubleshooting)
+## সিনারিও 87: নির্দিষ্ট এলাকায় নেটওয়ার্ক সমস্যা ও অভিযোগ জমা দেওয়া (GP network outage and rural area signal drops troubleshooting)
 
 > সিলেটের হরিপুর এলাকার কাস্টমার গত ৩ দিন ধরে নেটওয়ার্ক ড্রপ ও দুর্বল ৪জি সিগন্যাল পাওয়ার অভিযোগ করছেন। এজেন্ট নেটওয়ার্ক আউটেজ চেক করে অভিযোগ নিলেন।
 
@@ -4465,7 +4465,7 @@
 ---
 
 
-## সিনারিও 88ঃ বয়স্ক গ্রাহককে ইন্টারনেট সেটিংস (APN) ম্যানুয়ালি কনফিগার করতে সাহায্য করা (Elderly customer needing manual APN settings configuration)
+## সিনারিও 88: বয়স্ক গ্রাহককে ইন্টারনেট সেটিংস (APN) ম্যানুয়ালি কনফিগার করতে সাহায্য করা (Elderly customer needing manual APN settings configuration)
 
 > নতুন স্মার্টফোন কেনা এক বয়স্ক কাস্টমার ইন্টারনেট চালাতে পারছেন না। এজেন্ট তাকে ধাপে ধাপে ফোনের সেটিংস ও APN কনফিগার করতে সহায়তা করছেন।
 
@@ -4517,7 +4517,7 @@
 ---
 
 
-## সিনারিও 89ঃ কর্পোরেট সিম পার্সোনাল প্রিপেইড সিমে রূপান্তর করা (Corporate SIM migration to personal prepaid SIM)
+## সিনারিও 89: কর্পোরেট সিম পার্সোনাল প্রিপেইড সিমে রূপান্তর করা (Corporate SIM migration to personal prepaid SIM)
 
 > কাস্টমার তার প্রাক্তন কোম্পানির দেওয়া কর্পোরেট জিপি সিমটি কোম্পানি থেকে প্রাপ্ত এনওসি (NOC) ব্যবহার করে নিজের নামে ব্যক্তিগত প্রিপেইড সিমে রূপান্তর করতে চান।
 
@@ -4569,7 +4569,7 @@
 ---
 
 
-## সিনারিও 90ঃ দীর্ঘদিন বন্ধ থাকা সিম পুনরায় সচল করা (Reactivating a long-term inactive SIM)
+## সিনারিও 90: দীর্ঘদিন বন্ধ থাকা সিম পুনরায় সচল করা (Reactivating a long-term inactive SIM)
 
 > কাস্টমারের একটি জিপি প্রিপেইড সিম দেড় বছর ধরে বন্ধ রয়েছে। তিনি সিমটি রিসাইকেল হয়েছে কিনা জানতে চান এবং পুনরায় বায়োমেট্রিক নিবন্ধনের মাধ্যমে সচল করার নিয়ম ও ফি সম্পর্কে বিস্তারিত জিজ্ঞাসা করছেন।
 
@@ -4621,7 +4621,7 @@
 ---
 
 
-## সিনারিও 91ঃ মাইজিপি অ্যাপে জিপি পয়েন্ট চেক এবং ফ্রিতে প্যাক রিডিম করা (Checking GP Points and redeeming free packs on MyGP app)
+## সিনারিও 91: মাইজিপি অ্যাপে জিপি পয়েন্ট চেক এবং ফ্রিতে প্যাক রিডিম করা (Checking GP Points and redeeming free packs on MyGP app)
 
 > কাস্টমার তার মাইজিপি অ্যাপে অর্জিত জিপি পয়েন্ট ব্যবহার করে কীভাবে ফ্রিতে ১ জিবি ইন্টারনেট প্যাক রিডিম করবেন এবং পয়েন্টের মেয়াদ ও ব্যবহার বিধি সম্পর্কে জানতে চাচ্ছেন।
 
@@ -4673,7 +4673,7 @@
 ---
 
 
-## সিনারিও 92ঃ রোমিং বিল সংক্রান্ত অসঙ্গতি ও অভিযোগ দায়ের করা (GP high roaming usage bill inquiry and dispute registration)
+## সিনারিও 92: রোমিং বিল সংক্রান্ত অসঙ্গতি ও অভিযোগ দায়ের করা (GP high roaming usage bill inquiry and dispute registration)
 
 > সিঙ্গাপুর ভ্রমণকারী এক জিপি পোস্টপেইড কাস্টমার ১৫,০০০ টাকার অতিরিক্ত রোমিং বিলের অসঙ্গতি নিয়ে অভিযোগ করছেন। এজেন্ট চেক করে দেখলেন ট্রানজিট দেশ মালয়েশিয়াতে মোবাইল ডাটা সচল থাকায় এই পে-পার-ইউজ চার্জটি হয়েছে।
 
@@ -4725,7 +4725,7 @@
 ---
 
 
-## সিনারিও 93ঃ অজান্তে ব্যালেন্স কাটা এবং সকল ভ্যালু অ্যাডেড সার্ভিস (VAS) বন্ধ করা (GP balance deduction mystery and VAS Stop All code)
+## সিনারিও 93: অজান্তে ব্যালেন্স কাটা এবং সকল ভ্যালু অ্যাডেড সার্ভিস (VAS) বন্ধ করা (GP balance deduction mystery and VAS Stop All code)
 
 > কাস্টমার অভিযোগ করছেন যে তার সিম থেকে প্রতিদিন ২-৩ টাকা কেটে নেওয়া হচ্ছে। এজেন্ট চেক করে দেখলেন যে ওয়েলকাম টিউন এবং এসএমএস অ্যালার্ট সার্ভিস সচল আছে এবং কাস্টমারকে সকল সার্ভিস বন্ধ করার কোড শিখিয়ে দিলেন।
 
@@ -4777,7 +4777,7 @@
 ---
 
 
-## সিনারিও 94ঃ পোস্টপেইড বিলে ক্রেডিট কার্ডের মাধ্যমে অটো-ডেবিট সেট করা (Postpaid auto-debit registration using credit card)
+## সিনারিও 94: পোস্টপেইড বিলে ক্রেডিট কার্ডের মাধ্যমে অটো-ডেবিট সেট করা (Postpaid auto-debit registration using credit card)
 
 > পোস্টপেইড কাস্টমার প্রতি মাসে ম্যানুয়ালি বিল দেওয়ার ঝামেলা এড়াতে মাইজিপি অ্যাপে তার ক্রেডিট কার্ড দিয়ে অটো-ডেবিট চালু করার নিয়ম ও সুবিধা সম্পর্কে জানতে চাচ্ছেন।
 
@@ -4829,7 +4829,7 @@
 ---
 
 
-## সিনারিও 95ঃ ব্যালেন্স ট্রান্সফার করার নিয়ম ও পিন কোড রেজিস্টার করা (GP balance transfer feature process and PIN registration)
+## সিনারিও 95: ব্যালেন্স ট্রান্সফার করার নিয়ম ও পিন কোড রেজিস্টার করা (GP balance transfer feature process and PIN registration)
 
 > কাস্টমার তার জিপি সিম থেকে মেয়ের জিপি সিমে ব্যালেন্স ট্রান্সফার করার নিয়ম, লেনদেনের সীমাবদ্ধতা, চার্জ এবং পিন কোড রেজিস্ট্রেশন করার পদ্ধতি জানতে চাচ্ছেন।
 
@@ -4881,7 +4881,7 @@
 ---
 
 
-## সিনারিও 96ঃ জিপি স্টার গ্রাহকদের বিমানবন্দরে লাউঞ্জ সুবিধা ও ডিসকাউন্ট (GP Star Balaka Lounge access and benefits at airport)
+## সিনারিও 96: জিপি স্টার গ্রাহকদের বিমানবন্দরে লাউঞ্জ সুবিধা ও ডিসকাউন্ট (GP Star Balaka Lounge access and benefits at airport)
 
 > জিপি প্ল্যাটিনাম স্টার কাস্টমার হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে বিদেশে যাওয়ার সময় বলাকা লাউঞ্জ অ্যাক্সেস, পরিবারের সদস্যদের ডিসকাউন্ট এবং ভেরিফিকেশন প্রক্রিয়া সম্পর্কে জানতে চাচ্ছেন।
 
@@ -4933,7 +4933,7 @@
 ---
 
 
-## সিনারিও 97ঃ জিপি স্টার পার্টনার আউটলেটে ডিসকাউন্ট সংক্রান্ত সমস্যা সমাধান (GP Star partner outlet discount error troubleshooting)
+## সিনারিও 97: জিপি স্টার পার্টনার আউটলেটে ডিসকাউন্ট সংক্রান্ত সমস্যা সমাধান (GP Star partner outlet discount error troubleshooting)
 
 > কাস্টমার একটি রেস্তোরাঁয় ১৫% জিপি স্টার ডিসকাউন্ট পেতে এসএমএস পাঠিয়ে ভুল কিওয়ার্ডের কারণে প্রত্যাখ্যান হয়েছেন। এজেন্ট চেক করে সঠিক কিওয়ার্ডটি প্রদান করে সাহায্য করলেন।
 
@@ -4985,7 +4985,7 @@
 ---
 
 
-## সিনারিও 98ঃ ক্ষতিগ্রস্ত ই-সিম কিউআর কোড পুনরায় সংগ্রহ করার পদ্ধতি (GP eSIM QR code damaged print retrieval process)
+## সিনারিও 98: ক্ষতিগ্রস্ত ই-সিম কিউআর কোড পুনরায় সংগ্রহ করার পদ্ধতি (GP eSIM QR code damaged print retrieval process)
 
 > কাস্টমার তার অনলাইন শপ থেকে কেনা ই-সিমের কিউআর কোডটি ক্ষতিগ্রস্ত হওয়ায় সচল করতে পারছেন না। এজেন্ট তাকে মাইজিপি অ্যাপ বা সেলফ-কেয়ার পোর্টাল থেকে বিকল্প নম্বর বা ইমেইলে ওটিপি ভেরিফিকেশনের মাধ্যমে ডিজিটাল কিউআর কোড ডাউনলোড করার নিয়ম বুঝিয়ে দিচ্ছেন।
 
@@ -5037,7 +5037,7 @@
 ---
 
 
-## সিনারিও 99ঃ জিপি স্টার পার্টনার হাসপাতালে ডিসকাউন্ট সুবিধা নেওয়া (GP Star Labaid hospital diagnostic discount process)
+## সিনারিও 99: জিপি স্টার পার্টনার হাসপাতালে ডিসকাউন্ট সুবিধা নেওয়া (GP Star Labaid hospital diagnostic discount process)
 
 > জিপি স্টার কাস্টমার ল্যাবএইড হাসপাতালে ডায়াগনস্টিক পরীক্ষার উপর জিপি স্টার ডিসকাউন্ট হার, আউটডোর সেবা ও কিউআর/এসএমএস কোড ভেরিফিকেশন করার প্রক্রিয়া সম্পর্কে বিস্তারিত জানতে চান।
 
@@ -5089,7 +5089,7 @@
 ---
 
 
-## সিনারিও 100ঃ পোস্টপেইড সংযোগ থেকে প্রিপেইড সংযোগে রূপান্তর করা (GP postpaid to prepaid reverse migration process)
+## সিনারিও 100: পোস্টপেইড সংযোগ থেকে প্রিপেইড সংযোগে রূপান্তর করা (GP postpaid to prepaid reverse migration process)
 
 > পোস্টপেইড কাস্টমার তার সংযোগটি পুনরায় প্রিপেইডে রূপান্তর করতে চান। এজেন্ট তাকে বকেয়া বিল পরিশোধ, সিকিউরিটি ডিপোজিট সমন্বয়, প্রিপেইডে রূপান্তরের সময়সীমা এবং জিপি সেন্টারে বায়োমেট্রিক ভেরিফিকেশনের নিয়মাবলী বুঝিয়ে দিচ্ছেন।
 
