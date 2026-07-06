@@ -828,3 +828,199 @@
 **২৩. এজেন্টঃ** sir, ধন্যবাদ আমাদের সাথে থাকার জন্য। ৪০ Mbps-এ আপনার experience আরো ভালো হবে আশা করি। কোনো সমস্যায় নির্দ্বিধায় call করবেন। শুভ সন্ধ্যা।
 
 ---
+
+## সিনারিও ১৭ঃ Peak hour-এ internet throttle হচ্ছে, online gaming-এ lag
+
+> একজন young কাস্টমার competitive online gaming করেন। প্রতি সন্ধ্যা ৭টা থেকে ১১টার মধ্যে তার ping dramatically বেড়ে যায় এবং game-এ lag হয়। বাকি সময়ে internet ঠিক থাকে। কাস্টমার মনে করছেন ISP bandwidth throttle করছে।
+
+**১. এজেন্টঃ** Link3 customer care, আমি শাকিল। কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** ভাই, আমার একটা specific complaint আছে। প্রতিদিন সন্ধ্যা ৭টার পর থেকে রাত ১১টা পর্যন্ত আমার ping অনেক বেড়ে যায়, online game-এ প্রচণ্ড lag হয়। বাকি সময় সব ঠিক থাকে। আপনারা কি peak hour-এ throttle করেন?
+
+**৩. এজেন্টঃ** sir, আমি বুঝতে পারছি gaming-এর জন্য low ping কতটা important। আমি আপনার connection check করব। আগে account verify করি — phone number বলুন please।
+
+**৪. কাস্টমারঃ** ০১৫২২৩৩৪৪৫৫। আমি VALORANT আর CS2 খেলি। দিনের বেলা Singapore server-এ ping ৬০-৭০ms থাকে, কিন্তু সন্ধ্যায় ১৫০-২০০ms-এ চলে যায়। Game-এ gunfight-এ টিকতে পারি না, ranking drop হচ্ছে।
+
+**৫. এজেন্টঃ** ধন্যবাদ sir, account পেয়েছি — নাম নাফিস ইকবাল, নিকুঞ্জ। ৩০ Mbps package-এ আছেন। sir, আমি সরাসরি বলি — Link3 কোনো specific application বা game-এর traffic throttle করে না, এটা আমাদের policy।
+
+**৬. কাস্টমারঃ** তাহলে কেন সন্ধ্যায় এত lag হয়? দিনের বেলা কোনো সমস্যা নেই, ঠিক সন্ধ্যা ৭টায় শুরু হয়!
+
+**৭. এজেন্টঃ** sir, এটা throttling না, এটা peak hour congestion। বিস্তারিত বলি — সন্ধ্যা ৭টা থেকে ১১টা হলো Bangladesh-এ internet-এর সবচেয়ে busy সময়। এই সময় সবাই YouTube, Netflix, Facebook use করে, ফলে overall network-এ traffic অনেক বেশি থাকে। এই high traffic-এ international gateway-তে congestion হয়, যার কারণে latency বেড়ে যায়। এটা শুধু Link3 না, সব ISP-এর ক্ষেত্রেই কমবেশি হয়, কারণ Bangladesh-এর international bandwidth capacity limited।
+
+**৮. কাস্টমারঃ** বুঝলাম, কিন্তু আমার কাছে result same — game-এ lag হচ্ছে। এটার কি কোনো solution আছে? নাকি accept করে নিতে হবে?
+
+**৯. এজেন্টঃ** sir, কিছু কিছু জিনিস আমরা try করতে পারি। প্রথমত, আপনি WiFi-তে game খেলেন নাকি LAN cable-এ?
+
+**১০. কাস্টমারঃ** WiFi-তে খেলি। LAN cable লাগানোর scope নেই, router আর PC আলাদা room-এ।
+
+**১১. এজেন্টঃ** sir, WiFi-তে gaming-এ latency naturally বেশি হয়। WiFi signal-এ interference, packet loss এগুলো ping বাড়ায়। যদি কোনোভাবে Ethernet cable connect করতে পারেন, এমনকি লম্বা cable হলেও, gaming-এ significant improvement পাবেন। ১০-১৫ মিটার LAN cable ২০০-৩০০ টাকায় পাওয়া যায়।
+
+**১২. কাস্টমারঃ** হুম, cable try করে দেখতে পারি। আর কিছু?
+
+**১৩. এজেন্টঃ** sir, আরেকটা কাজ করতে পারি — আপনার router-এ QoS মানে Quality of Service enable করা যায়। এতে আপনি gaming traffic-কে priority দিতে পারবেন, যাতে বাসার অন্যরা YouTube বা Netflix দেখলেও আপনার gaming traffic-এ impact কম পড়ে। আপনার router model কোনটা?
+
+**১৪. কাস্টমারঃ** Router-এর model? একটু দেখি... TP-Link Archer C6 লেখা আছে।
+
+**১৫. এজেন্টঃ** sir, Archer C6-এ QoS feature আছে। Router-এর admin panel-এ login করুন, browser-এ 192.168.0.1 টাইপ করুন। তারপর Advanced settings-এ QoS option পাবেন। সেখানে আপনার PC-এর IP address বা MAC address দিয়ে high priority set করুন। এতে আপনার PC-এর traffic সব সময় priority পাবে।
+
+**১৬. কাস্টমারঃ** ঠিক আছে, পরে try করব। আচ্ছা ভাই, আপনাদের কি কোনো gaming-friendly package আছে? কম latency guarantee সহ?
+
+**১৭. এজেন্টঃ** sir, সত্যি কথা বলতে, আমাদের আলাদা gaming package নেই এই মুহূর্তে। তবে higher bandwidth package নিলে, যেমন ৫০ Mbps বা ১০০ Mbps, peak hour-এও আপনার share of bandwidth বেশি থাকে এবং congestion-এর impact কিছুটা কম হয়। কিন্তু latency guarantee দেওয়া যায় না, কারণ সেটা international routing-এর উপর নির্ভর করে।
+
+**১৮. কাস্টমারঃ** বুঝেছি। মনে হচ্ছে এটা শুধু Link3-এর সমস্যা না, Bangladesh-এর overall infrastructure-এর সমস্যা। সব ISP-তেই কমবেশি হয়?
+
+**১৯. এজেন্টঃ** sir, হ্যাঁ, এটা সঠিক বলেছেন। Bangladesh-এ international bandwidth submarine cable দিয়ে আসে, আর সন্ধ্যায় সবাই internet ব্যবহার করে বলে সেই bandwidth-এ pressure বাড়ে। তবে situation প্রতিবছর improve হচ্ছে, নতুন submarine cable আসছে, capacity বাড়ছে।
+
+**২০. কাস্টমারঃ** আশা করি improve হবে। আচ্ছা ভাই, LAN cable আর QoS try করব, দেখি improvement আসে কিনা।
+
+**২১. এজেন্টঃ** sir, অবশ্যই try করুন। LAN cable-এই বড় difference পাবেন বলে আশা করি। আর কোনো gaming-related issue হলে call করবেন, আমরা যতটুকু সম্ভব help করব। আপনার rank recover হোক, best of luck!
+
+---
+
+## সিনারিও ১৮ঃ বাসার বয়স্ক মানুষ router-এর cable খুলে ফেলেছে, internet নেই মনে করছে
+
+> একজন মহিলা কাস্টমার জরুরি ভিত্তিতে call করেছেন যে তার internet হঠাৎ বন্ধ হয়ে গেছে। আসলে তার বাসায় বয়স্ক শ্বশুরমশাই ঘর পরিষ্কার করতে গিয়ে router-এর fiber cable বা power cable খুলে ফেলেছেন, কিন্তু কেউ সেটা জানে না।
+
+**১. এজেন্টঃ** Link3 customer care, শুভ দুপুর। আমি ফারজানা, কিভাবে সাহায্য করতে পারি, mam?
+
+**২. কাস্টমারঃ** আপু, আমার internet হঠাৎ বন্ধ হয়ে গেছে! সকাল থেকে চলছিল, এখন দুপুরে হঠাৎ গেল। আমার বাচ্চার online exam চলছে, please তাড়াতাড়ি কিছু করেন!
+
+**৩. এজেন্টঃ** mam, বুঝতে পারছি exam চলছে, এটা urgent। আমি এখনই দেখছি। আপনার phone number বলুন।
+
+**৪. কাস্টমারঃ** ০১৭৮৮৯৯০০১১। আমার বাচ্চার class 8-এর half yearly exam online-এ হচ্ছে। এখন English exam চলছে, আর ৪৫ মিনিট বাকি। Internet না আসলে exam miss হয়ে যাবে!
+
+**৫. এজেন্টঃ** mam, আমি বুঝতে পারছি, চিন্তা করবেন না, আমরা তাড়াতাড়ি solve করব। Account পেয়েছি — নাম শাহানা বেগম, মিরপুর ১২। mam, আগে কিছু basic check করি — আপনার router-এর কোন কোন light জ্বলছে?
+
+**৬. কাস্টমারঃ** router? একটু দেখি... router-এর কাছে যাচ্ছি... আপু, router-এর কোনো light-ই জ্বলছে না! পুরো অন্ধকার!
+
+**৭. এজেন্টঃ** mam, কোনো light জ্বলছে না মানে router-এ power যাচ্ছে না। আপনার বাসায় কি load shedding হচ্ছে? নাকি electricity আছে?
+
+**৮. কাস্টমারঃ** না না, electricity আছে। ফ্যান চলছে, light জ্বলছে। শুধু router বন্ধ।
+
+**৯. এজেন্টঃ** mam, তাহলে router-এর power adapter-টা check করুন। Router-এর পেছনে যেই কালো cable-টা ঢোকানো থাকে, সেটা ঠিকমতো লাগানো আছে? আর ওই cable-এর অন্য মাথাটা wall socket-এ ঢোকানো আছে? দেখুন তো কোনো cable কি খুলে গেছে।
+
+**১০. কাস্টমারঃ** দেখছি... একটু wait... আরে! Power cable-টা তো খোলা পড়ে আছে মেঝেতে! Router-এর সাথে লাগানো নেই! কে খুলেছে!
+
+**১১. এজেন্টঃ** mam, তাহলে তো সমস্যা পেয়ে গেছি! কেউ হয়তো ঘর পরিষ্কার করতে গিয়ে বা অন্য কোনো কারণে cable খুলে ফেলেছে। Cable-টা router-এর পেছনে DC port-এ ভালো করে লাগিয়ে দিন, আর wall socket-এও ঢুকিয়ে দিন।
+
+**১২. কাস্টমারঃ** লাগাচ্ছি... ও আচ্ছা, এখন মনে পড়ছে — আব্বা দুপুরে ঘর মুছছিলেন, তিনি হয়তো cable-এ পা আটকে খুলে ফেলেছেন। উনি বলেননি কিছু। আচ্ছা cable লাগিয়ে দিলাম, router-এ light আসছে এখন!
+
+**১৩. এজেন্টঃ** চমৎকার mam! এখন ১-২ মিনিট wait করুন, সব light stable হতে দিন। Power light, PON light, আর WiFi light — তিনটাই green হলে internet চলে আসবে।
+
+**১৪. কাস্টমারঃ** wait করছি... light গুলো একটা একটা আসছে... power green... PON green হচ্ছে... WiFi light-ও green! বাচ্চাকে বলছি check করতে... হ্যাঁ আপু! Internet এসে গেছে! বাচ্চা বলছে exam page reload হয়েছে!
+
+**১৫. এজেন্টঃ** আলহামদুলিল্লাহ mam, internet ফিরে এসেছে! বাচ্চার exam-টা continue করতে বলুন। আর cable-টা যেন আবার খুলে না যায়, সেজন্য একটা suggestion দিই।
+
+**১৬. কাস্টমারঃ** হ্যাঁ বলুন, কি করব? আব্বা তো প্রতিদিনই ঘর মুছেন, আবার হতে পারে।
+
+**১৭. এজেন্টঃ** mam, router-টা যদি একটু উঁচু জায়গায় রাখতে পারেন, যেমন shelf-এর উপরে বা wall-এ mount করে, তাহলে cable মেঝেতে ঝুলবে না আর পায়ে আটকাবে না। আর cable-টা wall-এর ধার দিয়ে tape দিয়ে ফেলে রাখলে আরো safe। অনেক customer এটা করেন।
+
+**১৮. কাস্টমারঃ** ভালো idea! আমার husband-কে বলব shelf-এ রাখতে। আচ্ছা আপু, এই যে ১০-১৫ মিনিট internet ছিল না, বাচ্চার exam-এ কি কোনো সমস্যা হবে?
+
+**১৯. এজেন্টঃ** mam, সেটা নির্ভর করবে exam platform-এর উপরে। বেশিরভাগ online exam platform-এ timer pause হয়ে যায় internet disconnect হলে, আর reconnect হলে আবার শুরু হয়। তবে বাচ্চার teacher-কে একটা message দিয়ে রাখুন যে internet temporarily বন্ধ ছিল, সেটা safe হবে।
+
+**২০. কাস্টমারঃ** হ্যাঁ, message দিচ্ছি। আপু, অনেক ধন্যবাদ! আমি ভেবেছিলাম বড় কোনো সমস্যা হয়েছে, কিন্তু cable খুলে যাওয়া ছিল ব্যাপারটা!
+
+**২১. এজেন্টঃ** mam, ছোট ব্যাপার হলেও এটা আপনার জন্য urgent ছিল, আমরা সব সময় সাহায্যের জন্য আছি। বাচ্চার exam ভালো হোক। আর কোনো সমস্যায় call করবেন। ধন্যবাদ, শুভ দুপুর।
+
+---
+
+## সিনারিও ১৯ঃ বারবার সমস্যা সমাধান না হওয়ায় supervisor-এর সাথে কথা বলতে চায়
+
+> একজন কাস্টমার গত ১ মাসে ৫ বার call করেছেন একই internet speed সমস্যার জন্য। প্রতিবার agent-রা নতুন ticket দিচ্ছে কিন্তু সমস্যা permanent ভাবে solve হচ্ছে না। এবার কাস্টমার supervisor-এর সাথে কথা বলতে demand করছেন।
+
+**১. এজেন্টঃ** Link3 customer care, আমি তাহসিন। কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** আমাকে আপনার supervisor-এর সাথে কথা বলান। আমি গত ১ মাসে ৫ বার call করেছি একই সমস্যার জন্য, কেউ permanently solve করতে পারছে না। আর agent-দের সাথে কথা বলে সময় নষ্ট করতে চাই না।
+
+**৩. এজেন্টঃ** sir, আমি বুঝতে পারছি আপনি অনেক frustrated। ৫ বার call করেও সমস্যা সমাধান না হওয়া সত্যিই অগ্রহণযোগ্য। আমি অবশ্যই supervisor-এর সাথে connect করব, কিন্তু তার আগে আপনার account details verify করি যেন supervisor সব information নিয়ে কথা বলতে পারেন।
+
+**৪. কাস্টমারঃ** ০১৭১২৩৪৫৬৭০। নাম মোস্তাফিজুর রহমান। আমার ৫টা ticket number আছে, সব দেব আপনাকে। প্রতিবার নতুন ticket দেন, কিন্তু কেউ আসলে সমস্যাটা ঠিক করে না।
+
+**৫. এজেন্টঃ** ধন্যবাদ sir, account পেয়েছি। আমি আপনার সব ticket history দেখছি... sir, আমি দেখতে পাচ্ছি ৫টা ticket — সবগুলোতেই speed issue reported। শেষ ৩টা ticket-এ "resolved" লেখা আছে কিন্তু আপনার সমস্যা তো ঠিক হয়নি, ঠিক?
+
+**৬. কাস্টমারঃ** হ্যাঁ, ঠিক! প্রতিবার technician আসে, কিছুদিন ভালো থাকে, আবার same সমস্যা। "Resolved" লিখে ticket close করে দেয়, কিন্তু আসলে resolve হয়নি! আমি এই নিয়ে বিরক্ত, আমাকে supervisor-এর সাথে কথা বলান।
+
+**৭. এজেন্টঃ** sir, আমি সম্পূর্ণ একমত যে এটা properly handle হয়নি। আমি এখনই আমাদের shift supervisor জনাব আনিসুর রহমান-কে এই call-এ connect করছি। তার আগে আমি আপনার সব ticket history আর complaint summary prepare করে তাকে brief করে দিচ্ছি, যেন আপনাকে আবার পুরো ঘটনা বলতে না হয়। ২-৩ মিনিট hold-এ থাকুন please।
+
+**৮. কাস্টমারঃ** ঠিক আছে, কিন্তু ২-৩ মিনিট, বেশি না। আমি আগেও hold-এ থেকে থেকে ক্লান্ত।
+
+**৯. এজেন্টঃ** sir, ধন্যবাদ, আমি ২ মিনিটের মধ্যে connect করছি... [hold music] ... sir, আমি supervisor জনাব আনিসকে line-এ আনছি। তিনি আপনার সব history দেখেছেন।
+
+**১০. সুপারভাইজরঃ** আসসালামু আলাইকুম sir, আমি আনিসুর রহমান, Link3-এর customer service supervisor। মোস্তাফিজুর রহমান sir, আমি আপনার পুরো complaint history দেখেছি এবং আমি সত্যিই ক্ষমাপ্রার্থী যে আমরা আপনার সমস্যা এতবার পরেও solve করতে পারিনি।
+
+**১১. কাস্টমারঃ** শুনেন, আমি ৩০ Mbps package-এর জন্য ১৫০০ টাকা দিই, কিন্তু গত ১ মাস ধরে ১০-১২ Mbps-এর বেশি পাচ্ছি না। ৫ বার complaint দিয়েছি, প্রতিবার technician এসে port reset করে যায়, ২-৩ দিন ভালো থাকে, আবার speed কমে যায়। এটা কি acceptable?
+
+**১২. সুপারভাইজরঃ** sir, এটা অবশ্যই acceptable না। আমি আপনার সব ticket দেখে একটা pattern লক্ষ্য করেছি — প্রতিবারই port reset করা হয়েছে, কিন্তু কখনো cable বা splitter physically inspect করা হয়নি। মনে হচ্ছে আসল সমস্যা cable-এ, port reset-এ temporary fix হচ্ছে কিন্তু permanent solution হচ্ছে না। এটা আমাদের troubleshooting-এর ব্যর্থতা।
+
+**১৩. কাস্টমারঃ** exactly! আমি প্রতিবারই বলেছি cable check করতে, কিন্তু technician-রা শুধু laptop নিয়ে আসে, port reset করে চলে যায়। Physical cable কেউ check করেনি!
+
+**১৪. সুপারভাইজরঃ** sir, আমি এবার personally নিশ্চিত করব এটা ঠিক হয়। আমি আমাদের senior technician-কে পাঠাচ্ছি, regular technician না। Senior technician আপনার building-এর distribution box থেকে শুরু করে আপনার flat পর্যন্ত পুরো cable route inspect করবে, splitter check করবে, আর সমস্যার root cause খুঁজে বের করবে। Visit-এর পর আমি personally আপনাকে call করে update দেব।
+
+**১৫. কাস্টমারঃ** এটা আগেই হওয়া উচিত ছিল। Senior technician কবে আসবে?
+
+**১৬. সুপারভাইজরঃ** sir, আগামীকাল সকাল ১০টায়। আমি personally senior technician-কে assign করব এবং তাকে বলব visit-এর আগে আপনাকে call করতে। আর এবার ticket close হবে না যতক্ষণ না আপনি নিজে confirm করছেন যে সমস্যা ঠিক হয়েছে।
+
+**১৭. কাস্টমারঃ** সেটা ভালো কথা। আর শুনেন, গত ১ মাস আমি proper speed পাইনি, এটার জন্য কি কোনো compensation পাব?
+
+**১৮. সুপারভাইজরঃ** sir, অবশ্যই। আমি আপনার গত ১ মাসের bill-এ ৫০% adjustment করে দিচ্ছি, কারণ আপনি ৩০ Mbps-এর bill দিয়ে ১০-১২ Mbps পেয়েছেন। এটা আমি নিজে approve করছি, কোনো extra process লাগবে না। আর সমস্যা fully resolve হওয়ার পর, পরের মাসের bill-ও ২৫% discount দিচ্ছি goodwill gesture হিসেবে।
+
+**১৯. কাস্টমারঃ** ৫০% adjustment আর পরের মাসে ২৫% discount? সেটা fair মনে হচ্ছে। ঠিক আছে, দেখি আগামীকাল senior technician কি করতে পারে।
+
+**২০. সুপারভাইজরঃ** sir, আমি promise করছি এবার permanent solution হবে। আমার direct contact number হলো ০১XXXXXXXXX, যদি কোনো সমস্যা হয় বা technician না আসে, সরাসরি আমাকে call করবেন। আর আমি visit-এর পর নিজে আপনাকে follow-up call দেব।
+
+**২১. কাস্টমারঃ** আপনার number পেয়ে ভালো লাগলো। ঠিক আছে, আগামীকাল দেখি। আশা করি এবারই শেষ।
+
+**২২. সুপারভাইজরঃ** sir, ইনশাআল্লাহ এবারই চূড়ান্ত সমাধান হবে। আমি personally monitor করব। আপনার ধৈর্যের জন্য ধন্যবাদ এবং এই খারাপ অভিজ্ঞতার জন্য আন্তরিকভাবে ক্ষমা চাইছি।
+
+**২৩. কাস্টমারঃ** ঠিক আছে। আশা করি কাজে দেখাবেন, কথায় না। ধন্যবাদ।
+
+---
+
+## সিনারিও ২০ঃ Static IP address চায়, বাসায় CCTV আর home server চালায়
+
+> একজন কাস্টমার তার বাসায় CCTV camera আর ছোট একটা home server চালান। Dynamic IP-তে বাইরে থেকে CCTV access করতে পারছেন না কারণ IP বারবার change হচ্ছে। তিনি static IP চান।
+
+**১. এজেন্টঃ** Link3 customer care, আমি সোহেল। কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** ভাই, আমি একটা static IP address নিতে চাই। আমার বাসায় CCTV camera setup আছে আর একটা small home server চালাই। Dynamic IP-তে বাইরে থেকে access করতে পারছি না।
+
+**৩. এজেন্টঃ** sir, বুঝতে পারছি, static IP হলে remote access অনেক সহজ হয়ে যায়। আমি আপনাকে details জানাচ্ছি। আগে account verify করি — phone number বলুন।
+
+**৪. কাস্টমারঃ** ০১৮৫৫৪৪৩৩২২। আমি প্রবাসে থাকি মাঝে মাঝে, ঐ সময় phone-এ CCTV footage দেখতে চাই। কিন্তু dynamic IP change হয়ে যায় প্রতি ২৪ ঘণ্টায়, তাই DDNS setup করেও reliable access পাচ্ছি না।
+
+**৫. এজেন্টঃ** ধন্যবাদ sir, account পেয়েছি — নাম শামীম আহমেদ, বনশ্রী। ৪০ Mbps package-এ আছেন। sir, আমাদের static IP service available আছে। আমি বিস্তারিত বলছি — static IP হলে আপনার connection-এ একটা fixed public IP address assign করা হবে যেটা কখনো change হবে না। এতে আপনি যেকোনো জায়গা থেকে ঐ IP দিয়ে direct access করতে পারবেন CCTV, home server সবকিছুতে। DDNS-এর ঝামেলা থাকবে না।
+
+**৬. কাস্টমারঃ** হ্যাঁ, সেটাই চাই। Static IP-র charge কত? আর কিভাবে activate হবে?
+
+**৭. এজেন্টঃ** sir, static IP-র জন্য মাসে additional ৫০০ টাকা charge আছে, আপনার regular bill-এর সাথে যোগ হবে। মানে আপনার ক্ষেত্রে মোট মাসিক bill হবে ১৮০০ যোগ ৫০০ সমান ২৩০০ টাকা। Activation সাধারণত ২৪-৪৮ ঘণ্টার মধ্যে হয়ে যায়।
+
+**৮. কাস্টমারঃ** ৫০০ টাকা extra? সেটা acceptable। কিন্তু static IP পেলে আমার router-এ কি কোনো configuration change করতে হবে?
+
+**৯. এজেন্টঃ** sir, আমাদের end থেকে আপনার connection-এ static IP assign করা হবে। আপনার router-এ automatic configuration হয়ে যাবে, সাধারণত কোনো manual change করতে হয় না। তবে আপনার CCTV আর home server-এ port forwarding setup করতে হতে পারে, সেটা আপনার device-এর settings-এ করতে হবে।
+
+**১০. কাস্টমারঃ** port forwarding জানি, সেটা আমি নিজে করে নেব। আচ্ছা, static IP কি IPv4 হবে? নাকি IPv6?
+
+**১১. এজেন্টঃ** sir, আমরা static IPv4 address দিই, যেটা সবচেয়ে widely compatible। আপনার CCTV app, remote desktop, SSH — সবকিছু IPv4 দিয়ে কাজ করবে। IPv6 static-ও available, তবে আপনার use case-এ IPv4-ই বেশি practical।
+
+**১২. কাস্টমারঃ** IPv4 perfect। ঠিক আছে, activate করে দেন। আচ্ছা, security-এর কথা বলুন — static IP-তে কি আমার network বেশি vulnerable হয়ে যাবে?
+
+**১৩. এজেন্টঃ** sir, ভালো question। Static IP-তে আপনার IP address public-এ visible থাকে এবং change হয় না, তাই কিছু extra security precaution নেওয়া উচিত। Router-এর firewall enable রাখুন, শুধু প্রয়োজনীয় port-গুলো forward করুন যেমন CCTV-এর port আর server-এর port। বাকি সব port block রাখুন। আর CCTV আর server-এ strong password ব্যবহার করুন, default password change করুন।
+
+**১৪. কাস্টমারঃ** বুঝেছি, সেগুলো করা আছে। আমি নিজে IT field-এ কাজ করি, security aware আছি। ঠিক আছে, process start করুন।
+
+**১৫. এজেন্টঃ** sir, আমি এখনই static IP activation request process করছি। আপনার assigned static IP address activation-এর পর SMS-এ পাঠিয়ে দেওয়া হবে। Request reference number হলো LNK-SIP-২০২৫-৪৫৬৭।
+
+**১৬. কাস্টমারঃ** ঠিক আছে। activation হলে কি router restart দিতে হবে?
+
+**১৭. এজেন্টঃ** জ্বী sir, activation-এর SMS পাওয়ার পর একবার router restart দিন। তারপর আপনার new static IP active হয়ে যাবে। আপনি whatismyip.com-এ গিয়ে verify করতে পারবেন যে IP address-টা SMS-এ পাঠানো IP-এর সাথে match করছে কিনা।
+
+**১৮. কাস্টমারঃ** perfect। আর একটা শেষ প্রশ্ন — static IP কি কোনো contract বা lock-in period আছে? নাকি মাসে মাসে cancel করতে পারব?
+
+**১৯. এজেন্টঃ** sir, কোনো contract বা lock-in নেই। আপনি যেকোনো সময় static IP service cancel করতে পারবেন, তখন আবার dynamic IP-তে ফিরে যাবেন। মাসিক basis-এ চলে, কোনো early termination charge নেই।
+
+**২০. কাস্টমারঃ** excellent, flexibility আছে। ধন্যবাদ ভাই, সব clear।
+
+**২১. এজেন্টঃ** sir, ধন্যবাদ। Static IP activate হলে আপনার CCTV আর home server remote access smoothly কাজ করবে। Activation-এর পর কোনো configuration help লাগলে আমাদের call করবেন। শুভকামনা, ভালো থাকবেন।
+
+---
