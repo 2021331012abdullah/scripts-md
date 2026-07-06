@@ -160,3 +160,55 @@
 **২৩. এজেন্টঃ** ধন্যবাদ sir, আপনার সমস্যা দ্রুত সমাধান হোক। Technician visit-এর পর যদি কোনো issue থাকে, দয়া করে আবার call করবেন। শুভ দিন কাটুক।
 
 ---
+
+## সিনারিও ৪ঃ Bill payment করেছে কিন্তু system-এ reflect হচ্ছে না, disconnection warning পেয়েছে
+
+> একজন কাস্টমার ৫ দিন আগে bKash-এ bill payment করেছেন কিন্তু আজকে SMS পেয়েছেন যে bill overdue, ৪৮ ঘণ্টার মধ্যে connection disconnect করা হবে।
+
+**১. এজেন্টঃ** Link3 customer care, শুভ সন্ধ্যা। আমি কিভাবে সাহায্য করতে পারি, mam?
+
+**২. কাস্টমারঃ** ভাই শুনেন, আমি ৫ দিন আগে bKash দিয়ে bill pay করেছি কিন্তু এইমাত্র একটা SMS পেলাম যে আমার bill overdue, connection কেটে দেওয়া হবে! কি ব্যাপার এটা?
+
+**৩. এজেন্টঃ** mam, আমি বুঝতে পারছি এটা কতটা বিরক্তিকর। আপনি payment করেছেন অথচ warning আসছে — এটা অবশ্যই আমরা সমাধান করব। আপনার account number বা registered phone number টা বলুন please।
+
+**৪. কাস্টমারঃ** আমার registered number ০১৭৬৬৮৮৯৯০০। আমি নিজে bill pay করি প্রতি মাসে, কোনোদিন late হয়নি। এবারও due date-এর ২ দিন আগেই pay করেছিলাম।
+
+**৫. এজেন্টঃ** ধন্যবাদ mam। আপনার account দেখছি — নাম ফারজানা আক্তার, মোহাম্মদপুর। জ্বী, আমি দেখতে পাচ্ছি আপনার June মাসের bill ১৮০০ টাকা, আর system-এ এখনো unpaid দেখাচ্ছে।
+
+**৬. কাস্টমারঃ** কিন্তু আমি তো pay করেছি! bKash থেকে confirmation SMS-ও পেয়েছি। Transaction ID-ও আছে আমার কাছে। আমি এখন পড়ে দিচ্ছি।
+
+**৭. এজেন্টঃ** জ্বী mam, please transaction ID টা বলুন। আর bKash-এ payment-এর date আর exact amount-টাও confirm করুন।
+
+**৮. কাস্টমারঃ** Transaction ID হলো TXN8A5K2M9P। Payment করেছিলাম জুনের ২৮ তারিখে, amount ১৮০০ টাকা। bKash app-এর history-তেও দেখাচ্ছে successful।
+
+**৯. এজেন্টঃ** ধন্যবাদ mam, আমি এখন এই transaction ID দিয়ে আমাদের payment gateway-তে verify করছি। ১-২ মিনিট সময় লাগবে, please hold-এ থাকুন।
+
+**১০. কাস্টমারঃ** জ্বী, তবে আমার internet যেন কেটে দেওয়া না হয়। আমার ছেলে online-এ পড়াশোনা করে, connection গেলে তার class miss হবে।
+
+**১১. এজেন্টঃ** mam, চিন্তা করবেন না। আমি এখনই আপনার account-এ একটা hold দিয়ে দিচ্ছি যাতে যতক্ষণ এই billing issue resolve না হচ্ছে ততক্ষণ connection disconnect না হয়। এটা আমি এই মুহূর্তেই করে দিচ্ছি।
+
+**১২. কাস্টমারঃ** ধন্যবাদ, সেটা করুন। কিন্তু আসলে কি হয়েছে? আমি তো ঠিকমতোই pay করেছি।
+
+**১৩. এজেন্টঃ** mam, আমি payment gateway-তে check করেছি। আপনার bKash transaction successful হয়েছে এটা confirm, কিন্তু আমাদের billing system-এ এটা auto-reconcile হয়নি। মাঝে মাঝে bKash থেকে আমাদের system-এ payment update আসতে দেরি হয়, বিশেষ করে মাসের শেষের দিকে যখন transaction volume বেশি থাকে। এটা আমাদের system-এর একটা limitation, আপনার কোনো দোষ নেই।
+
+**১৪. কাস্টমারঃ** তাহলে এখন কি করবেন? আমার payment তো হয়ে গেছে, system-এ কবে update হবে?
+
+**১৫. এজেন্টঃ** mam, আমি এখনই manually আপনার payment-টা আমাদের system-এ update করে দিচ্ছি। আপনার transaction ID আর amount verify হয়ে গেছে, তাই আমি নিজে এটা process করতে পারব। ২-৩ মিনিটের মধ্যে আপনার account-এ paid দেখাবে।
+
+**১৬. কাস্টমারঃ** আচ্ছা, ধন্যবাদ। কিন্তু এরপরেও কি আবার এই রকম warning SMS আসবে?
+
+**১৭. এজেন্টঃ** mam, না। আমি payment update করার পর overdue status remove হয়ে যাবে, তাই আর কোনো warning আসবে না। আমি এইমাত্র update করে দিলাম, আপনার June-এর bill paid হিসেবে record হয়ে গেছে। আপনি চাইলে আমাদের website-এ login করে bill status verify করতে পারবেন।
+
+**১৮. কাস্টমারঃ** ঠিক আছে, পরে check করব। আচ্ছা, এই সমস্যা যেন আবার না হয়, সেজন্য কি কিছু করা যায়? প্রতি মাসে তো bKash-এই pay করি।
+
+**১৯. এজেন্টঃ** mam, একটা ভালো option আছে — আপনি bKash-এর auto-debit feature setup করতে পারেন Link3-এর bill-এর জন্য। এতে due date-এ automatically bKash থেকে bill কেটে নেওয়া হবে এবং direct integration-এ reconciliation issue হওয়ার সম্ভাবনা অনেক কম। আর না হলে, payment করার পর bKash-এর confirmation SMS-এর screenshot রাখবেন, যেকোনো সমস্যায় কাজে লাগবে।
+
+**২০. কাস্টমারঃ** Auto-debit feature টা ভালো idea। সেটা কিভাবে setup করতে হয়?
+
+**২১. এজেন্টঃ** mam, bKash app-এ গিয়ে 'Pay Bill' option-এ যান, তারপর Link3 select করুন। সেখানে auto-pay বা recurring payment-এর option পাবেন, আপনার customer ID দিয়ে setup করে নিতে পারবেন। কোনো সমস্যা হলে bKash helpline-এও সাহায্য পাবেন।
+
+**২২. কাস্টমারঃ** বুঝেছি, পরে try করব। ধন্যবাদ ভাই, আপনি অনেক সুন্দর করে সব handle করলেন। Warning SMS-টা পেয়ে অনেক চিন্তিত হয়ে গিয়েছিলাম।
+
+**২৩. এজেন্টঃ** mam, আপনার চিন্তা স্বাভাবিক ছিল। আপনার সমস্যা resolve হয়েছে, account-এ paid status update হয়ে গেছে। ভবিষ্যতে কোনো সমস্যা হলে নির্দ্বিধায় call করবেন। Link3-এ কল করার জন্য ধন্যবাদ, শুভ সন্ধ্যা।
+
+---
