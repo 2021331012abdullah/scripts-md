@@ -1508,3 +1508,101 @@
 **২৩. এজেন্টঃ** sir, আপনার presentation সফল হোক! Camera বন্ধ রাখতে ভুলবেন না data বাঁচাতে। Internet restore হলে SMS পাবেন। কোনো প্রশ্নে call করবেন। Link3-এর পক্ষ থেকে এই অসুবিধার জন্য আন্তরিকভাবে ক্ষমাপ্রার্থী। ধন্যবাদ sir।
 
 ---
+
+## সিনারিও ৩১ঃ Telemedicine video call-এর মাঝে internet গেছে, রোগীর অবস্থা critical
+
+> একজন মহিলা কাস্টমারের বয়স্ক শ্বশুর বুকে ব্যথায় কষ্ট পাচ্ছেন। তিনি doctor-এর সাথে video call-এ telemedicine consultation করছিলেন, ঠিক সেই মুহূর্তে internet চলে গেছে। Doctor medicine বলে দিচ্ছিলেন, সেটা শোনা হয়নি। অত্যন্ত tense পরিস্থিতি।
+
+**১. এজেন্টঃ** Link3 customer care, আমি নাজমুল। কিভাবে সাহায্য করতে পারি, mam?
+
+**২. কাস্টমারঃ** ভাই, আমার এখনই internet দরকার! আমার শ্বশুরের বুকে ব্যথা হচ্ছে, doctor-এর সাথে video call-এ কথা হচ্ছিল, ঠিক তখনই internet চলে গেছে! Doctor medicine-এর নাম বলছিলেন, সেটা শুনতে পারিনি! Please তাড়াতাড়ি কিছু করেন!
+
+**৩. এজেন্টঃ** mam, আমি বুঝতে পারছি এটা medical emergency। আমি সর্বোচ্চ priority দিয়ে দেখছি। আপনার phone number বলুন, একই সাথে আমি বলি — যদি অবস্থা খুব খারাপ হয়, ৯৯৯-এ call করে ambulance আনতে দেরি করবেন না।
+
+**৪. কাস্টমারঃ** ০১৬৭৮৯০১২৩৪। আব্বার condition stable আছে, chest pain আছে কিন্তু breathing ঠিক আছে। Doctor বলছিলেন কি medicine খাওয়াতে হবে, ঠিক সেই সময় call cut হয়ে গেছে! Internet চলে গেলে Praava Health-এর app-ও কাজ করছে না!
+
+**৫. এজেন্টঃ** ধন্যবাদ mam, account দেখছি — নাম ফাতেমা খানম, বাসাবো। mam, আমি এখনই আপনার connection check করছি... mam, আপনার ONU-তে signal level দেখাচ্ছে অনেক low, -২৮ dBm, এটা normal-এর চেয়ে অনেক কম। মনে হচ্ছে fiber cable-এ কোনো সমস্যা হয়েছে।
+
+**৬. কাস্টমারঃ** ভাই, cable-টেবল পরে দেখবেন! আমার এখনই internet দরকার! আব্বা কষ্ট পাচ্ছেন! Doctor-এর সাথে reconnect করতে হবে!
+
+**৭. এজেন্টঃ** mam, আমি পুরোপুরি বুঝতে পারছি। Internet এখনই restore করা সম্ভব না হলে আমি একটা alternative বলি — আপনার mobile phone-এ data আছে? Phone-এর hotspot চালু করে ঐ device-এ connect করুন যেটায় Praava app আছে। তাহলে এখনই doctor-কে আবার call করতে পারবেন।
+
+**৮. কাস্টমারঃ** mobile data... হ্যাঁ আছে! কিন্তু ভাবতে পারিনি এতটা panicked হয়ে গেছি! ঠিক আছে, hotspot চালু করছি... connected! Praava app open করছি... doctor-কে আবার call করছি...
+
+**৯. এজেন্টঃ** mam, চমৎকার! Doctor-কে call করুন, medicine-এর নাম জেনে নিন। আমি এদিকে আপনার internet সমস্যা দেখছি, আপনাকে hold-এ রাখছি না — doctor-এর সাথে কথা শেষ হলে আমাদের আবার call করবেন, অথবা আমি ১০ মিনিট পর আপনাকে call back করব। কোনটা চান?
+
+**১০. কাস্টমারঃ** আপনি call back করুন ১০ মিনিট পর। আমি এখন doctor-এর সাথে কথা বলি। ধন্যবাদ ভাই, hotspot-এর কথা মনে করিয়ে দেওয়ার জন্য, panic-এ মাথায় আসেনি!
+
+**১১. এজেন্টঃ** mam, চিন্তা করবেন না, এমন situation-এ মাথায় না আসাটাই স্বাভাবিক। আপনি doctor-এর কথা শুনুন, আব্বাকে medicine দিন। আমি ঠিক ১০ মিনিট পর call করব আপনার internet সমস্যা নিয়ে।
+
+---
+
+[১০ মিনিট পর agent call back করছে]
+
+**১২. এজেন্টঃ** mam, আমি নাজমুল, Link3 থেকে call করছি। আব্বার অবস্থা কেমন?
+
+**১৩. কাস্টমারঃ** ভাই, আলহামদুলিল্লাহ, doctor-এর সাথে কথা হয়েছে। Medicine-এর নাম পেয়েছি, আব্বাকে দিয়েছি। এখন একটু ভালো আছেন। ধন্যবাদ, আপনি সত্যিই সাহায্য করেছেন।
+
+**১৪. এজেন্টঃ** mam, শুনে খুশি হলাম, আলহামদুলিল্লাহ। এখন আপনার internet-এর বিষয়ে বলি — আমি check করে দেখেছি আপনার fiber signal level অনেক কম, -২৮ dBm। এটা normally -৮ থেকে -২৪ dBm-এর মধ্যে থাকা উচিত। Cable-এ কোথাও bend বা damage হয়ে থাকতে পারে। Technician পাঠানো দরকার।
+
+**১৫. কাস্টমারঃ** ঠিক আছে, technician পাঠান। তবে আব্বার ২ দিন পর আবার follow-up telemedicine appointment আছে, ততদিনে internet ঠিক হওয়া দরকার।
+
+**১৬. এজেন্টঃ** mam, আমি medical urgency mark করে urgent ticket দিচ্ছি। আগামীকালের মধ্যে technician আসবে। Ticket number LNK-MED-২০২৫-১১২২। এটা priority queue-তে আছে।
+
+**১৭. কাস্টমারঃ** ধন্যবাদ। আচ্ছা ভাই, এরকম emergency-তে কি Link3-এর কোনো emergency support line আছে? Normal queue-তে ৫-১০ মিনিট wait করতে হয়, medical emergency-তে তো অত সময় নেই।
+
+**১৮. এজেন্টঃ** mam, আমাদের separate emergency line নেই, তবে আমি আপনার account-এ "medical priority" flag দিয়ে দিচ্ছি। পরের বার call করলে system আপনার call priority queue-তে route করবে, wait time কম হবে। আর future-এর জন্য একটা suggestion — mobile phone-এ সব সময় কিছু data রাখবেন backup হিসেবে, emergency-তে hotspot কাজে লাগে।
+
+**১৯. কাস্টমারঃ** হ্যাঁ, সেটা শিখলাম আজকে। medical priority flag-এর জন্য ধন্যবাদ। ভাই, আপনি সত্যিই professional ছিলেন, panic-এর মধ্যে শান্ত করে সমাধান দিয়েছেন।
+
+**২০. এজেন্টঃ** mam, ধন্যবাদ। আব্বার জন্য দোয়া করি, তিনি দ্রুত সুস্থ হয়ে উঠবেন ইনশাআল্লাহ। Technician আগামীকাল আসবে, internet ঠিক হয়ে যাবে follow-up appointment-এর আগেই। কোনো জরুরি সমস্যায় আমরা সব সময় আছি। শুভকামনা mam।
+
+---
+
+## সিনারিও ৩২ঃ Online banking-এ fund transfer-এর মাঝে internet গেছে, টাকা কোথায় গেছে বোঝা যাচ্ছে না
+
+> একজন কাস্টমার Dutch-Bangla Bank-এর online banking-এ ৫০,০০০ টাকা fund transfer করছিলেন। OTP দেওয়ার পর "Processing" দেখাচ্ছিল, ঠিক সেই মুহূর্তে internet চলে গেছে। এখন জানেন না টাকা গেছে কিনা, account থেকে কেটেছে কিনা। প্রচণ্ড panicked।
+
+**১. এজেন্টঃ** Link3 customer care, আমি সাইফ। কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** ভাই, এখনই internet দেন! আমি online banking-এ ৫০,০০০ টাকা transfer করছিলাম, OTP দিয়ে confirm করেছি, "Processing" দেখাচ্ছিল, ঠিক তখন internet চলে গেছে! টাকা কেটেছে কিনা জানি না, পেয়েছে কিনা জানি না! আমার সব সেভিংস!
+
+**৩. এজেন্টঃ** sir, আমি বুঝতে পারছি এটা কতটা stressful। আগে একটা কথা বলি শান্ত হোন — ব্যাংকের fund transfer system secure, internet যদি মাঝপথে চলে যায়, তাহলে সাধারণত দুইটার একটা হয় — হয় transaction complete হয়ে গেছে, অথবা fail হয়ে টাকা আপনার account-এ ফেরত আসবে। মাঝখানে হারিয়ে যায় না।
+
+**৪. কাস্টমারঃ** কিন্তু ভাই, "Processing" দেখাচ্ছিল! Complete-ও দেখায়নি, Failed-ও দেখায়নি! টাকা কোথায়? আমাকে internet দেন, আমি bank account check করব!
+
+**৫. এজেন্টঃ** sir, আমি এখনই আপনার connection check করছি। Phone number বলুন — আর যতক্ষণ internet আসছে না, একটা কাজ করুন — আপনার bank-এর customer care-এ phone call করুন, তারা আপনার account-এর transaction status বলে দিতে পারবে internet ছাড়াই।
+
+**৬. কাস্টমারঃ** ০১৮৪৪৫৫৬৬৭৭। হ্যাঁ, bank-এ call করব, কিন্তু bank-এর customer care-এ তো ৩০ মিনিট hold-এ রাখে! আপনি internet দেন, আমি নিজেই app-এ দেখি!
+
+**৭. এজেন্টঃ** ধন্যবাদ sir, account দেখছি — নাম মাসুদ রানা, খিলগাঁও। sir, আপনার connection check করছি... sir, আপনার connection active দেখাচ্ছে আমাদের system-এ। আপনার router-এর light কি জ্বলছে?
+
+**৮. কাস্টমারঃ** দেখি... হ্যাঁ, power light green, PON light green, WiFi light green — সব জ্বলছে! কিন্তু internet আসছে না, browser-এ "No Internet" দেখাচ্ছে!
+
+**৯. এজেন্টঃ** sir, সব light green মানে fiber connection ঠিক আছে। "No Internet" দেখাচ্ছে মানে router-এ DNS বা IP issue হতে পারে। একটা কাজ করুন — router restart দিন। Power cable খুলুন, ১০ সেকেন্ড wait করুন, আবার লাগান।
+
+**১০. কাস্টমারঃ** restart দিচ্ছি... cable খুলছি... ১০ সেকেন্ড... আবার লাগাচ্ছি... light আসছে একটা একটা... power... PON... WiFi... browser try করছি... হ্যাঁ! Internet এসে গেছে!
+
+**১১. এজেন্টঃ** চমৎকার sir! এখন দ্রুত আপনার banking app check করুন। আমি line-এ আছি, কি দেখায় বলুন।
+
+**১২. কাস্টমারঃ** app open করছি... login করছি... account balance check করছি... ভাই, balance কমে গেছে ৫০,০০০ টাকা! মানে টাকা কেটেছে! কিন্তু recipient পেয়েছে কিনা? Transaction history দেখি... last transaction... ৫০,০০০ টাকা... status... "Successful"! আলহামদুলিল্লাহ! Transaction complete হয়ে গেছে!
+
+**১৩. এজেন্টঃ** sir, আলহামদুলিল্লাহ! দেখুন, আমি বলেছিলাম — OTP দেওয়ার পর bank-এর server-এ transaction process হয়ে গেছিল, internet চলে যাওয়ায় শুধু আপনার screen-এ confirmation দেখাতে পারেনি। কিন্তু transaction backend-এ complete হয়ে গিয়েছিল।
+
+**১৪. কাস্টমারঃ** বুঝেছি। ভাই, আমি তো ভয়েই মরে যাচ্ছিলাম! ৫০,০০০ টাকা একটা ছোট পরিমাণ না! আচ্ছা, internet কেন গিয়েছিল? Router-এ তো সব light ছিল!
+
+**১৫. এজেন্টঃ** sir, এটা সম্ভবত router-এর DHCP lease renewal-এর সমস্যা ছিল — router-এর IP address expire হয়ে গিয়েছিল কিন্তু নতুন IP auto-renew হয়নি। Restart দেওয়ায় নতুন IP পেয়ে internet ফিরে এসেছে। এটা মাঝে মাঝে হয়, বিশেষ করে router দীর্ঘদিন restart না দিলে।
+
+**১৬. কাস্টমারঃ** মানে internet আসলে বন্ধ ছিল না, router-এর issue ছিল? তাহলে তো Link3-এর দোষ না!
+
+**১৭. এজেন্টঃ** sir, partially router-এর issue। তবে আমাদের DHCP server-ও ঠিকমতো lease renewal handle করা উচিত ছিল। দুই পক্ষেরই ভূমিকা আছে। আমি আপনার router-এর DHCP settings remotely optimize করে দিচ্ছি যেন ভবিষ্যতে এরকম না হয়।
+
+**১৮. কাস্টমারঃ** করে দিন। আচ্ছা ভাই, ভবিষ্যতে online banking করার সময় internet গেলে কি করব?
+
+**১৯. এজেন্টঃ** sir, গুরুত্বপূর্ণ tip দিচ্ছি — online banking-এ বড় amount transfer করার আগে internet connection stable আছে কিনা check করুন। আর OTP দিয়ে confirm করার পর যদি internet যায়, তাহলে panic করবেন না, কারণ OTP confirm করার পর transaction bank-এর server-এ process হয়ে যায়। Browser-এ শুধু confirmation page load হয় না, কিন্তু transaction complete হয়ে গেছে। Phone-এ SMS notification check করুন, bank সাধারণত successful transaction-এ SMS পাঠায়।
+
+**২০. কাস্টমারঃ** ও হ্যাঁ, আমার phone-এ SMS এসেছে transaction successful-এর! আমি panic-এ SMS-ও check করিনি! ভাই, আজকে অনেক কিছু শিখলাম।
+
+**২১. এজেন্টঃ** sir, ভবিষ্যতে SMS check করবেন আগে, তাহলেই tension কমবে। আর সপ্তাহে একবার router restart দেওয়ার habit করুন, DHCP issue avoid হবে। আপনার টাকা safe আছে, চিন্তা নেই। কোনো সমস্যায় call করবেন। ধন্যবাদ sir, শুভ দিন।
+
+---
