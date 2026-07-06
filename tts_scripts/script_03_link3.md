@@ -1024,3 +1024,487 @@
 **২১. এজেন্টঃ** sir, ধন্যবাদ। Static IP activate হলে আপনার CCTV আর home server remote access smoothly কাজ করবে। Activation-এর পর কোনো configuration help লাগলে আমাদের call করবেন। শুভকামনা, ভালো থাকবেন।
 
 ---
+
+## সিনারিও ২১ঃ ঘন ঘন load shedding-এ router বন্ধ হয়ে যায়, UPS/IPS-এ চালানো যায় কিনা
+
+> একজন কাস্টমারের এলাকায় গরমের সময় দিনে ৪-৫ বার load shedding হচ্ছে। প্রতিবার current গেলে router বন্ধ হয়ে যায়, current আসার পর ৩-৪ মিনিট লাগে router boot হতে। কাস্টমার জানতে চায় IPS বা UPS দিয়ে router চালিয়ে রাখা যায় কিনা এবং ঘন ঘন power on/off-এ router নষ্ট হবে কিনা।
+
+**১. এজেন্টঃ** Link3 customer care, শুভ বিকেল। আমি রাইসা, কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** আপু, আমার এলাকায় এখন দিনে ৪-৫ বার load shedding হচ্ছে। প্রতিবার current গেলে router বন্ধ হয়ে যায়, আসার পর আবার ৩-৪ মিনিট লাগে internet আসতে। সারাদিন এই নিয়ে ঝামেলা। Router কি IPS-এ চালানো যায়?
+
+**৩. এজেন্টঃ** sir, বুঝতে পারছি, load shedding-এ ঘন ঘন router restart হওয়াটা সত্যিই বিরক্তিকর। জ্বী, router অবশ্যই IPS বা UPS-এ চালানো যায় এবং আমি recommend-ও করি। আপনার account verify করি — phone number বলুন।
+
+**৪. কাস্টমারঃ** ০১৯৫৫৬৬৭৭০০। আমি work from home করি, প্রতিবার current গেলে Zoom call disconnect হয়। IPS-এ fan, light চালাই কিন্তু router-টা IPS-এ দেইনি। কিন্তু ভয় পাচ্ছি IPS-এর voltage fluctuation-এ router নষ্ট না হয়ে যায়।
+
+**৫. এজেন্টঃ** ধন্যবাদ sir, account পেয়েছি — নাম আসিফ মাহমুদ, তেজগাঁও। sir, আপনার চিন্তা বুঝতে পারছি, তবে router IPS-এ চালানো সম্পূর্ণ safe। বিস্তারিত বলছি — আপনার router-এর power adapter input হলো AC 220V, output হলো DC 12V। IPS থেকে যে AC output আসে সেটা দিয়ে router-এর adapter চালানো কোনো সমস্যা না। তবে একটা সস্তা UPS বা mini UPS কিনলে সেটা আরো ভালো option, কারণ সেটা instant switchover দেয়, মানে current গেলেও router একটুও বন্ধ হবে না।
+
+**৬. কাস্টমারঃ** mini UPS? সেটা কি? কত দাম পড়বে?
+
+**৭. এজেন্টঃ** sir, mini UPS হলো ছোট একটা device, শুধু router আর ONU-এর জন্য। এটা একটা battery backup, current থাকলে charge হয়, current গেলে automatically battery থেকে router চালায়। Market-এ ৮০০-১৫০০ টাকার মধ্যে পাওয়া যায়। ২-৪ ঘণ্টা backup দিতে পারে। Daraz বা local computer shop-এ পাবেন। "12V mini UPS" search দিলেই পাবেন।
+
+**৮. কাস্টমারঃ** ও, মাত্র ৮০০-১৫০০ টাকা? সেটা তো অনেক কম। কিন্তু এটা কি আমার router-এর সাথে compatible হবে? কিভাবে connect করব?
+
+**৯. এজেন্টঃ** sir, খুবই সহজ। Mini UPS-এর output plug সরাসরি আপনার router-এর power port-এ যায়, আর UPS-টা wall socket-এ plug করতে হয়। মাঝখানে adapter-এর দরকার নেই। কেনার সময় শুধু দেখবেন output voltage 12V এবং connector size আপনার router-এর সাথে match করে কিনা। দোকানদারকে router-এর model বলবেন, উনি ঠিক UPS দেবেন।
+
+**১০. কাস্টমারঃ** বুঝেছি। আচ্ছা, আরেকটা প্রশ্ন — প্রতিদিন ৪-৫ বার current যাওয়া-আসায় router-এর কি ক্ষতি হচ্ছে? মানে router-এর lifespan কমে যাচ্ছে?
+
+**১১. এজেন্টঃ** sir, ভালো question। ঘন ঘন power on/off-এ router-এর electronic components-এ stress পড়ে, বিশেষ করে capacitor আর flash memory-তে। Long term-এ router-এর lifespan কিছুটা কমতে পারে। তাছাড়া current আসার সময় voltage spike হলে circuit damage হওয়ার risk আছে। তাই UPS বা mini UPS use করা shudhu convenience না, router-এর protection-ও।
+
+**১২. কাস্টমারঃ** তাহলে তো UPS কেনাই উচিত। আচ্ছা, আমার আরেকটা concern আছে — current গেলে তো router চলবে UPS-এ, কিন্তু ONU device-টাও কি চালাতে হবে? নাকি শুধু router দিলেই হবে?
+
+**১৩. এজেন্টঃ** sir, ভালো point। আপনার connection-এ যদি আলাদা ONU device আর router থাকে, তাহলে দুইটাই UPS-এ চালাতে হবে। ONU বন্ধ থাকলে fiber signal আসবে না, router চালু থাকলেও internet পাবেন না। তবে অনেক setup-এ ONU আর router একটাই device, সেক্ষেত্রে একটা device-ই চালালে হবে।
+
+**১৪. কাস্টমারঃ** আমার তো আলাদা ONU আছে router-এর পাশে, ছোট সাদা device। তাহলে দুইটাই UPS-এ দিতে হবে?
+
+**১৫. এজেন্টঃ** জ্বী sir, দুইটাই। Mini UPS-এ সাধারণত ২টা output port থাকে, একটায় ONU আর আরেকটায় router — দুইটাই connect করতে পারবেন। Backup time একটু কমবে দুইটা device চালালে, তবে ২-৩ ঘণ্টা পাবেন easily।
+
+**১৬. কাস্টমারঃ** চমৎকার। আজকেই কিনব তাহলে। আচ্ছা আপু, load shedding ছাড়াও একটা সমস্যা — current আসার পর মাঝে মাঝে router-এ internet আসতে ৫-৭ মিনিটও লেগে যায়, এটা কি normal?
+
+**১৭. এজেন্টঃ** sir, সাধারণত ২-৩ মিনিট লাগে ONU boot হয়ে fiber signal lock করতে। ৫-৭ মিনিট লাগলে একটু বেশি, তবে খুব অস্বাভাবিক না। ONU আগে fully boot হতে দিন, PON light green হলে তারপর router-ও boot হবে আর internet আসবে। UPS দিলে এই পুরো সমস্যাটাই থাকবে না।
+
+**১৮. কাস্টমারঃ** ঠিক আছে, UPS-ই ultimate solution মনে হচ্ছে। ধন্যবাদ আপু, অনেক helpful ছিলেন। সব clear হয়ে গেছে।
+
+**১৯. এজেন্টঃ** sir, ধন্যবাদ আপনাকেও। Mini UPS কিনে নিলে load shedding-এও আপনার internet uninterrupted থাকবে, Zoom call-ও disconnect হবে না। কোনো সমস্যায় call করবেন। শুভ বিকেল।
+
+---
+
+## সিনারিও ২২ঃ Smart TV-তে streaming-এ buffering হচ্ছে, কিন্তু phone-এ internet ঠিক আছে
+
+> একজন কাস্টমারের phone আর laptop-এ internet ঠিকমতো চলছে কিন্তু Smart TV-তে Netflix আর YouTube-এ প্রচণ্ড buffering হচ্ছে। TV-তে picture quality-ও automatically কমে যাচ্ছে। কাস্টমার মনে করছেন ISP-এর সমস্যা।
+
+**১. এজেন্টঃ** Link3 customer care, আমি তানজিনা। কিভাবে সাহায্য করতে পারি, mam?
+
+**২. কাস্টমারঃ** আপু, আমার Smart TV-তে Netflix দেখতে গেলে buffering হচ্ছে, picture blurry হয়ে যাচ্ছে। কিন্তু phone-এ YouTube smooth চলছে। TV-তে কেন সমস্যা?
+
+**৩. এজেন্টঃ** mam, interesting। Phone-এ ঠিক আছে কিন্তু TV-তে সমস্যা — এটা বেশিরভাগ সময় WiFi signal-এর সাথে related হয়। আমি help করব, আগে account verify করি — phone number বলুন please।
+
+**৪. কাস্টমারঃ** ০১৬৯৮৮৭৭৬৬৫৫। আমার Smart TV Samsung, drawing room-এ আছে। Router bedroom-এ। মাঝে দুইটা wall আছে। Phone-এ speed test করলে ২৫ Mbps আসে, TV তো speed test করতে পারি না।
+
+**৫. এজেন্টঃ** ধন্যবাদ mam, account পেয়েছি — নাম তাহমিনা আক্তার, আদাবর। ৩০ Mbps package-এ আছেন। mam, আপনার সমস্যার কারণ মনে হচ্ছে WiFi signal। Router bedroom-এ আর TV drawing room-এ, মাঝে ২টা wall — এতে WiFi signal অনেক দুর্বল হয়ে যায়, বিশেষ করে 5GHz band-এ।
+
+**৬. কাস্টমারঃ** 5GHz band মানে কি? আমি তো শুধু WiFi-এ connect করি, এত কিছু জানি না।
+
+**৭. এজেন্টঃ** mam, বিস্তারিত বলছি, সহজভাবে। আপনার router দুই ধরনের WiFi signal দেয় — একটা 2.4GHz যেটা ধীর কিন্তু দূর পর্যন্ত যায় আর wall ভেদ করতে পারে, আরেকটা 5GHz যেটা দ্রুত কিন্তু কাছে কাজ করে আর wall-এ সহজে block হয়ে যায়। আপনার TV হয়তো 5GHz-এ connected, তাই দূরত্ব আর wall-এর কারণে signal দুর্বল হয়ে buffering হচ্ছে।
+
+**৮. কাস্টমারঃ** তাহলে কি করব? TV-তে কি 2.4GHz-এ connect করব? কিভাবে?
+
+**৯. এজেন্টঃ** mam, হ্যাঁ, সেটাই try করুন। আপনার router-এ দুইটা WiFi name দেখাবে — একটায় হয়তো "Link3_5G" বা শেষে "_5G" লেখা থাকবে, আরেকটায় শুধু "Link3" বা কোনো suffix থাকবে না। TV-এর WiFi settings-এ গিয়ে _5G ছাড়া যেটা সেটায় connect করুন, সেটা 2.4GHz।
+
+**১০. কাস্টমারঃ** দেখি TV-এর WiFi settings-এ... হ্যাঁ, দুইটা WiFi name দেখাচ্ছে — "Tahmina_WiFi" আর "Tahmina_WiFi_5G"। আমি 5G ওয়ালাতে connected! ও, তাহলে এটাই সমস্যা?
+
+**১১. এজেন্টঃ** mam, হ্যাঁ, সম্ভবত এটাই! "Tahmina_WiFi"-তে, মানে 5G ছাড়া যেটা, সেটায় connect করুন। Password same হবে।
+
+**১২. কাস্টমারঃ** connect করছি... password দিলাম... connected হয়ে গেছে! এখন Netflix try করি... loading হচ্ছে... হ্যাঁ আপু! Buffering নেই! Picture-ও clear দেখাচ্ছে!
+
+**১৩. এজেন্টঃ** চমৎকার mam! 2.4GHz-এ signal strength ভালো পাচ্ছে TV, তাই buffering নেই। streaming-এর জন্য 2.4GHz যথেষ্ট, Netflix HD-এর জন্য ৫ Mbps হলেই চলে, আর 2.4GHz-এও দুই wall পার হয়ে ১০-১৫ Mbps easily পাচ্ছেন।
+
+**১৪. কাস্টমারঃ** বুঝেছি! কিন্তু তাহলে 5GHz কখন use করব?
+
+**১৫. এজেন্টঃ** mam, 5GHz use করুন যেসব device router-এর কাছে থাকে, যেমন bedroom-এ laptop বা phone। কাছে থাকলে 5GHz-এ অনেক বেশি speed পাবেন। আর দূরের device, যেমন drawing room-এর TV — সেগুলো 2.4GHz-এ রাখুন। এভাবে দুই band-ই ভালোমতো ব্যবহার হবে।
+
+**১৬. কাস্টমারঃ** চমৎকার, বুঝে গেছি। আচ্ছা আপু, আমার husband বলেছিল WiFi extender কিনতে। সেটা কি দরকার আছে?
+
+**১৭. এজেন্টঃ** mam, WiFi extender কিনলে আরো ভালো হবে, বিশেষ করে যদি আপনার বাসা বড় হয় বা অনেক room থাকে। Extender drawing room-এ রাখলে TV-তে 5GHz-এও strong signal পাবেন, তখন speed আরো বেশি হবে। তবে 2.4GHz-এ switching করে যদি সমস্যা solve হয়ে গেছে, তাহলে আপাতত extender না কিনলেও চলবে।
+
+**১৮. কাস্টমারঃ** হ্যাঁ, আপাতত 2.4GHz-এই ভালো চলছে। পরে দরকার হলে extender কিনব। আচ্ছা, আরেকটা কথা — 4K content দেখতে চাইলে কি আমার package upgrade করতে হবে?
+
+**১৯. এজেন্টঃ** mam, 4K streaming-এর জন্য Netflix recommend করে minimum ২৫ Mbps। আপনার ৩০ Mbps package-এ 4K চলবে, তবে অন্য device-এও internet চালালে buffering হতে পারে। 4K regularly দেখলে ৪০ Mbps বা তার বেশি package নিলে comfortable হবেন।
+
+**২০. কাস্টমারঃ** আপাতত HD-তেই ভালো দেখাচ্ছে, 4K-র দরকার নেই এখন। অনেক ধন্যবাদ আপু, সমস্যা solve হয়ে গেছে!
+
+**২১. এজেন্টঃ** mam, খুশি হলাম সাহায্য করতে পেরে। মনে রাখবেন — দূরের device 2.4GHz, কাছের device 5GHz। কোনো সমস্যায় আমরা আছি। Link3-এ কল করার জন্য ধন্যবাদ, শুভ সন্ধ্যা।
+
+---
+
+## সিনারিও ২৩ঃ ইঁদুরে fiber cable কেটে দিয়েছে, বারবার একই সমস্যা
+
+> একজন কাস্টমারের internet হঠাৎ বন্ধ হয়ে গেছে। Technician এসে দেখেছে wall-এর ভিতর দিয়ে যাওয়া fiber cable ইঁদুরে কেটে দিয়েছে। এটা তৃতীয়বার হচ্ছে, কাস্টমার permanent solution চায়।
+
+**১. এজেন্টঃ** Link3 customer care, আমি নাবিল। কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** ভাই, আবার সেই একই সমস্যা! Internet বন্ধ! আমি ১০০% sure ইঁদুরে আবার cable কেটেছে। এটা এই ৬ মাসে তৃতীয়বার!
+
+**৩. এজেন্টঃ** sir, ইঁদুরে cable কাটার সমস্যা আমরা অনেক customer-এর কাছ থেকে শুনি। আমি আপনার account দেখি। Phone number বলুন please।
+
+**৪. কাস্টমারঃ** ০১৭৬৫৪৩২১০৯। নাম জাকারিয়া আহমেদ। প্রতিবার technician এসে cable জোড়া দিয়ে যায়, ২ মাস পর আবার কেটে যায়। আমি ক্লান্ত! এবার permanent solution চাই।
+
+**৫. এজেন্টঃ** ধন্যবাদ sir, account পেয়েছি — জাকারিয়া আহমেদ, যাত্রাবাড়ী। আমি আপনার previous ticket history দেখছি — হ্যাঁ sir, দেখতে পাচ্ছি ৩টা ticket, সবগুলোতে "cable damage by rodent" লেখা। আপনার cable কোন route দিয়ে গেছে?
+
+**৬. কাস্টমারঃ** cable wall-এর ভিতর দিয়ে গেছে, false ceiling-এর মধ্য দিয়ে bedroom পর্যন্ত। ঐ false ceiling-এর ভিতরে ইঁদুর থাকে, ওখানেই cable কাটে। Technician প্রতিবার cable জোড়া দেয়, কিন্তু cable exposed-ই রেখে যায়, কোনো protection দেয় না!
+
+**৭. এজেন্টঃ** sir, আপনার কথা ঠিক। শুধু cable জোড়া দিলে ইঁদুর আবারও কাটবে, এটা permanent solution না। আমি আপনাকে কিছু permanent solution-এর option বলছি। প্রথম option — armored fiber cable, এটা বিশেষ ধরনের cable যেটার বাইরে metal shield থাকে, ইঁদুর কামড়াতে পারে না। দ্বিতীয় option — PVC conduit pipe-এর মধ্য দিয়ে cable চালানো, এতে cable protected থাকে।
+
+**৮. কাস্টমারঃ** armored cable? সেটা কি Link3 দেবে? নাকি আমাকে কিনতে হবে?
+
+**৯. এজেন্টঃ** sir, armored fiber cable সাধারণত আমাদের standard installation-এ ব্যবহার হয় না কারণ এটা বেশি expensive। তবে আপনার situation special — ৬ মাসে ৩ বার cable damage হয়েছে। আমি supervisor-এর কাছে request পাঠাচ্ছি যেন আপনার indoor cable route-টা armored cable দিয়ে re-do করা হয়। Charge-এর ব্যাপারটা supervisor decide করবেন।
+
+**১০. কাস্টমারঃ** charge কি আমাকে দিতে হবে? এটা তো আপনাদের cable, আপনাদেরই দায়িত্ব protect করা!
+
+**১১. এজেন্টঃ** sir, indoor cabling-এর maintenance technically customer-এর responsibility, তবে আপনার ক্ষেত্রে repeated issue, তাই আমি strongly recommend করব যে Link3 এটার cost bear করে। আমি supervisor-কে এই point-টা specially mention করছি। আর যতক্ষণ permanent solution হচ্ছে না, আমি আপাতত technician পাঠাচ্ছি cable repair করতে যেন আপনার internet ফিরে আসে।
+
+**১২. কাস্টমারঃ** ঠিক আছে, technician পাঠান। কিন্তু এবার শুধু জোড়া না দিয়ে অন্তত একটা PVC pipe দিয়ে cover করে যেন।
+
+**১৩. এজেন্টঃ** sir, আমি technician-এর instruction-এ specifically mention করছি যে cable repair-এর সাথে PVC conduit pipe দিয়ে protect করতে হবে। এটা temporary solution, permanent armored cable-এর approval আসা পর্যন্ত কাজ চালাবে।
+
+**১৪. কাস্টমারঃ** আচ্ছা, PVC pipe-এর cost কত পড়বে? সেটাও কি আমার?
+
+**১৫. এজেন্টঃ** sir, PVC conduit pipe খুবই সস্তা, ১০-১৫ ফুটের জন্য ৫০-১০০ টাকা। এটা technician নিয়ে যাবে, charge নেওয়া হবে না, এটা service-এর part। শুধু cable repair আর pipe fitting — কোনো extra charge নেই।
+
+**১৬. কাস্টমারঃ** ঠিক আছে। technician কবে আসবে?
+
+**১৭. এজেন্টঃ** sir, আমি urgent visit request দিচ্ছি, আগামীকাল সকালের মধ্যে technician আসবে। Ticket number LNK-CBL-২০২৫-৮৮৭৭। আর armored cable replacement-এর জন্য আলাদা escalation ticket LNK-ESC-২০২৫-৮৮৭৮ দিচ্ছি, এটার update ২-৩ দিনের মধ্যে পাবেন।
+
+**১৮. কাস্টমারঃ** ঠিক আছে। আচ্ছা ভাই, ইঁদুরের সমস্যা তো আমার ফ্ল্যাটেই, Link3-এর পক্ষ থেকে এটা prevent করার আর কোনো উপায় আছে?
+
+**১৯. এজেন্টঃ** sir, ইঁদুর তাড়ানো আমাদের scope-এ না, তবে cable protection-এর দিক থেকে বলি — armored cable বা metal conduit pipe হলো সবচেয়ে effective। আর একটা tip — ইঁদুর fiber cable-এর plastic coating পছন্দ করে কামড়াতে, তাই cable-এর exposed part-এ anti-rodent tape লাগাতে পারেন, এটা বিশেষ ধরনের tape যেটায় ইঁদুর কামড়ায় না। Online-এ পাওয়া যায়।
+
+**২০. কাস্টমারঃ** anti-rodent tape? interesting, দেখব। ঠিক আছে ভাই, summary দেন।
+
+**২১. এজেন্টঃ** sir, summary — আগামীকাল সকালে technician আসবে cable repair আর PVC pipe fitting করতে। Armored cable replacement-এর escalation ticket দেওয়া হয়েছে, ২-৩ দিনে update আসবে। ৬ মাসে ৩ বার cable damage-এর জন্য bill adjustment-ও request করব। কোনো প্রশ্নে call করবেন, ticket number দিয়ে। ধন্যবাদ sir।
+
+---
+
+## সিনারিও ২৪ঃ ৩ মাসের জন্য বিদেশে যাচ্ছে, connection temporarily suspend করতে চায়
+
+> একজন কাস্টমার কাজের জন্য ৩ মাসের জন্য বিদেশে যাচ্ছেন। এই সময় connection চালু রেখে bill দিতে চান না, আবার cancel করে নতুন connection নিতেও চান না। Temporary suspension-এর option খুঁজছেন।
+
+**১. এজেন্টঃ** Link3 customer service, আমি ফাহিম। কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** ভাই, আমি ৩ মাসের জন্য Malaysia-তে যাচ্ছি কাজের জন্য। এই ৩ মাস connection বন্ধ রাখতে চাই, কিন্তু cancel করতে চাই না। ফিরে এসে আবার চালু করব। Temporary suspension-এর কোনো option আছে?
+
+**৩. এজেন্টঃ** sir, হ্যাঁ, আমাদের temporary suspension বা vacation hold service আছে। আমি details বলছি, আগে account verify করি। Phone number বলুন।
+
+**৪. কাস্টমারঃ** ০১৮৬৬৫৫৪৪৩৩। নাম ফয়সাল খান। আমি পরশু দিন রওয়ানা হব, তাই আজকেই process করতে চাই।
+
+**৫. এজেন্টঃ** ধন্যবাদ sir, account পেয়েছি — ফয়সাল খান, গুলশান ২। ৪০ Mbps package, মাসে ১৮০০ টাকা। sir, temporary suspension-এর rules বলছি — আমরা minimum ১ মাস থেকে maximum ৬ মাস পর্যন্ত connection suspend রাখতে পারি। Suspension period-এ আপনার কোনো monthly bill আসবে না।
+
+**৬. কাস্টমারঃ** কোনো bill আসবে না? কিন্তু কোনো holding charge বা maintenance fee আছে?
+
+**৭. এজেন্টঃ** sir, suspension period-এ একটা minimal holding charge আছে — মাসে ২০০ টাকা। এটা আপনার connection slot, IP allocation, আর equipment maintain করার জন্য। ৩ মাসে মোট ৬০০ টাকা। তবে এটা আপনার regular bill ১৮০০ টাকার তুলনায় অনেক কম, ৩ মাসে ৪৮০০ টাকা বাঁচবেন।
+
+**৮. কাস্টমারঃ** মাসে ২০০ টাকা? সেটা reasonable। কিন্তু ফিরে এসে connection কি automatically চালু হয়ে যাবে?
+
+**৯. এজেন্টঃ** sir, না, automatically চালু হবে না। আপনি ফিরে এসে আমাদের call করবেন বা website থেকে reactivation request দেবেন। Request-এর ২-৪ ঘণ্টার মধ্যে connection আবার active হয়ে যাবে। কোনো নতুন installation বা setup দরকার হবে না, সব আগের মতোই থাকবে।
+
+**১০. কাস্টমারঃ** ভালো। আচ্ছা, suspension-এর সময় কি আমার WiFi password, router settings সব ঠিক থাকবে? নাকি reset হয়ে যাবে?
+
+**১১. এজেন্টঃ** sir, আপনার router আর ONU device বাসায়ই থাকবে, কেউ নিয়ে যাবে না। Router-এর সব settings, WiFi password সব যেমন আছে তেমনই থাকবে। শুধু internet connection deactivate থাকবে আমাদের end থেকে। Reactivation হলে সব আগের configuration-এ কাজ করবে।
+
+**১২. কাস্টমারঃ** perfect। আচ্ছা, ধরুন আমি ৩ মাসের জায়গায় ২ মাসে ফিরে এলাম, তাহলে কি ২ মাস পরেই reactivate করতে পারব?
+
+**১৩. এজেন্টঃ** sir, অবশ্যই। যেকোনো সময় reactivate করতে পারবেন, minimum ১ মাস suspension-এর পর। আবার যদি ৩ মাসের বেশি থাকতে হয়, তাহলে call করে suspension extend করতে পারবেন, maximum ৬ মাস পর্যন্ত।
+
+**১৪. কাস্টমারঃ** ভালো, flexibility আছে। আচ্ছা ভাই, আমি যখন বিদেশে থাকব, তখন যদি বাসায় কেউ internet চালাতে চায়, যেমন আমার ভাই মাঝে মাঝে আসে, তাহলে কি temporarily ১-২ দিনের জন্য activate করা যায়?
+
+**১৫. এজেন্টঃ** sir, temporarily ১-২ দিনের জন্য activate/deactivate করার option নেই। Reactivation করলে suspension ভেঙে যাবে এবং full monthly bill আসা শুরু হবে। তাই আপনার ভাইয়ের জন্য mobile data ব্যবহার করাটাই better হবে ১-২ দিনের জন্য। অথবা suspension না করে connection চালু রেখে ভাইকে use করতে দিতে পারেন।
+
+**১৬. কাস্টমারঃ** না না, ৩ মাস bill দেওয়ার দরকার নেই ভাইয়ের ১-২ দিনের জন্য। Suspension-ই করুন। Process start করুন।
+
+**১৭. এজেন্টঃ** sir, আমি এখনই process করছি। Suspension শুরু হবে আগামীকাল থেকে। আপনার পরশু দিন flight-এর আগেই connection deactivate হয়ে যাবে। Holding charge ২০০ টাকা per month, আপনার registered bKash number-এ auto-debit হবে।
+
+**১৮. কাস্টমারঃ** bKash-এ auto-debit? কোন number-এ?
+
+**১৯. এজেন্টঃ** sir, আপনার account-এ registered number ০১৮৬৬৫৫৪৪৩৩, এই number-এই। তবে আপনি চাইলে advance ৬০০ টাকা একবারে pay করতে পারেন, তাহলে বিদেশে থাকতে monthly deduction নিয়ে চিন্তা করতে হবে না।
+
+**২০. কাস্টমারঃ** advance pay-ই করি, বিদেশে bKash balance নিয়ে ঝামেলা থাকবে না। কিভাবে করব?
+
+**২১. এজেন্টঃ** sir, আমি একটা payment link আপনার phone-এ SMS করছি, ওখান থেকে ৬০০ টাকা pay করতে পারবেন bKash, Nagad, বা card দিয়ে। Payment হলে আমি confirmation দেব।
+
+**২২. কাস্টমারঃ** ঠিক আছে, link পেলে pay করব। Suspension reference number দেন।
+
+**২৩. এজেন্টঃ** sir, suspension reference number হলো LNK-SUS-২০২৫-৩৩৪৪। আপনি ফিরে এসে এই number দিয়ে reactivation request করবেন। Malaysia-তে আপনার কাজ ভালো হোক, safe journey। ধন্যবাদ sir।
+
+---
+
+## সিনারিও ২৫ঃ ফ্ল্যাট বিক্রি করছে, connection নতুন মালিকের নামে transfer করতে চায়
+
+> একজন কাস্টমার তার ফ্ল্যাট বিক্রি করে দিচ্ছেন। নতুন buyer-ও Link3 connection চান, তাই existing connection-টা নতুন মালিকের নামে transfer করতে চান। কিন্তু process জানেন না।
+
+**১. এজেন্টঃ** Link3 customer care, শুভ সকাল। আমি মেহেদী, কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** ভাই, আমি আমার ফ্ল্যাট বিক্রি করে দিচ্ছি। আমার Link3 connection আছে, নতুন buyer-ও internet চায়। Connection-টা কি তার নামে transfer করা যায়? নাকি নতুন connection নিতে হবে?
+
+**৩. এজেন্টঃ** sir, হ্যাঁ, ownership transfer possible এবং এটা নতুন connection নেওয়ার চেয়ে সহজ আর দ্রুত। আমি process বলছি। আপনার account verify করি আগে — phone number বলুন।
+
+**৪. কাস্টমারঃ** ০১৭১৫৬৭৮৯০১। নাম হাবিবুর রহমান। ফ্ল্যাট হ্যান্ডওভার হবে এই মাসের ২০ তারিখে। ততদিনের মধ্যে transfer হয়ে গেলে ভালো হয়।
+
+**৫. এজেন্টঃ** ধন্যবাদ sir, account পেয়েছি — হাবিবুর রহমান, মোহাম্মদপুর। ২০ Mbps package-এ আছেন। sir, ownership transfer-এর জন্য কিছু documents দরকার হবে — আপনার NID copy, নতুন মালিকের NID copy, আর ফ্ল্যাট বিক্রির agreement-এর copy বা utility bill transfer-এর proof। নতুন মালিককেও একটা application form sign করতে হবে।
+
+**৬. কাস্টমারঃ** documents তো দিতে পারব, কিন্তু নতুন মালিক এখনো ঢাকায় আসেনি, ২০ তারিখে আসবে। তার NID আমার কাছে আছে copy, কিন্তু sign-এর জন্য কি physically আসতে হবে?
+
+**৭. এজেন্টঃ** sir, application form-এ নতুন মালিকের sign দরকার, তবে physically office-এ আসতে হবে না। আপনি form-টা আমাদের website থেকে download করে print করতে পারবেন, নতুন মালিক sign করে scan করে পাঠালেও চলবে। অথবা ২০ তারিখে হ্যান্ডওভারের দিন দুইজন মিলে documents submit করতে পারবেন।
+
+**৮. কাস্টমারঃ** ২০ তারিখেই submit করব তাহলে। Transfer-এ কি কোনো charge আছে?
+
+**৯. এজেন্টঃ** sir, ownership transfer-এ ৫০০ টাকা one-time processing fee আছে। এটা নতুন মালিক pay করবেন। আর transfer-এর পর নতুন মালিকের নামে নতুন billing cycle শুরু হবে।
+
+**১০. কাস্টমারঃ** ৫০০ টাকা, ঠিক আছে। আচ্ছা, transfer হওয়ার পর package কি same থাকবে? নাকি নতুন মালিক change করতে পারবে?
+
+**১১. এজেন্টঃ** sir, transfer-এর সময় existing package-ই থাকবে, মানে ২০ Mbps, ১২০০ টাকা। তবে transfer complete হওয়ার পর নতুন মালিক চাইলে যেকোনো package-এ upgrade বা downgrade করতে পারবেন, সম্পূর্ণ তার decision।
+
+**১২. কাস্টমারঃ** বুঝেছি। আচ্ছা, transfer-এ কোনো downtime হবে? মানে internet কি কিছু সময় বন্ধ থাকবে?
+
+**১৩. এজেন্টঃ** sir, transfer process-এ কোনো downtime হবে না। শুধু administrative change হবে — account-এর নাম, NID, contact number নতুন মালিকের তথ্যে update হবে। Connection physically same থাকবে, same cable, same router, same speed — কোনো কিছু বন্ধ বা restart করার দরকার নেই।
+
+**১৪. কাস্টমারঃ** চমৎকার! আচ্ছা, আমার current month-এর bill? ২০ তারিখে transfer হলে আমি কি পুরো মাসের bill দেব?
+
+**১৫. এজেন্টঃ** sir, না, আপনার bill prorated হবে। ১ তারিখ থেকে ২০ তারিখ পর্যন্ত আপনার bill, ২০ তারিখ থেকে মাস শেষ পর্যন্ত নতুন মালিকের bill। তাই পুরো মাসের bill দিতে হবে না।
+
+**১৬. কাস্টমারঃ** fair enough। আচ্ছা ভাই, router আর ONU device কি আমার নাকি Link3-এর? নতুন মালিকের কাছে রেখে যেতে হবে?
+
+**১৭. এজেন্টঃ** sir, সাধারণত ONU device Link3-এর property, connection cancel করলে ফেরত দিতে হয়। কিন্তু ownership transfer-এ cancel হচ্ছে না, connection চলছে, তাই ONU সেখানেই থাকবে, নতুন মালিক use করবেন। Router যদি আপনি নিজে কিনে থাকেন তাহলে সেটা আপনার, নিয়ে যেতে পারেন। তবে বেশিরভাগ customer router-ও রেখে যান নতুন মালিকের জন্য।
+
+**১৮. কাস্টমারঃ** router-ও রেখে যাব, নতুন জায়গায় নতুন connection নেব। ঠিক আছে, ২০ তারিখে documents submit করব।
+
+**১৯. এজেন্টঃ** sir, perfect। আমি আপনার account-এ note রাখছি যে ২০ তারিখে ownership transfer হবে। Documents submit করতে পারবেন আমাদের nearest customer care center-এ, অথবা email-এও পাঠাতে পারবেন। Email address হলো support@link3.net।
+
+**২০. কাস্টমারঃ** email-এ পাঠাব, সুবিধা হবে। ধন্যবাদ ভাই, সব clear।
+
+**২১. এজেন্টঃ** sir, ধন্যবাদ। Transfer process smooth হবে, কোনো চিন্তা নেই। আপনার নতুন জায়গায় Link3 connection নিতে চাইলে আমাদের জানাবেন। শুভকামনা, ভালো থাকবেন।
+
+---
+
+## সিনারিও ২৬ঃ বৃষ্টি হলেই internet slow হয়ে যায়, junction box-এ পানি ঢুকেছে
+
+> একজন কাস্টমার notice করেছেন প্রতিবার বৃষ্টি হলে তার internet speed কমে যায় আর connection unstable হয়ে যায়। শুকনো আবহাওয়ায় সব ঠিক থাকে। মনে হচ্ছে outdoor cable junction-এ পানি ঢুকে সমস্যা করছে।
+
+**১. এজেন্টঃ** Link3 customer care, আমি শামীম। কিভাবে সাহায্য করতে পারি, mam?
+
+**২. কাস্টমারঃ** ভাই, আমার internet-এ একটা pattern দেখেছি — যখনই বৃষ্টি হয়, internet slow হয়ে যায় আর connection বারবার drop করে। বৃষ্টি থামলে আবার ঠিক হয়ে যায়। এটা কেন?
+
+**৩. এজেন্টঃ** mam, এটা বেশ common সমস্যা এবং সাধারণত outdoor cable infrastructure-তে moisture বা water ingress-এর কারণে হয়। আমি investigate করি। Phone number বলুন please।
+
+**৪. কাস্টমারঃ** ০১৬৫৫৪৪৩৩০০। নাম রুমানা পারভীন। গত ২ মাস ধরে এই সমস্যা, এর আগে কখনো হয়নি। আজকেও বৃষ্টি হচ্ছে আর internet slow।
+
+**৫. এজেন্টঃ** ধন্যবাদ mam, account পেয়েছি — রুমানা পারভীন, রায়েরবাজার। ২০ Mbps package। mam, আপনি ঠিকই ধরেছেন — বৃষ্টিতে slow হওয়া মানে fiber cable-এর কোনো junction point-এ বা splice closure-এ পানি ঢুকছে। Fiber optic cable নিজে পানিতে সমস্যা করে না, কিন্তু যেখানে দুইটা cable জোড়া দেওয়া হয়, সেই joint-এ পানি ঢুকলে light signal-এ attenuation হয়, মানে signal দুর্বল হয়ে যায়।
+
+**৬. কাস্টমারঃ** বুঝেছি। এটা কি আমার বাসার ভিতরে সমস্যা নাকি বাইরে?
+
+**৭. এজেন্টঃ** mam, আপনার বাসার ভিতরে cable যদি dry থাকে আর শুকনো আবহাওয়ায় কোনো সমস্যা না থাকে, তাহলে সমস্যাটা বাইরে — building-এর junction box-এ, বা রাস্তায় pole-এর cable splice point-এ। এগুলো আমাদের infrastructure, আমাদের responsibility ঠিক করা।
+
+**৮. কাস্টমারঃ** তাহলে কি technician পাঠাতে হবে? বৃষ্টিতে কি technician আসবে?
+
+**৯. এজেন্টঃ** mam, হ্যাঁ, technician পাঠাতে হবে। তবে এই ধরনের সমস্যা diagnose করার জন্য বৃষ্টির সময়ই আসতে হবে, কারণ শুকনো আবহাওয়ায় সব normal দেখায়। আমি technician-কে special instruction দিচ্ছি যে বৃষ্টির সময় visit করে junction box আর splice point check করতে হবে।
+
+**১০. কাস্টমারঃ** ভালো point। আচ্ছা, এই ধরনের সমস্যা ঠিক করতে কি অনেক সময় লাগে?
+
+**১১. এজেন্টঃ** mam, সমস্যা identify হলে ঠিক করা সাধারণত ১-২ ঘণ্টার কাজ। Junction box-এ পানি ঢুকে থাকলে box seal করতে হবে বা replace করতে হবে। Splice point-এ সমস্যা হলে re-splice করে waterproof closure দিয়ে seal করতে হবে। একবার properly seal হলে আর বৃষ্টিতে সমস্যা হবে না।
+
+**১২. কাস্টমারঃ** ১-২ ঘণ্টা, সেটা ঠিক আছে। কিন্তু ভাই, গত ২ মাস ধরে এই সমস্যা চলছে, কেন আগে হতো না?
+
+**১৩. এজেন্টঃ** mam, সম্ভবত ২ মাস আগে কোনো maintenance কাজ হয়েছিল — cable repair, নতুন connection installation, বা কোনো infrastructure work। সেই সময় junction box বা splice point properly seal করা হয়নি। বর্ষাকাল শুরু হওয়ার পর বৃষ্টির পানি ঢুকে সমস্যা শুরু হয়েছে।
+
+**১৪. কাস্টমারঃ** হুম, সেটা হতে পারে। পাশের flat-এ ১-২ মাস আগে নতুন connection হয়েছিল, হয়তো সেই সময় box খোলা হয়েছিল।
+
+**১৫. এজেন্টঃ** mam, সম্ভবত তাই। আমি technician-কে building-এর junction box priority দিয়ে check করতে বলব। Ticket number হলো LNK-WTR-২০২৫-৫৫৬৬। Technician বৃষ্টির দিনে visit করবে।
+
+**১৬. কাস্টমারঃ** বৃষ্টির দিনে আসবে ঠিক আছে, কিন্তু কোন দিন? আজকে তো বৃষ্টি হচ্ছে, আজকেই আসতে পারে?
+
+**১৭. এজেন্টঃ** mam, আমি চেষ্টা করব আজকেই পাঠাতে। আমি এখনই area coordinator-কে contact করছি। তবে আজকে না পারলে পরবর্তী বৃষ্টির দিনে অবশ্যই আসবে। এখন বর্ষাকাল, কাল পরশুও বৃষ্টি হবে।
+
+**১৮. কাস্টমারঃ** চেষ্টা করুন আজকেই। আচ্ছা, ঠিক করার আগ পর্যন্ত বৃষ্টিতে internet slow থাকবেই তো? কোনো temporary fix আছে?
+
+**১৯. এজেন্টঃ** mam, বৃষ্টিতে speed কমলে router restart দিলে কিছু ক্ষেত্রে temporary improvement পাবেন, কারণ ONU নতুন করে signal lock করবে। কিন্তু permanent fix junction box seal করা ছাড়া সম্ভব না। আশা করি ১-২ দিনের মধ্যে এটা ঠিক হয়ে যাবে।
+
+**২০. কাস্টমারঃ** ঠিক আছে, router restart try করব। ধন্যবাদ ভাই, বিস্তারিত বোঝানোর জন্য। কারণটা অন্তত জানলাম।
+
+**২১. এজেন্টঃ** mam, ধন্যবাদ আপনাকেও। Technician visit-এর আগে call করবে। বৃষ্টি-related internet সমস্যা permanently solve হয়ে যাবে ইনশাআল্লাহ। কোনো প্রশ্নে call করবেন। শুভ দিন।
+
+---
+
+## সিনারিও ২৭ঃ University student, কম দামে internet package খুঁজছে
+
+> একজন university student নিজের mess-এ internet connection নিতে চায়। Budget tight, তাই কম দামে ভালো internet package চায়। Student discount বা special offer আছে কিনা জানতে চায়। ৪ জন roommate মিলে share করবে।
+
+**১. এজেন্টঃ** Link3 customer care, শুভ সকাল। আমি রাহাত, কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** ভাই, আমি BUET-এর student। আমাদের mess-এ internet connection নিতে চাই। কিন্তু budget কম, আমরা ৪ জন roommate মিলে share করব। আপনাদের কি কোনো student discount আছে?
+
+**৩. এজেন্টঃ** sir, student-দের জন্য internet plan খুঁজছেন, ভালো। আমি আপনাকে best option বলছি। আগে জানতে চাই — আপনাদের mess-এর address কোথায়? Area coverage check করতে হবে।
+
+**৪. কাস্টমারঃ** পল্লবী, মিরপুর। BUET থেকে কাছেই। আমরা ৪ জন পড়াশোনা করি, assignment, research paper, online class, আর মাঝে মাঝে gaming করি। ১ জনের budget মাসে ৩০০-৪০০ টাকা, মানে ৪ জন মিলে ১২০০-১৬০০ টাকা দিতে পারব।
+
+**৫. এজেন্টঃ** sir, পল্লবী, মিরপুর — হ্যাঁ, আমাদের coverage আছে। ৪ জন মিলে ১২০০-১৬০০ টাকা budget, সেটা ভালো। আমি আপনাদের জন্য perfect package suggest করি — ২০ Mbps unlimited, মাসে ১২০০ টাকা। জনপ্রতি ৩০০ টাকা, আপনাদের budget-এর মধ্যে। ৪ জন একসাথে use করলেও online class, browsing, research সব smooth-এ চলবে।
+
+**৬. কাস্টমারঃ** ২০ Mbps-এ ৪ জন? যথেষ্ট হবে? আমরা সবাই simultaneously use করি, কেউ Zoom-এ, কেউ YouTube-এ, কেউ download করছে।
+
+**৭. এজেন্টঃ** sir, ২০ Mbps-এ ৪ জন চলবে, তবে একসাথে heavy use করলে, যেমন ৪ জন একসাথে Zoom আর YouTube চালালে, কিছুটা lag হতে পারে। আপনারা যদি জনপ্রতি ৫০ টাকা বাড়াতে পারেন, তাহলে ৩০ Mbps package নিতে পারেন — ১৫০০ টাকা, জনপ্রতি ৩৭৫ টাকা। ৩০ Mbps-এ ৪ জন comfortably use করতে পারবেন কোনো lag ছাড়া।
+
+**৮. কাস্টমারঃ** ৩৭৫ টাকা, সেটাও affordable। ঠিক আছে ৩০ Mbps-ই নিই। আচ্ছা, student discount নেই?
+
+**৯. এজেন্টঃ** sir, officially separate student discount package নেই আমাদের। তবে আমি আপনাকে একটা offer দিতে পারি — নতুন connection-এ প্রথম ৩ মাস ১০% discount দেওয়া হয়, তাহলে ৩ মাস ১৩৫০ টাকা, তারপর ১৫০০ টাকা। আর installation charge normally ২০০০ টাকা, কিন্তু প্রমোশনে এখন ১০০০ টাকা।
+
+**১০. কাস্টমারঃ** ৩ মাস ১০% discount? ঠিক আছে, কিছু তো বাঁচবে। Installation charge ১০০০ টাকা — সেটা ৪ জন মিলে ২৫০ করে। আচ্ছা ভাই, আমাদের mess ভাড়া, মানে আমরা ১-২ বছর থাকব, তারপর হয়তো shift করব। কোনো contract lock-in আছে?
+
+**১১. এজেন্টঃ** sir, আমাদের residential package-এ কোনো long-term contract নেই। আপনি যেকোনো সময় cancel করতে পারবেন, কোনো early termination fee নেই। Shift করলে নতুন address-এ connection shift-ও করতে পারবেন, যেটা নতুন connection নেওয়ার চেয়ে সহজ।
+
+**১২. কাস্টমারঃ** ভালো, flexibility আছে। আচ্ছা, connection নিতে কি documents লাগবে? আমি student, NID আছে তবে।
+
+**১৩. এজেন্টঃ** sir, NID copy আর mess-এর utility bill-এর copy লাগবে, যেটায় address verify হয়। যদি utility bill আপনার নামে না থাকে, তাহলে mess-এর landlord-এর NOC বা rent agreement-এর copy দিলেও হবে। Student ID-ও দিতে পারেন additional verification হিসেবে।
+
+**১৪. কাস্টমারঃ** landlord-এর কাছ থেকে NOC নিয়ে নেব। আচ্ছা, connection দিতে কতদিন লাগবে?
+
+**১৫. এজেন্টঃ** sir, documents submit করার পর সাধারণত ৩-৫ working days-এর মধ্যে installation হয়ে যায়। আপনার area-তে infrastructure আছে, তাই বেশি সময় লাগবে না। Installation-এর দিন technician এসে fiber cable টানবে, ONU আর router setup করে দেবে, আর WiFi configure করে দেবে।
+
+**১৬. কাস্টমারঃ** ৩-৫ দিন, ঠিক আছে। আচ্ছা, WiFi-এর password আমি নিজে set করতে পারব তো? আমরা ৪ জনই জানব, বাইরের কেউ যেন connect না করে।
+
+**১৭. এজেন্টঃ** sir, অবশ্যই। Installation-এর সময় technician আপনার পছন্দমতো WiFi name আর password set করবে। পরেও যেকোনো সময় নিজে change করতে পারবেন router-এর admin panel থেকে। আর বাইরের কেউ যেন না পায়, সেজন্য strong password দেবেন।
+
+**১৮. কাস্টমারঃ** sure। আচ্ছা ভাই, আমি তাহলে আগামীকালই documents নিয়ে আসব। কোথায় submit করব?
+
+**১৯. এজেন্টঃ** sir, আমাদের মিরপুর branch office-এ আসতে পারবেন, address হলো মিরপুর ১০ নম্বর গোলচত্বরের কাছে। অথবা online-এও apply করতে পারেন — আমাদের website link3.net-এ গিয়ে "New Connection" button-এ click করুন, সেখানে form fill up করে documents upload করুন। আমি আপনার phone-এ website link SMS করে দিচ্ছি।
+
+**২০. কাস্টমারঃ** online-এ করাই সুবিধা হবে, branch-এ যেতে হবে না। ধন্যবাদ ভাই, সব clear। বন্ধুদের বলে দিই, টাকা collect করি!
+
+**২১. এজেন্টঃ** sir, অবশ্যই! ৪ জন মিলে ৩০ Mbps-এ মাসে মাত্র ৩৭৫ টাকা করে, দারুণ deal। Study-র জন্য fast internet দরকার, আপনারা সঠিক decision নিচ্ছেন। কোনো প্রশ্নে call করবেন। শুভকামনা, ভালো থাকবেন।
+
+---
+
+## সিনারিও ২৮ঃ Office connection নিতে চায়, ৩ তলায় ১৫ জন employee, dedicated bandwidth দরকার
+
+> একটা ছোট IT company-র owner office-তে internet connection নিতে চান। ৩ তলা building-এ ১৫ জন employee কাজ করেন। Client-দের সাথে video call, cloud server access, আর large file transfer করতে হয়। Dedicated bandwidth আর SLA guarantee চান।
+
+**১. এজেন্টঃ** Link3 corporate sales, শুভ সকাল। আমি আমিনুল, কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** ভাই, আমি একটা IT company চালাই, "TechVista Solutions"। আমাদের office-তে corporate internet connection দরকার। ১৫ জন employee, ৩ তলা building। Residential connection চলবে না, dedicated bandwidth দরকার।
+
+**৩. এজেন্টঃ** sir, ঠিকই বলেছেন। Corporate use-এর জন্য dedicated connection-ই সঠিক choice। আমি আপনার requirement বুঝে best solution suggest করব। আপনার office-র address কোথায়?
+
+**৪. কাস্টমারঃ** বনানী road ১১। আমাদের কাজ হলো software development, client-দের সাথে daily Zoom meeting হয়, GitHub-এ code push করতে হয়, AWS server-এ deploy করতে হয়। মাঝে মাঝে ৫-১০ GB file transfer করতে হয়। Internet down হলে পুরো office বসে থাকে।
+
+**৫. এজেন্টঃ** sir, বনানী road ১১ — আমাদের fiber infrastructure আছে। আপনার requirement শুনে বলতে পারি, আপনাদের জন্য dedicated internet connection সবচেয়ে suitable হবে। Dedicated মানে আপনার bandwidth শুধু আপনারই, কারো সাথে share হবে না। Residential connection-এ bandwidth shared থাকে, তাই peak hour-এ speed কমে, কিন্তু dedicated-এ ২৪/৭ guaranteed speed পাবেন।
+
+**৬. কাস্টমারঃ** হ্যাঁ, dedicated-ই চাই। কত Mbps হলে আমাদের জন্য যথেষ্ট হবে?
+
+**৭. এজেন্টঃ** sir, ১৫ জন employee, সবাই actively internet use করছে, Zoom call, cloud access, GitHub push — এই ধরনের workload-এর জন্য আমি recommend করব minimum ৫০ Mbps dedicated। তবে ৫-১০ GB file transfer regularly করলে ১০০ Mbps dedicated নিলে আরো comfortable হবেন। Bandwidth calculator অনুযায়ী — ১ জন Zoom HD call-এ ৩-৫ Mbps লাগে, ১৫ জন সবাই simultaneously call-এ থাকলে ৪৫-৭৫ Mbps দরকার।
+
+**৮. কাস্টমারঃ** ১০০ Mbps dedicated-এর monthly charge কত?
+
+**৯. এজেন্টঃ** sir, ১০০ Mbps dedicated bandwidth-এর corporate package monthly ১৫,০০০ টাকা। এতে include আছে — guaranteed ১০০ Mbps symmetric speed মানে upload আর download দুইটাই ১০০ Mbps, ৯৯.৫% uptime SLA guarantee, ২৪/৭ priority technical support, আর ৪ ঘণ্টার মধ্যে on-site support guarantee।
+
+**১০. কাস্টমারঃ** ১৫,০০০ টাকা? সেটা তো residential-এর তুলনায় অনেক বেশি। কিন্তু symmetric speed আর SLA guarantee important আমাদের জন্য। ৫০ Mbps dedicated-এ কত?
+
+**১১. এজেন্টঃ** sir, ৫০ Mbps dedicated-এ monthly ১০,০০০ টাকা। Same SLA guarantee, same priority support। তবে sir, আপনার IT company-তে upload speed-ও critical — code push, file upload, server deployment সবকিছুতে upload লাগে। ১০০ Mbps-এ upload speed দ্বিগুণ পাবেন, ৫ জন simultaneously large file upload করলেও কোনো bottleneck হবে না।
+
+**১২. কাস্টমারঃ** হুম, point valid। ১০০ Mbps-ই নিব তাহলে। আচ্ছা, SLA guarantee মানে কি? Uptime ৯৯.৫% না হলে কি হবে?
+
+**১৩. এজেন্টঃ** sir, SLA মানে Service Level Agreement। আমরা guarantee করছি আপনার connection ৯৯.৫% time চালু থাকবে। যদি কোনো মাসে uptime ৯৯.৫%-এর নিচে যায়, তাহলে সেই মাসের bill-এ automatic credit adjustment হবে — downtime-এর proportion অনুযায়ী bill কমে যাবে। আর ৪ ঘণ্টা on-site support guarantee মানে কোনো সমস্যায় ৪ ঘণ্টার মধ্যে technician আপনার office-এ পৌঁছাবে।
+
+**১৪. কাস্টমারঃ** চমৎকার! ঠিক আছে, আচ্ছা, আমাদের ৩ তলা building, প্রতি তলায় ৫ জন employee। নেটওয়ার্ক setup কি আপনারা করবেন?
+
+**১৫. এজেন্টঃ** sir, basic network setup আমরা করব — fiber cable entry, ONU installation, আর main router setup। তবে ৩ তলায় internal networking, মানে প্রতি তলায় switch, access point, LAN cabling — এগুলো আপনাদের করতে হবে, অথবা আমাদের professional installation team দিয়ে করাতে পারবেন additional charge-এ। আমি recommend করব প্রতি তলায় একটা enterprise-grade access point রাখতে, তাহলে সব জায়গায় strong WiFi পাবেন।
+
+**১৬. কাস্টমারঃ** internal networking আমাদের IT team করে নেবে, শুধু internet connection আর main router setup করে দিন। Installation কবে হতে পারবে?
+
+**১৭. এজেন্টঃ** sir, corporate connection-এ survey আগে করতে হয়। আমাদের engineering team আপনার office visit করবে, fiber route plan করবে, আর network requirement assess করবে। Survey-এর পর ৫-৭ working days-এ installation হয়ে যাবে। আমি আগামীকালই survey schedule করতে পারি।
+
+**১৮. কাস্টমারঃ** আগামীকাল survey করুন, দ্রুত installation চাই। আমরা এখন shared residential connection-এ চালাচ্ছি, সেটা ভালো কাজ করছে না।
+
+**১৯. এজেন্টঃ** sir, আগামীকাল সকাল ১০টায় survey team আসবে। আপনার office-এর contact person-এর নাম আর number দিন please, যেন তার সাথে coordinate করতে পারে।
+
+**২০. কাস্টমারঃ** আমাদের admin manager রিফাত, তার number ০১XXXXXXXXX। তাকে বলে রাখব।
+
+**২১. এজেন্টঃ** sir, perfect। Survey reference number হলো LNK-CORP-২০২৫-০০৮৯। আগামীকাল সকাল ১০টায় survey, তারপর ৫-৭ দিনে installation। ১০০ Mbps dedicated corporate connection-এ TechVista Solutions-এর productivity অনেক বাড়বে। কোনো প্রশ্নে call করবেন। ধন্যবাদ sir, শুভকামনা।
+
+---
+
+## সিনারিও ২৯ঃ গরমে router overheating হচ্ছে, random reboot হচ্ছে
+
+> একজন কাস্টমারের router গরমের সময় overheating-এর কারণে ৩০-৪০ মিনিট পর পর নিজে থেকে reboot হচ্ছে। Reboot হলে ৩-৪ মিনিট internet থাকে না। কাস্টমার ঘরে AC নেই, fan-এর বাতাসেই থাকেন।
+
+**১. এজেন্টঃ** Link3 customer care, আমি জুবায়ের। কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** ভাই, আমার router একটু পর পর নিজে থেকে restart হয়ে যাচ্ছে! ৩০-৪০ মিনিট চলে, তারপর সব light বন্ধ হয়ে আবার একটা একটা করে জ্বলে। Internet ৩-৪ মিনিট থাকে না। এটা দিনে ১৫-২০ বার হচ্ছে!
+
+**৩. এজেন্টঃ** sir, router নিজে থেকে restart হচ্ছে, সেটা তো গুরুতর সমস্যা। এটা কি সব সময় হচ্ছে নাকি নির্দিষ্ট সময়ে বেশি হচ্ছে? Phone number বলুন, account check করি।
+
+**৪. কাস্টমারঃ** ০১৫৩৩৭৭৮৮৯৯। দুপুর ১২টার পর থেকে শুরু হয়, বিকেলে সবচেয়ে বেশি হয়, রাতে কিছুটা কমে। সকালে মোটামুটি ঠিক থাকে।
+
+**৫. এজেন্টঃ** ধন্যবাদ sir, account পেয়েছি — নাম রাজিব হাসান, কল্যাণপুর। sir, আপনি বললেন দুপুরের পর বেশি হয়, সকালে ঠিক থাকে — এটা overheating-এর classic লক্ষণ। গরমের সময় room-এর temperature বাড়ে, router-এর processor আর chipset overheat হয়ে যায়, তখন safety feature হিসেবে router নিজে reboot করে temperature কমানোর জন্য।
+
+**৬. কাস্টমারঃ** overheating? কিন্তু ভাই, আমার ঘরে AC নেই, fan আছে। Router-তো সব সময় এই ঘরেই ছিল, আগে তো এরকম হতো না!
+
+**৭. এজেন্টঃ** sir, এবার গরম আগের বছরের চেয়ে বেশি, room temperature ৩৫-৪০ ডিগ্রি হচ্ছে। আর router যত পুরনো হয়, thermal paste আর internal cooling কম effective হয়। আপনার router কতদিন হলো ব্যবহার করছেন?
+
+**৮. কাস্টমারঃ** প্রায় ৩ বছর হবে। ঠিক আছে, overheating হলে কি করব? Router কি বদলাতে হবে?
+
+**৯. এজেন্টঃ** sir, router বদলানোর আগে কিছু সহজ সমাধান try করা যায়। প্রথমত, router-এর চারপাশে খোলা রাখুন — অনেকে router বইয়ের তাকে বা বদ্ধ জায়গায় রাখেন, সেটা করবেন না। Router-এর ventilation hole খোলা থাকতে হবে। দ্বিতীয়ত, router-এর নিচে একটা ছোট stand বা কোনো কিছু দিয়ে একটু উঁচু করে রাখুন যেন নিচ দিয়ে বাতাস চলাচল করতে পারে।
+
+**১০. কাস্টমারঃ** router এখন shelf-এর মধ্যে রাখা, তিন দিক বন্ধ। সেটাই কি সমস্যা?
+
+**১১. এজেন্টঃ** sir, হ্যাঁ! সেটাই মূল কারণ হতে পারে! Shelf-এর মধ্যে তিন দিক বন্ধ মানে router-এর heat বের হতে পারছে না, গরম বাতাস জমে router আরো গরম হচ্ছে। Router-টা shelf থেকে বের করে একটা খোলা জায়গায় রাখুন, যেখানে fan-এর বাতাস লাগে।
+
+**১২. কাস্টমারঃ** এখনই বের করছি... shelf থেকে বের করে টেবিলের উপর রাখলাম, fan-এর সামনে। কিন্তু এতেই কি সমস্যা ঠিক হবে?
+
+**১৩. এজেন্টঃ** sir, অনেক ক্ষেত্রেই এতেই ঠিক হয়ে যায়। আর একটা extra tip — আপনি ছোট USB fan কিনতে পারেন, ১০০-২০০ টাকায় পাওয়া যায়, সেটা router-এর পাশে রেখে দিলে continuously cool রাখবে। অনেক tech enthusiast এটা করেন।
+
+**১৪. কাস্টমারঃ** USB fan? সেটা কোথায় পাব?
+
+**১৫. এজেন্টঃ** sir, যেকোনো computer accessories shop-এ বা Daraz-এ পাবেন। "USB mini fan" বা "laptop cooling fan" search দিন। Phone charger-এর USB port-এও চালাতে পারবেন। আর একটা কাজ করুন — router-এর উপরে কিছু রাখবেন না, কোনো কাপড় বা কাগজ। অনেকে ধুলা থেকে বাঁচাতে কাপড় দিয়ে ঢেকে রাখেন, সেটা overheating আরো বাড়ায়।
+
+**১৬. কাস্টমারঃ** ও, আমার মা router-এর উপর একটা রুমাল দিয়ে রাখে ধুলার জন্য! সেটাও সমস্যা?
+
+**১৭. এজেন্টঃ** sir, জ্বী, সেটা অবশ্যই সমস্যা! Router-এর উপরের দিকে ventilation holes থাকে, সেগুলো দিয়ে গরম বাতাস বের হয়। কাপড় দিলে সেটা blocked হয়ে যায়। রুমাল সরিয়ে দিন, ধুলা পরিষ্কার করতে মাঝে মাঝে dry cloth দিয়ে মুছে দিন, কিন্তু ঢেকে রাখবেন না।
+
+**১৮. কাস্টমারঃ** বুঝেছি, মাকে বলব। আচ্ছা ভাই, এসব করার পরেও যদি restart হতে থাকে, তাহলে?
+
+**১৯. এজেন্টঃ** sir, যদি এসব করার পরেও ২-৩ দিনে improvement না হয়, তাহলে router-এর hardware-এই সমস্যা হতে পারে — ৩ বছরের ব্যবহারে internal components degrade হয়। সেক্ষেত্রে router replace করতে হবে। তখন আমাদের call করবেন, আমরা technician পাঠাব diagnose করতে।
+
+**২০. কাস্টমারঃ** ঠিক আছে। আপাতত খোলা জায়গায় রাখলাম, রুমাল সরালাম, fan-এর সামনে দিলাম। দেখি improvement হয় কিনা।
+
+**২১. এজেন্টঃ** sir, ইনশাআল্লাহ improvement হবে। Shelf থেকে বের করা আর রুমাল সরানো — এই দুইটা change-ই বড় difference আনবে। ২-৩ দিন observe করুন, improvement না হলে call করবেন। ধন্যবাদ sir, শুভ দুপুর।
+
+---
+
+## সিনারিও ৩০ঃ রাতে রাস্তা খোঁড়াখুঁড়িতে পুরো এলাকার fiber cable কেটে গেছে
+
+> রাতে WASA-এর পানির pipeline repair-এর জন্য রাস্তা খোঁড়াখুঁড়ি হয়েছে এবং underground fiber cable কেটে গেছে। পুরো এলাকায় Link3-এর internet বন্ধ। সকালে customer-রা একের পর এক call করছে। একজন customer-এর urgent office presentation আছে।
+
+**১. এজেন্টঃ** Link3 customer care, আমি সাবরিনা। শুভ সকাল, কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** আপু, আমার internet সকাল থেকে নেই! আমার আজকে office-এ একটা important presentation আছে ১০টায়, আর ৯টা বেজে গেছে! আমাকে file download করতে হবে, Zoom-এ join করতে হবে! কি হয়েছে?
+
+**৩. এজেন্টঃ** sir, আমি বুঝতে পারছি এটা আপনার জন্য খুবই urgent। আমি এখনই check করছি। Phone number বলুন please।
+
+**৪. কাস্টমারঃ** ০১৯৩৩৫৫৬৬৭৭। নাম তৌহিদ আলম, মগবাজার। আমার neighbor-দেরও internet নেই, মনে হচ্ছে area-wide সমস্যা।
+
+**৫. এজেন্টঃ** ধন্যবাদ sir, account পেয়েছি। sir, আপনি ঠিকই ধরেছেন — এটা area-wide outage। আমি আমাদের network operations-এর alert দেখছি... sir, গত রাতে মগবাজার এলাকায় WASA-এর pipeline repair-এর জন্য রাস্তা খনন করা হয়েছিল এবং সেই সময় আমাদের underground fiber optic cable কেটে গেছে। এই কারণে পুরো মগবাজার এলাকায় Link3 internet বন্ধ।
+
+**৬. কাস্টমারঃ** WASA রাস্তা খুঁড়ে cable কেটেছে! তাহলে তো আপনাদের দোষ না, কিন্তু আমার তো internet এখনই দরকার! কখন ঠিক হবে?
+
+**৭. এজেন্টঃ** sir, আমাদের emergency repair team সকাল থেকেই spot-এ আছে। Underground fiber cable repair একটু সময়সাপেক্ষ কাজ — cable splice করতে হয়, test করতে হয়। আমাদের estimate হলো আজকে দুপুর ২টার মধ্যে internet restore হবে।
+
+**৮. কাস্টমারঃ** দুপুর ২টা! কিন্তু আমার presentation ১০টায়! আর মাত্র ৪৫ মিনিট বাকি! আমি কি করব?
+
+**৯. এজেন্টঃ** sir, আমি জানি এটা আপনার জন্য critical। আপনার এখন immediate alternative দরকার। একটা suggestion দিই — আপনার mobile phone-এ data আছে? Phone-এর hotspot চালু করে laptop-এ connect করতে পারবেন, সেটা দিয়ে Zoom-এ join করতে পারবেন আর file download করতে পারবেন।
+
+**১০. কাস্টমারঃ** mobile data? হ্যাঁ আছে, কিন্তু ১ GB বাকি আছে মাত্র। Zoom call-এ তো ঘণ্টাখানেকে ৫০০ MB-১ GB যায়, file download করলে আরো লাগবে। Data শেষ হয়ে যাবে!
+
+**১১. এজেন্টঃ** sir, তাহলে দুইটা কাজ করুন। এক, file download টা আগে করে নিন mobile data দিয়ে, যেটার size ছোট সেটা hotspot-এ download করুন। দুই, Zoom call-এ camera বন্ধ রাখুন, শুধু audio-তে join করুন, তাহলে data অনেক কম খরচ হবে — audio-only Zoom call-এ ঘণ্টায় মাত্র ৫০-৭০ MB লাগে। Presentation share করার সময়ই শুধু screen share চালু করবেন।
+
+**১২. কাস্টমারঃ** ভালো idea! Camera বন্ধ রাখলে data বাঁচবে। ঠিক আছে, hotspot চালু করছি। কিন্তু শুনেন, এই outage-র জন্য আমাদের কি কোনো compensation পাওয়ার কথা? পুরো area-র internet বন্ধ!
+
+**১৩. এজেন্টঃ** sir, অবশ্যই। এটা infrastructure damage-এর কারণে outage, তাই outage period-এর জন্য আপনার bill-এ automatic adjustment হবে। যত ঘণ্টা internet বন্ধ থাকবে, সেই সময়ের proportional amount bill থেকে কমে যাবে। আর এটা WASA-এর দায়িত্ব — আমরা তাদের কাছে damage claim করব।
+
+**১৪. কাস্টমারঃ** ঠিক আছে। আচ্ছা, cable repair হলে কি automatically internet চলে আসবে? আমাকে কি কিছু করতে হবে?
+
+**১৫. এজেন্টঃ** sir, cable repair হলে আপনাকে শুধু router restart দিতে হবে, তারপর ৫ মিনিটের মধ্যে internet ফিরে আসবে। Internet restore হলে আমরা SMS notification পাঠাব সব affected customer-কে।
+
+**১৬. কাস্টমারঃ** ঠিক আছে। আচ্ছা, এই ধরনের ঘটনা prevent করা যায় না? WASA প্রতিবার রাস্তা খুঁড়লে cable কাটে!
+
+**১৭. এজেন্টঃ** sir, আপনার frustration বুঝতে পারি। এটা Bangladesh-এ একটা common সমস্যা — different utility company-গুলো coordinate না করে রাস্তা খনন করে ফলে telecom cable damage হয়। আমরা আমাদের cable route WASA, DESCO সবার কাছে share করে রাখি, কিন্তু মাঝে মাঝে contractor-রা সেটা follow করে না। আমরা এই ঘটনায় WASA-এর কাছে formal complaint পাঠাচ্ছি।
+
+**১৮. কাস্টমারঃ** উচিত। ঠিক আছে আপু, আমি এখন hotspot চালু করে presentation-এর জন্য prepare করি। দুপুর ২টার মধ্যে internet আসবে বলছেন, ঠিক আছে?
+
+**১৯. এজেন্টঃ** sir, হ্যাঁ, আমাদের target দুপুর ২টা। তবে আমাদের repair team সকাল থেকেই কাজ করছে, তাই আরো আগেও হতে পারে। Update জানাব SMS-এ। Ticket number হলো LNK-OTG-২০২৫-৯৯০১।
+
+**২০. কাস্টমারঃ** ঠিক আছে। আচ্ছা, আমার area-র অন্য customer-রাও কি call করছে?
+
+**২১. এজেন্টঃ** sir, হ্যাঁ, সকাল থেকে মগবাজার এলাকার অনেক customer call করছেন। সবাইকে same update দিচ্ছি। আপনারা সবাই প্রভাবিত হয়েছেন এবং সবার bill adjustment হবে।
+
+**২২. কাস্টমারঃ** বুঝেছি। ঠিক আছে আপু, ধন্যবাদ বিস্তারিত জানানোর জন্য। আর hotspot tip-এর জন্যও ধন্যবাদ, সেটা কাজে লাগবে।
+
+**২৩. এজেন্টঃ** sir, আপনার presentation সফল হোক! Camera বন্ধ রাখতে ভুলবেন না data বাঁচাতে। Internet restore হলে SMS পাবেন। কোনো প্রশ্নে call করবেন। Link3-এর পক্ষ থেকে এই অসুবিধার জন্য আন্তরিকভাবে ক্ষমাপ্রার্থী। ধন্যবাদ sir।
+
+---
