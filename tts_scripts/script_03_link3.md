@@ -520,3 +520,311 @@
 **২৩. এজেন্টঃ** sir, অবশ্যই। আপনার refund ৫ working days-এর মধ্যে process হবে। এই অসুবিধার জন্য আমরা আন্তরিকভাবে ক্ষমাপ্রার্থী। কোনো প্রশ্ন থাকলে নির্দ্বিধায় call করবেন। ধন্যবাদ, শুভ বিকেল।
 
 ---
+
+## সিনারিও ১১ঃ Connection কেটে দেওয়া হয়েছে, কাস্টমার জানতেন না bill বাকি ছিল
+
+> একজন কাস্টমারের internet হঠাৎ বন্ধ হয়ে গেছে। খোঁজ নিয়ে জানতে পেরেছেন non-payment-এর কারণে connection suspend করা হয়েছে। কিন্তু কাস্টমার দাবি করছেন তিনি bill-এর কোনো notification পাননি।
+
+**১. এজেন্টঃ** Link3 customer care, আমি সৌরভ। কিভাবে সাহায্য করতে পারি, mam?
+
+**২. কাস্টমারঃ** ভাই, আমার internet বন্ধ হয়ে গেছে! কোনো warning ছাড়াই কেটে দিয়েছেন! আমি work from home করি, এখন কিছুই করতে পারছি না!
+
+**৩. এজেন্টঃ** mam, আমি বুঝতে পারছি এটা আপনার জন্য সমস্যা তৈরি করেছে। আমি এখনই দেখছি কেন connection বন্ধ হয়েছে। আপনার registered phone number বলুন please।
+
+**৪. কাস্টমারঃ** ০১৬৭৭৮৮৯৯০০। আমার নাম নুসরাত জাহান। গত ২ ঘণ্টা ধরে internet নেই, আমি ভেবেছিলাম technical সমস্যা, কিন্তু neighbor-দের internet চলছে।
+
+**৫. এজেন্টঃ** ধন্যবাদ mam, account check করছি... mam, আপনার account-এ দেখাচ্ছে যে June মাসের bill ১৫০০ টাকা unpaid আছে এবং due date ১৫ দিন আগে পার হয়ে গেছে। Non-payment-এর কারণে আজকে connection suspend করা হয়েছে।
+
+**৬. কাস্টমারঃ** কি! June-এর bill unpaid? কিন্তু আমি তো কোনো bill-এর notification পাইনি! আগে SMS আসতো due date-এর আগে, এবার কিছুই আসেনি!
+
+**৭. এজেন্টঃ** mam, আমি check করছি... আপনার account-এ registered number ০১৬৭৭৮৮৯৯০০, এই number-এ June-এর billing SMS পাঠানো হয়েছিল ২০ জুন তারিখে। আপনি কি হয়তো miss করে থাকতে পারেন? মাঝে মাঝে SMS spam folder-এ চলে যায়।
+
+**৮. কাস্টমারঃ** আমি check করেছি, কোনো SMS নেই। আমার phone change হয়েছে recently, হয়তো সেই কারণে কোনো filtering হয়ে থাকতে পারে। কিন্তু তাও, notification না পাওয়া আমার দোষ তো না, সরাসরি connection কেটে দেওয়াটা কি ঠিক?
+
+**৯. এজেন্টঃ** mam, আপনার কথা বুঝতে পারছি। আমরা সাধারণত due date-এর ৭ দিন পর একটা reminder আর ১৪ দিন পর final warning পাঠাই, তারপর suspend করি। তবে আপনি যদি সত্যিই কোনো notification না পেয়ে থাকেন, সেটা আমাদের delivery issue হতে পারে। আমি এটা note করে রাখছি।
+
+**১০. কাস্টমারঃ** ঠিক আছে, সেটা পরে দেখবেন। আমার এখন internet দরকার। Bill কিভাবে pay করব আর কতক্ষণে connection ফিরে আসবে?
+
+**১১. এজেন্টঃ** mam, আপনার outstanding bill ১৫০০ টাকা। আপনি bKash, Nagad, bank transfer, অথবা আমাদের website-এ online payment করতে পারেন। Payment confirm হওয়ার পর আমরা ৩০ মিনিট থেকে ১ ঘণ্টার মধ্যে connection re-activate করে দিই।
+
+**১২. কাস্টমারঃ** ঠিক আছে, আমি এখনই bKash-এ pay করছি। কিন্তু ৩০ মিনিট থেকে ১ ঘণ্টা? আমার এখনই দরকার, আমার একটা client call আছে ২০ মিনিট পর!
+
+**১৩. এজেন্টঃ** mam, আপনি payment করুন, payment confirmation-এর transaction ID টা আমাকে বলুন। আমি manually verify করে তাড়াতাড়ি re-activate করার চেষ্টা করব, automated process-এর জন্য wait না করে।
+
+**১৪. কাস্টমারঃ** ঠিক আছে, করছি... bKash-এ pay করলাম। Transaction ID হলো TXN7K2P5M8Q। ১৫০০ টাকা, এইমাত্র হয়েছে।
+
+**১৫. এজেন্টঃ** ধন্যবাদ mam, আমি transaction verify করছি... জ্বী, payment confirm হয়েছে। আমি এখনই আপনার connection re-activate করছি। ৫-১০ মিনিটের মধ্যে internet ফিরে আসবে। Router-এ power light green হলে বুঝবেন connection active হয়ে গেছে।
+
+**১৬. কাস্টমারঃ** ধন্যবাদ, সেটা তাড়াতাড়ি করুন। আচ্ছা, ভবিষ্যতে যেন এরকম আর না হয়, আমি bill-এর email notification পেতে পারি? SMS ছাড়াও?
+
+**১৭. এজেন্টঃ** mam, অবশ্যই! আমি আপনার account-এ email notification enable করে দিচ্ছি। আপনার email address বলুন, bill generate হলে SMS আর email দুইটাতেই notification যাবে। তাহলে কোনোটা miss হলেও আরেকটায় পাবেন।
+
+**১৮. কাস্টমারঃ** nusrat.jahan@gmail.com এটা দিয়ে দেন। আর বলুন তো, auto-pay setup করলে কি এই সমস্যা avoid করা যায়?
+
+**১৯. এজেন্টঃ** mam, হ্যাঁ, auto-pay হলো সবচেয়ে নিশ্চিন্ত উপায়। Due date-এ automatically bill deduct হয়ে যাবে, ভুলে যাওয়ার বা notification miss করার চিন্তা থাকবে না। bKash বা bank account থেকে auto-pay setup করতে পারবেন।
+
+**২০. কাস্টমারঃ** পরে setup করব। আচ্ছা, internet আসলো কিনা check করি... হ্যাঁ! Router-এর light green হয়ে গেছে! Internet ফিরে এসেছে!
+
+**২১. এজেন্টঃ** চমৎকার mam! আপনার connection re-activate হয়ে গেছে। Email notification-ও enable করে দিয়েছি। আর কোনো সমস্যা আছে?
+
+**২২. কাস্টমারঃ** না, এটুকুই। যদিও warning ছাড়া connection কেটে দেওয়াটা ভালো হয়নি, তবে আপনি দ্রুত solve করেছেন, ধন্যবাদ।
+
+**২৩. এজেন্টঃ** mam, আপনার feedback নোট করলাম। ভবিষ্যতে যেন notification delivery properly হয় সেটা আমরা দেখব। আপনার client call ভালো হোক। কোনো সমস্যায় যেকোনো সময় call করবেন। ধন্যবাদ, শুভ দিন।
+
+---
+
+## সিনারিও ১২ঃ নির্দিষ্ট কিছু website খুলছে না, বাকি internet চলছে
+
+> একজন কাস্টমারের internet চলছে, YouTube, Facebook সব কাজ করছে, কিন্তু কিছু specific website যেমন GitHub, Stack Overflow, আর কিছু international site load হচ্ছে না। কাস্টমার software developer।
+
+**১. এজেন্টঃ** Link3 customer care, শুভ রাত। আমি তানহা, কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** আপু, একটা অদ্ভুত সমস্যা হচ্ছে। আমার internet চলছে, Facebook, YouTube সব কাজ করছে, কিন্তু GitHub আর Stack Overflow open হচ্ছে না। আমি software developer, এই site গুলো ছাড়া কাজ করতে পারি না।
+
+**৩. এজেন্টঃ** sir, interesting সমস্যা। কিছু site চলছে আর কিছু চলছে না — এটা সাধারণত DNS related issue হতে পারে। আমি check করি। আপনার customer ID বা phone number বলুন।
+
+**৪. কাস্টমারঃ** ০১৫৪৪৩৩২২১১। আমি নিজেও suspect করছি DNS issue। Browser-এ "DNS_PROBE_FINISHED_NXDOMAIN" error দেখাচ্ছে GitHub open করতে গেলে।
+
+**৫. এজেন্টঃ** ধন্যবাদ sir, account পেয়েছি — নাম আশরাফুল আলম, মিরপুর DOHS। জ্বী sir, DNS_PROBE_FINISHED_NXDOMAIN error মানে আপনার DNS server ওই domain-এর IP address resolve করতে পারছে না।
+
+**৬. কাস্টমারঃ** হ্যাঁ, সেটা তো বুঝতে পারছি। কিন্তু কেন? গতকাল রাত পর্যন্ত সব ঠিক ছিল। আর শুধু আমার না, আমার colleague-ও Link3 use করে, তারও same সমস্যা হচ্ছে।
+
+**৭. এজেন্টঃ** sir, যেহেতু আপনার colleague-এরও same issue, তাহলে এটা আমাদের DNS server-এর সমস্যা হওয়ার সম্ভাবনা বেশি। আমি আমাদের network operations team-এর সাথে check করছি কোনো known DNS issue আছে কিনা। একটু hold-এ থাকুন please।
+
+**৮. কাস্টমারঃ** জ্বী, দেখুন। আমার এখন কাজ করা দরকার, GitHub access না থাকলে code push করতে পারছি না। Deadline আছে আজকে রাতে।
+
+**৯. এজেন্টঃ** sir, আমি confirm করতে পারছি — আমাদের DNS server-এ কিছুক্ষণ আগে একটা issue হয়েছে যার কারণে কিছু international domain resolve হচ্ছে না। আমাদের network team এখন এটা fix করছে। তবে আপনার জন্য একটা immediate workaround আছে যেটা এখনই কাজে লাগবে।
+
+**১০. কাস্টমারঃ** বলুন, কি workaround? আমার এখনই দরকার।
+
+**১১. এজেন্টঃ** sir, আপনি আপনার computer-এ DNS server manually change করে Google-এর public DNS বা Cloudflare DNS use করতে পারেন। আমি step by step বলছি — Windows use করলে, Settings-এ যান, তারপর Network & Internet, তারপর আপনার WiFi বা Ethernet connection-এর properties-এ যান। সেখানে DNS server assignment-এ Manual select করুন, Preferred DNS-এ দিন 8.8.8.8 আর Alternate DNS-এ দিন 8.8.4.4। এটা Google-এর DNS। Save করলেই GitHub, Stack Overflow সব কাজ করবে।
+
+**১২. কাস্টমারঃ** আমি জানি এটা কিভাবে করতে হয়, আমি developer তো। আচ্ছা, করছি... Network settings... DNS... Manual... 8.8.8.8... 8.8.4.4... Save... browser refresh করছি GitHub... হ্যাঁ! কাজ করছে! GitHub open হয়েছে!
+
+**১৩. এজেন্টঃ** চমৎকার sir! এখন আপনি কাজ চালিয়ে যেতে পারবেন। এটা temporary workaround, আমাদের DNS fix হয়ে গেলে আপনি চাইলে আবার automatic DNS-এ ফিরে যেতে পারেন, অথবা Google DNS permanently use করতে পারেন — অনেকেই সেটা prefer করেন।
+
+**১৪. কাস্টমারঃ** আমি permanent-ই রাখব মনে হয়। তবে প্রশ্ন হলো, আপনাদের DNS server-এ এত ঘন ঘন সমস্যা হয় নাকি? আমি প্রথমবার এই সমস্যা পেলাম।
+
+**১৫. এজেন্টঃ** sir, এটা খুবই rare ঘটনা। আমাদের DNS server সাধারণত stable থাকে, কিন্তু মাঝে মাঝে server update বা configuration change-এর সময় temporarily কিছু domain resolve-এ সমস্যা হতে পারে। আজকের issue সম্ভবত সেই কারণেই।
+
+**১৬. কাস্টমারঃ** বুঝেছি। আচ্ছা, DNS ছাড়া আরো কিছু optimize করা যায় কি? আমি মাঝে মাঝে international server-এ high latency পাই, ping ২০০-৩০০ms যায়। কোনো উপায় আছে কি?
+
+**১৭. এজেন্টঃ** sir, international server-এ ২০০-৩০০ms latency Bangladesh থেকে মোটামুটি normal, কারণ physical distance আর submarine cable routing-এর কারণে latency আসে। তবে কিছু কিছু কাজে latency কমানো যায় — যেমন Cloudflare DNS 1.1.1.1 use করলে DNS resolution time কমে। আর আপনি যদি SSH দিয়ে remote server-এ কাজ করেন, Mosh use করলে latency feel কম হবে।
+
+**১৮. কাস্টমারঃ** Mosh জানি, ভালো suggestion। ঠিক আছে, আচ্ছা আপনাদের DNS কখন fix হবে? আমার colleague-কেও জানাতে হবে।
+
+**১৯. এজেন্টঃ** sir, আমাদের network team বলছে ১-২ ঘণ্টার মধ্যে DNS server fully restore হওয়ার কথা। Fix হলে automated notification পাঠানো হবে। তবে আপনার আর colleague-এর Google DNS use করাই সবচেয়ে ভালো permanent solution।
+
+**২০. কাস্টমারঃ** ঠিক আছে, colleague-কে বলে দিচ্ছি। আর কি, এই issue-র জন্য কোনো ticket number দেবেন? পরে reference লাগতে পারে।
+
+**২১. এজেন্টঃ** জ্বী sir, ticket number হলো LNK-DNS-২০২৫-৮৯০১। এটা আমাদের network issue tracker-এও linked আছে, তাই status update automatically হবে।
+
+**২২. কাস্টমারঃ** ধন্যবাদ আপু। আপনি technically sound, ভালো লাগলো কথা বলে। এখন অন্তত কাজ করতে পারব।
+
+**২৩. এজেন্টঃ** sir, আপনার deadline ভালোভাবে meet হোক। কোনো সমস্যায় আমরা সব সময় আছি। Link3-এ কল করার জন্য ধন্যবাদ, শুভ রাত।
+
+---
+
+## সিনারিও ১৩ঃ Package downgrade করতে চায়, আর্থিক সমস্যার কারণে
+
+> একজন কাস্টমার ৪০ Mbps package use করেন কিন্তু সম্প্রতি চাকরি হারিয়েছেন। মাসে ১৮০০ টাকা bill afford করতে পারছেন না, তাই সবচেয়ে কম দামের package-এ downgrade করতে চান। কিন্তু connection পুরোপুরি বন্ধ করতে চান না।
+
+**১. এজেন্টঃ** Link3 customer care-এ স্বাগতম। আমি রাফি, কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** ভাই, আমি আমার package downgrade করতে চাই। এখন ৪০ Mbps-এ আছি, মাসে ১৮০০ টাকা যাচ্ছে। আমি সবচেয়ে কম দামের package-এ যেতে চাই।
+
+**৩. এজেন্টঃ** জ্বী sir, অবশ্যই। আমি আপনার account দেখে available options বলছি। আপনার registered phone number বলুন please।
+
+**৪. কাস্টমারঃ** ০১৭৩৩৪৪৫৫৬৬। আসলে ভাই, সত্যি কথা বলি — আমি recently চাকরি হারিয়েছি। নতুন চাকরি না পাওয়া পর্যন্ত expense কমাতে হবে। Internet বন্ধ করতে চাই না, কারণ job search-এর জন্য দরকার।
+
+**৫. এজেন্টঃ** sir, আমি বুঝতে পারছি আপনার situation। চিন্তা করবেন না, আমরা আপনার budget-এর মধ্যে একটা solution দেব। আপনার account দেখছি — নাম ইমরান হোসেন, মালিবাগ। আপনি ৪০ Mbps unlimited-এ আছেন, ঠিক আছে?
+
+**৬. কাস্টমারঃ** হ্যাঁ, ঠিক আছে। আগে office-এর কাজের জন্য high speed দরকার ছিল। এখন তো শুধু job portal browse আর email check করি, basic internet হলেই চলবে।
+
+**৭. এজেন্টঃ** sir, আমাদের সবচেয়ে কম দামের package হলো ১০ Mbps, মাসে ৮০০ টাকা। আপনার বর্তমান usage — job portal, email, আর basic browsing-এর জন্য ১০ Mbps যথেষ্ট হবে। Video call করলেও কোনো সমস্যা হবে না এই speed-এ।
+
+**৮. কাস্টমারঃ** ৮০০ টাকা, সেটা অনেক ভালো। ১৮০০ থেকে ৮০০ — মাসে ১০০০ টাকা বাঁচবে। এখনই downgrade করে দেন।
+
+**৯. এজেন্টঃ** sir, আমি করে দিচ্ছি। তবে আগে একটা কথা বলি — আমাদের এখন একটা special package আছে ১৫ Mbps, মাসে ১০০০ টাকা। ১০ Mbps থেকে মাত্র ২০০ টাকা বেশি কিন্তু speed ৫০% বেশি পাবেন। Interview-এর জন্য video call করলে ১৫ Mbps-এ experience আরো smooth হবে।
+
+**১০. কাস্টমারঃ** ২০০ টাকা বেশি... হ্যাঁ, interview-এ Zoom call-ও করতে হয়। ঠিক আছে, ১৫ Mbps-ই দেন তাহলে। কিন্তু যদি আরো কমাতে হয়, পরে ১০ Mbps-এ যেতে পারব তো?
+
+**১১. এজেন্টঃ** sir, অবশ্যই। যেকোনো সময় আবার downgrade বা upgrade করতে পারবেন, কোনো extra charge নেই। Downgrade-এও কোনো penalty নেই।
+
+**১২. কাস্টমারঃ** ভালো। আচ্ছা, downgrade-এ কি কোনো downtime হবে? মানে internet কি কিছুক্ষণ বন্ধ থাকবে?
+
+**১৩. এজেন্টঃ** sir, না, কোনো downtime হবে না। Upgrade-এর মতোই downgrade-ও remotely process হয়। ১-২ ঘণ্টার মধ্যে bandwidth change হয়ে যাবে। Router restart দিলে নতুন speed reflect করবে।
+
+**১৪. কাস্টমারঃ** চমৎকার। আচ্ছা, billing কবে থেকে নতুন rate-এ হবে?
+
+**১৫. এজেন্টঃ** sir, আজকে থেকেই নতুন rate কার্যকর হবে। এই মাসের bill prorated আসবে — যতদিন ৪০ Mbps ছিল ততদিনের পুরনো rate-এ, আর বাকি দিন নতুন ১০০০ টাকা rate-এ। পরের মাস থেকে flat ১০০০ টাকা।
+
+**১৬. কাস্টমারঃ** ঠিক আছে। আচ্ছা ভাই, আরেকটা কথা — আমি যদি ২-৩ মাস পর নতুন চাকরি পাই, তখন আবার ৪০ Mbps-এ upgrade করলে কি আবার নতুন করে installation charge দিতে হবে?
+
+**১৭. এজেন্টঃ** sir, না, কোনো installation charge লাগবে না। Package change — upgrade বা downgrade — সবই free, শুধু monthly rate change হয়। আপনি যেকোনো সময় যেকোনো package-এ switch করতে পারবেন phone call করে বা website থেকে।
+
+**১৮. কাস্টমারঃ** খুব ভালো। তাহলে downgrade process করে দেন। Summary বলুন।
+
+**১৯. এজেন্টঃ** sir, আপনার downgrade summary — বর্তমান package ৪০ Mbps, ১৮০০ টাকা। নতুন package ১৫ Mbps, ১০০০ টাকা। কার্যকর আজকে থেকে। মাসে ৮০০ টাকা save হবে। Change reference number হলো LNK-PKG-২০২৫-৫৬৭৮।
+
+**২০. কাস্টমারঃ** note করে নিলাম। ধন্যবাদ ভাই। আশা করি শীঘ্রই আবার upgrade করতে পারব ইনশাআল্লাহ।
+
+**২১. এজেন্টঃ** sir, ইনশাআল্লাহ, আপনার জন্য দোয়া করি ভালো একটা চাকরি পাবেন। আমরা সব সময় আছি, যেকোনো সময় call করবেন। শুভকামনা রইলো।
+
+---
+
+## সিনারিও ১৪ঃ Technician appointment-এ আসেনি, পুরো দিন wait করেছে
+
+> একজন কাস্টমারের cable repair-এর জন্য technician visit schedule করা হয়েছিল সকাল ১০টা থেকে ১২টার মধ্যে। কিন্তু বিকেল ৩টা বেজে গেছে, technician আসেনি, কোনো call-ও আসেনি। কাস্টমার office থেকে leave নিয়ে বাসায় আছেন।
+
+**১. এজেন্টঃ** Link3 customer service, আমি আফরিন। কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** আপু, আমি খুবই রাগান্বিত! আজকে সকাল ১০টা থেকে ১২টার মধ্যে technician আসার কথা ছিল। এখন বিকেল ৩টা বাজে, কেউ আসেনি, কোনো call-ও দেয়নি! আমি office থেকে leave নিয়ে বাসায় বসে আছি!
+
+**৩. এজেন্টঃ** sir, আমি সত্যিই ক্ষমাপ্রার্থী। আপনি office leave নিয়ে পুরো দিন wait করেছেন — এটা সম্পূর্ণ অগ্রহণযোগ্য। আমি এখনই দেখছি কি হয়েছে। আপনার ticket number বা phone number বলুন please।
+
+**৪. কাস্টমারঃ** ticket number হলো LNK-SRV-২০২৫-৪৪৫৫। Phone number ০১৮২২৯৯৮৮৭৭। আমার নাম শফিকুল ইসলাম। গত ৩ দিন ধরে internet নেই, позавчера complaint দিয়েছিলাম, আজকে technician আসার কথা ছিল।
+
+**৫. এজেন্টঃ** ধন্যবাদ sir, ticket দেখছি... sir, আপনার ticket-এ shedule ছিল আজকে সকাল ১০-১২টা, assigned technician ছিলেন জনাব করিম। আমি এখন technician tracker-এ check করছি তিনি কোথায় আছেন।
+
+**৬. কাস্টমারঃ** ৫ ঘণ্টা ধরে wait করছি! একটা call দিলেও তো পারতো যে আসতে দেরি হবে। এটা কোনো professional service?
+
+**৭. এজেন্টঃ** sir, আপনার রাগ সম্পূর্ণ justified। আমি technician-এর phone-এ contact করার চেষ্টা করছি... sir, technician-এর phone unreachable দেখাচ্ছে। এটা হওয়া উচিত না। আমি এখনই alternative arrangement করছি।
+
+**৮. কাস্টমারঃ** unreachable! তার মানে কি উনি আজকে আসবেনই না? আমি ৩ দিন ধরে internet ছাড়া আছি, আজকে leave নিলাম বৃথাই!
+
+**৯. এজেন্টঃ** sir, আমি বুঝতে পারছি এটা কতটা frustrating। আমি দুইটা কাজ করছি — এক, আপনার area-র অন্য available technician-কে আজকেই পাঠানোর ব্যবস্থা করছি। দুই, এই ঘটনা আমাদের field operations supervisor-কে report করছি যেন এই technician-এর বিষয়ে action নেওয়া হয়।
+
+**১০. কাস্টমারঃ** আজকেই আরেকজন আসবে? কখন? আমি তো আর সারারাত wait করতে পারি না।
+
+**১১. এজেন্টঃ** sir, আমি এখন area coordinator-এর সাথে কথা বলে confirm করছি... sir, আমাদের মতিঝিল area-র আরেকজন technician আছেন, তিনি বিকেল ৫টার মধ্যে আপনার কাছে যেতে পারবেন। আমি তার নাম্বার থেকে আপনাকে confirm call দেওয়ার ব্যবস্থা করছি। তার নাম জনাব সালাম, phone number ০১XXXXXXXXX।
+
+**১২. কাস্টমারঃ** ৫টা? মানে আরো ২ ঘণ্টা! ঠিক আছে, আর কোনো option নেই তো। কিন্তু এবারও যদি না আসে, তাহলে আমি connection cancel করে দেব।
+
+**১৩. এজেন্টঃ** sir, আমি personally ensure করছি এবার technician আসবে। আমি নিজে জনাব সালামকে call করে confirm করেছি, তিনি আসবেন বলেছেন। আর আসার ৩০ মিনিট আগে উনি আপনাকে call দেবেন।
+
+**১৪. কাস্টমারঃ** ঠিক আছে। কিন্তু শুনেন, আমি আজকে অফিস থেকে একদিনের leave নিয়েছি এই technician-এর জন্য। এই leave-এর কারণে আমার salary cut হবে। এটার জন্য কোনো compensation পাব?
+
+**১৫. এজেন্টঃ** sir, আপনার কথা যৌক্তিক। সরাসরি salary compensation দেওয়ার provision আমাদের নেই, তবে আমি আপনার case-এ যেটা করতে পারি — আপনার next ২ মাসের bill-এ ২৫% discount apply করার জন্য request পাঠাচ্ছি supervisor-এর কাছে। আর গত ৩ দিনের downtime-এর জন্য আলাদা bill adjustment তো হবেই।
+
+**১৬. কাস্টমারঃ** ২৫% discount? সেটা কিছুটা হলেও ক্ষতিপূরণ হবে। ঠিক আছে, সেটা করুন। কিন্তু আমি চাই এই ধরনের ঘটনার জন্য সেই technician-এর বিরুদ্ধে action নেওয়া হোক।
+
+**১৭. এজেন্টঃ** sir, আমি already এই ঘটনা field operations supervisor-এর কাছে escalate করেছি। Missed appointment without notification আমাদের SLA violation, এটা seriously নেওয়া হবে। Escalation reference হলো LNK-ESC-২০২৫-০০৩৪।
+
+**১৮. কাস্টমারঃ** ঠিক আছে। আচ্ছা, technician আসার পর কি সমস্যা ঠিক হবে? নাকি আরো visit লাগবে?
+
+**১৯. এজেন্টঃ** sir, আপনার original ticket দেখে বলছি — fiber cable issue ছিল। এটা সাধারণত একবার visit-এই ঠিক হয়ে যায়। Technician cable repair বা replacement করে দেবে, আর connection test করে যাবে। আজকেই internet ফিরে পাওয়ার কথা।
+
+**২০. কাস্টমারঃ** আশা করি তাই হবে। আর শুনেন, পরের বার যদি technician visit হয়, আমি চাই exact time slot, "সকাল ১০-১২" এই ধরনের broad window না।
+
+**২১. এজেন্টঃ** sir, আমি আপনার feedback note করলাম। আমাদের এখন ২ ঘণ্টার window দিই, তবে আপনার মতো valuable customer-দের feedback-এর ভিত্তিতে আমরা এটা improve করার কাজ করছি।
+
+**২২. কাস্টমারঃ** ঠিক আছে। summary দেন — আজকে কি কি হবে আর কি কি expect করব।
+
+**২৩. এজেন্টঃ** sir, summary — আজকে বিকেল ৫টার মধ্যে technician জনাব সালাম আসবেন, আসার আগে call করবেন। Fiber cable repair করে connection restore করবেন। আপনার next ২ মাসে ২৫% bill discount-এর request পাঠানো হয়েছে। ৩ দিনের downtime-এর bill adjustment হবে। Missed appointment-এর escalation reference LNK-ESC-২০২৫-০০৩৪। আমি আবারও আপনার কাছে ক্ষমা চাইছি এই অভিজ্ঞতার জন্য। ধন্যবাদ sir।
+
+---
+
+## সিনারিও ১৫ঃ অপরিচিত কেউ WiFi ব্যবহার করছে, bandwidth চুরি হচ্ছে
+
+> একজন কাস্টমার লক্ষ্য করেছেন তার internet রাতে অস্বাভাবিক slow হয়ে যায়। Router-এর admin panel-এ দেখেছেন তার WiFi-তে অপরিচিত কিছু device connected। কেউ তার WiFi password জেনে গেছে এবং ব্যবহার করছে।
+
+**১. এজেন্টঃ** Link3 customer care, আমি রুবেল। কিভাবে সাহায্য করতে পারি, mam?
+
+**২. কাস্টমারঃ** ভাই, আমার WiFi অন্য কেউ ব্যবহার করছে! রাতের বেলা internet এত slow হয়ে যায় যে কিছুই করতে পারি না। Router-এ দেখেছি আমার পরিচিত device ছাড়াও ৩-৪টা unknown device connected!
+
+**৩. এজেন্টঃ** mam, এটা তো চিন্তার বিষয়। কেউ আপনার WiFi password জেনে গেছে এবং আপনার bandwidth use করছে। আমি আপনাকে এটা solve করতে সাহায্য করব। আপনার customer ID বা phone number বলুন।
+
+**৪. কাস্টমারঃ** ০১৬৪৫৫৬৬৭৭৮৮। আমি router-এর admin page-এ ঢুকে connected device list দেখেছি — আমার বাসায় ৪টা device আছে, কিন্তু list-এ ৮টা device দেখাচ্ছে। বাকি ৪টা আমার চেনা না।
+
+**৫. এজেন্টঃ** ধন্যবাদ mam, account পেয়েছি — নাম সামিয়া আক্তার, শ্যামলী। mam, আপনি admin panel-এ ঢুকতে পেরেছেন, সেটা ভালো। আমরা এখন কয়েকটা step-এ এই সমস্যা permanently solve করব। প্রথমে, আপনার WiFi password change করতে হবে একটা strong password দিয়ে।
+
+**৬. কাস্টমারঃ** password change তো করতে পারি, কিন্তু ওরা কিভাবে password পেল? আমার password তো কাউকে দিইনি, শুধু পরিবারের সবাই জানে।
+
+**৭. এজেন্টঃ** mam, কয়েকভাবে হতে পারে — হয়তো কোনো guest-কে একবার password দিয়েছিলেন এবং তারা অন্যদের share করেছে, অথবা আপনার password সহজ ছিল বলে কেউ guess করে ফেলেছে, অথবা WiFi hacking-এর কিছু সহজ tools আছে যেগুলো দিয়ে weak password crack করা যায়। তাই strong password দেওয়া খুব important।
+
+**৮. কাস্টমারঃ** আমার password ছিল আমার phone number! সেটা তো সহজেই guess করা সম্ভব। ঠিক আছে, নতুন strong password কিভাবে দেব বলুন।
+
+**৯. এজেন্টঃ** mam, phone number password হিসেবে দেওয়া unsafe। আমি আপনাকে guide করছি — আপনার router-এর admin panel-এ আছেন তো? সেখানে Wireless বা WiFi Settings option-এ যান। Security section-এ Password বা Pre-shared Key field পাবেন। সেখানে নতুন password দিন। Strong password-এর জন্য বড় হাতের আর ছোট হাতের letter, number, আর special character মিলিয়ে কমপক্ষে ১২ character-এর password দিন। যেমন "Link3@Home2025!" এই ধরনের।
+
+**১০. কাস্টমারঃ** ঠিক আছে, নতুন password দিচ্ছি... WiFi Settings-এ গেলাম... Password field... নতুন password দিলাম... Save করেছি। এখন কি আমার সব device reconnect করতে হবে?
+
+**১১. এজেন্টঃ** জ্বী mam, password change-এর পর আপনার নিজের সব device-ও disconnect হয়ে যাবে। আপনাকে প্রতিটা device-এ নতুন password দিয়ে reconnect করতে হবে। আর unknown device গুলো reconnect করতে পারবে না কারণ ওদের কাছে নতুন password নেই।
+
+**১২. কাস্টমারঃ** বুঝেছি, করছি। কিন্তু ওরা কি আবার hack করতে পারবে? আমি শুনেছি কিছু app দিয়ে WiFi password বের করা যায়।
+
+**১৩. এজেন্টঃ** mam, আরেকটা important step আছে — WiFi encryption method check করুন। Admin panel-এ Security বা Encryption option-এ দেখুন কি set করা আছে। WPA2 বা WPA3 থাকা উচিত। যদি WPA বা WEP থাকে তাহলে সেটা vulnerable, WPA2-তে change করুন। WPA2 crack করা অনেক কঠিন, বিশেষ করে strong password থাকলে।
+
+**১৪. কাস্টমারঃ** দেখছি... এখানে WPA2-PSK লেখা আছে। মানে ঠিক আছে?
+
+**১৫. এজেন্টঃ** জ্বী mam, WPA2-PSK perfect আছে। আর একটা extra security measure — আপনি MAC filtering enable করতে পারেন। এতে শুধুমাত্র আপনার approved device গুলোই WiFi-তে connect করতে পারবে, অন্য কোনো device-এর password জানা থাকলেও connect হবে না। এটা করতে চাইলে আমি guide করতে পারি।
+
+**১৬. কাস্টমারঃ** MAC filtering? সেটা কি complicated? আমি তো এসব খুব একটা বুঝি না।
+
+**১৭. এজেন্টঃ** mam, একটু complicated, তবে এটা না করলেও চলবে। Strong password আর WPA2 encryption থাকলে আপনার WiFi বেশ secure। MAC filtering হলো extra layer of security। আপাতত password change-ই যথেষ্ট। তবে আরেকটা কাজ করুন — router-এর admin panel-এর login password-ও change করুন, সেটা অনেকেই ভুলে যান। Default admin password হলো সাধারণত "admin" বা "1234", সেটা change করা জরুরি।
+
+**১৮. কাস্টমারঃ** ও হ্যাঁ, সেটা তো "admin"-ই আছে! Change করছি... হয়ে গেছে। আচ্ছা, এখন আমার unknown device গুলো কি automatically disconnect হয়ে গেছে?
+
+**১৯. এজেন্টঃ** জ্বী mam, WiFi password change করার সাথে সাথে সব device disconnect হয়ে গেছে, unknown device সহ। নতুন password ছাড়া কেউ আর connect করতে পারবে না। আপনার নিজের device গুলো নতুন password দিয়ে connect করুন।
+
+**২০. কাস্টমারঃ** সব device connect করে নিলাম। Internet speed-ও ভালো মনে হচ্ছে এখন! আগে রাতে ২-৩ Mbps আসতো, এখন ঠিকমতো speed আসছে।
+
+**২১. এজেন্টঃ** চমৎকার mam! unknown device গুলো আপনার bandwidth খাচ্ছিল, তাই slow ছিল। এখন শুধু আপনার device চলছে, তাই full speed পাবেন। নতুন password কোথাও safe জায়গায় লিখে রাখুন, আর কাউকে share করার সময় সতর্ক থাকবেন।
+
+**২২. কাস্টমারঃ** অবশ্যই। অনেক ধন্যবাদ ভাই, আপনি শুধু password change না, পুরো security setup করিয়ে দিলেন। খুব helpful ছিলেন।
+
+**২৩. এজেন্টঃ** mam, ধন্যবাদ আপনাকেও। আপনার internet এখন secure আছে। ভবিষ্যতে কোনো সমস্যায় নির্দ্বিধায় call করবেন। Link3-এ কল করার জন্য ধন্যবাদ, শুভ রাত।
+
+---
+
+## সিনারিও ১৬ঃ Connection cancel করতে চায়, competitor ISP-তে যাচ্ছে
+
+> একজন দীর্ঘদিনের কাস্টমার Link3 connection cancel করতে চান। তিনি competitor ISP-তে switch করবেন কারণ তারা কম দামে বেশি speed offer করছে। Agent retention attempt করছে।
+
+**১. এজেন্টঃ** Link3 customer care, আমি জান্নাত। কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** আপু, আমি আমার Link3 connection cancel করতে চাই। আমি অন্য একটা ISP-তে switch করব।
+
+**৩. এজেন্টঃ** sir, এটা শুনে দুঃখিত। আপনি আমাদের দীর্ঘদিনের customer, cancel করার আগে আমি কি জানতে পারি কি কারণে আপনি switch করতে চাইছেন? হয়তো আমরা সমাধান করতে পারি।
+
+**৪. কাস্টমারঃ** আমি ৩ বছর ধরে Link3 use করছি। কিন্তু পাশের building-এ নতুন একটা ISP এসেছে, তারা ৫০ Mbps দিচ্ছে মাসে ১২০০ টাকায়। আমি Link3-এ ২০ Mbps-এর জন্য ১২০০ টাকা দিচ্ছি। Same দামে আড়াই গুণ speed, কেন থাকব?
+
+**৫. এজেন্টঃ** sir, আপনার কথা যৌক্তিক, price-to-speed ratio দেখলে ওদের offer attractive। তবে আমি কিছু বিষয় তুলে ধরতে চাই আপনার consideration-এর জন্য। আপনার account দেখি — আপনার registered number বলুন?
+
+**৬. কাস্টমারঃ** ০১৯১২৩৪৫৬৭৮। কিন্তু আমি মোটামুটি decision নিয়ে ফেলেছি, শুধু cancel process জানতে call করেছি।
+
+**৭. এজেন্টঃ** sir, বুঝেছি। Account দেখছি — নাম আতিকুর রহমান, উত্তরা sector ১১। ৩ বছরের customer, excellent payment history। sir, আমি আপনাকে জোর করব না, কিন্তু ২ মিনিট সময় দিন, কিছু facts share করি, তারপর আপনি final decision নেবেন।
+
+**৮. কাস্টমারঃ** ঠিক আছে, বলুন।
+
+**৯. এজেন্টঃ** sir, প্রথম কথা — নতুন ISP গুলো শুরুতে aggressive pricing দেয় customer base বাড়ানোর জন্য, কিন্তু ৬ মাস থেকে ১ বছর পর price বাড়ায়। দ্বিতীয়ত, Link3-এর ৩ বছরের track record আপনার কাছে আছে — uptime, service quality, customer support। নতুন ISP-এর service quality আপনি এখনো test করেননি। তৃতীয়ত, নতুন connection-এ প্রথম কিছুদিন installation delay, configuration issue হতেই পারে, সেই সময়টা আপনি internet ছাড়া থাকবেন।
+
+**১০. কাস্টমারঃ** সেগুলো ঠিক আছে, কিন্তু ভাই, same দামে ৫০ Mbps vs ২০ Mbps — এই gap টা তো ignore করা যায় না। Link3 কি কিছু করতে পারবে?
+
+**১১. এজেন্টঃ** sir, আপনি যেহেতু ৩ বছরের loyal customer, আমি আপনাকে একটা retention offer দিতে পারি। আমাদের ৪০ Mbps package normally ১৮০০ টাকা, কিন্তু আপনাকে আমি ১২০০ টাকায় offer করতে পারি — ৬ মাসের জন্য special loyalty rate। মানে same ১২০০ টাকায় ৪০ Mbps, আপনার current ২০ Mbps-এর দ্বিগুণ speed।
+
+**১২. কাস্টমারঃ** ১২০০ তে ৪০ Mbps? সেটা তো মন্দ না। কিন্তু ৬ মাস পর কি rate বেড়ে যাবে?
+
+**১৩. এজেন্টঃ** sir, ৬ মাস পর regular rate ১৮০০ টাকা হবে। তবে ৬ মাস পর আপনি চাইলে আবার retention offer-এর জন্য call করতে পারেন, বা package change করতে পারেন। আর ৬ মাসে নতুন ISP-টার actual service quality-ও বোঝা যাবে — যদি সত্যিই ভালো হয়, তখনও switch করতে পারবেন।
+
+**১৪. কাস্টমারঃ** point valid। তবে ওরা তো ৫০ Mbps দিচ্ছে, আপনারা ৪০ Mbps। ৫০ Mbps কি দিতে পারবেন?
+
+**১৫. এজেন্টঃ** sir, সৎ কথা বলি — ১২০০ টাকায় ৫০ Mbps আমাদের পক্ষে possible না। তবে practical usage-এ ৪০ Mbps আর ৫০ Mbps-এর মধ্যে difference খুবই minimal, streaming, video calling, gaming সবকিছুতে identical experience পাবেন। তাছাড়া promised speed আর actual speed-এ পার্থক্য থাকতে পারে, বিশেষ করে নতুন ISP-দের ক্ষেত্রে peak hour-এ speed drop হওয়া common।
+
+**১৬. কাস্টমারঃ** হুম, সেটাও ঠিক। আচ্ছা, আমি ভাবছি... ১২০০ তে ৪০ Mbps, ৬ মাসের জন্য... আচ্ছা ঠিক আছে, আপাতত এই offer নিই। কিন্তু ৬ মাস পর যদি ভালো rate না পাই, তখন কিন্তু cancel করে দেব।
+
+**১৭. এজেন্টঃ** sir, সেটা সম্পূর্ণ আপনার অধিকার। আমি loyalty offer activate করছি — ৪০ Mbps, monthly ১২০০ টাকা, ৬ মাসের জন্য। ১-২ ঘণ্টার মধ্যে speed upgrade হয়ে যাবে।
+
+**১৮. কাস্টমারঃ** ঠিক আছে। আচ্ছা, ৬ মাস পর automatically rate বেড়ে যাবে নাকি আমাকে জানানো হবে?
+
+**১৯. এজেন্টঃ** sir, ৬ মাস পর offer expire হওয়ার ১৫ দিন আগে আপনাকে SMS আর email-এ notify করা হবে। তখন আপনি decide করবেন কি করতে চান — regular rate-এ থাকবেন, package change করবেন, বা নতুন offer-এর জন্য call করবেন।
+
+**২০. কাস্টমারঃ** ঠিক আছে, সেটা fair। reference number দেন।
+
+**২১. এজেন্টঃ** sir, loyalty offer reference number হলো LNK-RET-২০২৫-৭৮৯০। আপনার ৩ বছরের loyalty-র জন্য ধন্যবাদ। আমরা চাই আপনি Link3-এ satisfied থাকুন।
+
+**২২. কাস্টমারঃ** দেখি এই ৬ মাস কেমন যায়। ধন্যবাদ আপু, আপনি ভালো offer দিয়েছেন, না হলে cancel-ই করে দিতাম।
+
+**২৩. এজেন্টঃ** sir, ধন্যবাদ আমাদের সাথে থাকার জন্য। ৪০ Mbps-এ আপনার experience আরো ভালো হবে আশা করি। কোনো সমস্যায় নির্দ্বিধায় call করবেন। শুভ সন্ধ্যা।
+
+---
