@@ -312,3 +312,211 @@
 **২৩. এজেন্টঃ** sir, আমিও আশা করি এবার চূড়ান্ত সমাধান হবে। Infrastructure team-এর update পেলে আমরা আপনাকে জানাব। এই অসুবিধার জন্য আবারও ক্ষমা চাইছি। Link3 customer care-এ কল করার জন্য ধন্যবাদ।
 
 ---
+
+## সিনারিও ৭ঃ নতুন বাসায় shift করছে, connection transfer চায়
+
+> একজন কাস্টমার এক সপ্তাহ পর নতুন বাসায় shift করবেন। তিনি চান তার বর্তমান Link3 connection-টা নতুন ঠিকানায় transfer করা হোক, যেন নতুন বাসায় গিয়ে internet ছাড়া থাকতে না হয়।
+
+**১. এজেন্টঃ** Link3 customer care, শুভ সকাল। আমি ফাহিম, কিভাবে সাহায্য করতে পারি, mam?
+
+**২. কাস্টমারঃ** শুনেন, আমি আগামী সপ্তাহে নতুন flat-এ shift করছি। আমার Link3 connection-টা নতুন address-এ নিয়ে যেতে চাই। Process-টা কি?
+
+**৩. এজেন্টঃ** mam, অবশ্যই, আমরা connection relocation-এর service দিই। আগে আপনার account details verify করি — আপনার registered phone number বলুন please।
+
+**৪. কাস্টমারঃ** ০১৬৮৮৯৯১১২২। আমার নাম রুমানা পারভীন। আমি বনানী থেকে গুলশান ২-তে shift করছি।
+
+**৫. এজেন্টঃ** ধন্যবাদ mam, account verify হয়ে গেছে। বনানী থেকে গুলশান ২ — ভালো কথা, আমি আগে check করে নিই আপনার নতুন address-এ আমাদের coverage আছে কিনা। গুলশান ২-এ কোন road বা building-তে যাচ্ছেন?
+
+**৬. কাস্টমারঃ** গুলশান ২ নম্বর road, Green Valley Apartment, ৮ম তলা। আমার বান্ধবী ওখানে থাকে, সে Link3-ই use করে, তাই coverage আছে বলে জানি।
+
+**৭. এজেন্টঃ** mam, চমৎকার! হ্যাঁ, Green Valley Apartment-এ আমাদের fiber infrastructure আছে। তাহলে relocation possible। আমি process-টা বিস্তারিত বলছি — relocation request-এ আমরা আপনার পুরনো address থেকে connection disconnect করে নতুন address-এ fresh installation করি। আপনার customer ID, package, billing সব same থাকে, শুধু physical connection-টা নতুন জায়গায় হয়। এর জন্য একটা relocation charge আছে ১০০০ টাকা, আর সাধারণত ৩-৫ working days লাগে নতুন address-এ connection দিতে।
+
+**৮. কাস্টমারঃ** ৩-৫ দিন? আমি তো ১২ তারিখে shift করব। মানে ঐদিনই নতুন বাসায় internet দরকার। আমি work from home করি, internet ছাড়া office-এর কাজ করতে পারব না।
+
+**৯. এজেন্টঃ** mam, আমি বুঝতে পারছি। আপনি যদি এখনই request দেন, তাহলে আমরা shift-এর আগেই নতুন address-এ installation schedule করে রাখতে পারি। ১২ তারিখে বা তার একদিন আগে নতুন flat-এ connection ready রাখব।
+
+**১০. কাস্টমারঃ** সেটা perfect হবে। তাহলে আজকেই request দিয়ে দেন। আর পুরনো বাসার connection কবে disconnect হবে?
+
+**১১. এজেন্টঃ** mam, পুরনো address-এর connection আপনার shift-এর দিন disconnect করব, মানে ১২ তারিখে। তার আগ পর্যন্ত আপনি বনানীতে internet use করতে পারবেন। আর নতুন flat-এ ১১ বা ১২ তারিখে installation করে দেওয়া হবে, তাই কোনো gap থাকবে না।
+
+**১২. কাস্টমারঃ** চমৎকার। আচ্ছা, আমার current package কি same থাকবে? আমি ২০ Mbps নিয়ে আছি, rate-ও same?
+
+**১৩. এজেন্টঃ** জ্বী mam, আপনার package, monthly rate, billing cycle সব হুবহু same থাকবে। শুধু physical connection-টা নতুন address-এ হবে। আপনি চাইলে shift-এর সুযোগে package upgrade-ও করতে পারেন, তবে সেটা optional।
+
+**১৪. কাস্টমারঃ** না, আপাতত ২০ Mbps-ই রাখি। আচ্ছা, নতুন বাসায় কি নতুন router দেবে নাকি আমার এই router-ই নিয়ে যেতে হবে?
+
+**১৫. এজেন্টঃ** mam, আপনার বর্তমান router-টাই নতুন বাসায় নিয়ে যাবেন। Technician গিয়ে fiber cable connect করে router configure করে দেবে। Router নতুন কেনার দরকার নেই।
+
+**১৬. কাস্টমারঃ** ঠিক আছে। আচ্ছা, installation-এর দিন কি আমাকে বাসায় থাকতে হবে? নাকি caretaker থাকলেও হবে?
+
+**১৭. এজেন্টঃ** mam, যেকোনো responsible ব্যক্তি থাকলেই হবে, আপনাকে personally থাকতে হবে না। তবে NID copy আর relocation charge ১০০০ টাকা technician-কে দিতে হবে, সেই ব্যবস্থা রাখবেন।
+
+**১৮. কাস্টমারঃ** বুঝেছি। তাহলে আমার বোনকে বলব থাকতে। ১০০০ টাকা cash দিতে হবে নাকি online pay করা যাবে?
+
+**১৯. এজেন্টঃ** mam, দুইভাবেই পারবেন — technician-কে cash দিতে পারেন, অথবা আমাদের website-এ login করে online payment করতে পারেন। Online pay করলে receipt automatically generate হবে।
+
+**২০. কাস্টমারঃ** online-এই করব তাহলে। আচ্ছা, request-এর summary টা একটু বলুন, আমি note করে রাখি।
+
+**২১. এজেন্টঃ** mam, আপনার relocation request summary — বর্তমান address বনানী, নতুন address গুলশান ২, Green Valley Apartment, ৮ম তলা। Shift date ১২ জুলাই। নতুন address-এ installation ১১ বা ১২ জুলাই। Relocation charge ১০০০ টাকা। Request reference number হলো LNK-REL-২০২৫-১২৩৪।
+
+**২২. কাস্টমারঃ** note করে নিলাম। ধন্যবাদ ভাই, সব clear করে বুঝিয়ে দিলেন। Installation-এর আগে কি confirm call আসবে?
+
+**২৩. এজেন্টঃ** জ্বী mam, installation-এর ১ দিন আগে আমাদের team আপনাকে call করে exact সময় confirm করবে। আর কোনো কিছু জানার থাকলে নির্দ্বিধায় call করবেন। নতুন বাসায় শুভ যাত্রা কামনা করি, ধন্যবাদ।
+
+---
+
+## সিনারিও ৮ঃ Package upgrade করতে চায়, বাসায় অনেক device-এ internet slow
+
+> একজন কাস্টমার ১০ Mbps package use করেন কিন্তু বাসায় ৮-১০ টা device connected থাকে — বাচ্চাদের tablet, smart TV, wife-এর laptop, নিজের office laptop। সবকিছু একসাথে চালালে internet প্রচণ্ড slow হয়ে যায়।
+
+**১. এজেন্টঃ** Link3 customer care, আমি শারমিন। কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** আপু, আমার internet-এর speed অনেক কম মনে হচ্ছে। বাসায় সবাই একসাথে internet চালালে কিছুই load হয় না। Package upgrade করতে চাই।
+
+**৩. এজেন্টঃ** sir, বুঝতে পারছি। বাসায় একসাথে অনেক device চললে ১০ Mbps-এ সমস্যা হতেই পারে। আপনার account টা একটু verify করি — registered phone number বলুন please।
+
+**৪. কাস্টমারঃ** ০১৩১১৪৪৫৫৬৬। আমি ১০ Mbps-এর package-এ আছি, মাসে ৮০০ টাকা দিই। কিন্তু বাসায় আমি, আমার wife, দুই বাচ্চা — সবাই internet use করি। মোট ৮-৯টা device connected থাকে সব সময়।
+
+**৫. এজেন্টঃ** ধন্যবাদ sir, account পেয়েছি — নাম মাহবুবুল আলম, বসুন্ধরা। জ্বী sir, ৮-৯টা device-এর জন্য ১০ Mbps সত্যিই কম। বিশেষ করে যদি video streaming, online class, আর office কাজ একসাথে চলে।
+
+**৬. কাস্টমারঃ** exactly! আমার বড় মেয়ে tablet-এ YouTube দেখে, ছোট ছেলে online class করে, wife Netflix দেখে smart TV-তে, আর আমি office-এর Zoom call-এ থাকি। সব একসাথে হলে Zoom-এর video freeze হয়ে যায়, আমার খুব বিব্রতকর অবস্থা হয়।
+
+**৭. এজেন্টঃ** sir, আপনার situation-এ upgrade অবশ্যই দরকার। আমি আপনার usage pattern দেখে recommend করব — আপনাদের ৪ জন active user, streaming, video calling, online class সব মিলিয়ে ৪০ Mbps package আপনার জন্য ideal হবে। এটা মাসে ১৮০০ টাকা। তবে ৩০ Mbps-ও একটা option, সেটা ১৫০০ টাকা।
+
+**৮. কাস্টমারঃ** ৪০ Mbps আর ৩০ Mbps-এর মধ্যে practical difference কতটুকু? মানে আমার situation-এ ৩০ Mbps কি enough হবে?
+
+**৯. এজেন্টঃ** sir, ভালো question। বিস্তারিত বলি — ৩০ Mbps-এ আপনারা ৪ জন মোটামুটি comfortable-এ চালাতে পারবেন, তবে সবাই যদি একসাথে HD video stream করে আর Zoom call চলে, তখন buffering হওয়ার সম্ভাবনা থাকে। ৪০ Mbps-এ সেই চিন্তা নেই, সবাই full HD-তে stream করতে পারবে আর Zoom call-ও smooth থাকবে, এমনকি বাচ্চারা game download করলেও বাকিদের speed-এ তেমন impact পড়বে না।
+
+**১০. কাস্টমারঃ** তাহলে ৪০ Mbps-ই নিই। ৮০০ থেকে ১৮০০ — মাসে ১০০০ টাকা বেশি। একটু বেশি লাগছে, তবে Zoom-এ আর freeze হলে চলবে না।
+
+**১১. এজেন্টঃ** sir, আপনার decision ঠিক আছে। আর একটা ভালো খবর — এই মুহূর্তে আমাদের একটা upgrade offer চলছে। আপনি যদি এখন ৪০ Mbps-এ upgrade করেন, তাহলে প্রথম ৩ মাস ১৫০০ টাকায় পাবেন, পরের মাস থেকে regular ১৮০০ টাকা।
+
+**১২. কাস্টমারঃ** ও, সেটা তো ভালো! প্রথম ৩ মাস ৩০০ টাকা save! ঠিক আছে, এখনই upgrade করে দেন।
+
+**১৩. এজেন্টঃ** sir, আমি এখনই upgrade process করছি। Upgrade হতে সাধারণত ১-২ ঘণ্টা সময় লাগে, কারণ আমাদের backend-এ আপনার port-এর bandwidth allocation change করতে হয়। এর মধ্যে একবার router restart দিলে নতুন speed activate হয়ে যাবে।
+
+**১৪. কাস্টমারঃ** মাত্র ১-২ ঘণ্টা? Technician আসতে হবে না? চমৎকার!
+
+**১৫. এজেন্টঃ** না sir, package upgrade-এ technician visit দরকার হয় না, আমরা remotely করে দিই। তবে upgrade-এর পর আপনি speedtest.net-এ গিয়ে একটা speed test করে দেখবেন ৪০ Mbps পাচ্ছেন কিনা। যদি না পান, তখন আমাদের call করবেন।
+
+**১৬. কাস্টমারঃ** ঠিক আছে, test করব। আচ্ছা, billing কবে থেকে change হবে? এই মাসের bill কি নতুন rate-এ আসবে?
+
+**১৭. এজেন্টঃ** sir, আজকে থেকে নতুন rate কার্যকর হবে। এই মাসের bill-এ prorated amount আসবে, মানে মাসের যতদিন ১০ Mbps ছিল ততদিনের ৮০০ টাকা rate-এ, আর বাকি দিনগুলো ১৫০০ টাকা rate-এ calculate হবে। পরের মাস থেকে full ১৫০০ টাকা, offer শেষে ১৮০০ টাকা।
+
+**১৮. কাস্টমারঃ** বুঝেছি, fair enough। আচ্ছা, একটা কথা — আমার router কি ৪০ Mbps support করবে? নাকি নতুন router লাগবে?
+
+**১৯. এজেন্টঃ** sir, আপনার account-এ দেখছি আমাদের দেওয়া standard router আছে, সেটা ৪০ Mbps easily handle করতে পারবে। কোনো নতুন router কেনার দরকার নেই।
+
+**২০. কাস্টমারঃ** চমৎকার। তাহলে আজকে থেকেই নতুন speed পাব?
+
+**২১. এজেন্টঃ** জ্বী sir, ১-২ ঘণ্টার মধ্যে আপনার port update হয়ে যাবে। তারপর router restart দিয়ে test করুন। Upgrade confirmation-এর একটা SMS-ও আপনার phone-এ যাবে।
+
+**২২. কাস্টমারঃ** অনেক ধন্যবাদ আপু, সব কিছু অনেক smoothly handle করলেন। এখন থেকে Zoom call-এ আর লজ্জা পেতে হবে না আশা করি!
+
+**২৩. এজেন্টঃ** sir, ধন্যবাদ আপনাকেও! ৪০ Mbps-এ আপনার পুরো পরিবার comfortable-এ internet use করতে পারবে। কোনো সমস্যা হলে আমরা সব সময় আছি। শুভ দিন কাটুক।
+
+---
+
+## সিনারিও ৯ঃ Router-এর PON light লাল, internet নেই, ONU device malfunction
+
+> একজন কাস্টমারের router-এর PON light লাল হয়ে আছে এবং কোনোভাবেই internet আসছে না। Multiple বার restart দিয়েছে কিন্তু কাজ হয়নি। কাস্টমার IT professional, তাই কিছুটা technical জ্ঞান আছে।
+
+**১. এজেন্টঃ** Link3 customer service, আমি আরিফ। কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** ভাই, আমার ONU-এর PON light red দেখাচ্ছে, LOS light-ও blink করছে। Internet পুরোপুরি dead। আমি নিজে ৪-৫ বার restart দিয়েছি, cable-ও check করেছি, কিন্তু same issue।
+
+**৩. এজেন্টঃ** sir, আপনি তো দেখছি technical বিষয়গুলো জানেন, ভালো। PON light red মানে fiber signal আপনার ONU-তে পৌঁছাচ্ছে না। আমি system থেকে check করি — আপনার customer ID বা phone number বলুন।
+
+**৪. কাস্টমারঃ** ০১৫৫৬৭৭৮৮৯৯। আমি IT professional, network-এর basic troubleshooting জানি। Fiber cable-এর visible part-এ কোনো bend বা damage দেখছি না, তাই মনে হচ্ছে ONU-এর নিজেরই সমস্যা।
+
+**৫. এজেন্টঃ** ধন্যবাদ sir, account পেয়েছি — নাম রাকিব হাসান, মতিঝিল। আমি আপনার ONU-এর status আমাদের OLT থেকে check করছি... sir, আমাদের OLT-তে আপনার ONU offline দেখাচ্ছে। Last online ছিল আজকে সকাল ৬:৩৫ মিনিটে।
+
+**৬. কাস্টমারঃ** হ্যাঁ, সকালে ঘুম থেকে উঠে দেখি internet নেই। Power supply ঠিক আছে, ONU-এর power light green, কিন্তু PON red। আমি fiber cable-টা ONU থেকে খুলে আবার লাগিয়েছি, clean-ও করেছি tissue দিয়ে, কিন্তু কোনো change হয়নি।
+
+**৭. এজেন্টঃ** sir, আপনি যা যা করেছেন সব সঠিক। Tissue দিয়ে clean করাটাও ঠিক ছিল, যদিও ideally alcohol wipe দিয়ে করলে ভালো হয়। আমি এখন আমাদের end থেকে কিছু test চালাচ্ছি — আপনার ONU-তে একটা remote signal পাঠাচ্ছি, দেখি response আসে কিনা।
+
+**৮. কাস্টমারঃ** করুন। আমার ধারণা ONU-এর optical receiver module টা die করেছে। এটা কি replacement-এর under-এ পড়বে?
+
+**৯. এজেন্টঃ** sir, আমি signal পাঠিয়েছি কিন্তু আপনার ONU কোনো response দিচ্ছে না। আপনার ধারণা সঠিক হতে পারে — optical transceiver module fail হওয়ার লক্ষণ এটা। আপনার connection কতদিন আগে হয়েছিল?
+
+**১০. কাস্টমারঃ** প্রায় ১৪ মাস হলো। এই ONU কি warranty-র মধ্যে আছে?
+
+**১১. এজেন্টঃ** sir, আমাদের ONU device-এর warranty ১২ মাস। আপনার টা ১৪ মাস হয়ে গেছে, তাই technically warranty period শেষ। তবে আমি আপনার case-টা senior supervisor-এর কাছে উল্লেখ করব, কারণ ১৪ মাসে device fail হওয়া উচিত না, এটা manufacturing defect হতে পারে।
+
+**১২. কাস্টমারঃ** warranty ২ মাস আগে শেষ! তাহলে কি আমাকে নতুন ONU কিনতে হবে? কত দাম পড়বে?
+
+**১৩. এজেন্টঃ** sir, নতুন ONU-এর price ২৫০০ টাকা। তবে আমি বলছিলাম — আমি supervisor-এর কাছে goodwill replacement request পাঠাচ্ছি। আপনি দীর্ঘদিনের customer, payment history excellent, এবং ১৪ মাসে device fail হওয়া unusual। অনেক সময় এই ধরনের case-এ complimentary replacement approve হয়ে যায়।
+
+**১৪. কাস্টমারঃ** সেটা হলে ভালো হয়। কিন্তু এতে তো সময় লাগবে, approval পেতে কতদিন?
+
+**১৫. এজেন্টঃ** sir, approval সাধারণত ২৪-৪৮ ঘণ্টায় আসে। তবে আপনার internet তো এখনই দরকার — আমি আপাতত একটা technician visit schedule করছি। Technician আসবে, ONU physically check করবে, confirm করবে device issue কিনা। যদি device issue হয়, তাহলে technician-এর কাছে spare ONU থাকলে on-the-spot replace করে দেবে।
+
+**১৬. কাস্টমারঃ** on-the-spot replace করলে charge কি তখনই দিতে হবে? নাকি approval-এর জন্য wait করতে পারি?
+
+**১৭. এজেন্টঃ** sir, আমি technician-এর instruction-এ note করে দিচ্ছি যে replacement approval pending আছে। Technician গিয়ে device change করে দেবে, charge-এর ব্যাপারটা পরে settle হবে। যদি goodwill replacement approve হয়, কোনো charge লাগবে না। যদি approve না হয়, তখন bill-এ add হবে।
+
+**১৮. কাস্টমারঃ** ঠিক আছে, fair enough। Technician কখন আসবে?
+
+**১৯. এজেন্টঃ** sir, আমি urgent visit request দিচ্ছি। আজকে বিকেলের মধ্যে technician পাঠানোর চেষ্টা করব। Ticket number হলো LNK-HW-২০২৫-৩৪৫৬।
+
+**২০. কাস্টমারঃ** ঠিক আছে। একটু request করি — technician আসার আগে call দিলে ভালো হয়, কারণ আমি মাঝে মাঝে বাইরে যাই।
+
+**২১. এজেন্টঃ** জ্বী sir, অবশ্যই call করে আসবে। আর goodwill replacement-এর update আসলে আমরা আপনাকে phone-এ জানাব। আর কিছু জানার আছে?
+
+**২২. কাস্টমারঃ** না, এটুকুই। আশা করি আজকেই internet ফিরে পাব। ধন্যবাদ ভাই, আপনি technically competent, কথা বলে ভালো লাগলো।
+
+**২৩. এজেন্টঃ** sir, ধন্যবাদ আপনার ধৈর্যের জন্য। আমরা দ্রুত সমাধান করব। Link3-এ কল করার জন্য ধন্যবাদ, শুভ দিন কাটুক।
+
+---
+
+## সিনারিও ১০ঃ একই মাসে দুইবার bill charge হয়ে গেছে
+
+> একজন কাস্টমারের bank account থেকে Link3-এর auto-pay-তে একই মাসে দুইবার bill কেটে নিয়েছে। কাস্টমার bank statement দেখে বিষয়টা লক্ষ্য করেছেন এবং refund চাইছেন।
+
+**১. এজেন্টঃ** Link3 customer care, শুভ বিকেল। আমি মিথিলা, কিভাবে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** আপু, একটা serious সমস্যা হয়েছে। আমার bank account থেকে এই মাসে Link3-এর bill দুইবার কাটা হয়েছে! ১২০০ টাকা করে মোট ২৪০০ টাকা গেছে। কেন?
+
+**৩. এজেন্টঃ** sir, এটা তো অবশ্যই হওয়ার কথা না। আমি এখনই investigate করছি। আপনার registered phone number বা customer ID বলুন please।
+
+**৪. কাস্টমারঃ** ০১৯৮৮৭৭৬৬৫৫। আমি auto-pay setup করে রেখেছি bank account থেকে। কিন্তু এই মাসে ৩ তারিখে একবার আর ৫ তারিখে আরেকবার ১২০০ টাকা কেটেছে। Bank statement-এ clear দেখাচ্ছে।
+
+**৫. এজেন্টঃ** ধন্যবাদ sir, account পেয়েছি — নাম কামরুল হাসান, বারিধারা। আপনার monthly bill ১২০০ টাকা, package ২০ Mbps। আমি billing history check করছি... sir, আমি দেখতে পাচ্ছি — হ্যাঁ, দুইটা payment entry আছে। একটা ৩ জুলাই ১২০০ টাকা, আরেকটা ৫ জুলাই ১২০০ টাকা।
+
+**৬. কাস্টমারঃ** তাহলে তো দেখতেই পাচ্ছেন! দুইবার কাটা হয়েছে। এটা কেন হলো? আমি তো একবারই pay করি।
+
+**৭. এজেন্টঃ** sir, আমি detail দেখছি। মনে হচ্ছে ৩ তারিখে auto-pay থেকে regular bill deduction হয়েছে, কিন্তু আমাদের system-এ সেটা initially failed হিসেবে record হয়েছিল। তাই ৫ তারিখে system আবার retry করেছে এবং দ্বিতীয়বার deduct করেছে। কিন্তু আসলে প্রথমবারের payment-ও successful ছিল, সেটা late reconcile হয়েছে। মানে system error-এর কারণে double charge হয়ে গেছে।
+
+**৮. কাস্টমারঃ** system error তো আপনাদের, কিন্তু ১২০০ টাকা আমার account থেকে extra গেছে! কবে refund পাব?
+
+**৯. এজেন্টঃ** sir, আপনার কথা ১০০% সঠিক এবং আপনি অবশ্যই refund পাবেন। আমি এখনই refund process initiate করছি। আপনার extra ১২০০ টাকা আপনার bank account-এ ফেরত যাবে।
+
+**১০. কাস্টমারঃ** কতদিন লাগবে refund পেতে? আমার এই টাকাটা দরকার, month-এর শুরুতে budget tight থাকে।
+
+**১১. এজেন্টঃ** sir, bank refund সাধারণত ৭-১০ working days লাগে, কারণ এটা bank-এর processing time-এর উপরও নির্ভর করে। তবে আমি urgent refund request দিচ্ছি, ৫ working days-এর মধ্যে হওয়ার কথা। আমি এখনই refund ticket create করছি।
+
+**১২. কাস্টমারঃ** ৫-৭ দিন! এটা তো আপনাদের ভুলে হয়েছে, আমার কেন এত দিন wait করতে হবে?
+
+**১৩. এজেন্টঃ** sir, আমি পুরোপুরি একমত যে এই ভুল আমাদের end থেকে হয়েছে এবং আপনার জন্য inconvenient। Bank processing time-টা unfortunately আমাদের control-এ না। তবে আমি একটা alternative offer করতে পারি — আপনি যদি চান, ১২০০ টাকা আপনার Link3 account-এ credit করে দিই, তাহলে পরের মাসের bill automatically adjust হয়ে যাবে, মানে পরের মাসে কোনো bill দিতে হবে না।
+
+**১৪. কাস্টমারঃ** account credit-এ তো টাকা হাতে ফেরত আসবে না। আমার cash-ই দরকার। Bank refund-ই চাই।
+
+**১৫. এজেন্টঃ** জ্বী sir, বুঝেছি। Bank refund-ই process করছি। Refund ticket number হলো LNK-REF-২০২৫-৬৭৮৯। আমি এটা finance team-এর কাছে priority হিসেবে forward করছি, আর আপনার case-এ একটা note দিচ্ছি যে system error-এর কারণে হয়েছে।
+
+**১৬. কাস্টমারঃ** ঠিক আছে। আচ্ছা, এই auto-pay system-এ কি আবার এরকম হতে পারে? আমি ভাবছি auto-pay বন্ধ করে দিই।
+
+**১৭. এজেন্টঃ** sir, এটা খুবই rare ঘটনা, normally এরকম হয় না। তবে আমি আপনার auto-pay configuration-টা check করে reset করে দিচ্ছি যেন ভবিষ্যতে retry logic-এ duplicate charge না হয়। আপনি চাইলে auto-pay রাখতে পারেন, আর না চাইলে বন্ধ করে manual pay করতে পারেন — সেটা আপনার decision।
+
+**১৮. কাস্টমারঃ** আপাতত auto-pay রাখি, কিন্তু পরের মাসে bank statement carefully check করব। আবার এরকম হলে কিন্তু connection-ই cancel করে দেব।
+
+**১৯. এজেন্টঃ** sir, আপনার frustration বুঝতে পারছি এবং আমি assure করছি এটা আর হবে না। আমি আপনার account-এ একটা special monitoring flag দিয়ে দিচ্ছি যেন next billing cycle-এ কোনো anomaly হলে আমাদের team immediately alert পায়।
+
+**২০. কাস্টমারঃ** ঠিক আছে। আচ্ছা, refund process হচ্ছে কিনা সেটা কিভাবে track করব?
+
+**২১. এজেন্টঃ** sir, আপনি এই ticket number LNK-REF-২০২৫-৬৭৮৯ দিয়ে যেকোনো সময় আমাদের call করে status জানতে পারবেন। আর refund process হলে আপনার phone-এ SMS notification যাবে।
+
+**২২. কাস্টমারঃ** ঠিক আছে। ধন্যবাদ, সমস্যাটা acknowledge করার জন্য। তবে এই ধরনের ভুল যেন আর না হয়, সেটা দেখবেন।
+
+**২৩. এজেন্টঃ** sir, অবশ্যই। আপনার refund ৫ working days-এর মধ্যে process হবে। এই অসুবিধার জন্য আমরা আন্তরিকভাবে ক্ষমাপ্রার্থী। কোনো প্রশ্ন থাকলে নির্দ্বিধায় call করবেন। ধন্যবাদ, শুভ বিকেল।
+
+---
