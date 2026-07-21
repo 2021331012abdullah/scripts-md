@@ -1072,3 +1072,227 @@
 **২৩. কাস্টমারঃ** ঠিক আছে রাকিব ভাই। Speaker খুলে দেখবো না, packaging আর video সংরক্ষণ করছি।
 
 **২৪. এজেন্টঃ** খুব ভালো করবেন স্যার। Device আর charge দেবেন না, accessoriesসহ original packaging-এ রাখবেন এবং pickup-এর সময় handover receipt নেবেন।
+
+---
+
+## সিনারিও ২১ঃ আসল বলে বিক্রি করা নকল প্রোডাক্ট পাওয়া গেছে
+
+> একজন customer Daraz-এ branded perfume অর্ডার করেছেন। Delivery-এর পর packaging, fragrance এবং serial information দেখে তার নকল product মনে হয়েছে।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি branded perfume অর্ডার করেছিলাম, কিন্তু box আর fragrance দেখে মনে হচ্ছে এটি নকল। Product page-এ original লেখা ছিল।
+
+**২. এজেন্টঃ** Daraz customer care থেকে আরিফ বলছি স্যার। Authenticity concern-টি গুরুত্বসহকারে দেখছি। Product-এর box, seal এবং seller information কী লক্ষ্য করেছেন?
+
+**৩. কাস্টমারঃ** Box-এর printing ঝাপসা, batch code ঠিকমতো পড়া যায় না, আর fragrance পাঁচ মিনিটের মধ্যেই উধাও হয়ে গেছে।
+
+**৪. এজেন্টঃ** স্যার, এমন লক্ষণ product verification-এর জন্য গুরুত্বপূর্ণ। Box, bottle, batch code, seal এবং listing-এর screenshot আলাদা করে capture করে রাখবেন।
+
+**৫. কাস্টমারঃ** আমি seller-এর rating দেখে order করেছিলাম। অনেক customer five-star review দিয়েছে, তাই সন্দেহ করিনি।
+
+**৬. এজেন্টঃ** বুঝতে পারছি স্যার। Rating একা authenticity নিশ্চিত করে না; Daraz তদন্তে listing claim, seller documents, inventory source এবং customer evidence একসঙ্গে review করে।
+
+**৭. কাস্টমারঃ** Perfume আমি একবার spray করে দেখেছি, কিন্তু এত দ্রুত সমস্যা বুঝিনি। এতে কি return reject হতে পারে?
+
+**৮. এজেন্টঃ** স্যার, authenticity যাচাইয়ের জন্য limited testing স্বাভাবিক হতে পারে। তবে আর ব্যবহার করবেন না এবং bottle বা packaging-এ কোনো পরিবর্তন করবেন না।
+
+**৯. কাস্টমারঃ** আমি full refund চাই। এই product ব্যবহার করলে skin reaction হতে পারে, তাই health concern-ও আছে।
+
+**১০. এজেন্টঃ** আপনার safety concern যুক্তিসংগত স্যার। আমি authenticity dispute এবং return request দুটোই record করছি, যাতে caseটি সাধারণ preference return হিসেবে না যায়।
+
+**১১. কাস্টমারঃ** Seller আমাকে chat-এ বলেছে, “Original না হলে টাকা লাগবে না,” কিন্তু কোনো invoice বা source document দেয়নি।
+
+**১২. এজেন্টঃ** Seller-এর chat screenshot সংরক্ষণ করবেন স্যার। Daraz-এর official chat-এর বাইরে WhatsApp বা ব্যক্তিগত নম্বরে কোনো settlement করবেন না।
+
+**১৩. কাস্টমারঃ** Productটি কি laboratory বা brand authority পরীক্ষা করবে? আমি সত্যিই জানতে চাই এটি fake কিনা।
+
+**১৪. এজেন্টঃ** স্যার, প্রয়োজনে product verification team packaging, batch information এবং seller documentation পরীক্ষা করবে। সব ক্ষেত্রে laboratory test হয় না, তবে evidence অনুযায়ী সিদ্ধান্ত নেওয়া হবে।
+
+**১৫. কাস্টমারঃ** Seller যদি return নিতে না চায়, তাহলে কি Daraz directly intervene করবে?
+
+**১৬. এজেন্টঃ** জ্বী স্যার, Dispute team claimটি review করবে। Seller response না দিলেও investigation বন্ধ হবে না, এবং policy অনুযায়ী পরবর্তী সিদ্ধান্ত নেওয়া হবে।
+
+**১৭. কাস্টমারঃ** Pickup-এর সময় courier agent কি product খুলে check করবে?
+
+**১৮. এজেন্টঃ** সাধারণত courier sealed parcel collect করবে স্যার। Detailed inspection পরে designated team করবে, তাই evidence এবং original condition বজায় রাখবেন।
+
+**১৯. কাস্টমারঃ** Seller-এর account-এর বিরুদ্ধে ব্যবস্থা নেওয়া হবে? নকল product অন্য customer-দেরও যেতে পারে।
+
+**২০. এজেন্টঃ** Investigation-এ violation প্রমাণিত হলে seller listing restriction, penalty বা account action-এর আওতায় আসতে পারে স্যার।
+
+**২১. কাস্টমারঃ** আমার case number এবং photo upload করার নিয়মটা বলবেন?
+
+**২২. এজেন্টঃ** আপনার authenticity dispute reference DZ-AUT-২০২৬-০২১। My Orders থেকে Return/Refund section খুলে bottle, box, batch code এবং chat screenshot upload করবেন।
+
+**২৩. কাস্টমারঃ** ঠিক আছে আরিফ ভাই। আমি product আর ব্যবহার করবো না এবং সব evidence আজই পাঠিয়ে দেবো।
+
+**২৪. এজেন্টঃ** ধন্যবাদ স্যার। Skin irritation হলে product সঙ্গে সঙ্গে বন্ধ করবেন এবং প্রয়োজনে চিকিৎসকের পরামর্শ নেবেন। আমরা case update official channel-এ জানাবো।
+
+---
+
+## সিনারিও ২২ঃ Expired food product delivery হয়েছে
+
+> একজন housewife Daraz থেকে packaged snacks অর্ডার করেছেন। Delivery-এর পর তিনি দেখেন কয়েকটি item-এর expiry date পার হয়ে গেছে এবং একটি packet ফুলে আছে।
+
+**১. কাস্টমারঃ** আপু, আজ grocery parcel পেয়েছি। কিছু packet-এর expiry date পার হয়ে গেছে, আর একটি packet অস্বাভাবিকভাবে ফুলে আছে।
+
+**২. এজেন্টঃ** Daraz customer care থেকে নুসরাত বলছি ম্যাম। Expired বা swollen food item পাওয়া নিরাপত্তার বিষয়। দয়া করে কোনো item taste করবেন না।
+
+**৩. কাস্টমারঃ** আমি কিছু খাইনি। দুইটি biscuit packet expired, আর juice packet-এর cap-এর কাছে leakage-এর দাগ আছে।
+
+**৪. এজেন্টঃ** ম্যাম, productগুলো আলাদা করে রাখবেন এবং expiry date, batch number, seal ও outer parcel-এর পরিষ্কার ছবি তুলবেন।
+
+**৫. কাস্টমারঃ** আমি ছবি তুলেছি। কিন্তু order-এ মোট আটটি item ছিল, সবগুলো কি return করতে হবে?
+
+**৬. এজেন্টঃ** ম্যাম, যেগুলো expired, leaking বা damaged সেগুলো claim-এর জন্য আলাদা করুন। তবে order review-এর সময় পুরো grocery shipment-এর তথ্য দিন।
+
+**৭. কাস্টমারঃ** আমি partial refund চাই না, কারণ একই seller-এর কাছ থেকে food quality নিয়ে আর trust করতে পারছি না।
+
+**৮. এজেন্টঃ** আপনার concern বুঝলাম ম্যাম। আপনি affected items-এর refund চাইছেন, নাকি পুরো grocery order return করতে চান, request-এ preference স্পষ্ট করে দিতে পারেন।
+
+**৯. কাস্টমারঃ** শুধু expired items-এর টাকা ফেরত চাই। Fresh itemsগুলো ঠিক আছে, সেগুলো ফেরত দিলে অপচয় হবে।
+
+**১০. এজেন্টঃ** ঠিক আছে ম্যাম, আমি affected item-only refund request হিসেবে note করছি। Food safety evidence থাকায় seller review দ্রুত করা হবে।
+
+**১১. কাস্টমারঃ** Expired packetগুলো কি courier-কে ফেরত দিতে হবে? এগুলো আবার transport করা নিরাপদ মনে হচ্ছে না।
+
+**১২. এজেন্টঃ** ম্যাম, Pickup instruction-এ product condition উল্লেখ করছি। Courier যদি item collect করতে আসে, sealed outer bag-এ রাখবেন এবং leakage থাকলে আগে জানাবেন।
+
+**১৩. কাস্টমারঃ** Packet ফুলে আছে, আমি এটিকে ছুঁতেও চাই না। Disposal করলে কি refund claim বাতিল হবে?
+
+**১৪. এজেন্টঃ** ম্যাম, safety risk থাকলে product সংরক্ষণ না করে disposal করতে হতে পারে। Disposal-এর আগে expiry, seal এবং condition-এর timestampসহ ছবি রাখবেন এবং support note-এ জানাবেন।
+
+**১৫. কাস্টমারঃ** Seller বলছে expiry date নাকি printing mistake। আমি কীভাবে নিশ্চিত হবো?
+
+**১৬. এজেন্টঃ** Seller-এর explanation একা final নয় ম্যাম। Batch information, product photo, invoice এবং warehouse record review করে Daraz সিদ্ধান্ত নেবে।
+
+**১৭. কাস্টমারঃ** এই seller-এর product listing-এ “fresh stock” লেখা ছিল। Misleading description-এর বিরুদ্ধে report করতে চাই।
+
+**১৮. এজেন্টঃ** অবশ্যই ম্যাম। Product quality complaint-এর পাশাপাশি misleading listing report করছি। Listing screenshot থাকলে evidence হিসেবে upload করবেন।
+
+**১৯. কাস্টমারঃ** আমার ছোট বাচ্চা packet খুলতে যাচ্ছিল। এই ধরনের ভুল যেন অন্য কারো সঙ্গে না হয়।
+
+**২০. এজেন্টঃ** আপনার সতর্কতা খুব গুরুত্বপূর্ণ ম্যাম। আমরা seller quality team-কে বিষয়টি পাঠাচ্ছি, আর আপনি food item খাওয়ানোর আগে expiry ও seal অবশ্যই যাচাই করবেন।
+
+**২১. কাস্টমারঃ** Refund request-এর reference এবং evidence upload-এর deadline জানাবেন?
+
+**২২. এজেন্টঃ** আপনার food safety reference DZ-FOD-২০২৬-০২২। আজকের মধ্যে expiry, leakage, batch এবং invoice-এর ছবি upload করলে review দ্রুত শুরু হবে।
+
+**২৩. কাস্টমারঃ** ঠিক আছে নুসরাত আপু। Expired item আলাদা রাখছি এবং কোনোটা ব্যবহার করছি না।
+
+**২৪. এজেন্টঃ** খুব ভালো করবেন ম্যাম। Swollen বা leaking packet খুলবেন না, শিশুদের কাছ থেকে দূরে রাখবেন এবং official update না আসা পর্যন্ত seller-এর ব্যক্তিগত নম্বরে যোগাযোগ করবেন না।
+
+---
+
+## সিনারিও ২৩ঃ Furniture-এর assembly parts missing
+
+> একজন small business owner Daraz থেকে office shelf অর্ডার করেছেন। Delivery-এর পর কাঠের panels থাকলেও screws, brackets এবং assembly manual পাওয়া যায়নি।
+
+**১. কাস্টমারঃ** আমার office shelf এসেছে, কিন্তু assembly করার screws আর brackets নেই। শুধু wooden panels দিয়ে কীভাবে furniture বানাবো?
+
+**২. এজেন্টঃ** Daraz customer care থেকে তানিম বলছি স্যার। Missing parts-এর কারণে আপনার সমস্যা হয়েছে, দুঃখিত। Box-এর ভিতরের সবকিছু পরীক্ষা করেছেন?
+
+**৩. কাস্টমারঃ** জ্বী, panels, দুইটি side board আর shelf আছে। Hardware packet এবং assembly manual কোনোটাই নেই।
+
+**৪. এজেন্টঃ** স্যার, packaging-এর ভিতরে কোনো ছোট compartment বা cardboard flap আছে কিনা আরেকবার দেখবেন? Furniture hardware কখনো কখনো আলাদা pouch-এ থাকে।
+
+**৫. কাস্টমারঃ** পুরো box খুলে দেখেছি। Delivery-এর সময় carton-এর একপাশ ছেঁড়া ছিল, সম্ভবত hardware packet সেখান থেকে বেরিয়ে গেছে।
+
+**৬. এজেন্টঃ** বুঝতে পারছি স্যার। Outer carton damage, missing compartment এবং received panels-এর ছবি সংরক্ষণ করবেন। এগুলো transit loss নাকি seller packing issue বোঝাতে সাহায্য করবে।
+
+**৭. কাস্টমারঃ** আমি replacement চাই না। Screws আর brackets পাঠিয়ে দিলেই shelf ব্যবহার করতে পারবো।
+
+**৮. এজেন্টঃ** আপনার preferred resolution হিসেবে missing hardware replacement note করছি স্যার। Seller-এর কাছে exact parts stock আছে কিনা আগে confirm করা হবে।
+
+**৯. কাস্টমারঃ** Office setup আগামী সপ্তাহে শেষ করতে হবে। Seller response-এর জন্য অনেকদিন অপেক্ষা করা যাবে না।
+
+**১০. এজেন্টঃ** আপনার business deadline ticket-এ উল্লেখ করছি স্যার। Parts dispatch সম্ভব হলে আলাদা shipment হিসেবে পাঠানো হবে, তবে seller confirmation ছাড়া date নিশ্চিত করতে চাই না।
+
+**১১. কাস্টমারঃ** Local hardware shop থেকে screws কিনে নিলে কি warranty বা return নষ্ট হবে?
+
+**১২. এজেন্টঃ** স্যার, নিজের মতো parts ব্যবহার করলে fit, stability বা warranty issue হতে পারে। Seller-এর specification না পাওয়া পর্যন্ত drilling বা assembly শুরু করবেন না।
+
+**১৩. কাস্টমারঃ** Manual-ও নেই। Parts পেলে কি installation instruction online পাওয়া যাবে?
+
+**১৪. এজেন্টঃ** স্যার, Seller manual বা assembly guide upload করতে পারে। আমি request-এ digital manual চেয়েছি, যাতে parts আসার পর নিজে assemble করতে পারেন।
+
+**১৫. কাস্টমারঃ** Seller বলছে hardware packet আলাদা courier-এ পাঠাবে, কিন্তু কোনো tracking number দিচ্ছে না।
+
+**১৬. এজেন্টঃ** Seller communication-এর screenshot রাখবেন স্যার। Official shipment create হলে tracking app-এ দেখা যাবে; tracking ছাড়া ব্যক্তিগত courier payment করবেন না।
+
+**১৭. কাস্টমারঃ** যদি parts না পাঠায়, তাহলে কি পুরো furniture return করতে পারবো?
+
+**১৮. এজেন্টঃ** জ্বী স্যার, Essential parts unavailable হলে product incomplete হিসেবে return বা refund review করা যায়। Panels ব্যবহার না করে original condition-এ রাখবেন।
+
+**১৯. কাস্টমারঃ** Panels বড় এবং ভারী। Return pickup কি আমার office থেকে হবে?
+
+**২০. এজেন্টঃ** আপনার address pickup coverage অনুযায়ী bulky-item pickup arrange করার request দিচ্ছি স্যার। Courier আগে call করে handling requirement জানাবে।
+
+**২১. কাস্টমারঃ** Missing parts-এর complaint number এবং seller response-এর সময়টা বলবেন?
+
+**২২. এজেন্টঃ** আপনার furniture parts reference DZ-FUR-২০২৬-০২৩। Seller-কে ৪৮ ঘণ্টার মধ্যে parts availability বা replacement resolution জানাতে বলা হয়েছে।
+
+**২৩. কাস্টমারঃ** ঠিক আছে তানিম ভাই। আমি panels assemble না করে carton, damage আর missing hardware-এর ছবি upload করছি।
+
+**২৪. এজেন্টঃ** ধন্যবাদ স্যার। Panels শুকনো জায়গায় রাখবেন, নিজে কাটাকাটি করবেন না এবং parts shipment এলে quantity মিলিয়ে তারপর assembly শুরু করবেন।
+
+---
+
+## সিনারিও ২৪ঃ Phone case নিজের mobile model-এ fit হচ্ছে না
+
+> একজন student নিজের phone model-এর জন্য case অর্ডার করেছেন। Delivery-এর পর camera cutout, buttons এবং charging port align না হওয়ায় caseটি ব্যবহার করা যাচ্ছে না।
+
+**১. কাস্টমারঃ** আপু, আমি আমার phone model দেখে case অর্ডার করেছিলাম, কিন্তু case লাগালে camera cutout আর buttons কোনোটাই ঠিকমতো align করছে না।
+
+**২. এজেন্টঃ** Daraz customer care থেকে সাবরিনা বলছি স্যার। Compatibility issue-এর জন্য দুঃখিত। Product label-এ কোন model লেখা আছে?
+
+**৩. কাস্টমারঃ** আমার phone Samsung A54, কিন্তু case-এর sticker-এ A54 5G লেখা। দেখতে একই হলেও camera opening আলাদা।
+
+**৪. এজেন্টঃ** বুঝতে পারছি স্যার। Listing-এ model selection option এবং received case-এর label-এর ছবি মিলিয়ে দেখুন, কারণ regional variant-এ design পরিবর্তন হতে পারে।
+
+**৫. কাস্টমারঃ** Listing-এ শুধু A54 লেখা ছিল, 5G বা variant আলাদা করে বলা ছিল না। তাই আমি সাধারণ A54 ধরে order করেছি।
+
+**৬. এজেন্টঃ** স্যার, যদি listing information যথেষ্ট পরিষ্কার না হয়, এটি compatibility বা product description issue হিসেবে review করা যেতে পারে। Screenshot সংরক্ষণ করবেন।
+
+**৭. কাস্টমারঃ** Caseটি একবার phone-এ লাগিয়েছিলাম। Camera block হওয়ায় সঙ্গে সঙ্গে খুলে ফেলেছি, কোনো scratch হয়নি।
+
+**৮. এজেন্টঃ** ভালো করেছেন স্যার। Case ব্যবহার করবেন না এবং phone-এর সঙ্গে জোর করে fit করানোর চেষ্টা করবেন না। Product condition অক্ষত রাখবেন।
+
+**৯. কাস্টমারঃ** আমি correct model-এর case চাই। Refund নিয়ে আবার order করলে delivery charge আবার দিতে হবে।
+
+**১০. এজেন্টঃ** Replacement preference note করছি স্যার। Seller-এর কাছে exact compatible model থাকলে exchange review হবে; না থাকলে refund option দেওয়া হবে।
+
+**১১. কাস্টমারঃ** Seller chat-এ বলছে, “A54 এবং A54 5G একই case,” কিন্তু বাস্তবে camera cutout একদম আলাদা।
+
+**১২. এজেন্টঃ** Seller-এর message screenshot রাখবেন স্যার। Product fit না হওয়ার clear ছবি এবং phone model settings page-এর screenshotও upload করবেন।
+
+**১৩. কাস্টমারঃ** Phone model settings-এর screenshot দিলে personal information leak হবে না তো?
+
+**১৪. এজেন্টঃ** স্যার, IMEI বা ব্যক্তিগত data hide করে শুধু model name দেখানো screenshot upload করবেন। অপ্রয়োজনীয় security information কখনো শেয়ার করবেন না।
+
+**১৫. কাস্টমারঃ** Return pickup না হওয়া পর্যন্ত case-এর packaging আর label কীভাবে রাখবো?
+
+**১৬. এজেন্টঃ** Case, sticker, invoice এবং original pouch একসঙ্গে রাখবেন স্যার। Product-এ কাটাছেঁড়া বা additional sticker লাগাবেন না।
+
+**১৭. কাস্টমারঃ** আমি student, তাই ছোট amount হলেও ভুল product-এর জন্য টাকা আটকে রাখা কষ্টকর।
+
+**১৮. এজেন্টঃ** বুঝতে পারছি স্যার। Evidence দ্রুত upload করলে compatibility review শুরু হবে এবং eligible resolution অনুযায়ী refund বা replacement process এগোবে।
+
+**১৯. কাস্টমারঃ** Correct case না পেলে কি আমি অন্য seller থেকে কিনে এই order refund নিতে পারবো?
+
+**২০. এজেন্টঃ** স্যার, আপনি অন্য seller থেকে কিনতে পারেন, তবে এই order-এর return request আলাদাভাবে maintain করবেন। নতুন purchase-এর সঙ্গে পুরনো claim মিশবে না।
+
+**২১. কাস্টমারঃ** Seller listing-এ model information ঠিক করবে তো? অন্যরা যেন একই ভুল না করে।
+
+**২২. এজেন্টঃ** আপনার feedback listing quality team-এ পাঠাচ্ছি স্যার। Product variant পরিষ্কার না হলে seller-কে correction বা additional model details দেওয়ার নির্দেশনা যেতে পারে।
+
+**২৩. কাস্টমারঃ** Support reference number দিন। আমি model screenshot আর case-এর ছবি upload করছি।
+
+**২৪. এজেন্টঃ** আপনার compatibility reference DZ-MOB-২০২৬-০২৪। Phone model এবং case label দুটোই visible রাখবেন, তবে IMEI বা personal data ঢেকে upload করবেন।
+
+**২৫. কাস্টমারঃ** ঠিক আছে সাবরিনা আপু। Case ব্যবহার না করে packagingসহ রেখে দিচ্ছি, ধন্যবাদ।
+
+**২৬. এজেন্টঃ** আপনাকেও ধন্যবাদ স্যার। Return বা exchange update app-এ দেখবেন এবং pickup-এর সময় handover receipt সংগ্রহ করবেন।
+
+---
+
+
