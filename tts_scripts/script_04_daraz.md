@@ -651,3 +651,424 @@
 
 ---
 
+## সিনারিও ১৩ঃ রাতের delivery-তে rider customer-কে রাস্তার পাশে আসতে বলছে
+
+> একজন মহিলা customer-এর parcel রাতের দিকে delivery-তে আসে। Rider apartment building-এ না এসে অন্ধকার রাস্তার পাশে customer-কে parcel নিতে বলেন, ফলে customer safety concern নিয়ে call করেন।
+
+**১. কাস্টমারঃ** আপু, rider বলছে building-এ আসবে না, আমাকে main road-এর পাশে গিয়ে parcel নিতে হবে। এখন রাত, আমি একা বাইরে যেতে নিরাপদ বোধ করছি না।
+
+**২. এজেন্টঃ** Daraz customer care থেকে নুসরাত বলছি ম্যাম। আপনার safety concern সম্পূর্ণ যুক্তিসংগত। Order ID এবং current delivery status বলবেন?
+
+**৩. কাস্টমারঃ** Order ID DZ-৮৪৫৬৭৮৯০১। Tracking-এ out for delivery দেখাচ্ছে, আর rider বলছে পাঁচ মিনিটের মধ্যে রাস্তার পাশে আসতে হবে।
+
+**৪. এজেন্টঃ** ধন্যবাদ ম্যাম। আপনার registered number এবং building-এর প্রবেশপথে rider-এর ঢুকতে কোনো নির্দিষ্ট restriction আছে কিনা জানাবেন?
+
+**৫. কাস্টমারঃ** নম্বর ০১৬৮৭৬৫৪৩২১। Security gate খোলা আছে, visitor entry হয়। Rider শুধু বলছে সে ভিতরে ঢুকবে না।
+
+**৬. এজেন্টঃ** বুঝতে পারছি ম্যাম। আমি rider-এর delivery instruction এবং supervisor contact যাচাই করছি। আপনি একা বাইরে যাবেন না, আমি বিষয়টি এখনই operations team-এ পাঠাচ্ছি।
+
+**৭. কাস্টমারঃ** ধন্যবাদ আপু। Parcel-এ আমার ছোট ভাইয়ের জরুরি school uniform আছে, কিন্তু safety ঝুঁকি নিয়ে নিতে চাই না।
+
+**৮. এজেন্টঃ** আপনার প্রয়োজনটি বুঝতে পারছি ম্যাম। Rider-কে building gate পর্যন্ত আসতে বলা হবে, অথবা আপনার অনুমতিতে security guard-এর কাছে sealed parcel handover করা যেতে পারে।
+
+**৯. কাস্টমারঃ** Security guard-এর কাছে দিতে পারেন, তবে আগে আমাকে call করতে হবে এবং parcel-এর label আমার order-এর সঙ্গে মিলতে হবে।
+
+**১০. এজেন্টঃ** জ্বী ম্যাম, delivery instruction-এ আপনার অনুমোদিত receiver হিসেবে security desk উল্লেখ করছি। Parcel handover-এর আগে rider-কে registered number-এ call করতেই হবে।
+
+**১১. কাস্টমারঃ** Rider যদি আবার অস্বীকার করে এবং order cancel করে দেয়, তাহলে কি আমার account-এ কোনো penalty হবে?
+
+**১২. এজেন্টঃ** না ম্যাম, customer safety এবং doorstep access issue documented থাকলে cancellation customer fault হিসেবে ধরা উচিত নয়। আমি ticket-এ আপনার safety concern পরিষ্কারভাবে লিখছি।
+
+**১৩. কাস্টমারঃ** Rider কি এখন building-এর সামনে আসছে? আমি security guard-কে জানিয়ে রাখবো।
+
+**১৪. এজেন্টঃ** ম্যাম, supervisor rider-এর সঙ্গে যোগাযোগ করছেন। আমি আপনার call line-এ status note করছি, তবে rider-এর exact arrival time confirmation না পাওয়া পর্যন্ত নিশ্চিত করে বলছি না।
+
+**১৫. কাস্টমারঃ** যদি আজ delivery না হয়, কাল কি নতুন rider দিয়ে reattempt করা যাবে?
+
+**১৬. এজেন্টঃ** জ্বী ম্যাম, আজকের attempt unsuccessful হলে reattempt request করা যাবে। পরবর্তী rider-এর জন্য building gate, call-before-delivery এবং authorized receiver instruction যুক্ত থাকবে।
+
+**১৭. কাস্টমারঃ** আমি কি rider-এর বিরুদ্ধে complaint করতে পারি? তার কথাবার্তা খুব চাপ দেওয়ার মতো ছিল।
+
+**১৮. এজেন্টঃ** অবশ্যই ম্যাম। Safety instruction অমান্য এবং inappropriate delivery request দুটিই complaint record-এ যুক্ত করছি। Operations team call log ও route record review করবে।
+
+**১৯. কাস্টমারঃ** Complaint reference এবং parcel না এলে refund-এর বিষয়টি জানাবেন?
+
+**২০. এজেন্টঃ** আপনার reference DZ-SAF-২০২৬-০১৩। Delivery fail হলে cancellation বা refund eligibility review হবে; একই issue-তে নতুন order করার দরকার নেই।
+
+**২১. কাস্টমারঃ** ঠিক আছে নুসরাত আপু। আমি বাইরে যাচ্ছি না, security desk-এই parcel নেবো।
+
+**২২. এজেন্টঃ** সেটিই নিরাপদ সিদ্ধান্ত ম্যাম। Rider-এর call এবং parcel label যাচাই করে তারপর গ্রহণ করবেন। আপনার safety আমাদের কাছে অগ্রাধিকার।
+
+---
+
+## সিনারিও ১৪ঃ Delivery rider customer-এর সঙ্গে দুর্ব্যবহার করেছে
+
+> একজন মহিলা customer delivery সময় product পরীক্ষা করতে চাইলে rider রূঢ় আচরণ করেন এবং দ্রুত parcel নিতে চাপ দেন। Customer rider conduct নিয়ে complaint করতে call করেন।
+
+**১. কাস্টমারঃ** আমি খুব খারাপ আচরণের শিকার হয়েছি। Parcel নেওয়ার আগে product condition দেখতে চেয়েছিলাম, কিন্তু rider আমাকে অপমান করে চলে গেছে।
+
+**২. এজেন্টঃ** Daraz customer care থেকে তানিম বলছি ম্যাম। আপনার সঙ্গে এমন আচরণের জন্য দুঃখিত। Order ID এবং incident-এর সময়টি বলবেন?
+
+**৩. কাস্টমারঃ** Order ID DZ-৩৬৭৮৯০১২৪। আজ বিকেল সাড়ে পাঁচটার দিকে rider এসেছিল, আমি শুধু box-এর seal ঠিক আছে কিনা দেখতে চেয়েছিলাম।
+
+**৪. এজেন্টঃ** ধন্যবাদ ম্যাম। আপনার registered mobile number এবং rider কী ধরনের কথা বলেছেন, যতটা সম্ভব সংক্ষেপে জানাবেন?
+
+**৫. কাস্টমারঃ** নম্বর ০১৮৯০১২৩৪৫৬। তিনি বললেন, “এত checking করলে parcel রেখে যাচ্ছি,” তারপর আমার সঙ্গে রূঢ়ভাবে কথা বলে চলে গেলেন।
+
+**৬. এজেন্টঃ** ম্যাম, আপনার বক্তব্যটি আমি গুরুত্বসহকারে record করছি। Delivery record থেকে rider identity, route এবং attempted status যাচাই করতে একটু সময় দিন।
+
+**৭. কাস্টমারঃ** আমি product নিইনি, কিন্তু tracking-এ delivered দেখাচ্ছে। Rider কি ইচ্ছা করে delivered mark করেছে?
+
+**৮. এজেন্টঃ** ম্যাম, system-এ delivery completed দেখাচ্ছে, তবে আপনার confirmation বা signature record এখনো verify করা হয়নি। আমি এটিকে disputed delivery হিসেবে flag করছি।
+
+**৯. কাস্টমারঃ** আমার কাছে rider-এর call history আছে। Building-এর CCTV-তেও তার আসার প্রমাণ থাকতে পারে।
+
+**১০. এজেন্টঃ** এই তথ্যগুলো helpful হবে ম্যাম। Call time, CCTV availability এবং কোনো witness থাকলে complaint notes-এ যুক্ত করছি। আপনি চাইলে screenshot পরে Help Center-এ upload করতে পারবেন।
+
+**১১. কাস্টমারঃ** আমি কি আবার একই rider-এর কাছ থেকে parcel নিতে বাধ্য? তার সঙ্গে আর interact করতে চাই না।
+
+**১২. এজেন্টঃ** না ম্যাম, আপনার concern operations team-কে জানাচ্ছি। Reattempt হলে অন্য delivery representative assign করার request করা হবে, যদিও final assignment route availability-এর উপর নির্ভর করে।
+
+**১৩. কাস্টমারঃ** Productটি prepaid, তাই refund নিয়ে চিন্তা হচ্ছে। Delivery না পেলে আমার টাকা কীভাবে সুরক্ষিত থাকবে?
+
+**১৪. এজেন্টঃ** ম্যাম, disputed delivery investigation শেষ না হওয়া পর্যন্ত refund বা replacement claim বন্ধ হচ্ছে না। Parcel delivered প্রমাণিত না হলে payment recovery process review করা হবে।
+
+**১৫. কাস্টমারঃ** Rider কি আমার address বা phone information অন্য কারো সঙ্গে share করতে পারে? আমি privacy নিয়েও চিন্তিত।
+
+**১৬. এজেন্টঃ** আপনার personal information কেবল delivery purpose-এ ব্যবহারের কথা। Privacy concern-টিও complaint record-এ যুক্ত করছি এবং unauthorized sharing-এর কোনো evidence থাকলে upload করবেন।
+
+**১৭. কাস্টমারঃ** আমি চাই Daraz management rider-এর বিরুদ্ধে formal action নিক। শুধু apology দিলে বিষয়টি শেষ হওয়া উচিত নয়।
+
+**১৮. এজেন্টঃ** বুঝতে পারছি ম্যাম। এটি customer conduct এবং disputed delivery দুই category-তেই escalate করছি। Review result অনুযায়ী policy অনুযায়ী ব্যবস্থা নেওয়া হবে।
+
+**১৯. কাস্টমারঃ** Complaint reference এবং investigation update কখন পাবো?
+
+**২০. এজেন্টঃ** আপনার reference DZ-CON-২০২৬-০১৪। সাধারণত ৪৮ ঘণ্টার মধ্যে initial update দেওয়া হয়, আর disputed delivery resolution-এর পর final notification আসবে।
+
+**২১. কাস্টমারঃ** ঠিক আছে তানিম ভাই। আমি CCTV এবং call record সংরক্ষণ করে রাখছি।
+
+**২২. এজেন্টঃ** ধন্যবাদ ম্যাম। Evidence delete করবেন না এবং কোনো unknown person-কে payment বা personal information দেবেন না। আমরা আপনার ticket follow করছি।
+
+---
+
+## সিনারিও ১৫ঃ International seller-এর parcel customs-এ আটকে গেছে
+
+> একজন customer international seller থেকে camera accessory অর্ডার করেছেন। Tracking-এ parcel customs clearance-এ আটকে আছে এবং customer জানতে চান additional documents বা customs payment দরকার হবে কিনা।
+
+**১. কাস্টমারঃ** আমার international order অনেকদিন ধরে customs clearance-এ আটকে আছে। Tracking update নেই, আর parcelটি দেশে আসার পরও delivery date বদলাচ্ছে।
+
+**২. এজেন্টঃ** Daraz customer care থেকে আরিফ বলছি স্যার। International shipment delay নিয়ে দুঃখিত। Order ID এবং product-এর নামটি বলবেন?
+
+**৩. কাস্টমারঃ** Order ID DZ-৫৭৮৯০১২৩৬। Product camera tripod adapter, seller international। Expected delivery ছিল গত সপ্তাহে।
+
+**৪. এজেন্টঃ** ধন্যবাদ স্যার। আপনার registered number এবং tracking-এ customs status কখন থেকে দেখা যাচ্ছে, সেটি জানাবেন?
+
+**৫. কাস্টমারঃ** নম্বর ০১৭৬৫৪৩২১০৯। চার দিন ধরে “Held for customs inspection” দেখাচ্ছে, কোনো নতুন message আসেনি।
+
+**৬. এজেন্টঃ** তথ্যগুলো যাচাই করছি স্যার। International shipment-এ customs authority parcel inspection, documentation বা applicable duty review করতে পারে। আমি seller এবং logistics partner-এর latest note দেখছি।
+
+**৭. কাস্টমারঃ** আমার কি কোনো document upload করতে হবে? Product value কম, তবুও customs-এ এতদিন কেন আটকে আছে বুঝছি না।
+
+**৮. এজেন্টঃ** স্যার, সাধারণত seller বা logistics partner customer-কে document দরকার হলে official notification দেয়। আপাতত আপনার account-এ কোনো document request দেখা যাচ্ছে না।
+
+**৯. কাস্টমারঃ** Customs duty লাগলে কি delivery rider-এর হাতে cash দিতে হবে, নাকি app-এ payment option আসবে?
+
+**১০. এজেন্টঃ** স্যার, কোনো duty বা official fee থাকলে authorized logistics channel থেকেই instruction আসবে। Unverified phone call বা personal number-এ টাকা পাঠাবেন না।
+
+**১১. কাস্টমারঃ** Seller-এর সঙ্গে chat করেছি, কিন্তু তারা শুধু বলছে wait করতে। Daraz কি exact clearance date জানাতে পারে?
+
+**১২. এজেন্টঃ** দুঃখিত স্যার, customs authority-এর internal timeline Daraz বা seller নির্ধারণ করতে পারে না। তবে shipment escalation পাঠিয়ে current document status এবং estimated next update চাওয়া যায়।
+
+**১৩. কাস্টমারঃ** আমি এই accessory নিয়ে project presentation করতে চেয়েছিলাম। Delay হলে order cancel করে local seller থেকে কিনতে হবে।
+
+**১৪. এজেন্টঃ** আপনার deadline note করছি স্যার। Customs release সম্ভব না হলে বা shipment lost হলে cancellation এবং refund eligibility আলাদাভাবে review করা হবে।
+
+**১৫. কাস্টমারঃ** Cancel করলে কি customs-এর কারণে আমার account-এ কোনো penalty হবে?
+
+**১৬. এজেন্টঃ** না স্যার, documented customs delay বা delivery failure customer misconduct নয়। তবে shipment already released হলে cancellation option সীমিত হতে পারে।
+
+**১৭. কাস্টমারঃ** Parcel customs থেকে release হওয়ার পর delivery কতদিনে হতে পারে?
+
+**১৮. এজেন্টঃ** স্যার, release scan পাওয়ার পর local courier handover হয়। এরপর destination এবং courier route অনুযায়ী সাধারণত কয়েক কর্মদিবস লাগতে পারে।
+
+**১৯. কাস্টমারঃ** Tracking update না এলে কি আমি নিজে customs office-এ যোগাযোগ করবো?
+
+**২০. এজেন্টঃ** স্যার, order reference ছাড়া সরাসরি যাওয়ার দরকার নেই। আগে logistics investigation result নিন; official contact information ছাড়া কোনো third party-র সঙ্গে কথা বলবেন না।
+
+**২১. কাস্টমারঃ** আমার জন্য escalation ticket খুলুন এবং document দরকার হলে আমাকে জানাবেন।
+
+**২২. এজেন্টঃ** আপনার international shipment reference DZ-CUS-২০২৬-০১৫। Logistics team customs status review করবে এবং update পাওয়া গেলে SMS বা app notification পাঠাবে।
+
+**২৩. কাস্টমারঃ** ঠিক আছে আরিফ ভাই। Unknown caller-কে টাকা না দেওয়ার সতর্কতাটি কাজে লাগবে।
+
+**২৪. এজেন্টঃ** আপনাকেও ধন্যবাদ স্যার। Official Daraz channel ছাড়া duty, clearance fee বা refund সংক্রান্ত কোনো payment করবেন না।
+
+---
+
+## সিনারিও ১৬ঃ Delivery rider ভুল নম্বরে call করেছে
+
+> একজন customer-এর order-এ phone number-এর একটি digit ভুল থাকায় rider অন্য নম্বরে যোগাযোগ করেছেন। Customer address ঠিক থাকলেও delivery missed হয়েছে এবং reattempt-এর জন্য call করেন।
+
+**১. কাস্টমারঃ** আমার address ঠিক আছে, কিন্তু rider বলছে phone number ভুল। সে অন্য একজনকে call করেছে, তাই parcel delivery হয়নি।
+
+**২. এজেন্টঃ** Daraz customer care থেকে সাবরিনা বলছি। Contact information mismatch-এর জন্য দুঃখিত স্যার। Order ID এবং tracking status জানাবেন?
+
+**৩. কাস্টমারঃ** Order ID DZ-৬৯০১২৩৪৫৭। Tracking-এ delivery attempted দেখাচ্ছে, কিন্তু আমার phone-এ কোনো call আসেনি।
+
+**৪. এজেন্টঃ** ধন্যবাদ স্যার। আপনার registered number এবং order details-এ যে contact number দেখা যাচ্ছে, দুটির মধ্যে পার্থক্যটি বলবেন?
+
+**৫. কাস্টমারঃ** আমার সঠিক নম্বর ০১৯৮৭৬৫৪৩২১। Order-এ সম্ভবত ০১৯৮৭৬৫৪৩১২ লেখা হয়েছে, শেষ দুই digit উল্টো।
+
+**৬. এজেন্টঃ** বুঝতে পেরেছি স্যার। আমি account profile এবং order snapshot আলাদা করে check করছি, কারণ order place করার পর contact change সব shipment-এ automatically apply নাও হতে পারে।
+
+**৭. কাস্টমারঃ** Address একদম ঠিক আছে। শুধু number ভুল হওয়ায় কি parcel আবার seller-এর কাছে ফিরে যাবে?
+
+**৮. এজেন্টঃ** স্যার, প্রথম attempt-এর পর এখনো return initiated হয়নি। আমি courier-কে correct contact number দিয়ে reattempt request পাঠাচ্ছি।
+
+**৯. কাস্টমারঃ** আজকের মধ্যে delivery সম্ভব? আমি কাল সকালে শহরের বাইরে যাবো।
+
+**১০. এজেন্টঃ** আপনার travel plan note করছি স্যার। Same-day reattempt courier route-এর উপর নির্ভর করবে, তাই আমি urgent request দিতে পারি কিন্তু নিশ্চিত সময় বলতে পারছি না।
+
+**১১. কাস্টমারঃ** আমি আমার বাবাকে authorized receiver করতে চাই। Rider যদি আমাকে না পায়, তিনি parcel নিতে পারবেন?
+
+**১২. এজেন্টঃ** জ্বী স্যার, account instruction-এ আপনার বাবার নাম এবং alternate contact যুক্ত করা যায়। Receiver-এর কাছে order ID এবং আপনার অনুমতি থাকা দরকার হবে।
+
+**১৩. কাস্টমারঃ** বাবার নাম আব্দুল করিম, আর alternate number ০১৭১২৩৪৫৬৭৮। এগুলো কি rider দেখতে পাবে?
+
+**১৪. এজেন্টঃ** Delivery instruction-এ authorized receiver ও alternate contact যুক্ত করছি স্যার। Privacy-এর জন্য কেবল প্রয়োজনীয় contact information courier view করবে।
+
+**১৫. কাস্টমারঃ** ভুল নম্বরটি কি পুরোপুরি delete হবে? আমি চাই না ভবিষ্যৎ order-এ আবার একই সমস্যা হোক।
+
+**১৬. এজেন্টঃ** স্যার, MyDaraz app-এর Account এবং Address Book section-এ গিয়ে saved address edit করুন। Correct phone number দিয়ে addressটি default হিসেবে set করলে পরের order-এ ভুল কমবে।
+
+**১৭. কাস্টমারঃ** App-এ profile number ঠিক আছে, কিন্তু এই পুরনো address record-এ ভুল ছিল। আমি এখন update করছি।
+
+**১৮. এজেন্টঃ** ভালো করছেন স্যার। Address update করার পর current order-এ change apply হয়েছে কিনা আমি system-এ check করছি, কারণ dispatched order আলাদাভাবে update করতে হয়।
+
+**১৯. কাস্টমারঃ** যদি rider আবার ভুল নম্বরে call করে, তাহলে আমি কীভাবে বুঝবো সে আমার parcel-এর জন্য এসেছে?
+
+**২০. এজেন্টঃ** স্যার, rider-এর কাছ থেকে order ID এবং product name confirm করবেন। কোনো OTP বা payment information অচেনা নম্বরে শেয়ার করবেন না।
+
+**২১. কাস্টমারঃ** Reattempt request-এর reference number দিন। আমি বাবাকে আগে থেকে জানিয়ে রাখবো।
+
+**২২. এজেন্টঃ** আপনার contact correction reference DZ-CON-২০২৬-০১৬। Courier team updated number-এ call করবে এবং alternate receiver instruction অনুযায়ী delivery চেষ্টা করবে।
+
+**২৩. কাস্টমারঃ** ঠিক আছে সাবরিনা আপু। Address Book-এ number update করে বাবাকে authorized receiver হিসেবে জানিয়ে দিচ্ছি।
+
+**২৪. এজেন্টঃ** ধন্যবাদ স্যার। Delivery confirmation-এর আগে parcel label এবং product details মিলিয়ে নেবেন। আপনার travel-এর আগেই update দেওয়ার চেষ্টা করা হবে।
+
+---
+
+## সিনারিও ১৭ঃ প্রোডাক্টের রং ছবির সঙ্গে মিলছে না
+
+> একজন customer website-এর ছবিতে navy blue shirt দেখে order করেছিলেন। Delivery-এর পর তিনি দেখেন shirt-এর রং অনেক হালকা এবং listing image-এর সঙ্গে যথেষ্ট পার্থক্য রয়েছে।
+
+**১. কাস্টমারঃ** আমি navy blue shirt অর্ডার করেছিলাম, কিন্তু যে shirt এসেছে সেটি অনেক হালকা blue। ছবির সঙ্গে রং একদম মিলছে না।
+
+**২. এজেন্টঃ** Daraz customer care থেকে ফারিয়া বলছি ম্যাম। Product color mismatch নিয়ে আপনার অসুবিধাটি বুঝতে পারছি। আপনি কি item-এর label এবং received color নিশ্চিত করবেন?
+
+**৩. কাস্টমারঃ** Label-এ navy blue লেখা আছে, কিন্তু বাস্তবে এটি faded sky blue-এর মতো দেখাচ্ছে। ছবিতে shirt অনেক গাঢ় এবং premium মনে হয়েছিল।
+
+**৪. এজেন্টঃ** ম্যাম, আপনার product page-এর color option এবং received item-এর ছবি মিলিয়ে দেখা দরকার। অনুগ্রহ করে product-এর ছবি, label এবং packaging-এর ছবি সংরক্ষণ করবেন।
+
+**৫. কাস্টমারঃ** আমি ইতিমধ্যে daylight-এ ছবি তুলেছি। ছবিতে পরিষ্কার দেখা যাচ্ছে, listing-এর navy blue আর এই shirt-এর color একই নয়।
+
+**৬. এজেন্টঃ** বুঝতে পারছি ম্যাম। কিছু screen বা lighting-এর কারণে সামান্য color variation হতে পারে, তবে noticeable mismatch হলে এটি return review-এর আওতায় পড়তে পারে।
+
+**৭. কাস্টমারঃ** এখানে সামান্য variation নয়, পুরো shade আলাদা। আমি অফিসে পরার জন্য কিনেছিলাম, এই রং আমার পছন্দ হচ্ছে না।
+
+**৮. এজেন্টঃ** আপনার ব্যবহারিক সমস্যাটি বুঝলাম ম্যাম। আমি return reason হিসেবে “Product color does not match listing” নির্বাচন করে request process বুঝিয়ে দিচ্ছি।
+
+**৯. কাস্টমারঃ** আমি replacement চাই না। একই seller-এর কাছ থেকে আবার order করলে আবার ভুল color আসার ভয় আছে।
+
+**১০. এজেন্টঃ** তাহলে ম্যাম, refund preference request-এ উল্লেখ করছি। Seller review এবং product condition যাচাইয়ের পর refund approval দেওয়া হবে।
+
+**১১. কাস্টমারঃ** Shirt আমি একবার try করেছি, কিন্তু বাইরে পরিনি এবং কোনো tag খুলিনি। এতে return করতে সমস্যা হবে?
+
+**১২. এজেন্টঃ** Tag, packaging এবং product condition অক্ষত থাকলে return review সহজ হয় ম্যাম। Shirt ধোয়া, ব্যবহার বা perfume লাগানো থেকে বিরত থাকবেন।
+
+**১৩. কাস্টমারঃ** Return pickup কি বাসা থেকে হবে? আমার অফিসের সময় courier এলে বাসায় কাউকে থাকতে হবে।
+
+**১৪. এজেন্টঃ** Pickup schedule হওয়ার আগে SMS বা app notification আসবে ম্যাম। আপনি চাইলে available pickup date অনুযায়ী slot নির্বাচন করতে পারবেন।
+
+**১৫. কাস্টমারঃ** Seller যদি বলে color variation স্বাভাবিক, তাহলে কি আমার return বাতিল হয়ে যাবে?
+
+**১৬. এজেন্টঃ** ম্যাম, seller-এর বক্তব্যের পাশাপাশি listing image, selected variant এবং আপনার evidence review করা হবে। Final decision কেবল seller-এর কথার উপর নির্ভর করবে না।
+
+**১৭. কাস্টমারঃ** Product page-এর screenshot কি এখনই upload করবো? পরে listing image বদলে গেলে সমস্যা হতে পারে।
+
+**১৮. এজেন্টঃ** জ্বী ম্যাম, selected color option এবং original listing-এর screenshot এখনই upload করে রাখুন। এটি claim review-এর সময় গুরুত্বপূর্ণ evidence হবে।
+
+**১৯. কাস্টমারঃ** Refund approved হলে আমি যে delivery fee দিয়েছি, সেটিও কি ফেরত পাবো?
+
+**২০. এজেন্টঃ** ম্যাম, product mismatch প্রমাণিত হলে refund এবং applicable delivery charge policy অনুযায়ী review করা হবে। Approval result notification-এ বিস্তারিত amount দেখবেন।
+
+**২১. কাস্টমারঃ** Return request numberটা বলবেন? আমি ছবি আর screenshot upload করে রাখছি।
+
+**২২. এজেন্টঃ** আপনার return reference DZ-COL-২০২৬-০১৭। Request submit করার পর pickup confirmation এবং seller review status app-এ দেখতে পারবেন।
+
+**২৩. কাস্টমারঃ** ঠিক আছে ফারিয়া আপু। Shirtটি tag-সহ আগের মতো রেখে ছবি upload করছি।
+
+**২৪. এজেন্টঃ** ভালো করবেন ম্যাম। Pickup-এর সময় parcel handover receipt নেবেন এবং refund confirmation না আসা পর্যন্ত reference numberটি সংরক্ষণ করবেন।
+
+---
+
+## সিনারিও ১৮ঃ নতুন product হিসেবে order করে ব্যবহৃত item পাওয়া গেছে
+
+> একজন customer Daraz-এ “Brand New” লেখা একটি smartwatch কিনেছেন। Delivery-এর পর তিনি দেখেন watch-এ scratches, previous user data এবং charging history-এর চিহ্ন রয়েছে।
+
+**১. কাস্টমারঃ** আমি নতুন smartwatch কিনেছিলাম, কিন্তু box খুলে মনে হচ্ছে এটি আগে কেউ ব্যবহার করেছে। Screen-এ scratches আর পুরনো data দেখা যাচ্ছে।
+
+**২. এজেন্টঃ** Daraz customer care থেকে আরিফ বলছি স্যার। নতুন product-এর বদলে used item পাওয়া গুরুতর বিষয়। আপনি কি device চালু করার আগে কোনো ছবি তুলেছেন?
+
+**৩. কাস্টমারঃ** হ্যাঁ, unboxing video করেছি। Watch চালু করলে আগের একজনের fitness data আর কিছু notification দেখা যায়।
+
+**৪. এজেন্টঃ** স্যার, খুব ভালো করেছেন। অনুগ্রহ করে device reset করবেন না, account-এ login করবেন না এবং unboxing video original অবস্থায় সংরক্ষণ করবেন।
+
+**৫. কাস্টমারঃ** Box-এর seal বাইরে থেকে ঠিক ছিল, কিন্তু watch-এর strap-এ দাগ এবং screen-এ ছোট scratches আছে।
+
+**৬. এজেন্টঃ** বুঝতে পারছি স্যার। এটি “Used or previously opened product sold as new” reason-এ report করা হচ্ছে। Seller এবং fulfillment record দুই দিক থেকেই investigation হবে।
+
+**৭. কাস্টমারঃ** আমি full refund চাই। এমন device ব্যবহার করা security risk হতে পারে, বিশেষ করে আগের user-এর data যখন ছিল।
+
+**৮. এজেন্টঃ** আপনার concern একদম যৌক্তিক স্যার। Return request-এ full refund preference যোগ করছি এবং productটি ব্যবহার না করার নির্দেশ দিচ্ছি।
+
+**৯. কাস্টমারঃ** Charger আর extra strap box-এর ভিতর আছে। সবকিছু একসঙ্গে ফেরত দিতে হবে?
+
+**১০. এজেন্টঃ** জ্বী স্যার, watch, charger, strap, manual এবং packaging-এর সব অংশ একসঙ্গে রাখবেন। কিছু missing থাকলে inspection delay হতে পারে।
+
+**১১. কাস্টমারঃ** Seller কি আমাকে সরাসরি call করে settlement করতে পারে? আমি platform-এর বাইরে কোনো কথা বলতে চাই না।
+
+**১২. এজেন্টঃ** স্যার, সব communication Daraz chat বা official support channel-এ রাখবেন। Seller ব্যক্তিগত নম্বরে refund বা settlement প্রস্তাব দিলে payment বা personal information দেবেন না।
+
+**১৩. কাস্টমারঃ** আমি কি seller-এর বিরুদ্ধে counterfeit বা fraud complaint করতে পারি?
+
+**১৪. এজেন্টঃ** স্যার, Used product হিসেবে report করা হচ্ছে। Investigation-এ intentional misrepresentation পাওয়া গেলে seller conduct review এবং marketplace action নেওয়া হতে পারে।
+
+**১৫. কাস্টমারঃ** Return pickup-এর সময় courier agent কি unboxing video দেখতে চাইবে?
+
+**১৬. এজেন্টঃ** প্রয়োজনে inspection team evidence চাইতে পারে স্যার, তবে pickup agent-এর কাছে phone unlock বা personal account information দেওয়ার দরকার নেই।
+
+**১৭. কাস্টমারঃ** Device-এ আগের user-এর data ছিল, তাই privacy নিয়ে চিন্তা হচ্ছে। আমি কি watch-এর network বন্ধ করে রাখবো?
+
+**১৮. এজেন্টঃ** জ্বী স্যার, device ব্যবহার না করে power off করে রাখুন। কোনো account access, pairing বা reset করবেন না; investigation-এর জন্য original condition গুরুত্বপূর্ণ।
+
+**১৯. কাস্টমারঃ** Seller যদি product genuine বলে claim করে, তাহলে আমার video কি যথেষ্ট evidence হবে?
+
+**২০. এজেন্টঃ** স্যার, unboxing video, scratches-এর ছবি, previous data এবং packaging label একসঙ্গে review করা হবে। Evidence clear থাকলে আপনার claim শক্তিশালী হবে।
+
+**২১. কাস্টমারঃ** আমার refund request কতদিনে review হবে?
+
+**২২. এজেন্টঃ** আপনার case reference DZ-AUT-২০২৬-০১৮। Pickup এবং inspection শেষ হলে refund decision app notification-এ জানানো হবে।
+
+**২৩. কাস্টমারঃ** ঠিক আছে আরিফ ভাই। আমি device বন্ধ রেখে সব accessories এবং video সংরক্ষণ করছি।
+
+**২৪. এজেন্টঃ** ধন্যবাদ স্যার। Productটি charge বা pair করবেন না, এবং pickup-এর সময় handover receipt সংগ্রহ করবেন। আপনার privacy concern-টিও case notes-এ যুক্ত করা হয়েছে।
+
+---
+
+## সিনারিও ১৯ঃ Size chart অনুসরণ করেও পোশাক tight হয়েছে
+
+> একজন customer listing-এর size chart অনুযায়ী kurti order করেছেন। Delivery-এর পর তিনি দেখেন পোশাকটি measurement অনুযায়ী নয় এবং পরলে অস্বস্তিকরভাবে tight লাগে।
+
+**১. কাস্টমারঃ** আপু, আমি size chart দেখে kurti order করেছিলাম, কিন্তু delivery-এর পর দেখি এটি অনেক tight। Listing-এর measurement-এর সঙ্গে মিলছে না।
+
+**২. এজেন্টঃ** Daraz customer care থেকে নুসরাত বলছি ম্যাম। Size mismatch নিয়ে আপনার অসুবিধার জন্য দুঃখিত। আপনি কি garment-এর measurement নিয়েছেন?
+
+**৩. কাস্টমারঃ** হ্যাঁ, বুকের মাপ listing-এ ৪২ inch লেখা ছিল, কিন্তু received kurti মেপে প্রায় ৩৯ inch পাচ্ছি।
+
+**৪. এজেন্টঃ** ম্যাম, measurement নেওয়ার সময় garmentটি flat surface-এ রেখে দুই পাশ মেপে পুরো width হিসাব করেছেন তো?
+
+**৫. কাস্টমারঃ** জ্বী, flat করে মেপেছি এবং দুই পাশের measurement যোগ করেছি। আমার কাছে measurement-এর ছবিও আছে।
+
+**৬. এজেন্টঃ** খুব ভালো ম্যাম। Listing size chart এবং received product-এর measurement-এর ছবি একসঙ্গে upload করবেন, যাতে mismatch পরিষ্কারভাবে দেখা যায়।
+
+**৭. কাস্টমারঃ** আমি exchange চাই। একই design-এর বড় size যদি থাকে, তাহলে refund না নিয়ে সেটিই নিতে চাই।
+
+**৮. এজেন্টঃ** আপনার preference request-এ লিখে দিচ্ছি ম্যাম। Seller-এর inventory থাকলে size exchange option review করা হবে; না থাকলে refund alternative দেওয়া হবে।
+
+**৯. কাস্টমারঃ** Kurti একবার পরে দেখেছি, কিন্তু বাইরে পরিনি। Tag এখনো attached আছে, তবে packaging খুলে ফেলেছি।
+
+**১০. এজেন্টঃ** ম্যাম, try-on করা সাধারণত size check-এর অংশ হতে পারে, যদি product ব্যবহৃত বা damaged না হয়। Tag এবং original packaging যতটা সম্ভব অক্ষত রাখবেন।
+
+**১১. কাস্টমারঃ** Seller বলছে sale item exchange করা যায় না। কিন্তু size chart যদি ভুল হয়, তাহলে কি policy আলাদা হবে?
+
+**১২. এজেন্টঃ** ম্যাম, সাধারণ preference change আর listing measurement mismatch এক বিষয় নয়। আপনার evidence অনুযায়ী claimটি product information mismatch হিসেবে review হবে।
+
+**১৩. কাস্টমারঃ** Return pickup-এর আগে কি tailor-এর কোনো measurement report দরকার হবে?
+
+**১৪. এজেন্টঃ** সাধারণত দরকার হয় না ম্যাম। আপনার measurement photo, size chart screenshot এবং product tag যথেষ্ট প্রাথমিক evidence হিসেবে কাজ করবে।
+
+**১৫. কাস্টমারঃ** আমি যদি exchange পাই, courier কি পুরনো kurti নিয়ে নতুন size একই সময়ে দেবে?
+
+**১৬. এজেন্টঃ** ম্যাম, exchange process seller এবং fulfillment availability-এর উপর নির্ভর করে। সাধারণত আগে returned item inspection হয়, তারপর replacement shipment তৈরি করা হয়।
+
+**১৭. কাস্টমারঃ** Eid-এর আগে outfitটি দরকার। Exchange দেরি হলে আমার জন্য আর ব্যবহারযোগ্য থাকবে না।
+
+**১৮. এজেন্টঃ** আপনার deadline note করছি ম্যাম। তবে replacement delivery date inventory confirm না হওয়া পর্যন্ত নিশ্চিত বলা ঠিক হবে না; refund option দ্রুততর হতে পারে।
+
+**১৯. কাস্টমারঃ** তাহলে exchange আর refund-এর মধ্যে আমি পরে সিদ্ধান্ত নিতে পারবো?
+
+**২০. এজেন্টঃ** জ্বী ম্যাম, Seller response ও inspection result আসার পর available options দেখতে পারবেন। Request-এ exchange preference রাখা হয়েছে, কিন্তু final option notification-এ থাকবে।
+
+**২১. কাস্টমারঃ** Request reference এবং ছবি upload করার শেষ সময়টা বলবেন?
+
+**২২. এজেন্টঃ** আপনার size mismatch reference DZ-SIZ-২০২৬-০১৯। যত দ্রুত সম্ভব, preferably আজকের মধ্যেই ছবি upload করবেন, যাতে review শুরু হতে দেরি না হয়।
+
+**২৩. কাস্টমারঃ** ঠিক আছে নুসরাত আপু। আমি measurement, size chart এবং tag-এর ছবি এখনই পাঠাচ্ছি।
+
+**২৪. এজেন্টঃ** ধন্যবাদ ম্যাম। Kurti ধোবেন বা alter করবেন না; alteration হলে size mismatch verification জটিল হয়ে যেতে পারে।
+
+---
+
+## সিনারিও ২০ঃ Electronics product delivery-এর পর চালু হচ্ছে না
+
+> একজন customer Daraz থেকে Bluetooth speaker কিনেছেন। Delivery-এর পর charging, power button এবং alternate cable পরীক্ষা করেও speaker চালু হয়নি।
+
+**১. কাস্টমারঃ** আমার Bluetooth speaker আজ এসেছে, কিন্তু একদম চালু হচ্ছে না। Power button চাপলেও কোনো light বা sound পাচ্ছি না।
+
+**২. এজেন্টঃ** Daraz customer care থেকে রাকিব বলছি স্যার। Delivery-এর পরপরই এমন সমস্যা হওয়ায় দুঃখিত। Productটি কি charge করার চেষ্টা করেছেন?
+
+**৩. কাস্টমারঃ** জ্বী, প্রায় এক ঘণ্টা charge দিয়েছি। Original cable এবং অন্য একটি cable দুটো দিয়েই চেষ্টা করেছি, তবুও response নেই।
+
+**৪. এজেন্টঃ** স্যার, charging port-এ কোনো visible damage, loose connection বা burnt smell আছে কি? নিরাপত্তার জন্য damaged হলে আর charge দেবেন না।
+
+**৫. কাস্টমারঃ** Port ঠিক দেখাচ্ছে, burnt smell নেই। কিন্তু box-এর ভিতরের manual-এ product test করার কোনো নির্দেশনা পাইনি।
+
+**৬. এজেন্টঃ** বুঝতে পারছি স্যার। Power button সাধারণত কয়েক সেকেন্ড ধরে রাখতে হয়, তবে repeated charging বা force reset না করাই ভালো। আমি return process শুরু করছি।
+
+**৭. কাস্টমারঃ** আমি replacement চাই। Productটি gift হিসেবে কিনেছিলাম, refund নিয়ে আবার নতুন করে order করলে সময় লাগবে।
+
+**৮. এজেন্টঃ** আপনার replacement preference request-এ যোগ করছি স্যার। Seller stock এবং technical inspection অনুযায়ী replacement approve হতে পারে।
+
+**৯. কাস্টমারঃ** Speaker-এর box-এর seal আগে খোলা ছিল কিনা নিশ্চিত নই। বাইরে কোনো বড় damage ছিল না, তাই তখন check করিনি।
+
+**১০. এজেন্টঃ** স্যার, unboxing photo বা video থাকলে upload করবেন। Box, serial label, accessories এবং device-এর power failure-এর ছবি সংরক্ষণ করুন।
+
+**১১. কাস্টমারঃ** Unboxing video নেই, তবে power button চাপার ভিডিও করেছি। Device একদম response করছে না।
+
+**১২. এজেন্টঃ** এই video যথেষ্ট প্রাথমিক evidence হিসেবে কাজে লাগবে স্যার। Productটি খুলে repair করার চেষ্টা করবেন না, এতে warranty বা return inspection প্রভাবিত হতে পারে।
+
+**১৩. কাস্টমারঃ** Seller আমাকে বলেছে local service center-এ নিয়ে যেতে। Daraz থেকে কেনার পর সেটা কি আমার দায়িত্ব?
+
+**১৪. এজেন্টঃ** স্যার, নতুন অবস্থায় কাজ না করা product-এর ক্ষেত্রে আগে Daraz return বা replacement case follow করবেন। Official ticket ছাড়া নিজে repair করাতে যাবেন না।
+
+**১৫. কাস্টমারঃ** Pickup কি doorstep থেকে হবে? Speaker ছোট হলেও আমি ব্যস্ত থাকি, courier office-এ যাওয়া সম্ভব নয়।
+
+**১৬. এজেন্টঃ** আপনার address coverage থাকলে doorstep pickup schedule করা হবে স্যার। Pickup date এবং time window SMS বা app notification-এ জানানো হবে।
+
+**১৭. কাস্টমারঃ** যদি inspection-এ তারা বলে product কাজ করছিল, তাহলে কি replacement পাবো না?
+
+**১৮. এজেন্টঃ** স্যার, inspection-এর সময় power test, serial number এবং physical condition দেখা হবে। আপনার video এবং charging attempts-এর তথ্য review team-কে দেওয়া হচ্ছে।
+
+**১৯. কাস্টমারঃ** Replacement approve হলে নতুন speaker আসতে কতদিন লাগতে পারে?
+
+**২০. এজেন্টঃ** Seller stock confirm হওয়ার পর replacement dispatch হবে। Exact timeline inspection complete এবং shipment create হওয়ার পর app-এ দেখানো হবে।
+
+**২১. কাস্টমারঃ** আমি চাই না dead product রেখে seller replacement delay করুক। Case-টি priority হিসেবে mark করবেন?
+
+**২২. এজেন্টঃ** জ্বী স্যার, এটি “Dead on arrival” হিসেবে priority review-তে পাঠাচ্ছি। আপনার reference DZ-DOA-২০২৬-০২০, এটিতে সব evidence যুক্ত থাকবে।
+
+**২৩. কাস্টমারঃ** ঠিক আছে রাকিব ভাই। Speaker খুলে দেখবো না, packaging আর video সংরক্ষণ করছি।
+
+**২৪. এজেন্টঃ** খুব ভালো করবেন স্যার। Device আর charge দেবেন না, accessoriesসহ original packaging-এ রাখবেন এবং pickup-এর সময় handover receipt নেবেন।
