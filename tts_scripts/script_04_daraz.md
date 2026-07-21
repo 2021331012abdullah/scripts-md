@@ -218,3 +218,436 @@
 **২৩. এজেন্টঃ** আপনাকেও ধন্যবাদ সালমা ম্যাম। Daraz-এ কেনাকাটা উপভোগ করুন, শুভ দিন কাটুক।
 
 ---
+
+## সিনারিও ৫ঃ Fragile আইটেম বিনা packaging-এ ডেলিভারি
+
+> একজন কাস্টমার ceramic dinner set অর্ডার করেছেন। Parcel-এ কোনো bubble wrap বা fragile label ছিল না, ফলে কয়েকটি plate ভেঙে গেছে।
+
+**১. এজেন্টঃ** Daraz customer care থেকে সাবরিনা বলছি। আপনার সমস্যাটি বলুন স্যার, আমি order details দেখে যথাযথভাবে সাহায্য করছি।
+
+**২. কাস্টমারঃ** আপু, আমি ceramic dinner set অর্ডার করেছিলাম। Parcel খুলে দেখি packaging প্রায় ছিলই না, কয়েকটি plate ভেঙে গেছে।
+
+**৩. এজেন্টঃ** আপনার অসুবিধার জন্য দুঃখিত স্যার। Damaged item claim করার জন্য আপনার order ID এবং product-এর নামটি বলবেন?
+
+**৪. কাস্টমারঃ** Order ID DZ-৮৯০১২৩৪৫৬। Product ছিল twelve-piece ceramic dinner set, আর delivery পেয়েছি আজ দুপুরে।
+
+**৫. এজেন্টঃ** ধন্যবাদ স্যার। আপনার registered mobile number এবং parcel-এর বাইরের packaging কেমন ছিল, সেটি একটু জানাবেন?
+
+**৬. কাস্টমারঃ** আমার নম্বর ০১৭১২৩৪৫৬৭৮। শুধু পাতলা carton ছিল, কোনো bubble wrap, foam বা Fragile sticker কিছুই ছিল না।
+
+**৭. এজেন্টঃ** বুঝতে পেরেছি স্যার। বিস্তারিত বুঝিয়ে বলছি, fragile product-এর ক্ষেত্রে seller-এর নিরাপদ packaging ব্যবহার করা উচিত। Claim যাচাইয়ের জন্য product, box label এবং damaged অংশের ছবি দরকার হবে।
+
+**৮. কাস্টমারঃ** আমি ছবি তুলেছি। মোট চারটি plate ভেঙেছে, আর দুইটি plate-এ বড় crack আছে। বাকি জিনিসগুলোও ব্যবহার করতে ভয় লাগছে।
+
+**৯. এজেন্টঃ** স্যার, অনুগ্রহ করে ভাঙা ceramic অংশগুলো আলাদা করে নিরাপদ স্থানে রাখবেন। আমি এখন আপনার order-এর জন্য damaged delivery return request তৈরি করছি।
+
+**১০. কাস্টমারঃ** আমি পুরো set-এর replacement চাই। শুধু চারটি plate বদলালে design আর color একই থাকবে কিনা নিশ্চিত নই।
+
+**১১. এজেন্টঃ** আপনার replacement preference request-এ লিখে দিলাম স্যার। Seller-এর কাছে একই set থাকলে complete replacement-এর জন্য পাঠানো হবে।
+
+**১২. কাস্টমারঃ** Seller যদি replacement না দেয়, তাহলে কি পুরো টাকা refund হবে? আমি অসম্পূর্ণ dinner set রাখতে চাই না।
+
+**১৩. এজেন্টঃ** জ্বী স্যার, stock না থাকলে অথবা replacement সম্ভব না হলে policy অনুযায়ী full refund option review করা হবে।
+
+**১৪. কাস্টমারঃ** Return pickup-এর আগে কি আমাকে damaged item আবার pack করতে হবে? ভাঙা জিনিস ঠিকভাবে pack করা কঠিন।
+
+**১৫. এজেন্টঃ** স্যার, শক্ত carton ব্যবহার করে প্রতিটি ভাঙা অংশ কাগজ বা bubble wrap দিয়ে আলাদা করবেন। বাইরে Fragile এবং Handle with care লিখে রাখবেন।
+
+**১৬. কাস্টমারঃ** Pickup কি আমার বাসা থেকে হবে, নাকি আমাকে courier office-এ নিয়ে যেতে হবে?
+
+**১৭. এজেন্টঃ** আপনার ঠিকানা pickup coverage-এর মধ্যে থাকলে courier representative বাসা থেকেই item সংগ্রহ করবে। Schedule হলে app এবং SMS-এ সময় জানানো হবে।
+
+**১৮. কাস্টমারঃ** Seller packaging ঠিক ছিল বললে কি আমার claim বাতিল হয়ে যাবে? আমি তো delivery সময়েই damage দেখেছি।
+
+**১৯. এজেন্টঃ** না স্যার, আপনার ছবি, packaging condition এবং delivery record একসঙ্গে review করা হবে। Seller-এর বক্তব্য একা claim বাতিলের কারণ নয়।
+
+**২০. কাস্টমারঃ** ঠিক আছে আপু। Return request-এর reference number এবং পরবর্তী update কখন পাবো?
+
+**২১. এজেন্টঃ** আপনার ticket number DZ-RET-২০২৬-০০৫। সাধারণত ২৪ থেকে ৭২ ঘণ্টার মধ্যে pickup update এবং এরপর inspection result জানানো হয়।
+
+**২২. কাস্টমারঃ** বুঝেছি সাবরিনা আপু। আমি এখন ছবি upload করে item নিরাপদে রাখছি, ধন্যবাদ।
+
+**২৩. এজেন্টঃ** আপনাকেও ধন্যবাদ স্যার। Pickup না হওয়া পর্যন্ত broken ceramic শিশুদের কাছ থেকে দূরে রাখবেন। Daraz team আপনার request follow করবে।
+
+---
+
+## সিনারিও ৬ঃ Delivery rider COD amount-এর বাইরে অতিরিক্ত টাকা চাইছে
+
+> একজন কাস্টমার COD order গ্রহণের সময় rider-এর অতিরিক্ত টাকা দাবি নিয়ে কল করেন। App-এ কোনো additional charge না থাকলেও rider delivery fee দাবি করেছে।
+
+**১. কাস্টমারঃ** Daraz থেকে parcel এসেছে, কিন্তু rider app-এ দেখানো টাকার চেয়ে ২০০ টাকা বেশি চাইছে। এই charge কি বৈধ?
+
+**২. এজেন্টঃ** Daraz customer care থেকে তানিম বলছি। বিষয়টি যাচাই করছি স্যার। আপনার order ID এবং app-এ দেখানো payable amount বলবেন?
+
+**৩. কাস্টমারঃ** Order ID DZ-৩৪৫৬৭৮৯০১। App-এ amount ৮৫০ টাকা, কিন্তু rider মোট ১,০৫০ টাকা চাইছে।
+
+**৪. এজেন্টঃ** ধন্যবাদ স্যার। আপনার registered number এবং rider অতিরিক্ত ২০০ টাকার কারণ হিসেবে কী বলেছেন?
+
+**৫. কাস্টমারঃ** আমার নম্বর ০১৯১২৩৪৫৬৭৮। তিনি বলেছেন আমার এলাকা নাকি special delivery zone, তাই extra charge দিতে হবে।
+
+**৬. এজেন্টঃ** আমি order summary চেক করছি স্যার। সেখানে product price এবং delivery fee মিলিয়ে payable amount ৮৫০ টাকা দেখাচ্ছে, কোনো special charge নেই।
+
+**৭. কাস্টমারঃ** তাহলে আমি কি শুধু ৮৫০ টাকা দিয়ে parcel নিতে পারবো? Rider বলছে অতিরিক্ত টাকা না দিলে delivery cancel করবে।
+
+**৮. এজেন্টঃ** জ্বী স্যার, app-এ প্রদর্শিত official amount-এর বাইরে payment করবেন না। আমি এখন rider supervisor-এর কাছে বিষয়টি escalate করছি।
+
+**৯. কাস্টমারঃ** Rider এখনো gate-এর সামনে আছে। আমি তাকে অপেক্ষা করতে বলেছি, কিন্তু সে খুব রাগারাগি করছে।
+
+**১০. এজেন্টঃ** স্যার, আপনি শান্ত থাকুন এবং কোনো তর্কে যাবেন না। আমি delivery record দেখে rider-এর assigned route ও payable instruction verify করছি।
+
+**১১. কাস্টমারঃ** আমি cash নিয়ে দাঁড়িয়ে আছি। যদি official amount দিয়ে parcel নিই, receipt কীভাবে নিশ্চিত করবো?
+
+**১২. এজেন্টঃ** স্যার, ৮৫০ টাকা দেওয়ার পর delivery confirmation অথবা payment receipt চাইবেন। App-এ order status delivered হওয়ার screenshot-ও রেখে দেবেন।
+
+**১৩. কাস্টমারঃ** Supervisor কি rider-এর সঙ্গে কথা বলেছেন? আমি চাই সমস্যাটি এখনই শেষ হোক।
+
+**১৪. এজেন্টঃ** জ্বী স্যার, supervisor rider-কে নিশ্চিত করেছেন যে আপনার order-এ কোনো additional fee নেই। Rider-কে শুধু ৮৫০ টাকা গ্রহণ করে delivery করতে বলা হয়েছে।
+
+**১৫. কাস্টমারঃ** ভালো। কিন্তু এই rider যদি অন্য customer-এর কাছ থেকেও extra charge নেয়, তাহলে কি ব্যবস্থা হবে?
+
+**১৬. এজেন্টঃ** আপনার অভিযোগটি delivery conduct complaint হিসেবে log করছি স্যার। Operations team rider-এর অন্যান্য delivery record এবং supervisor report review করবে।
+
+**১৭. কাস্টমারঃ** আমি extra টাকা দিইনি, তবে rider-এর phone number আর vehicle plate লিখে রেখেছি। এগুলো কি complaint-এ যোগ করবেন?
+
+**১৮. এজেন্টঃ** অবশ্যই স্যার। Rider-এর contact number, vehicle information এবং আপনার বক্তব্য তদন্তে সহায়তা করবে। এগুলো ticket details-এ যুক্ত করছি।
+
+**১৯. কাস্টমারঃ** Order cancel হলে কি আমার account-এ কোনো penalty আসবে? Cancel করার কথা তো আমি বলিনি।
+
+**২০. এজেন্টঃ** না স্যার, আপনি official amount দিতে প্রস্তুত থাকলে customer fault হিসেবে cancellation হওয়ার কথা নয়। প্রয়োজনে আমরা delivery attempt review করবো।
+
+**২১. কাস্টমারঃ** Complaint reference number দিন। Rider এখন ৮৫০ টাকা নিয়ে parcel দিচ্ছে।
+
+**২২. এজেন্টঃ** আপনার complaint reference DZ-DEL-২০২৬-০০৬। Parcel নেওয়ার পর package condition এবং receipt যাচাই করে তারপর delivery confirmation দিন।
+
+**২৩. কাস্টমারঃ** ঠিক আছে তানিম ভাই। Official amount ছাড়া টাকা না দেওয়ার বিষয়টি পরিষ্কার করে বলার জন্য ধন্যবাদ।
+
+**২৪. এজেন্টঃ** আপনাকেও ধন্যবাদ স্যার। ভবিষ্যতে app-এর payable amount মিলিয়ে payment করবেন এবং সন্দেহজনক দাবি হলে সঙ্গে সঙ্গে আমাদের জানাবেন।
+
+---
+
+## সিনারিও ৭ঃ Sorting center-এ সাত দিন ধরে parcel আটকে আছে
+
+> একজন শিক্ষার্থী একটি calculator অর্ডার করেছেন, কিন্তু tracking status সাত দিন ধরে sorting center-এ অপরিবর্তিত। পরীক্ষার আগে product না পাওয়ায় তিনি জরুরি update চান।
+
+**১. এজেন্টঃ** Daraz customer care থেকে ফারিয়া বলছি। আপনার delivery concern শুনছি স্যার। Order ID-টি বলবেন, আমি tracking details চেক করছি।
+
+**২. কাস্টমারঃ** আপু, আমার calculator parcel সাত দিন ধরে sorting center-এ আটকে আছে। সামনে পরীক্ষা, তাই বিষয়টি নিয়ে খুব চিন্তায় আছি।
+
+**৩. এজেন্টঃ** আপনার উদ্বেগটি বুঝতে পারছি স্যার। Order ID, product-এর নাম এবং expected delivery date-টি জানাবেন?
+
+**৪. কাস্টমারঃ** Order ID DZ-৬৭৮৯০১২৩৪। Product scientific calculator, আর expected delivery ছিল গত শুক্রবার।
+
+**৫. এজেন্টঃ** ধন্যবাদ স্যার। আপনার registered mobile number নিশ্চিত করবেন? তারপর আমি courier movement এবং latest scan event দেখছি।
+
+**৬. কাস্টমারঃ** নম্বর ০১৬১২৩৪৫৬৭৮। Tracking-এ শুধু “At Sorting Center” লেখা, সাত দিনেও নতুন কোনো update নেই।
+
+**৭. এজেন্টঃ** স্যার, আমি দেখতে পাচ্ছি parcelটি চট্টগ্রাম sorting center-এ আটকে আছে। বিস্তারিত বুঝিয়ে বলছি, কখনো shipment label scan বা route allocation-এ সমস্যা হলে parcel physical movement করলেও online status update হয় না। তবে সাত দিন update না থাকা স্বাভাবিক নয়, তাই আমি courier investigation request করছি।
+
+**৮. কাস্টমারঃ** আমি ঢাকায় থাকি, চট্টগ্রামে parcel কেন গেল? Seller কি ভুল route-এ পাঠিয়েছে?
+
+**৯. এজেন্টঃ** স্যার, seller-এর dispatch location খুলনায় এবং courier network অনুযায়ী regional hub হয়ে parcel ঢাকায় আসার কথা। বর্তমানে route deviation হয়েছে কিনা operations team যাচাই করবে।
+
+**১০. কাস্টমারঃ** আমার পরীক্ষা তিন দিন পরে। এই parcel সময়মতো না এলে calculator ছাড়া সমস্যায় পড়বো।
+
+**১১. এজেন্টঃ** আপনার urgency বুঝতে পারছি স্যার। আমি ticket-এ exam-related delivery note যোগ করছি এবং courier team-কে priority trace request পাঠাচ্ছি।
+
+**১২. কাস্টমারঃ** Trace request-এর result কখন পাবো? আমি কি parallelভাবে অন্য calculator কিনে ফেলবো?
+
+**১৩. এজেন্টঃ** স্যার, courier সাধারণত ২৪ থেকে ৪৮ ঘণ্টার মধ্যে trace update দেয়। আপনার পরীক্ষা জরুরি হলে backup ব্যবস্থা রাখা বাস্তবসম্মত, তবে এই order-এর update আমরা জানাবো।
+
+**১৪. কাস্টমারঃ** যদি parcel হারিয়ে যায়, তাহলে কি refund পেতে আলাদা claim করতে হবে?
+
+**১৫. এজেন্টঃ** না স্যার, investigation-এ parcel lost প্রমাণিত হলে delivery failure case অনুযায়ী cancellation এবং refund process করা হবে।
+
+**১৬. কাস্টমারঃ** আমি prepaid payment করেছি। Refund হলে কি একই payment method-এ টাকা আসবে?
+
+**১৭. এজেন্টঃ** স্যার, prepaid order-এর refund সাধারণত original payment method বা available refund option অনুযায়ী process হয়। Finance review শেষ হলে নির্দিষ্ট timeline জানানো হবে।
+
+**১৮. কাস্টমারঃ** Sorting center থেকে কি আমি নিজে parcel collect করতে পারবো? এতে হয়তো সময় বাঁচবে।
+
+**১৯. এজেন্টঃ** দুঃখিত স্যার, security এবং route policy-এর কারণে customer সাধারণত sorting center থেকে parcel collect করতে পারেন না। Courier delivery route-এই parcel পাঠাবে।
+
+**২০. কাস্টমারঃ** ঠিক আছে। আমার investigation ticket number এবং next update-এর সময়টা বলবেন?
+
+**২১. এজেন্টঃ** আপনার investigation reference DZ-TRC-২০২৬-০০৭। আগামী ৪৮ ঘণ্টার মধ্যে SMS, app notification অথবা phone call-এর মাধ্যমে update দেওয়া হবে।
+
+**২২. কাস্টমারঃ** বুঝেছি ফারিয়া আপু। আমার exam-এর বিষয়টি ticket-এ লিখে রাখার জন্য ধন্যবাদ।
+
+**২৩. এজেন্টঃ** আপনাকেও ধন্যবাদ স্যার। নতুন update না আসা পর্যন্ত একই order নিয়ে duplicate complaint না করে এই reference ব্যবহার করবেন।
+
+---
+
+## সিনারিও ৮ঃ Delivery attempt ব্যর্থ দেখাচ্ছে, কিন্তু customer সারাদিন বাসায় ছিলেন
+
+> একজন কাস্টমার tracking-এ “Customer unavailable” status দেখে কল করেন। তিনি জানান, সারা দিন বাসায় থাকলেও rider কোনো call বা visit করেননি।
+
+**১. কাস্টমারঃ** আমার parcel-এ “Customer unavailable” লেখা হয়েছে, কিন্তু আমি সারাদিন বাসায় ছিলাম। Rider আমাকে call-ও করেনি।
+
+**২. এজেন্টঃ** Daraz customer care থেকে নুসরাত বলছি। আপনার অভিযোগটি যাচাই করছি ম্যাম। Order ID এবং delivery date বলবেন?
+
+**৩. কাস্টমারঃ** Order ID DZ-১২৩৪৫৬৭৮৯। আজ দুপুরে delivery attempt দেখাচ্ছে, কিন্তু কেউ বাসায় আসেনি।
+
+**৪. এজেন্টঃ** ধন্যবাদ ম্যাম। আপনার registered mobile number এবং delivery address-এর area-টি নিশ্চিত করবেন?
+
+**৫. কাস্টমারঃ** নম্বর ০১৮১২৩৪৫৬৭৮। Address হলো বসুন্ধরা আবাসিক এলাকা, block C। আমি সকাল থেকে বাসায় ছিলাম।
+
+**৬. এজেন্টঃ** তথ্যগুলো মিলে গেছে ম্যাম। আমি delivery log, rider call record এবং attempt remark চেক করছি। একটু সময় দেবেন?
+
+**৭. কাস্টমারঃ** জ্বী, দেখুন। Parcel-টি আমার মায়ের medicine organizer, তাই আজই পাওয়ার কথা ছিল।
+
+**৮. এজেন্টঃ** ধন্যবাদ অপেক্ষা করার জন্য ম্যাম। System-এ rider “customer unavailable” লিখেছে, কিন্তু call attempt-এর কোনো record নেই। আমি বিষয়টি false attempt হিসেবে report করছি।
+
+**৯. কাস্টমারঃ** তাহলে rider কি না এসেই status update করেছে? এটা হলে তো আমার delivery আবার পিছিয়ে যাবে।
+
+**১০. এজেন্টঃ** ম্যাম, আপনার order-এ reattempt request দিচ্ছি। Operations team rider-কে আপনার address-এ পুনরায় পাঠাবে এবং supervisor verification রাখবে।
+
+**১১. কাস্টমারঃ** আজ রাতেই কি আবার delivery হতে পারে? আমার মায়ের জিনিসটি জরুরি, কাল পর্যন্ত অপেক্ষা করা কঠিন।
+
+**১২. এজেন্টঃ** ম্যাম, same-day reattempt courier availability-এর উপর নির্ভর করে। আমি urgent note দিচ্ছি, তবে নিশ্চিত সময় courier team response না পাওয়া পর্যন্ত বলতে পারছি না।
+
+**১৩. কাস্টমারঃ** Rider আসার আগে কি আমাকে call করতে বলা যাবে? Unknown number হলে আমার মা phone ধরতে চান না।
+
+**১৪. এজেন্টঃ** অবশ্যই ম্যাম। Delivery instruction-এ “arrival-এর আগে customer-কে call করতে হবে” লিখে দিচ্ছি এবং আপনার preferred contact number confirm করছি।
+
+**১৫. কাস্টমারঃ** যদি rider আবার না আসে, তাহলে কি আমি pickup point থেকে parcel নিতে পারবো?
+
+**১৬. এজেন্টঃ** ম্যাম, কিছু shipment-এ pickup option থাকে, তবে আপনার order-এ বর্তমানে home delivery selected। Courier confirmation ছাড়া pickup point-এ যাওয়া ঠিক হবে না।
+
+**১৭. কাস্টমারঃ** এই false attempt-এর জন্য কি delivery charge ফেরত পাওয়া যায়? আমার তো service পাইনি।
+
+**১৮. এজেন্টঃ** ম্যাম, delivery charge refund বা compensation policy order review-এর পর নির্ধারিত হয়। আমি আপনার inconvenience note-এ লিখে রাখছি, operations team বিষয়টি বিবেচনা করবে।
+
+**১৯. কাস্টমারঃ** Rider-এর বিরুদ্ধে complaint করলে কি সে পরে ইচ্ছা করে delivery delay করবে?
+
+**২০. এজেন্টঃ** না ম্যাম, complaint confidentialভাবে review করা হয়। আপনার future delivery যাতে নিরপেক্ষভাবে হয়, সে জন্য account note-এ শুধু verification instruction যোগ করছি।
+
+**২১. কাস্টমারঃ** Reattempt request-এর reference number দিন। আমি app-এ tracking দেখতে চাই।
+
+**২২. এজেন্টঃ** আপনার reference DZ-REA-২০২৬-০০৮। নতুন attempt schedule হলে app notification এবং SMS আসবে; rider call না করলে আবার এই reference ব্যবহার করবেন।
+
+**২৩. কাস্টমারঃ** ঠিক আছে নুসরাত আপু। আজকের বিষয়টি গুরুত্ব দিয়ে দেখার জন্য ধন্যবাদ।
+
+**২৪. এজেন্টঃ** আপনাকেও ধন্যবাদ ম্যাম। Delivery-এর সময় phone কাছে রাখবেন এবং parcel গ্রহণের আগে order details মিলিয়ে নেবেন।
+
+---
+
+## সিনারিও ৯ঃ অনুমতি ছাড়াই প্রতিবেশীর কাছে parcel রেখে গেছে
+
+> একজন customer বাড়িতে না থাকায় delivery rider কোনো confirmation ছাড়াই parcel পাশের ফ্ল্যাটের প্রতিবেশীর কাছে রেখে delivered mark করেছেন। Customer security ও privacy নিয়ে উদ্বিগ্ন।
+
+**১. এজেন্টঃ** Daraz customer care থেকে ফারিয়া বলছি। আপনার delivery concern-টি বলুন ম্যাম, আমি order details দেখে সাহায্য করছি।
+
+**২. কাস্টমারঃ** আপু, tracking-এ parcel delivered দেখাচ্ছে, কিন্তু আমি তখন বাসায় ছিলাম না। পরে জানতে পারলাম rider আমার অনুমতি ছাড়াই পাশের ফ্ল্যাটে রেখে গেছে।
+
+**৩. এজেন্টঃ** ম্যাম, আপনার অনুমতি ছাড়া অন্য কারো কাছে parcel দেওয়া নিয়ে দুঃখিত। Order ID এবং delivery address-এর building information বলবেন?
+
+**৪. কাস্টমারঃ** Order ID DZ-৯০১২৩৪৫৬৭। আমি ধানমণ্ডির একটি apartment building-এ থাকি, parcel আমার ৬B ফ্ল্যাটের।
+
+**৫. এজেন্টঃ** ধন্যবাদ ম্যাম। আপনার registered number এবং delivery proof-এ receiver হিসেবে কার নাম লেখা আছে, সেটি জানাবেন?
+
+**৬. কাস্টমারঃ** আমার নম্বর ০১৭৮১২৩৪৫৬৭। Proof-এ পাশের ফ্ল্যাটের security guard-এর নাম লেখা, কিন্তু আমি তাকে receive করার permission দিইনি।
+
+**৭. এজেন্টঃ** তথ্য যাচাই হয়েছে ম্যাম। আমি দেখতে পাচ্ছি rider customer unavailable হওয়ার পর building security desk-এ parcel রেখে delivery confirm করেছেন। এই process যথাযথভাবে follow হয়েছে কিনা review করছি।
+
+**৮. কাস্টমারঃ** Security desk-এ parcel থাকলে যে কেউ নিয়ে যেতে পারে। আমি এখন অফিসে আছি, রাতে গিয়ে নিলে কি parcel safe থাকবে?
+
+**৯. এজেন্টঃ** ম্যাম, আমি delivery supervisor-কে contact করে parcelটি secureভাবে রাখার নির্দেশ দিচ্ছি। আপনি চাইলে trusted family member-কে authorization দিয়ে collect করাতে পারেন।
+
+**১০. কাস্টমারঃ** আমি আমার বোনকে পাঠাবো। তার নাম নাবিলা, কিন্তু security যেন ভুল কাউকে parcel না দেয়।
+
+**১১. এজেন্টঃ** ম্যাম, আপনার authorization note-এ নাবিলা নামটি যুক্ত করছি। তিনি collection-এর সময় order ID এবং আপনার registered number-এর শেষ চার digit দেখাবেন।
+
+**১২. কাস্টমারঃ** Rider কি আমাকে call করার চেষ্টা করেছিল? আমি কোনো missed call পাইনি।
+
+**১৩. এজেন্টঃ** ম্যাম, call log-এ কোনো successful call record নেই। শুধু delivery attempt remark আছে, তাই rider-এর handling নিয়ে আলাদা complaint log করছি।
+
+**১৪. কাস্টমারঃ** এই ধরনের delivery আমার একদম পছন্দ নয়। ভবিষ্যতে কি নির্দিষ্ট কারো কাছে দেওয়ার instruction দেওয়া যায়?
+
+**১৫. এজেন্টঃ** জ্বী ম্যাম, Address Book-এর delivery instruction-এ authorized receiver-এর নাম লিখতে পারেন। তবে rider availability অনুযায়ী instruction সবসময় guarantee করা যায় না।
+
+**১৬. কাস্টমারঃ** আমি চাই rider আগে call করুক এবং কেউ না থাকলে delivery attempt না করুক। এটা কি account note হিসেবে রাখা যাবে?
+
+**১৭. এজেন্টঃ** অবশ্যই ম্যাম। আপনার account-এ “Call before delivery, do not leave with neighbor without approval” instruction যুক্ত করছি।
+
+**১৮. কাস্টমারঃ** Parcel খুলে গেলে বা product missing থাকলে কি আমি return request দিতে পারবো?
+
+**১৯. এজেন্টঃ** ম্যাম, parcel গ্রহণের পর packaging এবং contents-এর ছবি রাখবেন। Tampering, missing item বা damage থাকলে evidenceসহ return request করা যাবে।
+
+**২০. কাস্টমারঃ** Complaint reference এবং authorized collection-এর update কখন পাবো?
+
+**২১. এজেন্টঃ** আপনার complaint reference DZ-SEC-২০২৬-০০৯। Security confirmation পাওয়ার পর আজ সন্ধ্যার মধ্যে app notification পাঠানো হবে।
+
+**২২. কাস্টমারঃ** ঠিক আছে ফারিয়া আপু। আমি বোনকে পাঠাচ্ছি এবং receipt না পাওয়া পর্যন্ত collection confirm করবো না।
+
+**২৩. এজেন্টঃ** সেটিই সঠিক হবে ম্যাম। Authorized person ছাড়া কাউকে parcel দেবেন না এবং কোনো সমস্যা হলে reference নম্বরটি ব্যবহার করবেন।
+
+---
+
+## সিনারিও ১০ঃ অন্য customer-এর parcel এসেছে, নিজের order পাওয়া যায়নি
+
+> একজন customer একটি phone charger অর্ডার করেছিলেন, কিন্তু delivery-তে তার নামে অন্য product এসেছে। নিজের parcel missing হওয়ায় তিনি দ্রুত exchange ও investigation চান।
+
+**১. কাস্টমারঃ** আমার order ছিল phone charger, কিন্তু delivery-তে অন্য একজনের নামের parcel এসেছে। আমার নিজের product এখনো পাইনি।
+
+**২. এজেন্টঃ** Daraz customer care থেকে আরিফ বলছি। এই ভুল delivery-এর জন্য দুঃখিত স্যার। আপনার order ID এবং received parcel-এর label details বলবেন?
+
+**৩. কাস্টমারঃ** আমার order ID DZ-৫৬৭৮৯০১২৩। Parcel-এ নাম লেখা আছে মেহেদী হাসান, আর ভিতরে kitchen mixer-এর box রয়েছে।
+
+**৪. এজেন্টঃ** ধন্যবাদ স্যার। আপনার registered mobile number এবং আপনার আসল order-এ product name ও seller-এর নামটি নিশ্চিত করবেন?
+
+**৫. কাস্টমারঃ** নম্বর ০১৮৯৮৭৬৫৪৩২। Product Anker-type charger, seller-এর নাম Tech Corner BD।
+
+**৬. এজেন্টঃ** তথ্যগুলো মিলে গেছে স্যার। Received parcel-এর barcode এবং আপনার order shipment record মিলিয়ে দেখছি। অনুগ্রহ করে parcel label-এর ছবি সংরক্ষণ করবেন।
+
+**৭. কাস্টমারঃ** Rider চলে যাওয়ার আগে আমি label-এর ছবি নিয়েছি। কিন্তু এখন অন্যের parcel আমার কাছে রাখা কি নিরাপদ?
+
+**৮. এজেন্টঃ** স্যার, parcelটি ব্যবহার বা খোলা থেকে বিরত থাকবেন। আমি reverse pickup এবং correct parcel trace করার জন্য logistics team-এ request পাঠাচ্ছি।
+
+**৯. কাস্টমারঃ** আমি box খুলেছি, কারণ বাইরে charger লেখা ছিল না। ভিতরে mixer দেখে সঙ্গে সঙ্গে বন্ধ করেছি, কোনো জিনিস ব্যবহার করিনি।
+
+**১০. এজেন্টঃ** বুঝতে পেরেছি স্যার। যেহেতু item ব্যবহার করেননি, box এবং accessories আগের অবস্থায় রাখবেন। Pickup agent এসে parcelটি collect করবে।
+
+**১১. কাস্টমারঃ** আমার charger কি নতুন করে পাঠানো হবে, নাকি order cancel হয়ে যাবে?
+
+**১২. এজেন্টঃ** স্যার, আপনার original shipment কোথায় আছে তা trace করা হবে। পাওয়া গেলে correct delivery reattempt করা হবে, আর lost হলে refund বা replacement option দেওয়া হবে।
+
+**১৩. কাস্টমারঃ** Tracking-এ আমার order এখনো out for delivery দেখাচ্ছে। তাহলে rider কেন অন্য parcel দিল?
+
+**১৪. এজেন্টঃ** স্যার, warehouse sorting বা barcode scanning-এর সময় shipment swap হয়েছে বলে মনে হচ্ছে। Courier operations team rider route এবং package scan history review করবে।
+
+**১৫. কাস্টমারঃ** আমি কি ওই অন্য customer-এর নাম বা phone number জানতে পারবো, যাতে নিজে যোগাযোগ করি?
+
+**১৬. এজেন্টঃ** দুঃখিত স্যার, privacy policy-এর কারণে অন্য customer-এর personal information দেওয়া যাবে না। Courier team দুইটি parcel exchange coordinate করবে।
+
+**১৭. কাস্টমারঃ** Pickup কবে হবে? আমি সারাদিন অফিসে থাকি, তাই সময়টা আগে জানা দরকার।
+
+**১৮. এজেন্টঃ** স্যার, আপনার delivery preference অনুযায়ী pickup-এর আগে call instruction দিচ্ছি। সাধারণত ২৪ থেকে ৪৮ ঘণ্টার মধ্যে schedule confirmation আসে।
+
+**১৯. কাস্টমারঃ** যদি pickup agent অন্য parcel নিতে না আসে, তাহলে কি আমাকে আবার call করতে হবে?
+
+**২০. এজেন্টঃ** স্যার, reference number দিয়ে app Help Center-এ status দেখা যাবে। নির্ধারিত সময় পার হলে একই ticket-এ follow-up করবেন, নতুন complaint দরকার হবে না।
+
+**২১. কাস্টমারঃ** আমার charger-এর prepaid payment করা হয়েছে। Refund হলে আমি কতদিন অপেক্ষা করবো?
+
+**২২. এজেন্টঃ** স্যার, parcel loss বা cancellation confirm হলে payment method অনুযায়ী refund initiate হবে। Finance processing time notification-এ জানানো হবে।
+
+**২৩. কাস্টমারঃ** Reference number এবং pickup request-এর details দিন, আমি save করে রাখছি।
+
+**২৪. এজেন্টঃ** আপনার shipment mismatch reference DZ-MIS-২০২৬-০১০। Mixer box নিরাপদে রাখবেন এবং pickup-এর সময় handover receipt সংগ্রহ করবেন।
+
+**২৫. কাস্টমারঃ** ঠিক আছে আরিফ ভাই। অন্যের parcel নিয়ে কী করতে হবে সেটা পরিষ্কার করে বলার জন্য ধন্যবাদ।
+
+**২৬. এজেন্টঃ** আপনাকেও ধন্যবাদ স্যার। আপনার correct charger shipment trace করে update দেওয়া হবে। ভালো থাকবেন।
+
+---
+
+## সিনারিও ১১ঃ সকাল থেকে “Out for delivery”, রাত হয়ে গেলেও parcel আসেনি
+
+> একজন customer জরুরি office document folder অর্ডার করেছেন। Tracking সকাল থেকে out for delivery দেখাচ্ছে, কিন্তু রাত হয়ে গেলেও rider আসেননি এবং কোনো call করেননি।
+
+**১. এজেন্টঃ** Daraz customer care থেকে সাবরিনা বলছি। Delivery status নিয়ে কী সমস্যা হচ্ছে বলুন স্যার, আমি এখনই check করছি।
+
+**২. কাস্টমারঃ** সকাল ৯টা থেকে tracking-এ out for delivery দেখাচ্ছে। এখন রাত ৮টা, কিন্তু rider আসেনি এবং কোনো call-ও করেনি।
+
+**৩. এজেন্টঃ** দেরির জন্য দুঃখিত স্যার। আপনার order ID এবং আজকের expected delivery time window-টি বলবেন?
+
+**৪. কাস্টমারঃ** Order ID DZ-২৪৬৮০১৩৫৭। App-এ আজ delivery দেখাচ্ছিল, productটা office-এর জন্য document folder।
+
+**৫. এজেন্টঃ** ধন্যবাদ স্যার। আপনার registered number এবং delivery area-টি নিশ্চিত করবেন, যাতে rider route status দেখা যায়?
+
+**৬. কাস্টমারঃ** নম্বর ০১৫৯৮৭৬৫৪৩২। আমি মতিঝিলে থাকি, কিন্তু সন্ধ্যার পর building gate বন্ধ হয়ে যায়।
+
+**৭. এজেন্টঃ** স্যার, route record-এ parcelটি এখনো rider-এর possession-এ আছে। বিস্তারিত বুঝিয়ে বলছি, “Out for delivery” status সাধারণত route assignment বোঝায়, নির্দিষ্ট arrival time নয়। Traffic, route load বা address access issue হলে একই দিনে delivery পিছিয়ে যেতে পারে, তবে customer-কে update দেওয়া উচিত ছিল।
+
+**৮. কাস্টমারঃ** তাহলে আজ কি delivery হবে? আমি আর কতক্ষণ বাসায় অপেক্ষা করবো?
+
+**৯. এজেন্টঃ** স্যার, আমি rider supervisor-এর কাছে current route position এবং remaining stops জানতে request পাঠাচ্ছি। Confirmation না পাওয়া পর্যন্ত নির্দিষ্ট সময়ের প্রতিশ্রুতি দিতে চাই না।
+
+**১০. কাস্টমারঃ** কাল সকালে office presentation আছে। আজ না পেলে productটির কোনো কাজে আসবে না।
+
+**১১. এজেন্টঃ** আপনার deadline বুঝতে পারছি স্যার। Ticket-এ morning-use requirement লিখছি এবং আজকের delivery attempt priority review-এর জন্য পাঠাচ্ছি।
+
+**১২. কাস্টমারঃ** Rider যদি রাত ১০টার পরে আসে, তখন gate বন্ধ থাকবে। অন্য কোনো delivery instruction দিতে পারবো?
+
+**১৩. এজেন্টঃ** জ্বী স্যার, gate security desk-এ authorized handover করা যাবে কিনা আপনি আগে নিশ্চিত করুন। আপনার অনুমতি ছাড়া আমরা security desk-এ parcel রাখতে বলবো না।
+
+**১৪. কাস্টমারঃ** আমি building guard-কে receive করতে বলতে পারি, তবে rider অবশ্যই আগে আমাকে call করবে।
+
+**১৫. এজেন্টঃ** আপনার instruction update করছি: arrival-এর আগে registered number-এ call করতে হবে এবং customer confirmation ছাড়া parcel leave করা যাবে না।
+
+**১৬. কাস্টমারঃ** যদি আজ delivery না হয়, তাহলে system কি automatically attempt failed দেখাবে?
+
+**১৭. এজেন্টঃ** স্যার, rider delivery complete না করলে status reattempt বা delivery rescheduled হতে পারে। আপনি app-এ নতুন date দেখতে পাবেন, আর incorrect remark থাকলে তা report করবেন।
+
+**১৮. কাস্টমারঃ** কাল আবার পুরো দিন অপেক্ষা করতে পারবো না। Pickup point থেকে নেওয়ার option আছে?
+
+**১৯. এজেন্টঃ** স্যার, আপনার shipment-এর জন্য pickup option এখনো enabled নয়। Courier confirmation ছাড়া hub বা pickup point-এ গেলে parcel দেওয়া নাও হতে পারে।
+
+**২০. কাস্টমারঃ** আজকের delay-এর জন্য delivery charge refund চাওয়া যাবে?
+
+**২১. এজেন্টঃ** স্যার, delivery delay record review করে charge adjustment বা compensation eligibility নির্ধারণ করা হয়। আমি আপনার request-এ এই inconvenience উল্লেখ করছি।
+
+**২২. কাস্টমারঃ** Support reference নম্বর দিন। Rider update না দিলে আমি আবার call করবো।
+
+**২৩. এজেন্টঃ** আপনার delivery follow-up reference DZ-OFD-২০২৬-০১১। আজ রাতের route update এবং পরবর্তী attempt schedule app notification-এ জানানো হবে।
+
+**২৪. কাস্টমারঃ** ঠিক আছে সাবরিনা আপু। আমি gate security-কে জানিয়ে রাখছি, তবে call ছাড়া parcel নিতে দেবো না।
+
+**২৫. এজেন্টঃ** সেটিই নিরাপদ সিদ্ধান্ত স্যার। Delivery agent-এর call না এলে parcel গ্রহণ করবেন না এবং order ID মিলিয়ে তারপর confirmation দেবেন।
+
+---
+
+## সিনারিও ১২ঃ গ্রামের ঠিকানায় courier delivery দিতে অস্বীকার করছে
+
+> একজন rural customer পরিবারের জন্য water filter অর্ডার করেছেন। Courier delivery area coverage থাকা সত্ত্বেও rider ফোন করে নিকটস্থ বাজার থেকে parcel নিতে বলেছেন এবং বাড়িতে যেতে অস্বীকার করেছেন।
+
+**১. কাস্টমারঃ** Daraz থেকে water filter অর্ডার করেছিলাম, কিন্তু courier বলছে আমার গ্রামের বাড়িতে যাবে না। আমাকে বাজারে গিয়ে parcel নিতে বলছে।
+
+**২. এজেন্টঃ** Daraz customer care থেকে রাকিব বলছি। আপনার delivery experience-এর জন্য দুঃখিত স্যার। Order ID এবং district-এর নাম বলবেন?
+
+**৩. কাস্টমারঃ** Order ID DZ-৭১৩৫৯০২৪৬। আমার ঠিকানা বগুড়ার শিবগঞ্জ উপজেলার একটি গ্রামে।
+
+**৪. এজেন্টঃ** ধন্যবাদ স্যার। Registered mobile number এবং app-এ যে full delivery address saved আছে, সেটি নিশ্চিত করবেন?
+
+**৫. কাস্টমারঃ** নম্বর ০১৩৭৬৫৪৩২১০। ঠিকানায় গ্রাম, ইউনিয়ন, উপজেলা, district এবং কাছের বাজারের নাম সব লেখা আছে।
+
+**৬. এজেন্টঃ** তথ্য যাচাই হয়েছে স্যার। আমি order coverage এবং courier route চেক করছি। Rider-এর call-এ কি exact reason বলা হয়েছে?
+
+**৭. কাস্টমারঃ** সে বলেছে কাঁচা রাস্তা, তাই বাড়ির সামনে যাবে না। কিন্তু অন্য courier তো আমার বাড়ি পর্যন্ত parcel দেয়।
+
+**৮. এজেন্টঃ** বুঝতে পারছি স্যার। Delivery safety issue থাকলে rider কাছের accessible point প্রস্তাব করতে পারে, তবে customer-এর সঙ্গে আলোচনা না করে delivery refusal করা উচিত নয়।
+
+**৯. কাস্টমারঃ** আমি বাজারে যেতে পারি, কিন্তু সেটা আমার বাড়ি থেকে প্রায় ছয় কিলোমিটার দূরে। Product বড়, একা নিয়ে আসা কঠিন হবে।
+
+**১০. এজেন্টঃ** স্যার, আমি courier supervisor-এর কাছে route review request করছি। তারা রাস্তার condition দেখে সম্ভব হলে doorstep delivery reattempt করবে।
+
+**১১. কাস্টমারঃ** আমার বাবা অসুস্থ, water filter-এর জন্যই অর্ডার করেছি। আর কতদিন অপেক্ষা করতে হবে?
+
+**১২. এজেন্টঃ** আপনার পরিবারের প্রয়োজনটি ticket-এ জরুরি হিসেবে লিখছি। তবে road accessibility যাচাই না করে আমি আজকের delivery নিশ্চিত বলে ভুল আশা দিতে চাই না।
+
+**১৩. কাস্টমারঃ** যদি doorstep delivery সম্ভব না হয়, তাহলে কি order cancel করে টাকা ফেরত পাবো?
+
+**১৪. এজেন্টঃ** জ্বী স্যার, courier service দিতে অক্ষম হলে customer-fault ছাড়া cancellation এবং refund review করা যায়। আপনার payment status অনুযায়ী process জানানো হবে।
+
+**১৫. কাস্টমারঃ** আমি COD select করেছি। Cancel হলে কি কোনো penalty বা future account restriction হবে?
+
+**১৬. এজেন্টঃ** না স্যার, courier coverage issue documented থাকলে আপনার account-এ cancellation penalty দেওয়ার কথা নয়। Investigation record-এ কারণটি পরিষ্কার রাখা হবে।
+
+**১৭. কাস্টমারঃ** Seller-কে কি rural delivery সম্পর্কে আগে জানানো হবে? আবার অর্ডার করলে একই সমস্যা হতে পারে।
+
+**১৮. এজেন্টঃ** স্যার, আপনার address coverage এবং delivery constraint seller ও courier team-এর কাছে note করছি। Reorder করার আগে product page-এ delivery availability check করবেন।
+
+**১৯. কাস্টমারঃ** আমি কি অন্য courier বা Daraz Express বেছে নিতে পারবো? App-এ কোনো option দেখিনি।
+
+**২০. এজেন্টঃ** স্যার, courier selection সব product বা location-এর জন্য customer-controlled নয়। Available service seller, warehouse এবং coverage অনুযায়ী system নির্ধারণ করে।
+
+**২১. কাস্টমারঃ** Supervisor কতক্ষণে জানাবে তারা বাড়ি পর্যন্ত আসবে কিনা?
+
+**২২. এজেন্টঃ** আপনার rural delivery review reference DZ-RUR-২০২৬-০১২। সাধারণত ২৪ ঘণ্টার মধ্যে route decision এবং next step SMS বা app-এ জানানো হয়।
+
+**২৩. কাস্টমারঃ** ঠিক আছে রাকিব ভাই। Supervisor-এর call এলে আমি রাস্তার condition এবং landmark বুঝিয়ে দেবো।
+
+**২৪. এজেন্টঃ** ধন্যবাদ স্যার। আপনার phone সচল রাখবেন এবং কোনো courier representative অতিরিক্ত charge চাইলে payment করার আগে আমাদের জানাবেন।
+
+---
+
