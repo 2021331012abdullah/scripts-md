@@ -1549,3 +1549,403 @@
 
 ---
 
+## সিনারিও ৩০ঃ Refund approve হয়েছে তিন সপ্তাহ আগে, কিন্তু এখনো টাকা পাওয়া যায়নি
+
+> একজন customer তিন সপ্তাহ আগে একটি defective iron return করে refund request দিয়েছিলেন। App-এ "Refund Approved" দেখালেও bKash account-এ এখনো টাকা আসেনি। Customer-এর মাসের বাজারের জন্য এই টাকা দরকার।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি তিন সপ্তাহ আগে একটি iron return করেছিলাম। App-এ refund approved দেখাচ্ছে, কিন্তু আমার bKash-এ এখনো টাকা আসেনি! কতদিন আর অপেক্ষা করবো?
+
+**২. এজেন্টঃ** Daraz customer care থেকে রাকিব বলছি sir। Refund delay-এর জন্য দুঃখিত, আমি এখনই finance record check করছি। আপনার registered phone number-টা বলবেন?
+
+**৩. কাস্টমারঃ** নম্বর ০১৭৩৪৫৬৭৮৯০। ভাইয়া, আমি আগেও দুইবার call করেছি এই বিষয়ে, প্রতিবার বলেছে ৭ দিনে আসবে, কিন্তু কিছুই হয়নি।
+
+**৪. এজেন্টঃ** sir, আপনার আগের call records দেখতে পাচ্ছি এবং আমি বুঝতে পারছি বারবার একই উত্তর পেয়ে আপনি হতাশ। আমি এবার finance team-এর actual transaction status দেখছি, generic timeline দিচ্ছি না।
+
+**৫. কাস্টমারঃ** এই টাকাটা আমার মাসের বাজারের জন্য দরকার ভাইয়া। Iron-টা defective ছিল, return-ও করে দিয়েছি, তারপরও টাকা পাচ্ছি না, এটা কোনো কথা?
+
+**৬. এজেন্টঃ** sir, আমি finance log-এ দেখছি আপনার refund ১৮ দিন আগে approve হয়েছে এবং bKash-এ transfer initiate হয়েছিল। কিন্তু transaction status "Failed" দেখাচ্ছে। বিস্তারিত বুঝিয়ে বলছি — সম্ভবত bKash account-এর registered name এবং Daraz account-এর name mismatch হওয়ায় bKash gateway payment reject করেছে।
+
+**৭. কাস্টমারঃ** Name mismatch? আমার Daraz-এ পুরো নাম "Md. Habibur Rahman" আর bKash-এ "Habibur Rahman"। এটুকু difference-এর জন্য টাকা আটকে আছে?
+
+**৮. এজেন্টঃ** জ্বী sir, দুঃখজনক হলেও automated payment system exact name match খোঁজে। ছোট পার্থক্যেও transaction fail হতে পারে। আমি এখন manual refund re-initiation request দিচ্ছি।
+
+**৯. কাস্টমারঃ** Manual request দিলে আবার কত দিন লাগবে? আমি আর ৭ দিন অপেক্ষা করতে পারবো না ভাইয়া, সত্যি বলছি।
+
+**১০. এজেন্টঃ** sir, আমি এবার request-এ "Priority Re-processing" tag দিচ্ছি এবং finance supervisor-কে directly escalate করছি। সাধারণত re-initiation-এ ৩ থেকে ৫ কর্মদিবস লাগে, কিন্তু escalation-এ দ্রুত হওয়ার সম্ভাবনা আছে।
+
+**১১. কাস্টমারঃ** ভাইয়া, alternative কোনো উপায় নেই? Bank account-এ transfer করা যায়? অথবা Daraz wallet-এ দিলেও চলবে, পরে কেনাকাটায় ব্যবহার করবো।
+
+**১২. এজেন্টঃ** sir, Daraz Wallet-এ refund transfer সাধারণত দ্রুত হয়। আপনি চাইলে refund method bKash থেকে Daraz Wallet-এ পরিবর্তন করতে পারি, তাহলে ২৪ থেকে ৪৮ ঘণ্টায় wallet-এ credit হওয়ার সম্ভাবনা আছে।
+
+**১৩. কাস্টমারঃ** Wallet-এ গেলে কি পরে সেই টাকা bKash-এ withdraw করতে পারবো? নাকি শুধু Daraz-এই খরচ করতে হবে?
+
+**১৪. এজেন্টঃ** sir, Daraz Wallet balance সাধারণত Daraz platform-এ কেনাকাটায় ব্যবহার করা যায়। সরাসরি bKash-এ withdraw-এর option সীমিত, তাই bKash-এই refund চাইলে name correction করে re-process করতে হবে।
+
+**১৫. কাস্টমারঃ** তাহলে bKash-এই চাই। আমার Daraz account-এ name কি এখান থেকে update করে দিতে পারবেন?
+
+**১৬. এজেন্টঃ** sir, আমি account profile-এ name "Habibur Rahman" করে update করছি bKash-এর সাথে match করানোর জন্য। Update হলে re-initiation smooth হবে।
+
+**১৭. কাস্টমারঃ** করে দিন ভাইয়া। আর এবার যদি আবার fail হয়, তাহলে কি আমাকে আবার call করে ঘণ্টার পর ঘণ্টা বসে থাকতে হবে?
+
+**১৮. এজেন্টঃ** sir, আমি আপনার ticket-এ auto-callback request রাখছি। Re-initiation-এর পর ৪৮ ঘণ্টার মধ্যে result না এলে আমাদের team আপনাকে নিজে থেকে call করে update দেবে।
+
+**১৯. কাস্টমারঃ** এটা শুনে একটু ভরসা পেলাম। ভাইয়া, এই পুরো ঘটনায় আমি প্রায় এক মাস ধরে টাকা ছাড়া আছি, কোনো compensation কি পাওয়া যায়?
+
+**২০. এজেন্টঃ** sir, আপনার দীর্ঘ অপেক্ষা এবং multiple call-এর কথা ticket-এ documented আছে। Compensation eligibility finance review-এর সাথে বিবেচনা করা হবে, আমি আলাদাভাবে note করে দিচ্ছি।
+
+**২১. কাস্টমারঃ** ঠিক আছে রাকিব ভাই। আশা করি এবার সত্যিই টাকাটা পাবো। তিন সপ্তাহ অনেক দীর্ঘ সময়।
+
+**২২. এজেন্টঃ** sir, আমিও আশা করি। Name update হয়ে গেছে, priority re-processing request পাঠানো হয়েছে। ৪৮ ঘণ্টার মধ্যে bKash-এ notification না এলে আমরা নিজে call করবো। ধৈর্য ধরার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ৩১ঃ Charger অতিরিক্ত গরম হয়ে গলে গেছে, safety hazard
+
+> একজন customer Daraz থেকে কেনা phone charger রাতে charging-এ দিয়ে ঘুমিয়েছিলেন। সকালে উঠে দেখেন charger-এর adapter অত্যন্ত গরম হয়ে plastic গলে গেছে এবং wall socket-এর আশেপাশে পোড়া গন্ধ। Customer ভয় পেয়ে জরুরিভাবে কল করেন।
+
+**১. কাস্টমারঃ** ভাইয়া, আপনাদের থেকে কেনা charger রাতে charging-এ দিয়ে ঘুমিয়েছিলাম, সকালে দেখি charger গলে গেছে, পোড়া গন্ধ আসছে! আগুন লাগলে কী হতো ভাবতেও পারছি না!
+
+**২. এজেন্টঃ** Daraz customer care থেকে তানিম বলছি sir। এটি অত্যন্ত গুরুতর safety issue। সবার আগে বলুন, charger কি এখনো socket-এ লাগানো আছে? থাকলে অবশ্যই unplug করুন।
+
+**৩. কাস্টমারঃ** না ভাইয়া, আমি ভয় পেয়ে সাথে সাথে plug খুলে ফেলেছি। কিন্তু socket-এর চারপাশে কালো দাগ পড়েছে, আর charger-এর plastic গলে adapter-এর সাথে লেগে গেছে।
+
+**৪. এজেন্টঃ** sir, আপনি ঠিক করেছেন। গলে যাওয়া charger বা adapter আর কোনোভাবে ব্যবহার করবেন না, এমনকি পরীক্ষা করার জন্যও plug-এ দেবেন না। আপনি ও আপনার পরিবার কি সবাই ঠিক আছেন?
+
+**৫. কাস্টমারঃ** জ্বী, আমরা ঠিক আছি আল্লাহর রহমতে। কিন্তু phone-টাও প্রচণ্ড গরম ছিল, battery ফুলে গেছে কিনা চেক করতে ভয় লাগছে।
+
+**৬. এজেন্টঃ** sir, phone-টি এই মুহূর্তে ব্যবহার করবেন না। যদি battery swollen মনে হয় বা back panel ফুলে ওঠে, তাহলে phone-কে ঠান্ডা, শুকনো জায়গায় রাখুন এবং জ্বলনশীল কিছুর কাছে রাখবেন না। প্রয়োজনে authorized service center-এ নিয়ে যান।
+
+**৭. কাস্টমারঃ** Phone-এর back panel একটু ফোলা মনে হচ্ছে ভাইয়া। Phone-টা Samsung, barely ছয় মাস হয়েছে কেনা। Charger-এর কারণে phone-ও নষ্ট হলে কে দায় নেবে?
+
+**৮. এজেন্টঃ** sir, Daraz থেকে কেনা charger-এর কারণে phone damage হলে সেটি seller এবং product liability-র আওতায় পড়ে। আমি এই case "Product Safety Hazard" হিসেবে highest priority-তে report করছি।
+
+**৯. কাস্টমারঃ** আমি full refund তো চাইই, সাথে আমার phone repair-এর খরচও চাই। এই charger-এর দোষে আমার phone-এর warranty-ও নষ্ট হতে পারে।
+
+**১০. এজেন্টঃ** sir, আপনার দাবিটি যৌক্তিক। Refund-এর পাশাপাশি property damage claim-এর জন্য আপনাকে damaged charger, phone-এর battery condition এবং socket-এর পোড়া দাগের ছবি সংরক্ষণ করতে হবে।
+
+**১১. কাস্টমারঃ** ছবি এখনই তুলছি। ভাইয়া, charger-এর box আর receipt কি দরকার হবে? বক্সটা ফেলে দিয়েছিলাম মনে হয়।
+
+**১২. এজেন্টঃ** sir, box না থাকলেও order history এবং app-এর invoice proof হিসেবে কাজ করবে। তবে charger-এর গলে যাওয়া অংশ, model number label এবং phone damage-এর ছবি অবশ্যই রাখবেন।
+
+**১৩. কাস্টমারঃ** Socket-এর damage-ও কি cover হবে? Electrician ডেকে socket পরিবর্তন করতে হবে, সেটাও তো খরচ।
+
+**১৪. এজেন্টঃ** sir, property damage claim-এ socket repair-এর কথাও উল্লেখ করছি। Electrician-এর bill রাখবেন, investigation team সব evidence review করে compensation scope নির্ধারণ করবে।
+
+**১৫. কাস্টমারঃ** এই seller-এর কি অন্য customer-দের কাছ থেকেও এই ধরনের complaint এসেছে? বিপজ্জনক product বিক্রি করা তো অপরাধ!
+
+**১৬. এজেন্টঃ** sir, আমি seller-এর complaint history access করতে পারি না, তবে আপনার safety report product quality ও compliance team-এ যাবে। তারা seller-এর সব product review করে প্রয়োজনে listing suspend করবে।
+
+**১৭. কাস্টমারঃ** Listing suspend করুন! এই charger অন্য কারো ঘরে আগুন লাগালে দায়ী কে হবে? BSTI certification ছাড়া বিক্রি করা কি legal?
+
+**১৮. এজেন্টঃ** sir, আপনার উদ্বেগ সম্পূর্ণ সঠিক। Safety hazard report পাওয়ার পর compliance team seller-এর certification, product source এবং safety standards পরীক্ষা করবে। আপনি চাইলে consumer rights authority-তেও অভিযোগ করতে পারেন।
+
+**১৯. কাস্টমারঃ** Consumer rights authority-তে কিভাবে complaint করবো ভাইয়া? এই ধরনের product থেকে মানুষকে বাঁচানো দরকার।
+
+**২০. এজেন্টঃ** sir, জাতীয় ভোক্তা অধিকার সংরক্ষণ অধিদপ্তরে সরাসরি অভিযোগ করতে পারেন। তাদের hotline number ১৬১২১ এবং website-এও online complaint form আছে। Product-এর ছবি এবং order proof সহ অভিযোগ জমা দেবেন।
+
+**২১. কাস্টমারঃ** নোট করে রাখলাম ভাইয়া। আমার case-এর update কবে পাবো?
+
+**২২. এজেন্টঃ** sir, safety hazard case সর্বোচ্চ priority-তে handle করা হয়। ৪৮ ঘণ্টার মধ্যে initial update দেওয়া হবে। ততক্ষণ damaged charger নিরাপদ দূরত্বে রাখবেন এবং phone-টি service center-এ দেখাবেন। নিরাপদ থাকুন sir।
+
+---
+
+## সিনারিও ৩২ঃ নেগেটিভ review দেওয়ার পর seller হুমকি দিচ্ছে
+
+> একজন customer একটি ত্রুটিপূর্ণ ceiling fan কেনার পর ১-star review দিয়েছেন। পরদিন থেকে seller ব্যক্তিগত নম্বরে বারবার call করে review মুছে দিতে বলছে এবং হুমকিমূলক ভাষা ব্যবহার করছে। Customer ভীত ও বিরক্ত।
+
+**১. কাস্টমারঃ** আপু, আমি Daraz-এ একটি fan কিনে review দিয়েছিলাম। এরপর থেকে seller আমার personal number-এ বারবার call করে review delete করতে বলছে, কাল রাতে তো হুমকিও দিয়েছে!
+
+**২. এজেন্টঃ** Daraz customer care থেকে নুসরাত বলছি ম্যাম। এটি অত্যন্ত গুরুতর অভিযোগ এবং আমরা এটি কঠোরভাবে দেখি। Seller কী ধরনের হুমকি দিয়েছে সেটা বলবেন?
+
+**৩. কাস্টমারঃ** আপু, সে বলেছে "review না মুছলে আপনার address আমার কাছে আছে, জানি কোথায় থাকেন।" আমি ভয় পেয়ে গেছি, কারণ delivery-র সময় তো আমার ঠিকানা তারা পেয়েছে।
+
+**৪. এজেন্টঃ** ম্যাম, আপনার ভয় এবং উদ্বেগ সম্পূর্ণ যুক্তিসংগত। আমি এখনই seller conduct violation এবং customer harassment case open করছি। Seller-এর call-গুলোর time, date এবং phone number কি আপনার কাছে আছে?
+
+**৫. কাস্টমারঃ** হ্যাঁ আপু, তিনটি call এসেছে। গতকাল দুপুর ১টায়, সন্ধ্যা ৭টায় এবং রাত ১১টায়। Number হচ্ছে ০১৯XXXXXXXX। রাত ১১টার call-এ সে চিৎকার করে হুমকি দিয়েছে।
+
+**৬. এজেন্টঃ** ম্যাম, সব information note করে নিচ্ছি। বিস্তারিত বুঝিয়ে বলছি — Daraz-এর seller policy অনুযায়ী seller কোনোভাবেই customer-এর ব্যক্তিগত নম্বরে যোগাযোগ করে review পরিবর্তন করতে বলতে পারে না। হুমকি দেওয়া তো আরো গুরুতর violation, এটি seller account suspension এবং legal action-এর আওতায় পড়ে।
+
+**৭. কাস্টমারঃ** আমার address তো seller-এর কাছে আছে delivery-র জন্য। সে কি সত্যিই আমার বাসায় আসতে পারে আপু?
+
+**৮. এজেন্টঃ** ম্যাম, Daraz-এর system-এ seller শুধু shipping label-এ address দেখতে পায়, কিন্তু order complete হওয়ার পর সাধারণত সেটা restricted থাকে। তবে আপনার নিরাপত্তার জন্য আমি account-এ address information extra protect করার request দিচ্ছি।
+
+**৯. কাস্টমারঃ** আপু, আমি কি police-এ complaint করবো? এটা তো সরাসরি হুমকি, শুধু Daraz-এর action-এ আমি নিরাপদ বোধ করছি না।
+
+**১০. এজেন্টঃ** ম্যাম, আপনি অবশ্যই নিকটস্থ থানায় GD (General Diary) করতে পারেন। Call history, seller-এর number এবং Daraz order reference দিয়ে অভিযোগ করলে আইনি সুরক্ষা পাবেন।
+
+**১১. কাস্টমারঃ** GD করবো আপু। কিন্তু আমার review কি Daraz থেকে মুছে যাবে? আমি সত্য লিখেছি, fan-এর motor এক সপ্তাহেই বন্ধ হয়ে গেছে।
+
+**১২. এজেন্টঃ** ম্যাম, আপনার honest review Daraz-এর community guidelines মানলে মুছে দেওয়া হবে না। Seller-এর চাপে review delete করার দরকার নেই, আমরা আপনার review-এর অধিকার রক্ষা করবো।
+
+**১৩. কাস্টমারঃ** ধন্যবাদ আপু, এটা শুনে স্বস্তি পেলাম। কিন্তু seller আবার call করলে আমি কী করবো? Phone receive করতেই ভয় লাগছে।
+
+**১৪. এজেন্টঃ** ম্যাম, seller-এর number block করে দিন। আর যদি অন্য number থেকে call আসে এবং হুমকি দেয়, তাহলে call record করুন এবং সঙ্গে সঙ্গে আমাদের জানান। Call recording পরে evidence হিসেবে কাজে লাগবে।
+
+**১৫. কাস্টমারঃ** Number block করে দিচ্ছি। আচ্ছা আপু, আমার defective fan-এর return কি আলাদাভাবে process হবে, নাকি এই complaint-এর সাথে যুক্ত?
+
+**১৬. এজেন্টঃ** ম্যাম, fan-এর return request আলাদাভাবে process হবে। Harassment case এবং product quality issue দুটি separate ticket-এ handle করা হচ্ছে, একটির ফলাফল অন্যটিকে প্রভাবিত করবে না।
+
+**১৭. কাস্টমারঃ** Fan-এর motor বন্ধ হয়ে গেছে, replacement চাই না এই seller-এর কাছ থেকে। Full refund চাই এবং এই seller-এর সব product থেকে দূরে থাকতে চাই।
+
+**১৮. এজেন্টঃ** ম্যাম, refund preference note করছি। আপনি চাইলে seller-কে block করতে পারেন, তাহলে তার product আপনার search result-এ দেখাবে না। Seller page-এ গিয়ে report এবং block option পাবেন।
+
+**১৯. কাস্টমারঃ** Seller block করে দিচ্ছি এখনই। আপু, Daraz কি এই seller-কে platform থেকে বের করে দেবে? অন্য customer-দেরও তো এরকম হতে পারে।
+
+**২০. এজেন্টঃ** ম্যাম, harassment complaint investigation-এ violation confirmed হলে seller-এর account suspension, listing removal এবং permanent ban পর্যন্ত action নেওয়া হতে পারে। আপনার evidence গুরুত্বপূর্ণ ভূমিকা রাখবে।
+
+**২১. কাস্টমারঃ** ঠিক আছে নুসরাত আপু। আমি GD করবো, number block করবো এবং সব call history save করে রাখবো। ধন্যবাদ বিষয়টি গুরুত্ব দিয়ে দেখার জন্য।
+
+**২২. এজেন্টঃ** ম্যাম, আপনার সাহস এবং সততার জন্য ধন্যবাদ। Unknown number-এ personal information দেবেন না এবং কোনো হুমকি পেলে সঙ্গে সঙ্গে police ও আমাদের জানাবেন। আপনি নিরাপদ থাকুন।
+
+---
+
+## সিনারিও ৩৩ঃ System নিজে থেকে order cancel করেছে কিন্তু Nagad থেকে টাকা কেটে নিয়েছে
+
+> একজন customer সকালে order place করেন এবং Nagad দিয়ে payment সম্পন্ন করেন। দুই ঘণ্টা পর app-এ দেখেন order status "Cancelled" দেখাচ্ছে, কিন্তু Nagad থেকে টাকা কেটে যাওয়ার SMS আছে। Customer কোনো cancellation request করেননি।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি সকালে একটি order করে Nagad-এ pay করেছি। দুই ঘণ্টা পর দেখি order cancel হয়ে গেছে, কিন্তু Nagad থেকে ৩,২০০ টাকা কেটেই আছে! আমি তো cancel করিনি!
+
+**২. এজেন্টঃ** Daraz customer care থেকে ফারিয়া বলছি sir। আপনার অনুমতি ছাড়া order cancel হওয়া এবং টাকা আটকে থাকা দুটোই সমস্যা। আমি এখনই cancellation reason এবং payment status দেখছি।
+
+**৩. কাস্টমারঃ** আমি কোনো cancel button চাপিনি আপু। App-এ notification এসেছে "Your order has been cancelled", কোনো কারণও লেখা নেই।
+
+**৪. এজেন্টঃ** sir, আমি আপনার order log দেখছি। বিস্তারিত বুঝিয়ে বলছি — আপনার order-টি seller-এর end থেকে cancel হয়েছে। Seller stock unavailable বলে cancellation করেছে, এটি system-generated cancellation নয়, seller-initiated। আপনার কোনো দোষ নেই।
+
+**৫. কাস্টমারঃ** Seller-এর stock না থাকলে listing-এ কেন available দেখিয়েছে? আমি তো দেখে order করেছি, আর এখন টাকা আটকে গেছে!
+
+**৬. এজেন্টঃ** sir, আপনার রাগ সম্পূর্ণ যুক্তিসংগত। কিছু seller real-time inventory update করেন না, ফলে out-of-stock product-ও available দেখায়। এটি seller-এর দোষ এবং আমি seller conduct-এ report করছি।
+
+**৭. কাস্টমারঃ** Report পরের কথা আপু, আমার ৩,২০০ টাকা কবে ফেরত আসবে? Nagad-এ balance না থাকলে আজ রাতে electricity bill দিতে পারবো না।
+
+**৮. এজেন্টঃ** sir, seller-initiated cancellation-এ refund automatically trigger হয়। আমি দেখছি refund request created আছে, Nagad-এ সাধারণত ৩ থেকে ৫ কর্মদিবসে টাকা ফেরত যায়।
+
+**৯. কাস্টমারঃ** ৩ থেকে ৫ দিন! আজ রাতে bill-এর deadline, তার আগে টাকা না পেলে late fee দিতে হবে। কোনো দ্রুত উপায় নেই?
+
+**১০. এজেন্টঃ** sir, Nagad refund expedite করার জন্য আমি finance team-এ priority request পাঠাচ্ছি। একই সাথে আপনি Nagad helpline-এ call করে refund transaction-এর status জানতে পারেন, তাতে দ্রুত process হতে পারে।
+
+**১১. কাস্টমারঃ** Nagad-কে call করলে কী reference দেবো আপু? তারা তো Daraz-এর transaction খুঁজে পাবে না সহজে।
+
+**১২. এজেন্টঃ** sir, আপনার Nagad payment-এর transaction ID আপনার Nagad SMS-এ আছে। সেই ID দিয়ে Nagad customer care-এ জিজ্ঞেস করবেন refund pending আছে কিনা।
+
+**১৩. কাস্টমারঃ** SMS-এ transaction ID আছে, TXN-NGD-২০২৬-৪৫৬৭৮। আচ্ছা আপু, এই product-টা আমার জরুরি দরকার ছিল। অন্য seller-এর কাছ থেকে কি same product পাবো?
+
+**১৪. এজেন্টঃ** sir, আপনি Daraz app-এ same product search করলে অন্য seller-এর listing পাবেন। তবে নতুন order-এ আবার payment করতে হবে, আগের refund আলাদাভাবে process হবে।
+
+**১৫. কাস্টমারঃ** মানে আমাকে দ্বিগুণ টাকা খরচ করতে হবে? একটার refund আসেনি, আরেকটার payment আবার দিতে হবে?
+
+**১৬. এজেন্টঃ** sir, দুঃখজনক হলেও refund এবং নতুন order আলাদা transaction। তবে refund আসা পর্যন্ত অপেক্ষা করতে চাইলে product wishlist-এ রেখে পরে কিনতে পারেন। আর নতুন order-এ COD select করলে আগে থেকে payment দিতে হবে না।
+
+**১৭. কাস্টমারঃ** COD ভালো idea আপু। কিন্তু ভবিষ্যতে seller-এর এই ধরনের cancellation এড়াতে কোন seller থেকে কেনা নিরাপদ?
+
+**১৮. এজেন্টঃ** sir, DarazMall বা "Fulfilled by Daraz" badge থাকা seller-দের stock management ভালো এবং cancellation rate কম। এছাড়া seller rating ৪ star-এর উপরে এবং positive review percentage বেশি থাকলে reliable হওয়ার সম্ভাবনা বেশি।
+
+**১৯. কাস্টমারঃ** বুঝেছি আপু। আচ্ছা, আমি যদি Nagad-এর বদলে Daraz Wallet-এ refund নিই, তাহলে কি তাড়াতাড়ি পাবো?
+
+**২০. এজেন্টঃ** জ্বী sir, Daraz Wallet-এ refund সাধারণত ২৪ ঘণ্টার মধ্যে credit হয়। তবে Wallet balance শুধু Daraz-এই ব্যবহার করা যাবে, বাইরে withdraw-এর option সীমিত।
+
+**২১. কাস্টমারঃ** না আপু, আমার cash-ই দরকার bill-এর জন্য। Nagad-এই refund চাই। Nagad helpline-এ এখনই call করবো।
+
+**২২. এজেন্টঃ** sir, Nagad call-এ Daraz transaction ID এবং refund amount mention করবেন। আমাদের দিক থেকে priority request পাঠানো হয়েছে। Bill deadline-এর কথা বুঝতে পারছি, আশা করি দ্রুত refund পাবেন। ভালো থাকবেন।
+
+---
+
+## সিনারিও ৩৪ঃ Business-এর জন্য bulk order করেছেন, VAT সহ tax invoice দরকার
+
+> একজন small business owner অফিসের জন্য Daraz থেকে ২০টি desk lamp bulk-এ কিনেছেন। Company-র accounting এবং tax filing-এর জন্য VAT সহ proper tax invoice দরকার, কিন্তু Daraz থেকে প্রাপ্ত invoice-এ company name বা VAT information নেই।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি আমার অফিসের জন্য ২০টি desk lamp bulk-এ কিনেছি Daraz থেকে। আমার company-র tax filing-এর জন্য VAT সহ proper invoice দরকার, কিন্তু যে invoice পেয়েছি সেটায় company name নেই।
+
+**২. এজেন্টঃ** Daraz customer care থেকে আরিফ বলছি sir। Business purchase-এ proper documentation-এর প্রয়োজনীয়তা বুঝতে পারছি। আপনি কোন account দিয়ে order করেছেন, personal নাকি business?
+
+**৩. কাস্টমারঃ** Personal account দিয়ে করেছি ভাইয়া। Daraz-এ business account আছে নাকি? আমি তো জানতামই না, সবসময় personal account-ই ব্যবহার করি।
+
+**৪. এজেন্টঃ** sir, Daraz-এ সাধারণত individual buyer-দের জন্য platform তৈরি এবং standard invoice-এ buyer-এর নাম থাকে। Business name, TIN বা VAT number সহ commercial invoice চাইলে seller-এর কাছে আলাদাভাবে request করতে হতে পারে।
+
+**৫. কাস্টমারঃ** মানে seller-কে বলতে হবে? ২০টি lamp তিনজন আলাদা seller-এর কাছ থেকে কিনেছি। সবাইকে আলাদা আলাদা বলবো?
+
+**৬. এজেন্টঃ** sir, বিস্তারিত বুঝিয়ে বলছি — প্রতিটি seller আলাদা ব্যবসায়ী, তাই প্রত্যেকের কাছ থেকে আলাদা invoice পাবেন। সব seller-কে Daraz chat-এ message করে company name, address এবং VAT registration number জানিয়ে tax invoice request করুন। কিছু seller এই service দিতে পারেন, তবে সবাই নাও পারতে পারেন।
+
+**৭. কাস্টমারঃ** যে seller tax invoice দিতে পারবে না, তার কাছ থেকে কেনা product-এর খরচ কি আমি company expense হিসেবে দেখাতে পারবো না?
+
+**৮. এজেন্টঃ** sir, সেটা আপনার accountant বা tax advisor ভালো বলতে পারবেন। Daraz-এর standard order invoice-ও purchase proof হিসেবে কাজ করতে পারে, তবে VAT deduction-এর জন্য seller-এর VAT-challan সাধারণত দরকার হয়।
+
+**৯. কাস্টমারঃ** আচ্ছা। ভাইয়া, Daraz app থেকে কি আমি নিজে invoice download করতে পারি? Order history-তে invoice option খুঁজে পাচ্ছি না।
+
+**১০. এজেন্টঃ** sir, My Orders section-এ delivered order-এ click করলে "Download Invoice" বা "View Invoice" option থাকে। কিছু order-এ PDF download-এর link পাবেন, সেটা company record-এ রাখতে পারবেন।
+
+**১১. কাস্টমারঃ** পেয়েছি ভাইয়া, download করলাম। কিন্তু এতে শুধু আমার নাম আছে, company-র নাম "Rahman Trading" নেই। এটা accounting-এ সমস্যা করবে।
+
+**১২. এজেন্টঃ** sir, Daraz-এর system-এ order invoice buyer-এর account name ব্যবহার করে। Company name add করতে হলে seller-কে manually request করতে হবে। ভবিষ্যতে বড় purchase-এর আগে seller-এর কাছে business invoice availability confirm করবেন।
+
+**১৩. কাস্টমারঃ** ভবিষ্যতের কথা বুঝলাম। কিন্তু এই order-এর জন্য কি Daraz থেকে কোনো consolidated purchase certificate দেওয়া সম্ভব?
+
+**১৪. এজেন্টঃ** sir, Daraz সাধারণত purchase certificate issue করে না, তবে আমি আপনার request customer support-এ forward করতে পারি। কিছু ক্ষেত্রে payment confirmation এবং order summary-এর official copy পাওয়ার ব্যবস্থা হতে পারে।
+
+**১৫. কাস্টমারঃ** করে দিন ভাইয়া। আচ্ছা, ২০টি lamp-এ কোনো bulk discount ছিল? আমি তো individual price-এই কিনেছি, bulk-এ কম হওয়া উচিত ছিল।
+
+**১৬. এজেন্টঃ** sir, Daraz-এ সাধারণত individual listing price-ই থাকে। Bulk discount পেতে চাইলে seller-কে order-এর আগে chat-এ জিজ্ঞেস করবেন "wholesale বা bulk pricing available কিনা।" কিছু seller বড় quantity-তে custom discount দিতে পারেন।
+
+**১৭. কাস্টমারঃ** এটা আগে জানলে ভালো হতো। ভাইয়া, delivery-তে ২০টি lamp-এর মধ্যে ৩টিতে ছোট scratch আছে, সেগুলো কি return করতে পারবো?
+
+**১৮. এজেন্টঃ** sir, scratched lamp-এর ছবি তুলে return request দিন। তিনটি lamp আলাদা seller-এর হলে প্রত্যেক seller-এর জন্য আলাদা return request করতে হবে, একই seller-এর হলে একটিতেই হবে।
+
+**১৯. কাস্টমারঃ** তিনটিই একই seller-এর। ভাইয়া, আর একটা কথা, ভবিষ্যতে বড় অফিস purchase-এর জন্য কি Daraz-এ কোনো business program আছে?
+
+**২০. এজেন্টঃ** sir, Daraz কিছু B2B initiative নিয়ে কাজ করছে। App-এ "Daraz for Business" বা similar program দেখতে পান কিনা check করুন, অথবা Daraz-এর official website-এর business section-এ details পাবেন।
+
+**২১. কাস্টমারঃ** ঠিক আছে আরিফ ভাইয়া। Seller-দের chat করবো invoice-এর জন্য আর scratched lamp return দেবো। ধন্যবাদ বিস্তারিত জানানোর জন্য।
+
+**২২. এজেন্টঃ** আপনাকেও ধন্যবাদ sir। বড় purchase-এর আগে seller-এর সাথে business requirements নিয়ে আগে কথা বলবেন এবং payment proof সব সংরক্ষণ করবেন। আপনার business-এর জন্য শুভকামনা!
+
+---
+
+## সিনারিও ৩৫ঃ Health supplement-এর ভুল dosage এসেছে, বৃদ্ধ বাবা ইতিমধ্যে খেয়ে ফেলেছেন
+
+> একজন customer তার বৃদ্ধ বাবার জন্য Vitamin D supplement অর্ডার করেছিলেন ১,০০০ IU dosage-এর। কিন্তু delivery-তে ৫,০০০ IU dosage-এর bottle এসেছে। বাবা না জেনে দুই দিন ধরে উচ্চ dosage খেয়ে ফেলেছেন এবং customer health risk নিয়ে আতঙ্কিত।
+
+**১. কাস্টমারঃ** আপু, আমি আমার বাবার জন্য Vitamin D ১,০০০ IU অর্ডার করেছিলাম, কিন্তু ৫,০০০ IU এসেছে! বাবা দুই দিন ধরে ভুল dosage খাচ্ছেন, এটা কি তার শরীরে ক্ষতি করবে?
+
+**২. এজেন্টঃ** Daraz customer care থেকে সাবরিনা বলছি ম্যাম। এটি health-related serious issue। সবার আগে আপনার বাবাকে এই supplement খাওয়া এখনই বন্ধ করতে বলুন এবং যত দ্রুত সম্ভব ডাক্তারের সাথে পরামর্শ করুন।
+
+**৩. কাস্টমারঃ** বাবাকে বলে দিয়েছি বন্ধ করতে, কিন্তু উনি ২ দিনে ৪টি tablet খেয়ে ফেলেছেন। ডাক্তার আজ সন্ধ্যায় chamber-এ থাকবেন। আপু, এটা seller-এর ভুল নাকি Daraz-এর?
+
+**৪. এজেন্টঃ** ম্যাম, আপনার উদ্বেগ সম্পূর্ণ বুঝতে পারছি। আমি order details check করছি। ডাক্তারের কাছে যাওয়ার সময় product-এর bottle, label এবং order confirmation-এর screenshot সাথে নিয়ে যাবেন, যাতে ডাক্তার exact dosage জানতে পারেন।
+
+**৫. কাস্টমারঃ** Label-এ পরিষ্কার ৫,০০০ IU লেখা, কিন্তু আমি app-এ ১,০০০ IU select করেছিলাম। Variant selection-এ কি ভুল হয়েছে নাকি seller ভুল product পাঠিয়েছে?
+
+**৬. এজেন্টঃ** ম্যাম, আমি আপনার order confirmation দেখে বলছি — আপনি ১,০০০ IU variant-ই select করেছিলেন, কিন্তু delivered product ৫,০০০ IU। বিস্তারিত বুঝিয়ে বলছি — এটি seller-এর shipping error, সম্ভবত warehouse-এ ভুল variant pick করা হয়েছে। আপনার selection-এ কোনো ভুল ছিল না।
+
+**৭. কাস্টমারঃ** তাহলে seller-এর ভুলে আমার বাবার স্বাস্থ্যহানি হলে কে দায়ী হবে আপু? ডাক্তারের visit-এর খরচও তো আমাকে বহন করতে হচ্ছে।
+
+**৮. এজেন্টঃ** ম্যাম, আমি এই case "Health & Safety Incident" হিসেবে highest priority-তে report করছি। Product refund ছাড়াও medical expense claim-এর কথা investigation team-কে জানাচ্ছি। ডাক্তারের prescription এবং bill সংরক্ষণ করবেন।
+
+**৯. কাস্টমারঃ** করবো আপু। বাবার বয়স ৭২, তিনি diabetes-এর ওষুধ খান। Vitamin D overdose কি তার diabetes-এ সমস্যা করতে পারে?
+
+**১০. এজেন্টঃ** ম্যাম, আমি medical professional নই, তাই specific health advice দেওয়া আমার পক্ষে সম্ভব নয়। তবে আপনার বাবার existing conditions এবং current medications-এর list ডাক্তারকে দিন, তিনি proper assessment করতে পারবেন।
+
+**১১. কাস্টমারঃ** ঠিক আছে আপু। ভুল dosage-এর bottle কি return করতে হবে নাকি ফেলে দেবো? Health product তো আবার অন্য কাউকে দেওয়া যায় না।
+
+**১২. এজেন্টঃ** ম্যাম, ভুল product-টি ফেলে দেবেন না। Label, batch number এবং bottle evidence হিসেবে রাখবেন। Investigation-এ seller-এর ভুল prove করতে এই physical product দরকার হতে পারে।
+
+**১৩. কাস্টমারঃ** রেখে দিচ্ছি আপু। কিন্তু correct ১,০০০ IU supplement-টা বাবার দরকার। এটা কি seller replacement হিসেবে পাঠাবে?
+
+**১৪. এজেন্টঃ** ম্যাম, এই seller-এর কাছ থেকে replacement নেওয়ার চেয়ে refund নিয়ে verified pharmacy বা trusted seller থেকে correct dosage কেনা আপনার বাবার জন্য নিরাপদ হবে।
+
+**১৫. কাস্টমারঃ** সেটাই করবো আপু। আচ্ছা, এই seller কি অন্য customer-দেরও ভুল dosage পাঠাতে পারে? Health product-এ ভুল তো মারাত্মক হতে পারে।
+
+**১৬. এজেন্টঃ** ম্যাম, আপনার report পাওয়ার পর product safety team seller-এর health category listing, inventory management এবং shipping accuracy review করবে। গুরুতর issue পাওয়া গেলে listing suspend হতে পারে।
+
+**১৭. কাস্টমারঃ** Listing suspend হওয়া উচিত আপু। Health product-এ ভুল dosage পাঠানো ক্ষমার অযোগ্য। Daraz-এ কি health product-এর জন্য আলাদা quality check হয়?
+
+**১৮. এজেন্টঃ** ম্যাম, Daraz marketplace model-এ seller নিজে product ship করেন। Health ও wellness category-তে seller compliance requirement থাকে, তবে প্রতিটি shipment-এ individual quality check সম্ভব হয় না। আপনার feedback quality improvement-এ সাহায্য করবে।
+
+**১৯. কাস্টমারঃ** আচ্ছা। ডাক্তারের কাছে গিয়ে যদি কোনো treatment দরকার হয়, তাহলে সেই খরচের claim কি Daraz-এ দিতে পারবো?
+
+**২০. এজেন্টঃ** ম্যাম, medical expense claim-এর জন্য ডাক্তারের prescription, bill, wrong product label-এর ছবি এবং order details দিয়ে Help Center-এ detailed claim submit করবেন। Investigation team evidence review করে সিদ্ধান্ত নেবে।
+
+**২১. কাস্টমারঃ** ঠিক আছে সাবরিনা আপু। আমি এখন বাবাকে ডাক্তারের কাছে নিয়ে যাচ্ছি, সব document রাখবো। ধন্যবাদ দ্রুত response দেওয়ার জন্য।
+
+**২২. এজেন্টঃ** ম্যাম, আপনার বাবার সুস্থতা কামনা করছি। ডাক্তারের পরামর্শ অনুসরণ করবেন এবং ভুল supplement আর খাওয়াবেন না। Case update পাওয়ামাত্র আমরা জানাবো। আল্লাহ হাফেজ।
+
+---
+
+## সিনারিও ৩৬ঃ Daraz Wallet-এর balance হঠাৎ শূন্য হয়ে গেছে
+
+> একজন customer-এর Daraz Wallet-এ আগের refund থেকে ২,৮০০ টাকা জমা ছিল। তিনি একটি product কিনতে গিয়ে checkout-এ payment failed হয়, কিন্তু wallet-এর balance শূন্য হয়ে যায়। Order-ও হয়নি, টাকাও নেই।
+
+**১. কাস্টমারঃ** ভাইয়া, আমার Daraz Wallet-এ ২,৮০০ টাকা ছিল। একটা headphone কিনতে গেছি, checkout-এ error দেখালো, order হয়নি, কিন্তু wallet balance শূন্য! টাকা কোথায় গেল?
+
+**২. এজেন্টঃ** Daraz customer care থেকে রাকিব বলছি sir। Wallet balance missing হওয়া অবশ্যই চিন্তার বিষয়। আমি এখনই আপনার wallet transaction history check করছি। Account-এ registered number-টা বলবেন?
+
+**৩. কাস্টমারঃ** নম্বর ০১৭২৩৪৫৬৭৮৯। ভাইয়া, এই ২,৮০০ টাকা আমার আগের refund-এর টাকা ছিল। Order-ও হয়নি আবার টাকাও নেই, এটা কী ধরনের system?
+
+**৪. এজেন্টঃ** sir, আমি আপনার wallet-এর transaction log দেখছি। একটু সময় দিন, payment gateway এবং wallet debit record cross-reference করতে হবে।
+
+**৫. কাস্টমারঃ** আমি তিনবার checkout-এ try করেছিলাম ভাইয়া। প্রতিবারই "Payment Processing Error" দেখালো, তারপর wallet balance কমতে কমতে শূন্য হয়ে গেছে।
+
+**৬. এজেন্টঃ** sir, আমি দেখতে পাচ্ছি আপনার wallet থেকে তিনটি debit attempt হয়েছে। বিস্তারিত বুঝিয়ে বলছি — checkout-এ payment initiate হওয়ার সময় wallet থেকে amount deduct হয়, কিন্তু order creation fail হলে deducted amount কিছু সময় পর automatically wallet-এ ফিরে আসার কথা। এই ক্ষেত্রে তিনটি attempt-এ মোট ২,৮০০ টাকা blocked হয়ে আছে।
+
+**৭. কাস্টমারঃ** কতক্ষণে ফিরে আসবে ভাইয়া? আমি এই টাকা দিয়ে আজই headphone কিনতে চাইছিলাম, কাল থেকে price বাড়বে।
+
+**৮. এজেন্টঃ** sir, failed transaction-এর wallet reversal সাধারণত ৩০ মিনিট থেকে ২ ঘণ্টার মধ্যে হয়। তবে তিনটি attempt একসাথে হওয়ায় processing queue-তে delay হতে পারে। আমি manual reversal request দিচ্ছি।
+
+**৯. কাস্টমারঃ** ২ ঘণ্টা! কিন্তু price offer আজ রাত ১২টায় শেষ। তার আগে order না দিলে কাল ৫০০ টাকা বেশি দিতে হবে।
+
+**১০. এজেন্টঃ** sir, আপনার time constraint বুঝতে পারছি। আমি wallet team-এ immediate reversal request escalate করছি। এছাড়া আপনি চাইলে এই order অন্য payment method-এ দিয়ে পরে wallet balance ফিরে এলে সেটা অন্য কিছুতে ব্যবহার করতে পারেন।
+
+**১১. কাস্টমারঃ** অন্য payment method-এ দিলে তো দ্বিগুণ টাকা আটকে যাবে। বিকল্প নেই ভাইয়া, wallet-এর টাকাই ফেরত চাই আগে।
+
+**১২. এজেন্টঃ** sir, বুঝতে পারছি। আমি দেখছি তিনটি blocked transaction-এর মধ্যে দুইটি already "reversal initiated" status-এ আছে। তৃতীয়টি এখনো pending, সেটি manually push করছি।
+
+**১৩. কাস্টমারঃ** দুইটি reversal initiated মানে টাকা কি wallet-এ দেখাবে? আমি app refresh করছি, এখনো শূন্য দেখাচ্ছে।
+
+**১৪. এজেন্টঃ** sir, reversal initiate হওয়ার পর actual credit কিছু মিনিট লাগতে পারে। App-এ force close করে আবার open করুন, তারপর wallet section-এ balance দেখুন।
+
+**১৫. কাস্টমারঃ** Wait, app restart করলাম। হ্যাঁ ভাইয়া, ১,৮০০ টাকা ফিরে এসেছে! বাকি ১,০০০ টাকা কোথায়?
+
+**১৬. এজেন্টঃ** sir, তৃতীয় transaction-এর reversal এখনো processing-এ আছে। আমি manually request দিয়েছি, আর কিছুক্ষণের মধ্যে বাকি ১,০০০ টাকাও ফিরে আসার কথা।
+
+**১৭. কাস্টমারঃ** ঠিক আছে, অপেক্ষা করছি। ভাইয়া, এরপর থেকে checkout-এ error এলে কি একই button বারবার চাপবো না?
+
+**১৮. এজেন্টঃ** sir, exactly। Payment error দেখালে বারবার retry করবেন না, কারণ প্রতিটি attempt-এ wallet deduct হতে পারে। Error দেখলে কয়েক মিনিট অপেক্ষা করুন, তারপর order status এবং wallet balance check করে আবার try করুন।
+
+**১৯. কাস্টমারঃ** বুঝেছি ভাইয়া। ও, balance check করলাম, পুরো ২,৮০০ টাকাই ফিরে এসেছে! এখন headphone order দিতে পারবো?
+
+**২০. এজেন্টঃ** জ্বী sir, এখন wallet-এ full balance আছে। Checkout-এ Daraz Wallet select করে order complete করুন। এবার একবারই "Place Order" চাপবেন এবং loading screen-এ ধৈর্য ধরবেন।
+
+**২১. কাস্টমারঃ** Order দিয়ে ফেললাম ভাইয়া, এবার successfully হয়েছে! ধন্যবাদ রাকিব ভাই, পুরো balance recover করে দেওয়ার জন্য কৃতজ্ঞ।
+
+**২২. এজেন্টঃ** আপনাকেও ধন্যবাদ sir। Checkout-এ error হলে patience রাখবেন এবং multiple retry এড়াবেন। Headphone enjoy করুন, শুভকামনা!
+
+---
+
+## সিনারিও ৩৭ঃ বিয়ের শাড়ি event-এর পরদিন delivery হয়েছে
+
+> একজন customer তার বান্ধবীর holud ceremony-র জন্য ১০ দিন আগে একটি designer saree অর্ডার করেছিলেন। Estimated delivery ছিল event-এর ২ দিন আগে, কিন্তু saree event-এর পরদিন delivery হয়েছে। Customer এখন product return করতে চান কারণ event শেষ হওয়ায় saree-টির আর কোনো ব্যবহার নেই।
+
+**১. কাস্টমারঃ** আপু, আমি ১০ দিন আগে holud-এর জন্য designer saree অর্ডার করেছিলাম। গতকাল holud শেষ হয়ে গেছে, আর saree আজ এসেছে! Event শেষ, saree দিয়ে আমার কী হবে?
+
+**২. এজেন্টঃ** Daraz customer care থেকে নুসরাত বলছি ম্যাম। Event-এর জন্য কেনা product দেরিতে আসায় আপনার হতাশা বুঝতে পারছি। Estimated delivery date কত ছিল বলবেন?
+
+**৩. কাস্টমারঃ** App-এ দেখিয়েছিল ১৯ তারিখের মধ্যে delivery, holud ছিল ২১ তারিখে। আজ ২২ তারিখ, একদিন পরে এসেছে। আমি অন্য একটি saree কিনে পরতে বাধ্য হয়েছি!
+
+**৪. এজেন্টঃ** ম্যাম, তাহলে estimated date-এর ৩ দিন পরে delivery হয়েছে, এটি significant delay। আমি delivery timeline এবং shipment record দেখে delay-এর কারণ খুঁজছি।
+
+**৫. কাস্টমারঃ** কারণ খুঁজে আমার কী লাভ আপু? আমি full refund চাই। Saree-টি এখন আমার কোনো কাজে আসবে না, শুধু এই event-এর জন্যই কিনেছিলাম।
+
+**৬. এজেন্টঃ** ম্যাম, আপনার return request-এর কারণ সম্পূর্ণ যুক্তিসংগত। তবে return policy অনুযায়ী "delivery delay" এবং "change of mind" দুটো আলাদা category। আমি আপনার case "Delivery Failure — missed event deadline" হিসেবে process করছি, যাতে return review সহজ হয়।
+
+**৭. কাস্টমারঃ** Change of mind? আমার mind change হয়নি আপু! Delivery-ই সময়মতো হয়নি। এটা পুরোপুরি Daraz-এর দোষ, আমার কোনো ভুল নেই।
+
+**৮. এজেন্টঃ** ম্যাম, আমি বলছি না এটা আপনার দোষ। আমি case category ঠিক করছি যাতে "delivery delay" হিসেবে process হয়, সেটাতে refund eligibility বেশি থাকে। আপনি saree-এর packaging খুলেছেন?
+
+**৯. কাস্টমারঃ** হ্যাঁ আপু, খুলে দেখেছি। Saree সুন্দর, quality-তে সমস্যা নেই। কিন্তু এটা শুধু holud-এর colour theme-এর সাথে match করে কেনা, everyday পরার style না।
+
+**১০. এজেন্টঃ** ম্যাম, product condition ভালো এবং tag intact থাকলে return acceptance সহজ হবে। Saree ভাঁজ করে original packaging-এ রাখবেন, pin বা clip লাগাবেন না।
+
+**১১. কাস্টমারঃ** Tag intact আছে, packaging-এও রেখেছি। আপু, আমি যে অতিরিক্ত saree কিনেছিলাম emergency-তে, সেটার খরচ কি compensation হিসেবে পাবো?
+
+**১২. এজেন্টঃ** ম্যাম, alternative purchase-এর compensation Daraz standard policy-তে সাধারণত cover হয় না। তবে delivery failure documented থাকায় inconvenience-এর কথা case notes-এ লিখে দিচ্ছি, operations team বিবেচনা করবে।
+
+**১৩. কাস্টমারঃ** বুঝলাম আপু। Return pickup কত দিনের মধ্যে হবে? Saree-টি দামি, বেশিদিন রাখলে damage হওয়ার ভয় আছে।
+
+**১৪. এজেন্টঃ** ম্যাম, return request approve হলে সাধারণত ২ থেকে ৩ কর্মদিবসের মধ্যে pickup schedule হয়। Saree ভাঁজ করে শুকনো জায়গায় রাখবেন, সরাসরি সূর্যের আলো এবং আর্দ্রতা থেকে দূরে।
+
+**১৫. কাস্টমারঃ** আচ্ছা। আপু, ভবিষ্যতে কোনো event-এর জন্য Daraz-এ order দিলে guaranteed delivery date পাওয়ার উপায় কি আছে?
+
+**১৬. এজেন্টঃ** ম্যাম, Daraz-এ delivery guarantee সব seller বা product-এ available নয়। তবে DarazMall product এবং Daraz Express delivery option থাকলে সময়মতো পাওয়ার সম্ভাবনা বেশি। Event-এর অন্তত ২ সপ্তাহ আগে order দেওয়া নিরাপদ।
+
+**১৭. কাস্টমারঃ** ২ সপ্তাহ আগে দিয়েও তো guarantee নেই তাহলে! Local shop-এ গেলে হাতে পেয়ে যেতাম, online-এ risk নিলাম বলে এই অবস্থা।
+
+**১৮. এজেন্টঃ** ম্যাম, আপনার frustration বুঝি। Online shopping-এ delivery timeline-এর uncertainty একটি limitation, বিশেষ করে time-sensitive purchase-এ। আমরা আপনার feedback delivery improvement team-এ পাঠাচ্ছি।
+
+**১৯. কাস্টমারঃ** ঠিক আছে আপু। Refund কোন method-এ আসবে? আমি bKash-এ pay করেছিলাম।
+
+**২০. এজেন্টঃ** ম্যাম, bKash payment-এর refund সাধারণত bKash account-এ ফিরে যায়। Return pickup এবং inspection শেষ হওয়ার পর ৫ থেকে ৭ কর্মদিবসে refund process হয়।
+
+**২১. কাস্টমারঃ** ঠিক আছে নুসরাত আপু। Saree packaging-এ রেখে দিচ্ছি, pickup-এর জন্য অপেক্ষা করবো। ধন্যবাদ বিষয়টা গুরুত্ব দিয়ে দেখার জন্য।
+
+**২২. এজেন্টঃ** আপনাকেও ধন্যবাদ ম্যাম। Pickup-এর সময় হলে SMS আসবে, saree handover-এর পর receipt সংগ্রহ করবেন। আপনার বান্ধবীর holud শুভ হোক!
+
+---
+
