@@ -1295,4 +1295,257 @@
 
 ---
 
+## সিনারিও ২৫ঃ Flash sale-এ voucher code কাজ করছে না, sale শেষ হওয়ার সময় ঘনিয়ে আসছে
+
+> একজন customer Daraz Mega Sale-এ laptop কিনতে চান। তার কাছে ২,০০০ টাকার promotional voucher আছে কিন্তু checkout-এ apply করলে "Invalid Voucher" দেখাচ্ছে। Sale শেষ হতে আর দুই ঘণ্টা বাকি, তাই customer অত্যন্ত তাড়াহুড়ায় আছেন।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি Mega Sale-এ একটা laptop কিনতে চাইছি। ২,০০০ টাকার voucher apply করছি কিন্তু বারবার "Invalid Voucher" দেখাচ্ছে, sale শেষ হওয়ার আগে সমাধান করুন!
+
+**২. এজেন্টঃ** Daraz customer care থেকে রাকিব বলছি sir। Voucher issue নিয়ে দুঃখিত, আমি এখনই check করছি। Voucher code-টা একটু বলবেন?
+
+**৩. কাস্টমারঃ** Code হচ্ছে MEGA2026SAVE। এটা গতকাল Daraz app-এর notification থেকে collect করেছিলাম, validity আজ রাত পর্যন্ত লেখা ছিল।
+
+**৪. এজেন্টঃ** ধন্যবাদ sir, আমি voucher-এর terms and conditions দেখছি। আপনি কোন laptop-টি cart-এ রেখেছেন এবং total amount কত দেখাচ্ছে?
+
+**৫. কাস্টমারঃ** HP Pavilion laptop, price ৬২,৯৯০ টাকা। Cart-এ add করে checkout page-এ voucher code paste করছি, কিন্তু apply হচ্ছে না।
+
+**৬. এজেন্টঃ** sir, আমি voucher details পেয়েছি। বিস্তারিত বুঝিয়ে বলছি — এই voucher-এর minimum purchase ৫,০০০ টাকা, সেটা আপনি পূরণ করছেন। তবে voucher-টি শুধু "Fashion ও Lifestyle" category-তে applicable, electronics category-তে ব্যবহার করা যাচ্ছে না তাই error আসছে।
+
+**৭. কাস্টমারঃ** কিন্তু notification-এ তো "All Categories" লেখা ছিল! আমি specifically এই voucher-এর জন্য laptop কেনার plan করেছিলাম।
+
+**৮. এজেন্টঃ** sir, আপনার হতাশা বুঝতে পারছি। Notification text এবং voucher-এর actual terms মাঝে মাঝে আলাদা হতে পারে। আমি আপনার account-এ electronics-এ applicable কোনো active voucher আছে কিনা check করছি।
+
+**৯. কাস্টমারঃ** Sale শেষ হতে দুই ঘণ্টারও কম বাকি! Voucher না পেলে full price দিতে হবে, সেটা আমার budget-এর বাইরে ভাইয়া।
+
+**১০. এজেন্টঃ** sir, আমি দেখতে পাচ্ছি আপনার account-এ একটি TECHSALE500 voucher eligible আছে, যেটা electronics category-তে ৫০০ টাকা discount দেবে। এটা apply করে দেখুন।
+
+**১১. কাস্টমারঃ** মাত্র ৫০০ টাকা? আমি তো ২,০০০ টাকার ছাড় আশা করে বসে ছিলাম। এটা মেনে নেওয়া কঠিন ভাইয়া।
+
+**১২. এজেন্টঃ** sir, আমি বুঝতে পারছি প্রত্যাশা অনুযায়ী হয়নি। তবে Mega Sale-এ laptop-টিতে already ৮,০০০ টাকা discount আছে, তার উপর এই ৫০০ টাকা যোগ হবে।
+
+**১৩. কাস্টমারঃ** আচ্ছা, তাহলে মোট কত দাঁড়াবে? আর payment করলে কোনো cashback offer আছে কিনা দেখুন তো।
+
+**১৪. এজেন্টঃ** sir, ৬২,৯৯০ থেকে ৫০০ বাদে ৬২,৪৯০ টাকা হবে। এছাড়া bKash payment-এ current Mega Sale offer-এ ২% cashback থাকতে পারে, checkout page-এ payment method select করলে দেখবেন।
+
+**১৫. কাস্টমারঃ** bKash cashback দেখাচ্ছে, maximum ১,০০০ টাকা পর্যন্ত। তাহলে মোটামুটি ১,৫০০ টাকা বাঁচবে, সেটা মন্দ না।
+
+**১৬. এজেন্টঃ** জ্বী sir, ভালো saving হচ্ছে এই combination-এ। তবে cashback আলাদাভাবে bKash account-এ পরে credit হবে, checkout-এ instant discount হিসেবে কাটবে না।
+
+**১৭. কাস্টমারঃ** বুঝেছি। আচ্ছা ভাইয়া, voucher apply করে order দিচ্ছি। কিন্তু ২,০০০ টাকার voucher-এ misleading notification দেওয়া হয়েছে, সেটার complaint করতে চাই।
+
+**১৮. এজেন্টঃ** sir, আপনার notification-এর feedback marketing team-এ forward করছি। App-এর Help Center থেকে Promotions এবং Vouchers section-এ গিয়েও feedback submit করতে পারবেন।
+
+**১৯. কাস্টমারঃ** ঠিক আছে। Order place করলে Mega Sale-এর সময় delivery কতদিনে হবে? অনেক order থাকে তো, delay হবে না?
+
+**২০. এজেন্টঃ** sir, Mega Sale-এর সময় delivery volume বেশি থাকায় সাধারণত ৩ থেকে ৫ কর্মদিবস লাগতে পারে। Product page-এ estimated delivery date দেখে order confirm করবেন।
+
+**২১. কাস্টমারঃ** আচ্ছা, order দিচ্ছি এখনই। TECHSALE500 code apply হয়ে গেছে, ধন্যবাদ রাকিব ভাই, দ্রুত সমাধান দেওয়ার জন্য কৃতজ্ঞ।
+
+**২২. এজেন্টঃ** আপনাকেও ধন্যবাদ sir। Order confirm হলে invoice-এর screenshot রেখে দেবেন এবং delivery update app-এ track করবেন। শুভ কেনাকাটা!
+
+---
+
+## সিনারিও ২৬ঃ Account hack হয়ে অচেনা order place হয়েছে, credit card থেকে টাকা কেটেছে
+
+> রাত ৩টায় একজন customer-এর Daraz account থেকে তার অজান্তে চারটি high-value order place হয়েছে। Saved credit card থেকে প্রায় ৮০,০০০ টাকা কেটে নেওয়া হয়েছে। Customer ভোরে ঘুম থেকে উঠে দেখেন এবং আতঙ্কিত হয়ে কল করেন।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি অত্যন্ত আতঙ্কিত! আমার Daraz account থেকে রাতে চারটি order হয়েছে যেগুলো আমি করিনি, credit card থেকে প্রায় ৮০,০০০ টাকা কেটে নিয়েছে!
+
+**২. এজেন্টঃ** Daraz customer care থেকে তানিম বলছি sir। এটি অত্যন্ত গুরুতর বিষয়, আমি এখনই আপনার account security check শুরু করছি। Account-এ registered email address-টি বলবেন?
+
+**৩. কাস্টমারঃ** Email হচ্ছে rafiq.ahmed@gmail.com। আজ সকালে উঠে app খুলে দেখি চারটি order confirmation notification এসেছে, সব রাত ৩টার দিকে হয়েছে।
+
+**৪. এজেন্টঃ** sir, আমি এখনই আপনার account-এ temporary security hold দিচ্ছি যাতে আর কোনো নতুন order বা transaction না হয়। আপনি কি সম্প্রতি কোনো unknown link-এ click করেছেন বা password অন্য কোথাও share করেছেন?
+
+**৫. কাস্টমারঃ** গতকাল একটা SMS এসেছিল "Daraz Mega Offer" বলে, সেটায় একটি link-এ click করেছিলাম। মনে হচ্ছে ওখান থেকেই সব হয়েছে।
+
+**৬. এজেন্টঃ** sir, সেই link-টি সম্ভবত phishing attack ছিল। বিস্তারিত বুঝিয়ে বলছি — phishing link-এ click করলে আপনার login credentials এবং saved payment information unauthorized ব্যক্তি access করতে পারে। এজন্য এখনই কয়েকটি জরুরি পদক্ষেপ নিতে হবে।
+
+**৭. কাস্টমারঃ** আমার credit card-এর টাকা কি ফেরত পাবো ভাইয়া? এই মুহূর্তে bank-কেও জানানো উচিত কিনা বলুন।
+
+**৮. এজেন্টঃ** জ্বী sir, এখনই আপনার bank-এর emergency helpline-এ call করে credit card block করবেন। Daraz-এর দিক থেকে আমি unauthorized order-গুলো flag করে cancellation ও investigation request পাঠাচ্ছি।
+
+**৯. কাস্টমারঃ** Order-গুলোতে কী কী product ছিল? Delivery address কি আমার ঠিকানা নাকি অন্য কোথাও দেওয়া হয়েছে?
+
+**১০. এজেন্টঃ** sir, আমি দেখতে পাচ্ছি order-গুলো হচ্ছে একটি iPhone, একটি gold chain আর দুইটি gaming console। Delivery address আপনার saved address নয়, সম্পূর্ণ ভিন্ন একটি location দেওয়া আছে।
+
+**১১. কাস্টমারঃ** তাহলে তো পরিষ্কার এটা fraud! Order-গুলো কি already dispatch হয়ে গেছে ভাইয়া? তাহলে তো ধরাই যাবে না।
+
+**১২. এজেন্টঃ** sir, দুইটি order এখনো processing stage-এ আছে, সেগুলো এখনই cancel করছি। বাকি দুইটি seller dispatch করে ফেলেছে, সেগুলোর জন্য courier-কে delivery hold request পাঠাচ্ছি।
+
+**১৩. কাস্টমারঃ** Dispatched order দুইটি যদি ওই ঠিকানায় deliver হয়ে যায়, তাহলে আমার টাকা কি চিরতরে হারিয়ে যাবে?
+
+**১৪. এজেন্টঃ** sir, fraud investigation case priority-তে open করছি। Unauthorized access প্রমাণিত হলে dispatched order-এর refund process-ও review করা হবে। তবে এখন সবার আগে account secure করা জরুরি।
+
+**১৫. কাস্টমারঃ** Account secure করতে কী কী করবো ভাইয়া? আমি technology-এ খুব expert না, সহজ করে বুঝিয়ে বলুন।
+
+**১৬. এজেন্টঃ** sir, প্রথমে Daraz app-এ গিয়ে password change করুন, নতুন strong password দিন যেটা অন্য কোথাও ব্যবহার করেন না। তারপর My Account থেকে Saved Payment Methods section-এ গিয়ে সব saved card remove করে দিন এবং two-factor authentication enable করুন।
+
+**১৭. কাস্টমারঃ** Password change করলাম। Saved card-ও remove করে দিচ্ছি। Two-factor authentication কোথায় পাবো app-এ?
+
+**১৮. এজেন্টঃ** sir, Account Settings-এ Security section-এ Two-Step Verification option আছে। Phone number দিয়ে OTP verification enable করলে শুধু password দিয়ে আর কেউ login করতে পারবে না।
+
+**১৯. কাস্টমারঃ** করে দিলাম ভাইয়া। আচ্ছা, যেই phishing SMS-টি এসেছিল সেটার number কি police-কে দেওয়া উচিত?
+
+**২০. এজেন্টঃ** জ্বী sir, SMS-এর screenshot সংরক্ষণ করবেন এবং নিকটস্থ থানায় cyber crime complaint দিতে পারেন। এছাড়া BTRC-র complaint portal-এও phishing number report করা যায়।
+
+**২১. কাস্টমারঃ** ঠিক আছে, সব করবো। আমার fraud case-এর update কবে পাবো ভাইয়া? ৮০,০০০ টাকা আটকে আছে, ঘুম আসছে না চিন্তায়।
+
+**২২. এজেন্টঃ** sir, আপনার উদ্বেগ সম্পূর্ণ বুঝতে পারছি। Security team-এ case escalate করা হয়েছে, ৪৮ থেকে ৭২ ঘণ্টার মধ্যে investigation update দেওয়া হবে এবং bank-এর সঙ্গে refund coordination চলবে।
+
+**২৩. কাস্টমারঃ** ধন্যবাদ তানিম ভাইয়া। আপনি দ্রুত account hold দেওয়ায় হয়তো আরো বড় ক্ষতি থেকে বাঁচলাম।
+
+**২৪. এজেন্টঃ** আপনাকেও ধন্যবাদ sir। ভবিষ্যতে কোনো unknown link, SMS বা email-এ click করবেন না, Daraz কখনো SMS-এ prize claim বা password চায় না। নিরাপদ থাকবেন।
+
+---
+
+## সিনারিও ২৭ঃ একই order-এ credit card থেকে দুইবার টাকা কেটেছে
+
+> একজন customer একটি air purifier কিনে credit card-এ payment করেছেন। পরে bank statement দেখে আবিষ্কার করেন একই amount দুইবার charge হয়েছে। Customer আতঙ্কিত হয়ে duplicate charge ফেরত চান।
+
+**১. কাস্টমারঃ** ভাইয়া, আমি গতকাল একটি air purifier কিনেছি credit card-এ। আজ bank statement দেখে ভয় পেয়ে গেছি, একই amount ১২,৫০০ টাকা দুইবার কেটেছে!
+
+**২. এজেন্টঃ** Daraz customer care থেকে ফারিয়া বলছি sir। Duplicate charge-এর বিষয়টি আমি এখনই payment record-এ verify করছি। আপনার order-এর সাথে registered email-টা বলবেন?
+
+**৩. কাস্টমারঃ** Email হচ্ছে kamal.uddin@yahoo.com। Bank SMS-এ পরিষ্কার দেখাচ্ছে, ১২,৫০০ টাকা দুইবার charge হয়েছে, মোট ২৫,০০০ টাকা কেটেছে card থেকে।
+
+**৪. এজেন্টঃ** sir, আমি আপনার account-এ order এবং payment transaction log দেখছি। একটু সময় দিন, payment gateway-এর record-ও cross-check করতে হবে।
+
+**৫. কাস্টমারঃ** আপু, আমার card-এ balance কম ছিল। এই extra charge-এর জন্য এখন credit limit cross হয়ে গেছে, bank থেকে penalty আসতে পারে।
+
+**৬. এজেন্টঃ** sir, আপনার financial urgency বুঝতে পারছি। বিস্তারিত বুঝিয়ে বলছি — আমি system-এ দেখছি আপনার order-এ একটিই successful payment recorded আছে। দ্বিতীয় charge-টি সম্ভবত payment gateway-এর authorization hold, যেটা transaction process-এর সময় temporarily block হয়। এটি actual charge নয়, সাধারণত ৩ থেকে ৫ কর্মদিবসে automatically release হয়ে যায়।
+
+**৭. কাস্টমারঃ** Authorization hold মানে কী আপু? আমার তো bank statement-এ দুইটাই debit দেখাচ্ছে, আলাদা করার উপায় নেই।
+
+**৮. এজেন্টঃ** sir, যখন আপনি card-এ payment করেন তখন gateway প্রথমে amount verify করার জন্য একটি temporary hold রাখে। Transaction successful হলে actual charge settle হয়, আর hold-টি কয়েকদিনে release হয়। Bank statement-এ দুটোই debit হিসেবে দেখায়, কিন্তু hold-এর টাকা আপনার account-এ ফিরে আসবে।
+
+**৯. কাস্টমারঃ** কিন্তু ৩ থেকে ৫ দিন তো অনেক! এর মধ্যে আমার card-এর EMI payment আছে, balance না থাকলে late fee কাটবে।
+
+**১০. এজেন্টঃ** sir, আমি আপনার পক্ষে payment gateway team-এ expedited release request পাঠাচ্ছি। এছাড়া আপনার bank-এর customer care-এ call করে authorization hold release-এর জন্য request করলে process দ্রুত হতে পারে।
+
+**১১. কাস্টমারঃ** Bank-কে call করলে কী বলবো আপু? তারা তো বলবে merchant-এর দোষ, Daraz-এর সঙ্গে কথা বলুন।
+
+**১২. এজেন্টঃ** sir, bank-কে বলবেন "authorization hold release" চাইছেন এবং transaction reference number দেবেন। আমি আপনাকে Daraz-এর payment gateway transaction ID দিচ্ছি, সেটা bank-কে দিলে তারা hold identify করতে পারবে।
+
+**১৩. কাস্টমারঃ** Transaction ID কী আপু? আমি নোট করে রাখছি, এখনই bank-কে call করবো।
+
+**১৪. এজেন্টঃ** sir, আপনার payment-এর gateway transaction ID হচ্ছে PGW-TXN-২০২৬০৭২২-৮৮৪৫। এটা bank-এর representative-কে বললে তারা hold-এর status দেখতে পারবে।
+
+**১৫. কাস্টমারঃ** নোট করলাম। আচ্ছা আপু, যদি ৫ দিনেও hold release না হয়, তাহলে কি Daraz থেকে officially bank-কে letter দেবে?
+
+**১৬. এজেন্টঃ** জ্বী sir, ৫ কর্মদিবসের পরেও release না হলে আমাদের finance team bank-কে formal release instruction পাঠাতে পারে। সেক্ষেত্রে আমাদের আবার জানাবেন।
+
+**১৭. কাস্টমারঃ** ভবিষ্যতে এই সমস্যা এড়াতে কি অন্য payment method ভালো হবে? বারবার এমন হলে তো card ব্যবহার করাই বন্ধ করে দেবো।
+
+**১৮. এজেন্টঃ** sir, bKash বা Nagad-এ সাধারণত authorization hold-এর issue কম হয়। তবে card payment-এও এটি বিরল ঘটনা, বেশিরভাগ সময় একবারই charge হয়।
+
+**১৯. কাস্টমারঃ** আচ্ছা আপু। আর order-এর product ঠিকমতো আসবে তো? Payment নিয়ে এত ঝামেলার পর product-এও সমস্যা হলে মাথা খারাপ হয়ে যাবে।
+
+**২০. এজেন্টঃ** sir, আপনার air purifier-এর order confirmed এবং seller processing-এ আছে। Estimated delivery আগামী ৩ দিনের মধ্যে, tracking update app-এ পাবেন।
+
+**২১. কাস্টমারঃ** ঠিক আছে আপু। Bank-কে এখনই call করছি, ধন্যবাদ ফারিয়া আপু, বিষয়টি বুঝিয়ে বলার জন্য কৃতজ্ঞ।
+
+**২২. এজেন্টঃ** আপনাকেও ধন্যবাদ sir। Bank call-এ gateway transaction ID-টা দিতে ভুলবেন না এবং hold release না হলে আমাদের আবার জানাবেন। ভালো থাকবেন।
+
+---
+
+## সিনারিও ২৮ঃ ছোট বাচ্চা বাবার phone থেকে দামি order দিয়ে ফেলেছে
+
+> একজন বাবা আবিষ্কার করেন তার ৬ বছরের ছেলে Daraz app-এ খেলতে গিয়ে একটি ড্রোন এবং একটি RC car অর্ডার করে ফেলেছে। COD select থাকলেও বাবা order cancel করতে চান কারণ product-গুলো বাচ্চার জন্য উপযুক্ত নয় এবং মোট খরচ তার budget-এর বাইরে।
+
+**১. কাস্টমারঃ** ভাইয়া, আমার ছেলে আমার phone নিয়ে Daraz app-এ খেলছিল, সে দুইটা জিনিস order করে ফেলেছে! একটা drone আর একটা RC car, মোট প্রায় ১৫,০০০ টাকা!
+
+**২. এজেন্টঃ** Daraz customer care থেকে আরিফ বলছি sir। বাচ্চাদের এই ধরনের accidental order মাঝে মাঝে হয়ে থাকে, চিন্তা করবেন না। Order কখন place হয়েছে বলবেন?
+
+**৩. কাস্টমারঃ** মাত্র ঘণ্টাখানেক আগে হয়েছে। আমি office থেকে এসে phone দেখে order confirmation email পেয়ে বুঝলাম। ছেলে বলছে সে শুধু button চাপছিল!
+
+**৪. এজেন্টঃ** sir, ঘণ্টাখানেক আগে হলে order এখনো processing stage-এ থাকার সম্ভাবনা বেশি। আমি এখনই cancel করার চেষ্টা করছি। App-এ My Orders section-এ order status কী দেখাচ্ছে?
+
+**৫. কাস্টমারঃ** দুইটাই "Pending" দেখাচ্ছে। আমি নিজে cancel করতে গেছি, কিন্তু app-এ cancel button খুঁজে পাচ্ছি না ভাইয়া।
+
+**৬. এজেন্টঃ** sir, pending order cancel করতে order details page-এ গিয়ে নিচে scroll করলে "Cancel Order" option পাবেন। তবে আমি এখান থেকেই দুইটি order cancel করে দিচ্ছি, আপনাকে কিছু করতে হবে না।
+
+**৭. কাস্টমারঃ** ধন্যবাদ ভাইয়া! Payment method COD ছিল, তাই টাকা কাটেনি। কিন্তু cancel করলে আমার account-এ কোনো penalty হবে?
+
+**৮. এজেন্টঃ** sir, দুইটি order-ই cancel হয়ে গেছে। COD হওয়ায় কোনো refund process দরকার নেই। Occasional cancellation-এ penalty হওয়ার কথা নয়, তবে বারবার order করে cancel করলে account-এ restriction আসতে পারে।
+
+**৯. কাস্টমারঃ** আচ্ছা বুঝলাম। ভাইয়া, এরপর থেকে বাচ্চা যাতে ভুলে order না দিতে পারে, সেজন্য কি app-এ কোনো lock system আছে?
+
+**১০. এজেন্টঃ** sir, Daraz app-এ dedicated parental lock নেই, তবে আপনি phone-এর settings থেকে app lock feature ব্যবহার করতে পারেন। Samsung বা Xiaomi phone-এ built-in app lock আছে, সেটা দিয়ে Daraz app-এ password বা fingerprint lock সেট করুন।
+
+**১১. কাস্টমারঃ** আমার phone-এ Xiaomi, app lock করে দেবো। আচ্ছা, saved payment method-এ যদি card থাকতো, তাহলে কি বাচ্চা payment-ও করে ফেলতে পারতো?
+
+**১২. এজেন্টঃ** জ্বী sir, saved card থাকলে one-click payment হতে পারে। তাই বাচ্চারা phone ব্যবহার করলে saved payment methods remove করে রাখুন অথবা payment confirmation-এ OTP verification enable রাখুন।
+
+**১৩. কাস্টমারঃ** ভাইয়া, আমার card saved আছে app-এ! এখনই remove করবো। কোথায় গিয়ে করতে হবে বলুন?
+
+**১৪. এজেন্টঃ** sir, Daraz app-এ My Account-এ যান, তারপর Payment Methods section-এ click করুন। সেখানে saved card-এর পাশে delete option পাবেন, সেটাতে tap করে remove করুন।
+
+**১৫. কাস্টমারঃ** হয়ে গেছে ভাইয়া, card remove করে দিলাম। আচ্ছা, এই cancel হওয়া order-এর seller কি আমাকে কিছু বলবে বা complaint করবে?
+
+**১৬. এজেন্টঃ** না sir, pending stage-এ cancel হওয়ায় seller-এর কোনো loss হয়নি। Seller dispatch করার আগেই cancel হয়েছে, তাই কোনো issue হবে না।
+
+**১৭. কাস্টমারঃ** ভালো কথা ভাইয়া। আচ্ছা, আমার ছেলে actually drone-টা চাইছে জন্মদিনের জন্য। পরে যদি কিনতে চাই, এই product-টাই কি আবার পাবো?
+
+**১৮. এজেন্টঃ** sir, product-টি wishlist-এ add করে রাখতে পারেন। App-এ product page-এ heart icon-এ click করলে wishlist-এ save হবে, পরে সুবিধামতো কিনতে পারবেন।
+
+**১৯. কাস্টমারঃ** Wishlist-এ add করলাম। ভাইয়া, আর একটি কথা, বাচ্চা order দেওয়ার সময় delivery address-এ কি আমার বাসার address-ই ছিল?
+
+**২০. এজেন্টঃ** জ্বী sir, default address-এ order হয়েছিল, তাই আপনার বাসার address-ই ছিল। অন্য কোনো address-এ যায়নি, সেদিক থেকে নিশ্চিন্ত থাকুন।
+
+**২১. কাস্টমারঃ** ঠিক আছে আরিফ ভাইয়া। App lock দিয়ে দিচ্ছি, আর card-ও remove করেছি। অনেক ধন্যবাদ দ্রুত সাহায্য করার জন্য।
+
+**২২. এজেন্টঃ** আপনাকেও ধন্যবাদ sir। ছেলের জন্মদিনে drone-টা কিনে দেবেন, আর app lock দিতে ভুলবেন না। শুভকামনা!
+
+---
+
+## সিনারিও ২৯ঃ Gift হিসেবে পাঠানো order-এ invoice সহ price tag দেখা যাচ্ছে
+
+> একজন customer তার বোনের জন্মদিনে surprise হিসেবে একটি handbag Daraz থেকে সরাসরি বোনের ঠিকানায় পাঠিয়েছেন। কিন্তু parcel-এ invoice সহ পুরো price tag visible ছিল, ফলে surprise নষ্ট হয়েছে এবং বোন দাম জেনে বিব্রত হয়েছেন।
+
+**১. কাস্টমারঃ** আপু, আমি অনেক কষ্ট করে বোনের জন্মদিনে surprise gift পাঠিয়েছিলাম Daraz থেকে। কিন্তু parcel-এ invoice দিয়ে দিয়েছে, বোন দাম দেখে ফেলেছে, surprise পুরোটাই নষ্ট!
+
+**২. এজেন্টঃ** Daraz customer care থেকে সাবরিনা বলছি ম্যাম। আপনার gift experience নষ্ট হওয়ার জন্য সত্যিই দুঃখিত। আপনি কি order-এর সময় "Send as Gift" বা "Remove Invoice" option select করেছিলেন?
+
+**৩. কাস্টমারঃ** আপু, আমি তো জানতামই না এমন কোনো option আছে! Checkout page-এ এরকম কিছু চোখে পড়েনি, gift message লেখার জায়গাও পাইনি।
+
+**৪. এজেন্টঃ** ম্যাম, বুঝতে পারছি আপনার হতাশা। বিস্তারিত বুঝিয়ে বলছি — Daraz-এ কিছু seller-এর product-এ checkout page-এ "Gift Wrap" বা "Remove Price" option থাকে, কিন্তু সব seller-এর ক্ষেত্রে এটি available নয়। আপনার seller সম্ভবত এই feature support করেননি, তাই standard invoice সহ পাঠানো হয়েছে।
+
+**৫. কাস্টমারঃ** এটা তো seller-এর সমস্যা না, Daraz-এর system-এরই দোষ। Gift পাঠানোর সময় automatically invoice বাদ দেওয়া উচিত ছিল!
+
+**৬. এজেন্টঃ** ম্যাম, আপনার পরামর্শটি একদম যৌক্তিক। আমি এই feedback product experience team-এ পাঠাচ্ছি যাতে ভবিষ্যতে gift delivery-তে invoice removal default হিসেবে বিবেচনা করা হয়।
+
+**৭. কাস্টমারঃ** Feedback দিয়ে তো আমার আজকের বিব্রতকর অবস্থা ঠিক হবে না আপু। বোন ভাবছে আমি সস্তা gift দিয়েছি, কারণ দাম দেখে ফেলেছে।
+
+**৮. এজেন্টঃ** ম্যাম, আপনার অনুভূতি বুঝতে পারছি। এই অসুবিধার জন্য আমি আপনার account-এ একটি gift voucher add করতে পারি, যাতে পরবর্তী gift order-এ কিছুটা সুবিধা পান।
+
+**৯. কাস্টমারঃ** Voucher তো পরের কথা আপু। আমি জানতে চাই, পরের বার gift পাঠালে কিভাবে নিশ্চিত করবো যে দাম দেখা যাবে না?
+
+**১০. এজেন্টঃ** ম্যাম, পরের বার order দেওয়ার আগে seller-কে chat-এ message করে জিজ্ঞেস করবেন "Gift wrapping available কিনা এবং invoice ছাড়া পাঠানো সম্ভব কিনা।" Seller agree করলে order notes-এও লিখে দেবেন।
+
+**১১. কাস্টমারঃ** সব seller কি agree করবে? যদি না করে, তাহলে gift পাঠানোর কোনো নিশ্চিত উপায় নেই?
+
+**১২. এজেন্টঃ** ম্যাম, DarazMall seller-দের অনেকেই gift wrap service দেন। Product page-এ "DarazMall" badge থাকলে সাধারণত better packaging এবং gift option পাওয়ার সম্ভাবনা বেশি।
+
+**১৩. কাস্টমারঃ** আচ্ছা আপু। কিন্তু আজকের handbag-টার quality কেমন? বোন বলছে bag সুন্দর, কিন্তু strap একটু loose মনে হচ্ছে।
+
+**১৪. এজেন্টঃ** ম্যাম, strap loose হলে manufacturing defect হতে পারে। আপনার বোন চাইলে ৭ দিনের মধ্যে return বা exchange request দিতে পারেন, তবে return আপনার account থেকেই করতে হবে।
+
+**১৫. কাস্টমারঃ** বোন তো gift ফেরত দিতে চাইবে না, সেটা socially awkward হবে। Strap fix করানো কি সম্ভব?
+
+**১৬. এজেন্টঃ** ম্যাম, seller-কে chat-এ strap issue জানালে কোনো কোনো seller replacement strap বা repair guidance দিতে পারেন। এটি return ছাড়াই সমাধান হতে পারে।
+
+**১৭. কাস্টমারঃ** আচ্ছা, seller-কে message করবো। আপু, gift voucher-এর কথা বলেছিলেন, সেটা কত টাকার হবে?
+
+**১৮. এজেন্টঃ** ম্যাম, আপনার অসুবিধার জন্য ১৫০ টাকার courtesy voucher আপনার account-এ add করছি। এটি পরবর্তী যেকোনো order-এ ব্যবহার করতে পারবেন।
+
+**১৯. কাস্টমারঃ** ধন্যবাদ আপু। আচ্ছা, আমি যদি নিজের ঠিকানায় order করে নিজে gift wrap করে বোনকে দিতাম, তাহলে এই সমস্যাই হতো না।
+
+**২০. এজেন্টঃ** ম্যাম, সেটাও একটা ভালো উপায়। নিজে wrap করলে personal touch-ও বেশি থাকে এবং invoice-এর ঝামেলা থাকে না। তবে ভবিষ্যতে Daraz-ও gift feature improve করবে আশা করি।
+
+**২১. কাস্টমারঃ** ঠিক আছে সাবরিনা আপু। Gift feature নিয়ে feedback দেওয়ার জন্য ধন্যবাদ, আশা করি পরবর্তীতে এই সমস্যা আর কারো হবে না।
+
+**২২. এজেন্টঃ** আপনাকেও ধন্যবাদ ম্যাম। আপনার বোনকে জন্মদিনের শুভেচ্ছা জানাবেন, আর strap issue-এর জন্য seller-কে chat করতে ভুলবেন না। ভালো থাকবেন!
+
+---
 
