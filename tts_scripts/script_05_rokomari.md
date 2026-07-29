@@ -972,3 +972,339 @@
 **২১. এজেন্টঃ** আপনাকেও অসংখ্য ধন্যবাদ sir, এত ধৈর্য ধরে আমাদের সাথে cooperate করার জন্য। আগামীকাল নতুন ফ্রেশ copy হাতে পাওয়ার পর "কোথাও কেউ নেই" পড়ে দারুণ সময় কাটুক। ভালো থাকবেন sir!
 
 ---
+
+## সিনারিও ২০ঃ বইয়ের কভার ওয়েবসাইটের ছবির সাথে মিলছে না
+
+> একজন কাস্টমার website-এ ক্লাসিক ডিজাইনের cover ছবি দেখে বই order করেছিলেন, কিন্তু delivery পাওয়ার পর দেখছেন অন্য cover ডিজাইনের বই এসেছে।
+
+**১. এজেন্টঃ** Rokomari customer care থেকে ফয়সাল বলছি, শুভ দুপুর। বলুন sir, আজকে আপনাকে কীভাবে সাহায্য করতে পারি?
+
+**২. কাস্টমারঃ** ভাই, আমি গতকাল আপনাদের website থেকে মানিক বন্দ্যোপাধ্যায়ের "পদ্ম নদীর মাঝি" বইটা order করেছিলাম। আজকে package পেয়ে খুলে দেখি কভারের ডিজাইন সম্পূর্ণ আলাদা!
+
+**৩. এজেন্টঃ** ওহ sir, এটা শুনে সত্যিই দুঃখিত হলাম! আপনি কি website-এ যে cover photo দেওয়া ছিল সেটার সাথে প্রাপ্ত বইয়ের cover-এর কোনো মিল পাচ্ছেন না?
+
+**৪. কাস্টমারঃ** একদমই না ভাই। website-এ নৌকার ছবি সংবলিত পুরনো classic edition-এর যে cover-টা ছিল, আমি সেটাই চেয়েছিলাম। কিন্তু আমার কাছে এসেছে হলুদ রঙের একটা modern abstract design।
+
+**৫. এজেন্টঃ** বুঝতে পেরেছি sir। বই সংগ্রহকারীদের কাছে cover design অনেক গুরুত্বপূর্ণ ব্যাপার। অনেক সময় publisher নতুন print বের করলে cover design পরিবর্তন করে ফেলে।
+
+**৬. কাস্টমারঃ** কিন্তু publisher পরিবর্তন করলে তো আপনাদের website-এ ছবি update করা উচিত, তাই না? আমি তো ওই classic cover দেখে মুগ্ধ হয়েই বইটা কিনেছিলাম!
+
+**৭. এজেন্টঃ** আপনি একদম ঠিক বলেছেন sir। publisher নতুন edition release করলে সাথে সাথে website catalog update করাই আমাদের policy। এখানে আমাদের technical listing-এ update miss হয়েছে।
+
+**৮. কাস্টমারঃ** এখন এই সমাধান কীভাবে হবে বলুন? আমার তো হলুদ কভারের বইটা একদমই পছন্দ হচ্ছে না। আমার ওই আগের classic cover-এর বইটাই চাই।
+
+**৯. এজেন্টঃ** আমি আপনার অনুভূতিটা সম্পূর্ণ সম্মান করছি sir। আমি এখনই আমাদের central warehouse inventory-তে check করছি আগের classic edition-এর কোনো copy stock-এ অবশিষ্ট আছে কিনা।
+
+**১০. কাস্টমারঃ** একটু ভালো করে check করুন ভাই। আমার bookshelf-এ রাখার জন্য ওই নির্দিষ্ট design-টা সত্যিই খুব দরকার।
+
+**১১. এজেন্টঃ** sir, আমি system-এ বিস্তারিত check করলাম। সুখবর হচ্ছে আমাদের তেজগাঁও main depot-তে classic cover-এর ৩টা sealed copy এখনো in stock আছে। আমি এখনই একটা reserve করে দিচ্ছি।
+
+**১২. কাস্টমারঃ** যাক, শুনে অনেক স্বস্তি পেলাম! তাহলে এই নতুন হলুদ কভারের বইটা কীভাবে ফেরত দেব আর আগেরটা কীভাবে পাবো?
+
+**১৩. এজেন্টঃ** sir, আমি আপনার জন্য একটা সম্পূর্ণ free home replacement request generate করে দিচ্ছি। আগামীকাল বিকেলের মধ্যে আমাদের delivery rider আপনার বাসায় classic edition-এর copy নিয়ে যাবে।
+
+**১৪. কাস্টমারঃ** আর এই yellow cover-এর বইটা কি আমি rider-এর কাছেই হাতে হাতে বুঝিয়ে দেব? আমাকে আলাদা কোনো parcel করতে হবে না তো?
+
+**১৫. এজেন্টঃ** ঠিক তাই sir, আপনাকে কোনো hassle পোহাতে হবে না। rider নতুন বইটা দেওয়ার সময় আপনি শুধু হলুদ cover-এর copy-টা তার হাতে handover করে দেবেন।
+
+**১৬. কাস্টমারঃ** খুবই ভালো ব্যবস্থা। কিন্তু ভাই, এই replacement বা delivery-র জন্য কি আমাকে আবার নতুন করে কোনো charge দিতে হবে?
+
+**১৭. এজেন্টঃ** একদমই না sir। যেহেতু আমাদের website photo update না থাকার কারণে এই confusion তৈরি হয়েছিল, তাই পুরো delivery এবং replacement process সম্পূর্ণ cost free থাকবে।
+
+**১৮. কাস্টমারঃ** আপনাদের এই customer cooperation সত্যিই খুব প্রশংসনীয়। আচ্ছা ভাই, rider আসার আগে যেন অবশ্যই আমাকে একটু call করে নেয়, আমি হয়তো বাইরেও থাকতে পারি।
+
+**১৯. এজেন্টঃ** অবশ্যই sir। আমাদের priority protocol অনুযায়ী rider ডেলিভারি দেওয়ার অন্তত ৩০ মিনিট আগে আপনাকে phone করে time এবং location verify করে নেবে।
+
+**২০. কাস্টমারঃ** ঠিক আছে ভাই। আর আপনাদের website-এর ছবিটাও please একটু দ্রুত change করার ব্যবস্থা করবেন, যাতে অন্য কোনো customer এমন বিভ্রান্তিতে না পড়ে।
+
+**২১. এজেন্টঃ** অবশ্যই sir, আপনার এই valued feedback-এর জন্য অশেষ ধন্যবাদ। আমি ইতোমধ্যেই catalog control team-কে report করেছি যেন তারা current edition-এর সঠিক cover photo আজকেই live করে দেয়।
+
+**২২. কাস্টমারঃ** চমৎকার! আপনাদের service attitude সত্যিই দারুণ। আশা করি কালকের মধ্যেই আমার পছন্দের classic design-এর বইটা পেয়ে যাবো।
+
+**২৩. এজেন্টঃ** 인শাআল্লাহ sir, কাল অবশ্যই পেয়ে যাবেন। এছাড়া আপনার এই অনাকাঙ্ক্ষিত সাময়িক inconvenience-এর জন্য আমরা দুঃখিত এবং future purchase-এ ভালো experience নিশ্চিত করতে আমরা বদ্ধপরিকর।
+
+**২৪. কাস্টমারঃ** কোনো সমস্যা নেই ভাই, সমাধান তো পেয়েই গেলাম। অনেক ধন্যবাদ আপনাকে এত চমৎকারভাবে সাহায্য করার জন্য।
+
+**২৫. এজেন্টঃ** আপনাকেও অসংখ্য ধন্যবাদ sir, Rokomari-র সাথে থাকার জন্য। আপনার বই পড়ার অভিজ্ঞতা আনন্দময় হোক। ভালো থাকবেন, আসসালামু আলাইকুম!
+
+---
+
+## সিনারিও ২১ঃ সেকেন্ড হ্যান্ড বই নতুন হিসেবে বিক্রি
+
+> একজন কাস্টমার অভিযোগ করছেন যে তিনি full price দিয়ে নতুন বই order করলেও তাকে এমন একটা বই পাঠানো হয়েছে যেটা দেখে used বা second-hand মনে হচ্ছে (কভারে দাগ ও পাতায় পেনসিলের মার্কিং আছে)।
+
+**১. এজেন্টঃ** Rokomari helpline থেকে সানিয়া বলছি, শুভ বিকেল। বলুন sir, আজকে আপনাকে কীভাবে সাহায্য করতে পারি?
+
+**২. কাস্টমারঃ** আপু, আমি আপনাদের ওপর অত্যন্ত বিরক্ত ও হতাশ। আমি full value payment করে একটা নতুন বইয়ের order দিলাম, অথচ আপনারা আমাকে একটা used second-hand বই পাঠিয়ে দিয়েছেন!
+
+**৩. এজেন্টঃ** ওহ sir, এটা শুনে আমি খুবই ক্ষমাপ্রার্থী এবং আশ্চর্যান্বিত! Rokomari কখনোই second-hand বা used book বিক্রি করে না। আপনি কেন ভাবছেন যে বইটা ব্যবহৃত?
+
+**৪. কাস্টমারঃ** ভাবছি না আপু, আমি চোখে দেখতে পাচ্ছি! কভারের ওপর স্পষ্ট ঘষার দাগ আর ভেতরের কয়েকটা page-এ পেনসিল দিয়ে underline করা আছে। এটা কি নতুন বইয়ের লক্ষণ?
+
+**৫. এজেন্টঃ** একদমই না sir! পেনসিল দিয়ে দাগানো বা ঘষার দাগ থাকাটা সম্পূর্ণ অগ্রহণযোগ্য। আমাদের warehouse-এ শুধুমাত্র নতুন বই-ই stock থাকে। আমি বুঝতে পারছিলাম না এটা কীভাবে সম্ভব হলো।
+
+**৬. কাস্টমারঃ** তাহলে এই পুরনো দাগানো বইটা আমার package-এ আসলো কোথা থেকে? আপনারা কি customer-দের return করা ব্যবহৃত বই আবার অন্যদের কাছে sell করেন?
+
+**৭. এজেন্টঃ** কখনোই না sir! আমাদের stringent quality strictly maintain করা হয়। তবে অনেক সময় rare বা out of stock বইয়ের ক্ষেত্রে আমরা partner bookstore বা external vendor-দের থেকে collect করি।
+
+**৮. কাস্টমারঃ** তার মানে আপনারা vendor-এর কাছ থেকে বই নেওয়ার সময় একটুও checking করেন না? সোজা pack করে customer-কে পাঠিয়ে দেন?
+
+**৯. এজেন্টঃ** আপনি একদম যথার্থ প্রশ্ন তুলেছেন sir। vendor থেকে incoming book-এর ক্ষেত্রে আমাদের standard QA validation হওয়ার কথা। এখানে নিশ্চিতভাবে আমাদের quality control routine miss হয়েছে।
+
+**১০. কাস্টমারঃ** আপনাদের mistake-এর কারণে আমি একটা পুরনো বই পেলাম। বইটা ছিল হুমায়ুন কবিরের একটি academic reference book, কাল থেকেই পড়া শুরু করা দরকার ছিল।
+
+**১১. এজেন্টঃ** আপনার frustration আমি ১০০% বুঝতে পারছি sir। academic reference book-এর ক্ষেত্রে এমন defect সত্যিই বিপদের বিষয়। আমি এখনই personally এই incident-টা vendor management team-কে report করছি।
+
+**১২. কাস্টমারঃ** report করুন ভালো কথা, কিন্তু আমার এখন কী হবে? আমি তো এই used copy কোনোভাবেই আমার কাছে রাখবো না।
+
+**১৩. এজেন্টঃ** অবশ্যই রাখবেন না sir, আমরা এর સંપૂર્ણ responsibility নিচ্ছি। আমি এখনই আপনার জন্য একটা একদম brand new, fresh publisher copy arrange করার ব্যবস্থা করছি।
+
+**১৪. কাস্টমারঃ** আপনারা আবার vendor-এর কাছ থেকে পুরনো দাগানো copy নিয়ে আসবেন না তো? এবার অন্তত check করে পাঠাবেন তো?
+
+**১৫. এজেন্টঃ** sir, আপনাকে আমি guarantee দিচ্ছি এবার কোনো general vendor নয়, সরাসরি original publishing house-এর inventory থেকে একদম sealed copy সংগ্রহ করে আমি নিজে check করে পাঠাবো।
+
+**১৬. কাস্টমারঃ** সেটাই হওয়া উচিত। আর আমার কাছে থাকা এই defective used copy-টা আপনারা কবে pickup করবেন?
+
+**১৭. এজেন্টঃ** sir, আগামীকাল সকালের মধ্যেই আমাদের special courier pickup rider আপনার ঠিকানায় গিয়ে used copy-টা ফেরত নিয়ে আসবে এবং সাথে নতুন copy দিয়ে যাবে।
+
+**১৮. কাস্টমারঃ** ঠিক আছে। এই return বা exchange-এর জন্য আমাকে কি কোনো extra cash বা delivery fee দিতে হবে?
+
+**১৯. এজেন্টঃ** একদমই না sir, পুরো pickup এবং replacement home delivery সম্পূর্ণ cost-free থাকবে। আমাদের ভুলে আপনার এই হয়রানি হয়েছে, তাই কোনো charge প্রযোজ্য হবে না।
+
+**২০. কাস্টমারঃ** আচ্ছা, আমি চাচ্ছিলাম এই used বইয়ের পেনসিলের দাগগুলোর কয়েকটা photo প্রমাণ হিসেবে আপনাদের কাছে পাঠিয়ে রাখতে। কোথায় পাঠাব?
+
+**২১. এজেন্টঃ** অনেক ধন্যবাদ sir, এটা খুবই helpful হবে। আপনি আমাদের support@rokomari.com email address-এ অথবা আমাদের official Facebook inbox-এ photo-গুলো পাঠিয়ে দিতে পারেন।
+
+**২২. কাস্টমারঃ** ঠিক আছে আপু, আমি photo তুলে email করে দিচ্ছি, যাতে আপনারা দায়ী vendor-এর বিরুদ্ধে ব্যবস্থা নিতে পারেন।
+
+**২৩. এজেন্টঃ** অবশ্যই sir, আপনার photo proof পাওয়ার সাথে সাথে আমরা উক্ত vendor-এর বিরুদ্ধে strict penalty impose করবো। এছাড়া আপনার ক্ষোভ সামান্য কমাতে আমি account-এ ৮০ টাকার store credit যুক্ত করে দিয়েছি।
+
+**২৪. কাস্টমারঃ** আপনাদের cooperation এবং এত দ্রুত action নেওয়ার মানসিকতা সত্যিই প্রশংসনীয়। আশা করি কালকের মধ্যেই brand new copy পেয়ে যাবো।
+
+**২৫. এজেন্টঃ** 인শাআল্লাহ sir, অবশ্যই পাবেন। Rokomari-তে কল করার জন্য অশেষ ধন্যবাদ। আপনার বাকি দিনটি শুভ হোক, আসসালামু আলাইকুম!
+
+---
+
+## সিনারিও ২২ঃ অরিজিনাল অর্ডার করেছি কিন্তু ফটোকপি এসেছে
+
+> একজন কাস্টমার অভিযোগ করছেন যে তিনি original imported English reference book order করেছিলেন, কিন্তু delivery পাওয়ার পর দেখছেন সেটা একটা low-quality photocopy বা pirated print।
+
+**১. এজেন্টঃ** Rokomari customer care থেকে রাফাত বলছি, শুভ অপরাহ্ণ। বলুন sir, আজকে আপনাকে কীভাবে সাহায্য করতে পারি?
+
+**২. কাস্টমারঃ** ভাই, আমি আপনাদের এখান থেকে একটা দামি imported computer science reference book কিনেছিলাম। কিন্তু আমার কাছে এসেছে একটা বাজে photocopy print!
+
+**৩. এজেন্টঃ** ওহ sir, এটা শুনে আমি অত্যন্ত লজ্জিত এবং বিস্মিত! Rokomari সবসময় hundred percent original এবং authentic book সরবরাহ করে। আপনি কেন ভাবছেন যে এটা photocopy?
+
+**৪. কাস্টমারঃ** ভাই, আমি ইঞ্জিনিয়ারিং পড়ি, original আর photocopy print-এর পার্থক্য আমি ভালো করেই বুঝি। বইয়ের পাতায় text একদম বাঁকা, কভারের রঙ ফ্যাকাসে আর paper quality খুবই পাতলা!
+
+**৫. এজেন্টঃ** sir, আপনার অভিযোগটি খুবই গুরুতর। low quality binding বা pirated photocopy print কোনোভাবেই আমাদের inventory থেকে ডেলিভারি হওয়ার কথা নয়। কোন বইটাতে এই সমস্যা হয়েছে?
+
+**৬. কাস্টমারঃ** বইটা হলো Cormen-এর "Introduction to Algorithms"। আমি ১,৮৫০ টাকা full original Indian edition-এর price pay করেছি, আর আপনারা পাঠিয়েছেন ২০০ টাকার নীলক্ষেতের photocopy!
+
+**৭. এজেন্টঃ** sir, আমি আপনার তীব্র ক্ষোভ এবং হতাশা সম্পূর্ণ বুঝতে পারছি। engineering study-র জন্য এত দামি reference book-এ এমন ঘটনা সত্যিই অমার্জনীয় অপরাধ।
+
+**৮. কাস্টমারঃ** ঠিক তাই! আপনারা যদি original বলে এভাবে copy book ডেলিভারি দেন, তাহলে আপনাদের ওপর online shopping-এর ভরসা কোথায় থাকলো বলুন?
+
+**৯. এজেন্টঃ** sir, আমি আপনাকে ১০০% আশ্বস্ত করছি, Rokomari-তে anti-piracy strict policy বজায় থাকে। আমাদের কোনো supplier বা vendor যদি original-এর বদলে copy book দিয়ে প্রতারণা করে, আমরা তাদের বিরুদ্ধে কঠোর আইনি ব্যবস্থা নেই।
+
+**১০. কাস্টমারঃ** কিন্তু আপনাদের warehouse QA team কী করছিল? ১,৮৫০ টাকার একটা imported book পাঠানোর আগে অন্তত paper quality আর cover check করা উচিত ছিল না?
+
+**১১. এজেন্টঃ** আপনি ১০০% সঠিক বলেছেন sir। incoming foreign inventory checking-এ অবশ্যই আমাদের quality verification step miss হয়েছে। আমি এখনই আমাদের vendor sourcing head-কে বিষয়টি জরুরিভাবে report করছি।
+
+**১২. কাস্টমারঃ** report তো করবেন বুঝলাম, কিন্তু আমার পরীক্ষার পড়া তো আটকে আছে! এখন এই photocopy বইয়ের কী সমাধান দেবেন?
+
+**১৩. এজেন্টঃ** sir, আমি এর পূর্ণ দায় নিয়ে এখনই আপনার জন্য original authorized distributor থেকে একটা genuine sealed paperback copy জরুরি ভিত্তিতে arrange করার ব্যবস্থা করছি।
+
+**১৪. কাস্টমারঃ** আপনারা কি সত্যিই original distributor-এর কাছ থেকেই পাঠাবেন? এবারও যেন আবার কোনো copy বা pirated edition আমার কাছে না আসে!
+
+**১৫. এজেন্টঃ** sir, আমি আপনাকে personal guarantee দিচ্ছি, এবার dispatch করার আগে আমি নিজে barcode এবং paper quality physically check করে confirm হবো যে এটা hundred percent genuine original print।
+
+**১৬. কাস্টমারঃ** সেটাই হওয়া উচিত। আর আমার কাছে থাকা এই বাজে photocopy copy-টা আপনারা কীভাবে ফেরত নেবেন?
+
+**১৭. এজেন্টঃ** sir, আগামীকাল সকাল দশটার মধ্যে আমাদের priority pickup rider আপনার বাসায় গিয়ে fake photocopy copy-টা ফেরত নিয়ে আসবে এবং সাথে original sealed copy-টা দিয়ে আসবে।
+
+**১৮. কাস্টমারঃ** ঠিক আছে। এই exchange বা emergency delivery-র জন্য আমাকে কি নতুন করে কোনো courier cost দিতে হবে?
+
+**১৯. এজেন্টঃ** একদমই না sir। যেহেতু এটা সম্পূর্ণ আমাদের vendor sourcing error ছিল, তাই entire pickup এবং express home replacement সম্পূর্ণ free of cost থাকবে।
+
+**২০. কাস্টমারঃ** আচ্ছা, আমি চাচ্ছিলাম এই fake copy-র cover এবং ভেতরকার পাতলা কাগজের কয়েকটা ছবি আপনাদের WhatsApp বা email-এ পাঠাতে, যাতে আপনারা প্রমাণ পান।
+
+**২১. এজেন্টঃ** অসংখ্য ধন্যবাদ sir! আপনার এই photo proof আমাদের legal investigation-এ অনেক সাহায্য করবে। আপনি support@rokomari.com email address-এ ছবিগুলো send করে দিতে পারেন।
+
+**২২. কাস্টমারঃ** ঠিক আছে ভাই, আমি আজকেই email করে দিচ্ছি। আশা করি দোষী vendor-এর বিরুদ্ধে আপনারা সত্যি সত্যিই strict action নেবেন।
+
+**২৩. এজেন্টঃ** অবশ্যই sir, প্রমাণ পাওয়ার সাথে সাথে আমরা উক্ত vendor-কে চিরতরে blacklist করবো। এছাড়া আপনার সাময়িক হয়রানির ক্ষতিপূরণস্বরূপ আমি আপনার account-এ ১০০ টাকার একটা complimentary voucher add করে দিচ্ছি।
+
+**২৪. কাস্টমারঃ** আপনাদের এই সহযোগিতা এবং সমস্যার দ্রুত সমাধানের উদ্যোগটা সত্যিই ভালো লাগলো। আশা করি কালকের মধ্যেই আসল বইটা পেয়ে যাবো।
+
+**২৫. এজেন্টঃ** 인শাআল্লাহ sir, কাল সকালের মধ্যেই নিশ্চিতভাবে পাবেন। Rokomari-র সাথে থাকার জন্য অনেক ধন্যবাদ, ভালো থাকবেন। আসসালামু আলাইকুম!
+
+---
+
+## সিনারিও ২৩ঃ বাইন্ডিং খুলে গেছে, পাতা আলাদা হচ্ছে
+
+> একজন কাস্টমার অভিযোগ করছেন যে নতুন কেনা একটা বড় novel পড়তে শুরু করতেই বইয়ের binding খুলে পাতাগুলো আলাদা হয়ে যাচ্ছে (poor bookbinding craftsmanship)。
+
+**১. এজেন্টঃ** Rokomari support center থেকে আমি নাবিল বলছি, শুভ সন্ধ্যা। বলুন sir, আজকে আপনাকে কীভাবে সাহায্য করতে পারি?
+
+**২. কাস্টমারঃ** ভাই, আমি তিন দিন আগে আপনাদের কাছ থেকে সমরেশ মজুমদারের "সাতকাহন" বইটা ডেলিভারি পেলাম। কিন্তু আজকে পড়তে গিয়ে দেখি দারুণ বিপদ!
+
+**৩. এজেন্টঃ** ওহ sir, "সাতকাহন" তো বাংলা সাহিত্যের এক অমূল্য উপন্যাস! পড়তে গিয়ে কী ধরনের অসুবিধার মুখোমুখি হয়েছেন একটু খুলে বলবেন?
+
+**৪. কাস্টমারঃ** ভাই, বইটা একটু মেলতেই মাঝখান থেকে spine-এর glue ছেড়ে গেছে এবং অন্তত দশ-বারোটা page সম্পূর্ণ binding থেকে খুলে আলাদা হয়ে হাতে চলে এসেছে!
+
+**৫. এজেন্টঃ** এটা শুনে সত্যিই অত্যন্ত দুঃখিত হলাম sir! নতুন বই পড়ার আনন্দে যদি binding ভেঙে পাতা এভাবে খুলে যায়, তবে পুরো reading excitement নষ্ট হয়ে যায়।
+
+**৬. কাস্টমারঃ** ঠিক তাই! আমি এত সুন্দর করে জগত সংসার ভুলে পড়তে বসেছিলাম, আর এখন পাতাগুলো ছেঁড়া ছেঁড়া হয়ে ছড়িয়ে যাচ্ছে। এটা কি ধরনের binding quality?
+
+**৭. এজেন্টঃ** sir, "সাতকাহন" যেহেতু প্রায় আটশত পাতার বিশাল আকৃতির hard cover বই, অনেক সময় publisher-এর bindery factory-তে spine glue ঠিকমতো না শুকানোর কারণে এমন binding failure হতে পারে।
+
+**৮. কাস্টমারঃ** publisher-এর binding error হতে পারে, কিন্তু আপনাদের কাছ থেকে এত টাকা দিয়ে কিনে যদি এমন বাজে craftsmanship পাই, তাহলে তো খুবই খারাপ লাগে।
+
+**৯. এজেন্টঃ** আপনার অনুভূতিটা আমি অক্ষরে অক্ষরে অনুধাবন করছি sir। customer হিসেবে শতভাগ মজবুত এবং টেকসই binding পাওয়ার অধিকার আপনার অবশ্যই আছে। আমরা এর complete operational responsibility নিচ্ছি।
+
+**১০. কাস্টমারঃ** এখন সমাধান কী দেবেন বলুন? আমি তো এই আলগা পাতার বই দিয়ে পড়তে পারছি না, হারিয়ে যাওয়ার risk আছে।
+
+**১১. এজেন্টঃ** একদম চিন্তা করবেন না sir। আমি এখনই আপনার জন্য একটা সম্পূর্ণ নতুন, strong spine binding-এর ফ্রেশ copy replacement পাঠানোর ব্যবস্থা করে দিচ্ছি।
+
+**১২. কাস্টমারঃ** নতুন replacement পাঠালে সেটার binding-ও যে আবার এভাবে খুলে যাবে না, তার নিশ্চয়তা কী? একই binding logic তো সবটিতেই থাকতে পারে।
+
+**১৩. এজেন্টঃ** খুবই যৌক্তিক প্রশ্ন sir। আমি আমাদের central warehouse quality team-কে special note দিয়ে দিচ্ছি, যাতে তারা পাঠানোর আগে spine resiliency এবং glue bonding ভালো করে stress test করে পাঠায়।
+
+**১৪. কাস্টমারঃ** বাহ, এটা বেশ আশানুরূপ পদক্ষেপ। তাহলে আমাকে কি এই defective binding-এর বইটা courier office-এ গিয়ে জমা দিয়ে আসতে হবে?
+
+**১৫. এজেন্টঃ** একদমই না sir, আপনাকে বিন্দুমাত্র কষ্ট করতে হবে না। আমাদের priority delivery rider আপনার বাসায় নতুন ফ্রেশ copy দিয়ে আসার সময় defective copy-টা pick up করে নেবে।
+
+**১৬. কাস্টমারঃ** খুব ভালো ব্যবস্থা। এই exchange বা return process-এর জন্য কি আমাকে নতুন করে কোনো shipping fee বা extra service charge দিতে হবে?
+
+**১৭. এজেন্টঃ** না sir, যেহেতু এটা একটা manufacturing binding defect ছিল, তাই সম্পূর্ণ replacement delivery এবং home pickup একদম zero cost-এ পরিচালিত হবে। আপনার কোনো expense হবে না।
+
+**১৮. কাস্টমারঃ** ধন্যবাদ, এটা খুবই fair policy। আমার বাসা চট্টগ্রামের আগ্রাবাদে, কত দিনের মধ্যে এই নতুন replacement copy আমার হাতে পৌঁছাবে বলবেন?
+
+**১৯. এজেন্টঃ** sir, চট্টগ্রাম আগ্রাবাদে আমাদের fast track delivery network রয়েছে। আজকেই ঢাকা main depot থেকে dispatch হয়ে যাবে, আগামী পরশু দুপুরের মধ্যেই rider আপনার বাসায় পৌঁছে দেবে।
+
+**২০. কাস্টমারঃ** পরশু দুপুর হলে চলবে। তবে rider আসার আগে যেন অবশ্যই একটু phone করে নেয়, কারণ আমি অফিসে ব্যস্ত থাকতে পারি।
+
+**২১. এজেন্টঃ** অবশ্যই sir, আমাদের regional logistics guidelines অনুযায়ী rider ডেলিভারি দেওয়ার অন্তত ৩০ মিনিট আগে আপনাকে call দিয়ে availability verify করে নেবে।
+
+**২২. কাস্টমারঃ** ধন্যবাদ ভাই। আর আপনারা অবশ্যই publisher-কে এই binding issue-টা জানাবেন, যাতে এত চমৎকার উপন্যাসের binding quality ভবিষ্যতে উন্নত হয়।
+
+**২৩. এজেন্টঃ** অবশ্যই sir! আমি ইতোমধ্যেই publisher partner network-এ এই defective glue bindery সম্পর্কে complaint issue করেছি যেন future batch-গুলোতে stitching এবং strong glue নিশ্চিত করা হয়।
+
+**২৪. কাস্টমারঃ** আপনাদের এই customer focus এবং দ্রুত সমাধান দেওয়ার তৎপরতা সত্যিই খুব প্রশংসনীয়। পরশুর জন্য অপেক্ষা করছি তাহলে।
+
+**২৫. এজেন্টঃ** অনেক ধন্যবাদ sir, আপনাদের সন্তুষ্টিই আমাদের অনুপ্রেরণা। নতুন ফ্রেশ copy পাওয়ার পর "সাতকাহন" পড়ে দারুণ সময় কাটুক। ভালো থাকবেন sir, আসসালামু আলাইকুম!
+
+---
+
+## সিনারিও ২৪ঃ ডেলিভারি পরবর্তী কোয়ালিটি ফিডব্যাক কল (Outbound)
+
+> Rokomari quality support team থেকে একজন কাস্টমারকে outbound call করা হয়েছে গতকাল ডেলিভারি হওয়া ৪টা বইয়ের quality ও delivery experience সম্পর্কে feedback নেওয়ার জন্য।
+
+**১. এজেন্টঃ** আসসালামু আলাইকুম, আমি কি মোস্তাফিজ সাহেবের সাথে কথা বলছি? আমি Rokomari customer experience team থেকে মিরাজ বলছিলাম।
+
+**২. কাস্টমারঃ** ওয়ালাইকুমুসসালাম। হ্যাঁ আমি মোস্তাফিজ বলছি। বলুন ভাই, কোনো সমস্যা হয়েছে কি আমার previous order নিয়ে?
+
+**৩. এজেন্টঃ** না sir, কোনো সমস্যা হয়নি। আপনি গতকাল আমাদের এখান থেকে ৪টি ইসলামিক বইয়ের একটা bundle ডেলিভারি পেয়েছেন। সেই ডেলিভারি এবং বইগুলোর overall visual quality সম্পর্কে আপনার valued feedback জানতে call করেছি। আপনার কি কয়েক মিনিট সময় হবে?
+
+**৪. কাস্টমারঃ** ওহ, feedback call! হ্যাঁ ভাই, সময় আছে, বলতে পারেন। আপনারা ডেলিভারির পর এভাবে খোঁজ নেন জেনে খুব ভালো লাগলো।
+
+**৫. এজেন্টঃ** অসংখ্য ধন্যবাদ sir, আপনাদের পড়ার আনন্দ নির্বিঘ্ন করাই আমাদের লক্ষ্য। প্রথমেই জানতে চাইবো, ডেলিভারির সময় packaging কেমন ছিল? package-এ কোনো ছেঁড়া বা আঘাতের চিহ্ন ছিল কি?
+
+**৬. কাস্টমারঃ** না ভাই, packaging একদম চমৎকার ছিল। ডাবল layer bubble wrap আর শক্ত carton box দিয়ে খুব সুরক্ষিতভাবে pack করা ছিল। বৃষ্টির সিজন হলেও ভেতরে একটুও পানি ঢুকেনি।
+
+**৭. এজেন্টঃ** শুনে খুবই আনন্দিত হলাম sir! বর্ষাকালে waterproof dynamic packaging নিশ্চিত করা আমাদের priority। এবার একটু বলবেন, ৪টি বইয়ের প্রতিটির cover এবং bindery condition ঠিক ছিল তো?
+
+**৮. কাস্টমারঃ** হ্যাঁ ভাই, আরিফ আজাদের সবগুলো বই-ই একদম ফ্রেশ এবং sealed condition-এ পেয়েছি। binding-ও বেশ মজবুত মনে হয়েছে, কোনো পৃষ্ঠা ভাঁজ হয়ে ছিল না।
+
+**৯. এজেন্টঃ** আলহামদুলিল্লাহ, এটা খুবই ইতিবাচক খবর sir! বইয়ের ভেতরের print quality বা font clarity কেমন লেগেছে আপনার কাছে? কোনো পাতায় ঝাপসা কালি বা অস্পষ্ট লেখা চোখে পড়েছে কি?
+
+**১০. কাস্টমারঃ** আমি কাল রাতে দুটা বইয়ের প্রথম কয়েকটা অধ্যায় পড়লাম, print quality একদম clear এবং bright ছিল। কাগজের মান বা paper thickness-ও বেশ উন্নত মনে হয়েছে।
+
+**১১. এজেন্টঃ** চমৎকার শুনে sir! ইসলামিক বইয়ের ক্ষেত্রে clear typography এবং original offset paper থাকাটা পাঠকদের জন্য খুবই আরামদায়ক। আচ্ছা sir, আমাদের delivery rider-এর behavior বা ব্যবহার কেমন ছিল?
+
+**১২. কাস্টমারঃ** rider ছেলেটা খুবই ভদ্র এবং professional ছিল। আমার বাসায় আসার অন্তত আধা ঘণ্টা আগে call দিয়ে location জেনে নিয়েছিল। একদম সময়মতোই পৌঁছে গেছে।
+
+**১৩. এজেন্টঃ** আলহামদুলিল্লাহ! আমাদের logistics partner-দের সময়নিষ্ঠতা এবং customer respectful manners বজায় রাখা বাধ্যতামূলক। rider কি payment লেনদেনের সময় সঠিক change বা ভাঙতি টাকা ফেরত দিয়েছিল?
+
+**১৪. কাস্টমারঃ** হ্যাঁ, আমার বিল হয়েছিল ১,২০০ টাকা, আমি ১,৫০০ টাকার note দিয়েছিলাম। rider সাথে সাথেই কোনো ঝামেলা ছাড়াই ৩০০ টাকা cash change ফেরত দিয়ে দিয়েছে।
+
+**১৫. এজেন্টঃ** খুব সুন্দর! cash on delivery-তে খুচরা টাকার availability নিশ্চিত রাখাটা আমাদের customer satisfaction control-এর একটা বড় অংশ। আপনার এই feedback আমাদের rider community-কে উৎসাহিত করবে।
+
+**১৬. কাস্টমারঃ** অবশ্যই, ছেলেটার service সত্যিই প্রশংসনীয় ছিল। আচ্ছা ভাই, আমার একটা ছোট suggestion ছিল আপনাদের website-এর search block নিয়ে। বলবো কি?
+
+**১৭. এজেন্টঃ** অবশ্যই sir! আপনাদের constructional feedback এবং smart suggestion আমাদের platform improvement-এর সবচেয়ে বড় শক্তি। আপনি সানন্দে বলুন কী ধরনের পরিবর্তন চাচ্ছেন?
+
+**১৮. কাস্টমারঃ** আপনাদের website-এ ইসলামিক বইয়ের author বা topic filter করার option-টা আরেকটু advanced হলে ভালো হতো। যেমন নির্দিষ্ট তাফসির বা হাদিস গ্রন্থ category অনুযায়ী filter করা।
+
+**১৯. এজেন্টঃ** অসাধারণ একটি technical valid point বলেছেন sir! category specification এবং precise topic filtering পাঠকের সময় অনেক বাঁচিয়ে দেয়। আমি এখনই আপনার এই recommendation-টা আমাদের IT frontend architecture team-এ escalate করছি।
+
+**২০. কাস্টমারঃ** ধন্যবাদ ভাই। filter option-টা upgrade হলে আমাদের মতো নিয়মিত বই ক্রেতাদের search experience অনেক fast এবং seamless হবে।
+
+**২১. এজেন্টঃ** ১০০% একমত sir। খুব শীঘ্রই আপনারা website-এ enhanced user display দেখতে পাবেন 인শাআল্লাহ। আপনার এই মূল্যবান সময় এবং detailed structured rating দেওয়ার জন্য আমরা কৃতজ্ঞ।
+
+**২২. কাস্টমারঃ** আপনাদেরকেও ধন্যবাদ ভাই, এত আন্তরিকতার সাথে customer engagement maintain করার জন্য। Rokomari সত্যিই দেশের best reliable book brand।
+
+**২৩. এজেন্টঃ** আপনার এই প্রশংসাবাণী আমাদের কাজের অনুপ্রেরণা বহু গুণে বাড়িয়ে দিলো sir! আপনার account-এ কৃতজ্ঞতার নিদর্শনস্বরূপ আমি একটা complimentary free delivery promo code SMS করে পাঠিয়ে দিচ্ছি।
+
+**২৪. কাস্টমারঃ** বাহ, free delivery code! সত্যিই দারুণ সারপ্রাইজ। next মাসে আরও কিছু ইসলামিক reference book কেনার ইচ্ছা আছে, তখন কাজে লাগবে। অনেক ধন্যবাদ ভাই!
+
+**২৫. এজেন্টঃ** আপনাকেও আন্তরিক ধন্যবাদ sir। নতুন code দিয়ে আগামীতেও দারুণ সব বইয়ের উপভোগ্য কেনাকাটা চলুক। আপনার দিনটি সুন্দর ও শান্তিময় হোক। আসসালামু আলাইকুম!
+
+---
+
+## সিনারিও ২৫ঃ ইম্পোর্টেড বইয়ে কাস্টমস ডিউটি কত জানতে চান
+
+> একজন গবেষক বা শিক্ষক বিদেশ থেকে বিরল academic imported reference book আনার order করতে চান, কিন্তু customs duty, air freight shipping cost এবং final landing price নিয়ে বিস্তারিত জানতে call করেছেন।
+
+**১. এজেন্টঃ** Rokomari imported books division থেকে আমি সায়েম বলছি, শুভ দুপুর। বলুন sir, আজকে আপনাকে কীভাবে সাহায্য করতে পারি?
+
+**২. কাস্টমারঃ** ভাই, আমি ঢাকা বিশ্ববিদ্যালয়ের পদার্থবিজ্ঞানের একজন শিক্ষক বলছি। আমি US-এর Cambridge University Press থেকে একটা বিরল quantum mechanics reference book আপনাদের মাধ্যমে import করতে চাচ্ছিলাম।
+
+**৩. এজেন্টঃ** ওহ sir, ঢাকা বিশ্ববিদ্যালয়ের সম্মানীয় শিক্ষক জেনে খুবই আনন্দিত হলাম! আমাদের global book importation network-এর মাধ্যমে বিশ্বের যেকোনো দুর্লভ research reference book এনে দেওয়া সম্ভব।
+
+**৪. কাস্টমারঃ** ধন্যবাদ ভাই। বইটার নাম "Quantum Field Theory in a Nutshell", author হচ্ছেন A. Zee। আমি জানতে চাচ্ছিলাম এটার customs duty বা import tax কেমন আসতে পারে?
+
+**৫. এজেন্টঃ** sir, শিক্ষামূলক এবং academic reference book-এর ক্ষেত্রে বাংলাদেশ সরকারের customs policy যথেষ্ট উদার। সাধারণত printed reading material বা standard book import-এ কোনো direct customs tariff বা mandatory VAT প্রয়োগ করা হয় না।
+
+**৬. কাস্টমারঃ** কোনো customs duty বা VAT নেই? শুনে তো অবাক হলাম, কারণ অন্যান্য electronic বা technical goods import করতে গেলে তো huge tax দিতে হয়।
+
+**৭. এজেন্টঃ** আপনি একদম ঠিক ধরেছেন sir। commercial general items বা digital hardware-এ উচ্চ customs tax থাকলেও, উচ্চশিক্ষার প্রসার এবং research promotion-এর লক্ষ্যে academic published books সম্পূর্ণ tax-exempted category-র অন্তর্ভুক্ত থাকে।
+
+**৮. কাস্টমারঃ** এটা সত্যিই দারুণ খবর! তাহলে আপনাদের website-এ যখন আমি imported book-এর final quotation দেখি, সেখানে মূল US dollar rate-এর বাইরে extra cost-টা মূলত কীসের?
+
+**৯. এজেন্টঃ** sir, dollar-এর base price-এর সাথে যুক্ত হয় international air freight transport cost, foreign currency standard handling charge এবং আমাদের minimal local logistics clearing processing fee।
+
+**১০. কাস্টমারঃ** বুঝতে পারলাম। এই quantum mechanics বইটা hardbound edition এবং ওজন প্রায় ১.৮ কেজি। এত ভারী বইয়ের ক্ষেত্রে air freight cost আনুমানিক কত আসতে পারে?
+
+**১১. এজেন্টঃ** sir, আমাদের USA regional hub থেকে air freight charge প্রতি কেজিতে আনুমানিক ১,২০০ টাকা থেকে ১,৪০০ টাকা পড়ে থাকে। ১.৮ কেজি ওজনের ক্ষেত্রে shipping around ২,৪০০ টাকার মতো আসতে পারে।
+
+**১২. কাস্টমারঃ** আচ্ছা, আমি যদি express air cargo-র বদলে standard ocean shipment বা slow post service select করি, তাহলে কি shipping charge কিছুটা কমানো সম্ভব?
+
+**১৩. এজেন্টঃ** sir, ocean shipping অবশ্যই সস্তা, কিন্তু তাতে আমেরিকা থেকে ঢাকায় আসতে প্রায় ২ থেকে ৩ মাস সময় লেগে যায়। academic research-এর urgent প্রয়োজনে আমরা সবসময় secured air cargo recommend করি, যা মাত্র ১৫ থেকে ১৮ দিনে পৌঁছায়।
+
+**১৪. কাস্টমারঃ** হ্যাঁ, ২-৩ মাস তো অনেক লম্বা সময়! আমার আগামী মাসের research project semester শুরু হবে। ১৫-১৮ দিন হলে air freight দিয়ে আনাই সবচেয়ে logical হবে।
+
+**১৫. এজেন্টঃ** একদম ঠিক sir। এছাড়া air cargo-তে transit damage বা হারিয়ে যাওয়ার risk শূন্যের কোঠায় থাকে, কারণ আমরা প্রতিটা package-এর 24/7 dedicated online satellite scan tracking প্রদান করি।
+
+**১৬. কাস্টমারঃ** আপনাদের এই tracking facility খুবই দরকারী। আচ্ছা ভাই, আমি কি order place করার আগে আমার department head-কে দেখানোর জন্য একটা formal commercial invoice পেতে পারি?
+
+**১৭. এজেন্টঃ** অবশ্যই sir! আপনি শুধু বইয়ের ISBN number এবং আপনার university designation উল্লেখ করে আমাদের import@rokomari.com email address-এ একটা short quote request পাঠিয়ে দিন।
+
+**১৮. কাস্টমারঃ** ঠিক আছে। email পাঠানোর কতক্ষণের মধ্যে আপনারা official cost calculation সহ valid commercial estimation পাঠাবেন?
+
+**১৯. এজেন্টঃ** sir, আমাদের international pricing accuracy team মাত্র ৩ থেকে ৪ কাজের ঘণ্টার মধ্যেই complete weight analysis এবং best available dollar conversion rate দিয়ে আপনাকে formal PDF breakdown পাঠিয়ে দেবে।
+
+**২০. কাস্টমারঃ** চমৎকার! আমাদের department fund থেকে payment করা হবে, তাই official memo থাকাটা আবশ্যক ছিল। payment কি advance bank credit transfer-এর মাধ্যমে করা যাবে?
+
+**২১. এজেন্টঃ** ১০০% যাবে sir। institutional purchase এবং academic fund clearing-এর জন্য আমরা direct bank EFT account debit এবং verified corporate pay check অনায়াসে গ্রহণ করি।
+
+**২২. কাস্টমারঃ** খুব ভালো। আর আপনারা কি ঢাকা বিশ্ববিদ্যালয়ের campus office room-এ সরাসরি home drop delivery দিতে পারবেন?
+
+**২৩. এজেন্টঃ** অবশ্যই sir! বই কাস্টমস থেকে ছাড়ানোর পর আমাদের dedicated VIP logistics team আপনার বিশ্ববিদ্যালয়ের faculty building-এ গিয়ে সরাসরি আপনার হাতে sealed copies হস্তান্তর করে দেবে।
+
+**২৪. কাস্টমারঃ** আপনাদের এই comprehensive explanation এবং professional approach-এ আমি সত্যিই মুগ্ধ। আমি আজকেই বিকেলের মধ্যে email-এ ISBN number পাঠিয়ে দিচ্ছি।
+
+**২৫. এজেন্টঃ** অশেষ ধন্যবাদ sir! ঢাকা বিশ্ববিদ্যালয়ের গবেষণা ও শিক্ষার অগ্রগতিতে পাশে থাকতে পেরে Rokomari গর্বিত। আপনার যেকোনো দরকারে আমাকে স্মরণ করবেন। শুভ অপরাহ্ণ, আসসালামু আলাইকুম!
+
+---
