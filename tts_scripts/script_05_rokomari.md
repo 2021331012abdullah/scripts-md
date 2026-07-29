@@ -564,3 +564,283 @@
 **২৫. এজেন্টঃ** ধন্যবাদ mam, আপনিও ভালো থাকবেন। Rokomari-র পক্ষ থেকে শুভকামনা।
 
 ---
+
+## সিনারিও ১১ঃ COD-তে ভাংতি নেই বলে ডেলিভারি দেয়নি
+
+> কাস্টমার ১,০০০ টাকার note দিতে চেয়েছিলেন কিন্তু rider-এর কাছে ভাংতি ছিল না বলে delivery না দিয়ে চলে গেছে।
+
+**১. এজেন্টঃ** Rokomari customer care, শুভ সকাল। কিভাবে সাহায্য করতে পারি?
+
+**২. কাস্টমারঃ** ভাই একটা অদ্ভুত ব্যাপার হয়েছে। আমার delivery man এসেছিল, আমি ১,০০০ টাকার note দিলাম, ও বললো ভাংতি নেই, delivery না দিয়ে চলে গেলো!
+
+**৩. এজেন্টঃ** sir, এটা শুনে সত্যিই দুঃখিত। আপনার order amount কত ছিল?
+
+**৪. কাস্টমারঃ** ৬৫০ টাকা। মানে ৩৫০ টাকা ভাংতি দিতে হতো। এটা তো খুব normal amount, ভাংতি রাখতে পারে না?
+
+**৫. এজেন্টঃ** sir, আপনি সম্পূর্ণ ঠিক বলেছেন। rider-এর কাছে sufficient change থাকা mandatory। এটা clear policy violation। আমি এখনই delivery team-কে report করছি।
+
+**৬. কাস্টমারঃ** report করেন, কিন্তু আমার বইটা কবে পাবো? আমি সারাসকাল wait করে বসে ছিলাম।
+
+**৭. এজেন্টঃ** sir, আমি arrange করছি আজকেই re-delivery। এবার অন্য একজন rider পাঠাবো। আপনি কোন সময়ে available?
+
+**৮. কাস্টমারঃ** বিকেল ৪টার পরে বাসায় থাকবো। কিন্তু এবার যেন আবার same excuse না দেয়।
+
+**৯. এজেন্টঃ** sir, এবার rider-কে exact change দিয়ে পাঠাবো। অথবা আপনি চাইলে bKash-এও payment করতে পারেন rider-কে, তাহলে cash-এর ঝামেলাই থাকবে না।
+
+**১০. কাস্টমারঃ** bKash-এ pay করা যায়? সেটা হলে তো আরো ভালো। rider-এর bKash number থাকবে?
+
+**১১. এজেন্টঃ** sir, rider-এর personal bKash-এ না, আমাদের official collection number-এ payment নিবে। rider আসলে আপনাকে QR code দেখাবে, scan করে pay করবেন। automated receipt চলে আসবে।
+
+**১২. কাস্টমারঃ** সেটা convenient। তাহলে bKash-এই pay করবো। আচ্ছা ভাই, আজকে যে rider এসেছিল তাকে কি কোনো warning দেওয়া হবে? এরকম behavior-এ customer-দের হয়রানি হয়।
+
+**১৩. এজেন্টঃ** sir, অবশ্যই। আমি delivery supervisor-কে specific rider-এর behavior report দিচ্ছি। repeated complaints-এ rider-দের performance review হয়। আপনার complaint-টা record হয়ে গেছে।
+
+**১৪. কাস্টমারঃ** ভালো। আচ্ছা ভাই, আরেকটা কথা — আমি যদি আগে থেকেই online payment করে দিতাম, তাহলে তো এই ঝামেলাই হতো না, তাই না?
+
+**১৫. এজেন্টঃ** sir, exactly। পরবর্তী order-এ online payment করলে delivery smooth হবে। bKash, Nagad, card — সব option আছে। checkout-এ select করতে পারবেন।
+
+**১৬. কাস্টমারঃ** হুম, পরের বার থেকে online-ই pay করবো। আচ্ছা, আজকের re-delivery বিকেলে হবে, confirm?
+
+**১৭. এজেন্টঃ** confirmed sir। বিকেল ৪টার পরে, ৬টার মধ্যে আপনার হাতে পৌঁছে যাবে। rider আসার ৩০ মিনিট আগে call করবে।
+
+**১৮. কাস্টমারঃ** ঠিক আছে। আর ভাই, বইটা ঠিক আছে তো? rider-এর কাছে ঘুরতে ঘুরতে damage হয়ে যায়নি?
+
+**১৯. এজেন্টঃ** sir, চিন্তা করবেন না। delivery না হওয়ায় parcel-টা hub-এ ফিরে গেছে, safely রাখা আছে। নতুন rider সেখান থেকে collect করে আনবে।
+
+**২০. কাস্টমারঃ** ঠিক আছে। তবে ভাই, এই inconvenience-এর জন্য কিছু compensation পাওয়া উচিত না?
+
+**২১. এজেন্টঃ** sir, আপনার কথা যৌক্তিক। আমি আপনার account-এ ৫০ টাকার store credit add করে দিচ্ছি, next purchase-এ use করতে পারবেন।
+
+**২২. কাস্টমারঃ** ৫০ টাকা? আমার একটা সকাল নষ্ট হয়েছে তার জন্য ৫০ টাকা? একটু বেশি হলে ভালো হতো।
+
+**২৩. এজেন্টঃ** sir, বুঝতে পারছি। আমি ১০০ টাকা store credit approve করে দিচ্ছি, এটা আমার authority-র maximum। আশা করি আপনি সন্তুষ্ট হবেন।
+
+**২৪. কাস্টমারঃ** ঠিক আছে ভাই, ১০০ টাকা হলে মোটামুটি okay। ধন্যবাদ, বিকেলে delivery-টা যেন ঠিকমতো হয়।
+
+**২৫. এজেন্টঃ** ইনশাআল্লাহ sir, এবার কোনো সমস্যা হবে না। আবারো দুঃখিত আজকের অভিজ্ঞতার জন্য। ভালো থাকবেন।
+
+---
+
+## সিনারিও ১২ঃ ডেলিভারি চার্জ বেশি দেখাচ্ছে
+
+> একজন কাস্টমার checkout-এ delivery charge ১২০ টাকা দেখাচ্ছে যেটা normally ৬০ টাকা হওয়ার কথা। কারণ জানতে call করেছেন।
+
+**১. এজেন্টঃ** Rokomari helpline, আমি শান্তা। কিভাবে help করতে পারি?
+
+**২. কাস্টমারঃ** আপু, আমি checkout page-এ আছি। delivery charge ১২০ টাকা দেখাচ্ছে। আগে তো ৬০ টাকা ছিল, হঠাৎ বাড়লো কেন?
+
+**৩. এজেন্টঃ** sir, delivery charge বইয়ের total weight-এর উপর depend করে। আপনি কতগুলো বই order করছেন আর মোট weight কত দেখাচ্ছে checkout-এ?
+
+**৪. কাস্টমারঃ** ৪টা বই। total weight দেখাচ্ছে ২.৫ kg। কিন্তু ৬০ টাকা কত kg পর্যন্ত?
+
+**৫. এজেন্টঃ** sir, ঢাকার ভেতরে ১ kg পর্যন্ত delivery charge ৬০ টাকা। ১ kg-এর বেশি হলে প্রতি additional kg-র জন্য ৩০ টাকা extra। আপনার ২.৫ kg হওয়ায় ৬০ + ৩০ + ৩০ = ১২০ টাকা হয়েছে।
+
+**৬. কাস্টমারঃ** আচ্ছা, তাহলে weight-based pricing। এটা তো website-এ clearly লেখা থাকা উচিত। আমি প্রথমে ভেবেছিলাম flat rate ৬০ টাকা।
+
+**৭. এজেন্টঃ** sir, আপনি ঠিকই বলেছেন, আমাদের delivery policy page-এ details আছে তবে checkout page-এ আরো clearly mention করা দরকার। আমি feedback হিসেবে note করে রাখছি।
+
+**৮. কাস্টমারঃ** হুম। আচ্ছা আপু, ৫০০ টাকার বেশি order-এ free delivery-র কথা শুনেছিলাম। আমার order তো ১,৮০০ টাকার, তাহলে free হওয়ার কথা না?
+
+**৯. এজেন্টঃ** sir, ৫০০ টাকার বেশি order-এ free delivery offer-টা specific promotional period-এ থাকে। currently সেই offer active নেই। তবে ২,০০০ টাকার বেশি order-এ ৫০% delivery discount automatically apply হয়।
+
+**১০. কাস্টমারঃ** ২,০০০ টাকা! আমার ১,৮০০ টাকা। মানে আরো ২০০ টাকার বই add করলে delivery charge অর্ধেক হয়ে যাবে?
+
+**১১. এজেন্টঃ** exactly sir! ২০০ টাকার আরেকটা বই add করলে delivery charge ১২০ থেকে ৬০ টাকা হয়ে যাবে। মানে বই কিনেও save করবেন!
+
+**১২. কাস্টমারঃ** হাহা, clever strategy! ঠিক আছে, আমি একটা ছোট বই add করে দিচ্ছি। আচ্ছা আপু, কোনো ২০০ টাকার মধ্যে ভালো বই suggest করতে পারবেন?
+
+**১৩. এজেন্টঃ** sir, "শেষের কবিতা" রবীন্দ্রনাথের — ১৮০ টাকা, অসাধারণ বই। অথবা "দেয়াল" হুমায়ূন আহমেদের — ২০০ টাকা, political thriller। দুটোই best-seller।
+
+**১৪. কাস্টমারঃ** "দেয়াল" add করে দিচ্ছি তাহলে। total ২,০০০ হবে, delivery charge ৬০ টাকা। net saving ৬০ টাকা কিন্তু extra একটা বই পাচ্ছি ২০০ টাকায়। bad deal না!
+
+**১৫. এজেন্টঃ** sir, smart decision! আর sir, আমি আপনাকে একটা tip দিই — আমাদের app-এ "Rokomari Club" membership আছে yearly ২৯৯ টাকায়। member হলে সারা বছর delivery charge ৫০% off পাবেন সব order-এ।
+
+**১৬. কাস্টমারঃ** interesting। মানে regularly order করলে membership নিলে save হবে। কত order করলে worth it?
+
+**১৭. এজেন্টঃ** sir, যদি মাসে ১টাও order করেন তাহলে ৬ মাসের মধ্যে membership cost recover হয়ে যাবে। frequent reader হলে definitely worth it।
+
+**১৮. কাস্টমারঃ** ঠিক আছে, পরে consider করবো। আপাতত "দেয়াল" add করে order complete করি। payment bKash-এ করবো।
+
+**১৯. এজেন্টঃ** sir, bKash payment-এ কোনো issue হলে নির্দ্বিধায় call করবেন। checkout page-এ bKash select করলে redirect হবে, PIN দিয়ে confirm করলেই হবে।
+
+**২০. কাস্টমারঃ** বুঝেছি। ধন্যবাদ আপু, delivery charge-এর ব্যাপারটা clear হয়ে গেলো এবং bonus-এ একটা ভালো বইও পেলাম!
+
+**২১. এজেন্টঃ** ধন্যবাদ sir! "দেয়াল" পড়ে অবশ্যই review দিবেন আমাদের website-এ। happy reading, ভালো থাকবেন!
+
+---
+
+## সিনারিও ১৩ঃ লার্জ অর্ডার ভেরিফিকেশন কল (Outbound)
+
+> একটা COD order এসেছে ২৫,০০০ টাকার — ৫০টা বই। Fraud prevention-এর জন্য agent verify করতে call করছেন।
+
+**১. এজেন্টঃ** আসসালামু আলাইকুম, এটা কি আসিফ সাহেবের number? Rokomari order verification team থেকে বলছি।
+
+**২. কাস্টমারঃ** ওয়ালাইকুমুসসালাম। হ্যাঁ আমি আসিফ। order verification মানে? আমার order-এ কোনো problem?
+
+**৩. এজেন্টঃ** sir, কোনো problem না। আপনি আজকে সকালে একটা বড় order place করেছেন — ৫০টা বই, total ২৫,০০০ টাকা, COD payment-এ। বড় order হওয়ায় security purpose-এ confirm করতে call করছি।
+
+**৪. কাস্টমারঃ** হ্যাঁ, আমিই order করেছি। আমি একটা coaching center চালাই, students-দের জন্য বই কিনছি। কোনো issue আছে?
+
+**৫. এজেন্টঃ** না sir, কোনো issue নেই। শুধু verify করতে চাইছিলাম যে order-টা genuine। coaching center-এর জন্য বই — সেটা বুঝতে পারছি। আপনি কি regularly bulk order করেন?
+
+**৬. কাস্টমারঃ** এই first time Rokomari থেকে। আগে local bookshop থেকে কিনতাম, কিন্তু ওরা discount দেয় না। Rokomari-তে দাম ভালো দেখে order করলাম।
+
+**৭. এজেন্টঃ** sir, ধন্যবাদ Rokomari choose করার জন্য। bulk order-এর ক্ষেত্রে আমরা additional discount-ও offer করি। আপনার ৫০টা বইয়ে আমি extra ৫% institutional discount apply করে দিতে পারি, interested?
+
+**৮. কাস্টমারঃ** ৫% extra? মানে ২৫,০০০ এর উপর ১,২৫০ টাকা discount? অবশ্যই interested!
+
+**৯. এজেন্টঃ** sir, হ্যাঁ। তবে institutional discount পেতে আপনার coaching center-এর trade license বা any official document-এর একটা copy আমাদের email-এ পাঠাতে হবে। শুধু verification purpose-এ।
+
+**১০. কাস্টমারঃ** trade license আছে, পাঠাতে পারবো। email address কোনটা?
+
+**১১. এজেন্টঃ** sir, bulk@rokomari.com — এই address-এ পাঠাবেন। document verify হলে discount apply হয়ে যাবে, updated invoice পাবেন।
+
+**১২. কাস্টমারঃ** ঠিক আছে, আজকেই পাঠাচ্ছি। আচ্ছা ভাই, এত বই কি একবারে deliver করবেন? ওজন তো অনেক হবে।
+
+**১৩. এজেন্টঃ** sir, ৫০টা বই approximately ১৫-২০ kg হবে। আমরা ৩-৪টা box-এ ভাগ করে পাঠাবো, একই দিনে same delivery-তে। আপনার coaching center-এর address-এ পাঠাবো নাকি বাসায়?
+
+**১৪. কাস্টমারঃ** coaching center-এই পাঠান, address-টা হলো মিরপুর ১, main road, "আলোর পথ কোচিং সেন্টার"। ২য় তলা।
+
+**১৫. এজেন্টঃ** noted sir। coaching center-এ কেউ থাকবে receive করার জন্য? আর COD ২৫,০০০ টাকা — এটা exact amount ready রাখতে হবে।
+
+**১৬. কাস্টমারঃ** হ্যাঁ, আমি থাকবো। discount apply হলে কত হবে final amount?
+
+**১৭. এজেন্টঃ** sir, ৫% discount apply হলে ২৫,০০০ থেকে ১,২৫০ টাকা কমে ২৩,৭৫০ টাকা। delivery charge-ও waive করে দিচ্ছি bulk order হওয়ায়।
+
+**১৮. কাস্টমারঃ** দারুণ! delivery charge-ও free? তাহলে তো আরো ভালো। কবে পাবো বইগুলো?
+
+**১৯. এজেন্টঃ** sir, ৫০টা বই prepare করতে warehouse-এ ২ দিন সময় লাগবে, সব বই collect আর pack করতে। dispatch-এর পর ১ দিনে পৌঁছে যাবে। মোট ৩ দিন।
+
+**২০. কাস্টমারঃ** ৩ দিন acceptable। students-দের জানিয়ে রাখছি। আচ্ছা ভাই, ভবিষ্যতেও bulk order করবো। কোনো dedicated contact person থাকবে?
+
+**২১. এজেন্টঃ** sir, অবশ্যই! আমি আপনার account-টা "Institutional Partner" category-তে upgrade করে দিচ্ছি। পরবর্তী order-এ আপনি directly আমাদের bulk order team-এ call করতে পারবেন, dedicated support পাবেন। number হলো ০১৭XXXXXXXX।
+
+**২২. কাস্টমারঃ** excellent! note করে রাখছি। ধন্যবাদ ভাই, খুব professional service।
+
+**২৩. এজেন্টঃ** ধন্যবাদ sir। আপনার coaching center-এর students-দের জন্য শুভকামনা। trade license পাঠিয়ে দিবেন, discount confirm করে SMS দিবো। ভালো থাকবেন!
+
+---
+
+## সিনারিও ১৪ঃ প্যাকেজিংয়ে পানি ঢুকে বই নষ্ট
+
+> বর্ষাকালে রংপুরের একজন কাস্টমারের বই ভেজা অবস্থায় delivery হয়েছে, pages stick হয়ে গেছে।
+
+**১. এজেন্টঃ** Rokomari customer support, আমি আরিফ। কি সমস্যা হয়েছে sir?
+
+**২. কাস্টমারঃ** ভাই, আমি রংপুর থেকে বলছি। আজকে বই পেয়েছি কিন্তু বইটা সম্পূর্ণ ভেজা। পানি ঢুকে pages stick হয়ে গেছে, ink spread হয়ে গেছে।
+
+**৩. এজেন্টঃ** sir, সত্যিই দুঃখিত! এখন বর্ষাকাল, transit-এ পানি ঢুকে থাকতে পারে। packaging কেমন ছিল? waterproof cover ছিল?
+
+**৪. কাস্টমারঃ** একটা সাধারণ brown paper-এ wrapped ছিল, কোনো plastic cover ছিল না। বৃষ্টিতে completely soak হয়ে গেছে।
+
+**৫. এজেন্টঃ** এটা তো unacceptable sir, বর্ষাকালে waterproof packaging mandatory হওয়া উচিত। আমি logistics head-কে directly report করছি। আপনার বইটার replacement immediately process করছি।
+
+**৬. কাস্টমারঃ** বইটা ছিল "কবি" তারাশঙ্কর বন্দ্যোপাধ্যায়ের। ৪৫০ টাকা দিয়ে কিনেছি, পড়ার অযোগ্য হয়ে গেছে।
+
+**৭. এজেন্টঃ** sir, "কবি" — অসাধারণ বই। stock-এ আছে, replacement পাঠাচ্ছি। এবার waterproof packing-এ — plastic shrink wrap আর polybag-এ যাবে। রংপুরে ৩-৪ দিনে পৌঁছাবে।
+
+**৮. কাস্টমারঃ** ৩-৪ দিন! damaged বইটা কি return করতে হবে?
+
+**৯. এজেন্টঃ** না sir, damaged বইটা return করতে হবে না। replacement free-তে পাঠাচ্ছি, কোনো additional charge নেই।
+
+**১০. কাস্টমারঃ** সেটা ভালো। কিন্তু ভাই, আমি যে shipping charge দিয়েছিলাম ৮০ টাকা, সেটা কি refund হবে?
+
+**১১. এজেন্টঃ** sir, অবশ্যই। ৮০ টাকা delivery charge fully refund হবে। replacement-এর delivery charge-ও আমরা bear করবো। refund কোথায় চান — bKash নাকি account credit?
+
+**১২. কাস্টমারঃ** bKash-এ দিয়ে দিন, ০১৭XXXXXXXX নম্বরে। আচ্ছা ভাই, আমি আরো বই order করতে চাই কিন্তু ভয় লাগছে আবার ভিজে আসবে কিনা।
+
+**১৩. এজেন্টঃ** sir, আমি আপনার account-এ "monsoon priority packaging" tag করে দিচ্ছি। এখন থেকে আপনার সব order double-layer waterproof packaging-এ যাবে automatically।
+
+**১৪. কাস্টমারঃ** এরকম option আছে? সেটা তো ভালো। আর inconvenience-এর জন্য কিছু compensation?
+
+**১৫. এজেন্টঃ** sir, আপনার account-এ ১০০ টাকার store credit add করে দিচ্ছি। তাহলে summary — replacement "কবি" আসছে ৩-৪ দিনে, ৮০ টাকা bKash refund, ১০০ টাকা store credit।
+
+**১৬. কাস্টমারঃ** perfect। bKash refund কবে পাবো?
+
+**১৭. এজেন্টঃ** ২৪ ঘণ্টার মধ্যে process হয়ে যাবে sir। store credit already add হয়ে গেছে।
+
+**১৮. কাস্টমারঃ** ঠিক আছে। আশা করি এবার ভালো condition-এ আসবে। ধন্যবাদ ভাই।
+
+**১৯. এজেন্টঃ** ইনশাআল্লাহ sir। Rokomari-তে call করার জন্য ধন্যবাদ, ভালো থাকবেন!
+
+---
+
+## সিনারিও ১৫ঃ ডেলিভারি ম্যান বিকাশে বেশি টাকা নিয়েছে
+
+> Delivery rider কাস্টমারকে বলেছে charge বেড়ে গেছে এবং personal bKash-এ order amount-এর চেয়ে বেশি টাকা নিয়ে নিয়েছে।
+
+**১. এজেন্টঃ** Rokomari helpline, আমি জুবায়ের। কিভাবে help করতে পারি?
+
+**২. কাস্টমারঃ** ভাই, আমার সাথে fraud হয়েছে মনে হচ্ছে। delivery man বললো delivery charge বেড়ে গেছে, ১২০ টাকা extra দিতে হবে। আমি bKash-এ total ১,৫২০ টাকা pay করেছি, কিন্তু order amount ছিল ১,৪০০ টাকা।
+
+**৩. এজেন্টঃ** sir, অত্যন্ত concerned হলাম। আমাদের system-এ কোনো extra charge add হওয়ার কথা না। rider কি official QR code-এ payment নিয়েছে নাকি personal bKash number-এ?
+
+**৪. কাস্টমারঃ** personal number-এ নিয়েছে! বললো system down, তাই personal number-এ দিতে।
+
+**৫. এজেন্টঃ** sir, এটা clear policy violation। rider-দের কখনো personal bKash-এ payment নেওয়ার permission নেই। rider-এর bKash number-টা মনে আছে? transaction ID?
+
+**৬. কাস্টমারঃ** number ০১৬XXXXXXXX, transaction ID হলো 8AG45KL2P9। bKash app থেকে দেখে বলছি।
+
+**৭. এজেন্টঃ** ধন্যবাদ sir, সব note করেছি। fraud investigation team-এর কাছে immediately escalate করছি। rider-কে identify করে action নেওয়া হবে।
+
+**৮. কাস্টমারঃ** action ভালো, কিন্তু আমার extra ১২০ টাকা কি ফেরত পাবো?
+
+**৯. এজেন্টঃ** sir, শুধু ১২০ টাকা নয়। আপনি personal bKash-এ যা দিয়েছেন সেটা আমাদের system-এ record হয়নি। তাই পুরো ১,৫২০ টাকাই refund পাবেন, rider-এর কাছ থেকে আমরা recover করবো।
+
+**১০. কাস্টমারঃ** পুরোটাই ফেরত? তাহলে বইটা practically free হয়ে গেলো!
+
+**১১. এজেন্টঃ** sir, বইটা আপনার কাছে থাকবে। officially আমাদের কাছে payment আসেনি, তাই পুরো amount refund করবো। ৪৮ ঘণ্টার মধ্যে আপনার bKash-এ ১,৫২০ টাকা ফেরত দেওয়া হবে।
+
+**১২. কাস্টমারঃ** সত্যিই fair! কিন্তু এই rider-কে কি terminate করা হবে? নিশ্চয়ই অন্যদেরও ঠকাচ্ছে।
+
+**১৩. এজেন্টঃ** sir, investigation-এ fraud proven হলে immediately blacklist হবে। zero-tolerance policy আছে। আচ্ছা sir, ভবিষ্যতে এরকম avoid করতে কিছু tips দিই — rider সবসময় official QR code দেখাবে, personal number-এ কখনো দিবেন না। amount app-এ যা দেখায় exactly ততটুকুই দিবেন।
+
+**১৪. কাস্টমারঃ** বুঝেছি, মনে রাখবো। ধন্যবাদ ভাই, seriously handle করছেন দেখে ভালো লাগলো।
+
+**১৫. এজেন্টঃ** customer safety top priority sir। refund process হলে SMS পাবেন। ভালো থাকবেন!
+
+---
+
+## সিনারিও ১৬ঃ পুরাতন এডিশন এসেছে, নতুন এডিশন অর্ডার ছিল
+
+> একজন medical student latest edition-এর anatomy বই order করেছিলেন কিন্তু ২ বছর আগের পুরাতন edition পেয়েছেন।
+
+**১. এজেন্টঃ** Rokomari customer care, শুভ দুপুর। কিভাবে help করতে পারি?
+
+**২. কাস্টমারঃ** আপু, আমি "Gray's Anatomy" বইটার latest 42nd edition order করেছিলাম কিন্তু 41st edition এসেছে। medical student হিসেবে আমার latest edition-ই দরকার।
+
+**৩. এজেন্টঃ** sir, বুঝতে পেরেছি, medical book-এ edition-এর difference অনেক important। আপনি কি product page-এ "42nd edition" specifically mention দেখে order করেছিলেন?
+
+**৪. কাস্টমারঃ** হ্যাঁ আপু, product title-এ clearly লেখা ছিল "42nd Edition, 2023"। কিন্তু বইটায় copyright page-এ 2021 দেখাচ্ছে, মানে 41st edition।
+
+**৫. এজেন্টঃ** sir, এটা clearly আমাদের listing error অথবা warehouse-এ wrong stock issue। আমি product team-কে এখনই flag করছি। আপনার জন্য সঠিক 42nd edition arrange করবো।
+
+**৬. কাস্টমারঃ** 42nd edition available আছে তো আপনাদের কাছে? নাকি listing-এ শুধু title-এ লেখা ছিল 42nd কিন্তু stock-এ actually 41st?
+
+**৭. এজেন্টঃ** sir, excellent question। আমি warehouse team-কে check করতে বলছি physically। একটু hold করুন... sir, confirmed — warehouse-এ 42nd edition-ও আছে, কিন্তু পুরাতন stock আগে dispatch হয়ে গেছে FIFO system-এ। নতুন stock থেকে 42nd edition পাঠাবো।
+
+**৮. কাস্টমারঃ** ঠিক আছে, please 42nd edition-ই পাঠান। cover-এ edition number check করে পাঠাবেন। আমার MBBS final year exam আসছে, wrong edition দিয়ে study করলে বিপদ।
+
+**৯. এজেন্টঃ** sir, আমি warehouse-কে specifically instruct করবো copyright page আর cover-এ edition number verify করে dispatch করতে। 41st edition-টা return করতে হবে।
+
+**১০. কাস্টমারঃ** return pickup কবে হবে? আর 42nd edition কবে পাবো?
+
+**১১. এজেন্টঃ** sir, return pickup আগামীকাল করবো, rider আসার আগে call করবে। 42nd edition আজকেই dispatch, আপনি ঢাকায় থাকলে কাল পেয়ে যাবেন।
+
+**১২. কাস্টমারঃ** ঢাকাতেই, শাহবাগ medical hostel-এ থাকি। কাল পেলে ভালো হয়। আচ্ছা আপু, দুইটা edition-এর price difference আছে কি?
+
+**১৩. এজেন্টঃ** sir, 42nd edition-এর price ৫,২০০ টাকা, 41st edition-এর ৪,৮০০ টাকা ছিল। ৪০০ টাকা difference আছে। কিন্তু যেহেতু আমাদের ভুল, তাই extra ৪০০ টাকা আমরা bear করবো, আপনাকে দিতে হবে না।
+
+**১৪. কাস্টমারঃ** সেটা fair। ধন্যবাদ আপু। আচ্ছা, আমার আরো কিছু medical book দরকার, Guyton's Physiology আর Robbins Pathology। এগুলো কি latest edition available?
+
+**১৫. এজেন্টঃ** sir, আমি check করছি... Guyton's 14th edition available, Robbins-এর 10th edition-ও আছে। দুটোই latest। order করলে আমি personally verify করবো edition dispatch-এর আগে।
+
+**১৬. কাস্টমারঃ** great! তাহলে পরে order করবো ওগুলো। আপাতত Gray's Anatomy-র 42nd edition ঠিকমতো পাঠান।
+
+**১৭. এজেন্টঃ** অবশ্যই sir। medical students-দের জন্য সঠিক edition পাওয়া critical, আমরা সেটা ensure করবো। exam-এর preparation ভালো হোক!
+
+**১৮. কাস্টমারঃ** ধন্যবাদ আপু। ভালো থাকবেন।
+
+**১৯. এজেন্টঃ** আপনিও ভালো থাকবেন sir। Rokomari always by your side!
+
+---
