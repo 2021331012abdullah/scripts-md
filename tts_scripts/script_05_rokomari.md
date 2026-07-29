@@ -844,3 +844,131 @@
 **১৯. এজেন্টঃ** আপনিও ভালো থাকবেন sir। Rokomari always by your side!
 
 ---
+
+## সিনারিও ১৭ঃ বইয়ের মাঝখান থেকে ২০ পাতা মিসিং
+
+> একজন কাস্টমার novel পড়তে গিয়ে মাঝখানে আবিষ্কার করেছেন ২০ পাতা missing, manufacturing defect।
+
+**১. এজেন্টঃ** Rokomari-তে আপনাকে স্বাগতম। আমি তানিয়া, কিভাবে help করবো?
+
+**২. কাস্টমারঃ** আপু, আমি একটা novel পড়ছিলাম রাতে, হঠাৎ দেখি ১২০ নম্বর page-এর পরে সরাসরি ১৪১ নম্বর page। মাঝখানের ২০ পাতা নেই! printing defect।
+
+**৩. এজেন্টঃ** ওহ mam, এটা তো খুবই বিরক্তিকর! গল্পের মাঝখানে এরকম হলে পড়ার মজাই নষ্ট হয়ে যায়। কোন বইটা?
+
+**৪. কাস্টমারঃ** "দেবদাস" শরৎচন্দ্র চট্টোপাধ্যায়ের। ঠিক climax-এ পৌঁছেছিলাম, সব মাটি হয়ে গেলো! আমি অনেক রাগে আছি।
+
+**৫. এজেন্টঃ** mam, আমি সম্পূর্ণ বুঝতে পারছি। "দেবদাস"-এর ওই অংশটা সবচেয়ে emotional, ঠিক সেখানেই page missing — সত্যিই frustrating। এটা publisher-এর printing defect, আমি immediately replacement arrange করছি।
+
+**৬. কাস্টমারঃ** replacement আসতে কত দিন লাগবে? আমি reading-এর flow-তে ছিলাম, এখন আটকে গেছি।
+
+**৭. এজেন্টঃ** mam, "দেবদাস" আমাদের best-seller, stock-এ plenty আছে। আজকেই dispatch করবো, কাল পেয়ে যাবেন। আর defective copy-টা রাখুন, return-এর দরকার নেই।
+
+**৮. কাস্টমারঃ** কাল পেলে ভালো। কিন্তু আপু, replacement copy-তেও যদি same defect থাকে? same batch-এর হলে তো same printing error থাকতে পারে।
+
+**৯. এজেন্টঃ** mam, very valid concern! আমি warehouse-কে বলবো different batch থেকে বই নিতে, আর dispatch-এর আগে page ১২০-১৪১ specifically check করে পাঠাতে। এটা আমি personal note হিসেবে দিচ্ছি।
+
+**১০. কাস্টমারঃ** সেটা ভালো। আচ্ছা আপু, এই defect-টা কি publisher-কে report করবেন? হয়তো পুরো batch-এই problem আছে।
+
+**১১. এজেন্টঃ** mam, অবশ্যই। আমি publisher-এর quality control team-কে email করবো এই specific batch number সহ। তারা investigate করবে এবং defective copies recall করতে পারবে।
+
+**১২. কাস্টমারঃ** ভালো। আচ্ছা আপু, আমি প্রায় ৩ সপ্তাহ আগে এই বইটা কিনেছিলাম। এত দেরিতে complaint-এ কোনো problem হবে না তো?
+
+**১৩. এজেন্টঃ** mam, manufacturing defect-এর ক্ষেত্রে সময়ের কোনো সীমা নেই। কারণ এটা আমাদের বা publisher-এর fault, আপনার না। তাই ৩ সপ্তাহ হোক বা ৩ মাস, replacement পাবেন।
+
+**১৪. কাস্টমারঃ** সেটা relieving। আপু, আমি Rokomari-তে প্রায় ২০টা বই কিনেছি এ পর্যন্ত, first time এরকম হলো।
+
+**১৫. এজেন্টঃ** mam, ২০টা বই! আপনি আমাদের loyal customer। এবার একটু বাজে experience হয়ে গেলো, দুঃখিত। আপনার account-এ ৭৫ টাকার loyalty credit add করে দিচ্ছি, next purchase-এ enjoy করবেন।
+
+**১৬. কাস্টমারঃ** ধন্যবাদ আপু! ঠিক আছে, তাহলে কাল replacement-এর জন্য wait করি। শুভরাত্রি!
+
+**১৭. এজেন্টঃ** শুভরাত্রি mam! কাল ভালো condition-এ "দেবদাস" পৌঁছে যাবে। happy reading!
+
+---
+
+## সিনারিও ১৮ঃ ইংরেজি বই অর্ডার, বাংলা অনুবাদ এসেছে
+
+> একজন corporate professional English-এ "Atomic Habits" order করেছিলেন কিন্তু বাংলা translation version এসেছে।
+
+**১. এজেন্টঃ** Rokomari customer support, শুভ সন্ধ্যা। কিভাবে সাহায্য করতে পারি?
+
+**২. কাস্টমারঃ** ভাই, আমি James Clear-এর "Atomic Habits" English version-এ order করেছিলাম। কিন্তু বাংলা অনুবাদ "অ্যাটমিক হ্যাবিটস" এসেছে। আমি English-এই পড়তে চাই।
+
+**৩. এজেন্টঃ** sir, দুঃখিত। আমাদের website-এ কি English আর Bangla version আলাদা listing-এ ছিল? আপনি কোন listing থেকে order করেছিলেন?
+
+**৪. কাস্টমারঃ** listing-এ "Atomic Habits by James Clear" লেখা ছিল, English cover-এর ছবি ছিল। কোথাও "বাংলা অনুবাদ" লেখা ছিল না। কিন্তু যা পেলাম সেটা বাংলা।
+
+**৫. এজেন্টঃ** sir, আমি product page-টা check করছি... sir, আপনি ঠিকই বলেছেন, listing-এ English cover ছিল কিন্তু description-এর একদম নিচে ছোট করে "বাংলা অনুবাদ" লেখা ছিল। এটা misleading, আমি product team-কে immediately flag করছি।
+
+**৬. কাস্টমারঃ** তো listing misleading হলে আমি কেন ভুগবো? আমার English version চাই।
+
+**৭. এজেন্টঃ** sir, সম্পূর্ণ একমত। আমি English original "Atomic Habits" পাঠাচ্ছি। বাংলা version-টা return করতে হবে না, আপনি রাখুন বা কাউকে দিয়ে দিন।
+
+**৮. কাস্টমারঃ** English version stock-এ আছে তো? imported book তো, কবে পাবো?
+
+**৯. এজেন্টঃ** sir, English original "Atomic Habits" আমাদের imported section-এ available আছে। price একটু different — English version ১,২০০ টাকা, বাংলা ৪৫০ টাকা ছিল। ৭৫০ টাকা difference।
+
+**১০. কাস্টমারঃ** ৭৫০ টাকা extra? কিন্তু ভুল তো আপনাদের, আমি কেন extra pay করবো?
+
+**১১. এজেন্টঃ** sir, listing misleading ছিল বলে আমরা ৫০% difference bear করবো। তাহলে আপনাকে extra মাত্র ৩৭৫ টাকা দিতে হবে English version-এর জন্য। বাংলা copy-ও আপনার কাছে থাকবে bonus হিসেবে।
+
+**১২. কাস্টমারঃ** ৩৭৫ টাকা extra, plus বাংলা copy free... আচ্ছা ঠিক আছে, deal acceptable। English version-টা কবে পাবো?
+
+**১৩. এজেন্টঃ** sir, imported book হলেও stock-এ already আছে, তাই ২-৩ দিনের মধ্যে delivery। ৩৭৫ টাকা bKash-এ pay করতে পারবেন, আমি payment link SMS-এ পাঠাচ্ছি।
+
+**১৪. কাস্টমারঃ** ঠিক আছে, link পাঠান। bKash-এই pay করবো। আচ্ছা ভাই, এই listing issue-টা fix করুন, নইলে অন্যরাও same ভুলে পড়বে।
+
+**১৫. এজেন্টঃ** sir, absolutely। আমি already product team-কে ticket raise করেছি। listing update হবে — English আর Bangla version আলাদা listing-এ separate করা হবে, cover image-ও correct হবে। আপনার feedback valued।
+
+**১৬. কাস্টমারঃ** ভালো। তাহলে payment link-এর wait করছি। ধন্যবাদ ভাই।
+
+**১৭. এজেন্টঃ** sir, ৫ মিনিটের মধ্যে SMS পাবেন। "Atomic Habits" পড়ে অসাধারণ habits build করুন! ভালো থাকবেন।
+
+---
+
+## সিনারিও ১৯ঃ প্রিন্ট কোয়ালিটি খারাপ — ঝাপসা লেখা
+
+> একজন কাস্টমার বাংলা সাহিত্যের একটা জনপ্রিয় বই order করেছিলেন, কিন্তু ভেতরে print quality খুবই খারাপ, অনেক পাতায় লেখা ঝাপসা এবং পড়ার অযোগ্য।
+
+**১. এজেন্টঃ** Rokomari customer support থেকে আমি শফিক বলছি, শুভ বিকেল। বলুন sir, আজকে আপনার order বা service রিলেটেড কীভাবে সাহায্য করতে পারি?
+
+**২. কাস্টমারঃ** ভাই, আমি গতকাল একটা বইয়ের parcel পেয়েছি। কিন্তু বইটা খুলতেই মনটা খারাপ হয়ে গেলো। ভেতরের print quality এত খারাপ আর ঝাপসা যে পড়াই যাচ্ছে না।
+
+**৩. এজেন্টঃ** ওহ sir, এটা শুনে সত্যিই খুবই দুঃখিত হলাম! নতুন বই হাতে পাওয়ার পর যদি লেখা blurry বা ঝাপসা থাকে, তাহলে পড়ার আনন্দটাই নষ্ট হয়ে যায়। কোন বইটাতে এই সমস্যা হয়েছে sir?
+
+**৪. কাস্টমারঃ** বইটা হচ্ছে হুমায়ূন আহমেদের "কোথাও কেউ নেই"। আমি অনেকদিন ধরে ভাবছিলাম print classic editionটা কিনে পড়বো, কিন্তু ভেতরে অন্তত ২০-২৫টা page-এর কালি ছড়ানো আর একদম blurry।
+
+**৫. এজেন্টঃ** বুঝতে পেরেছি sir। "কোথাও কেউ নেই" আমাদের অন্যতম জনপ্রিয় best-seller বই। সাধারণত publisher থেকে আমাদের কাছে sealed copy আসে, তাই ভেতরে print defect বা ink spreading থাকলে বাইরে থেকে বোঝা যায় না।
+
+**৬. কাস্টমারঃ** তা বুঝলাম, কিন্তু customer হিসেবে আমি তো full price দিয়ে clear এবং ফ্রেশ বই চাইবো, তাই না? এখন এই ঝাপসা print দিয়ে আমি কী করবো?
+
+**৭. এজেন্টঃ** অবশ্যই sir, আপনার এই বক্তব্য সম্পূর্ণ যৌক্তিক এবং আমরা এর hundred percent responsibility নিচ্ছি। আমি এখনই আপনার জন্য একটা একদম clear এবং ফ্রেশ copy replacement পাঠানোর ব্যবস্থা করছি, আপনাকে কোনো extra payment দিতে হবে না।
+
+**৮. কাস্টমারঃ** আচ্ছা, replacement পাঠালে কি আবার আগের মতোই defective batch থেকে আসবে? কারণ একই batch-এর সব বইতেই তো এই print issue থাকতে পারে।
+
+**৯. এজেন্টঃ** খুব সুন্দর পয়েন্ট নোট করেছেন sir। আমি আমাদের warehouse team-কে special note দিয়ে দিচ্ছি যাতে তারা পাঠানোর আগে বইয়ের প্রতিটা page খুলে specifically verify করে যে কোনো ঝাপসা লেখা বা ink error নেই।
+
+**১০. কাস্টমারঃ** বাহ, এটা ভালো ব্যবস্থা। তাহলে আমাকে কি এই defective copyটা এখন courier office-এ গিয়ে ফেরত দিয়ে আসতে হবে? আমার তো অফিস ছেড়ে যাওয়ার একদম সময় থাকে না।
+
+**১১. এজেন্টঃ** একদমই না sir, আপনাকে কোথাও কষ্ট করে যেতে হবে না। আমাদের delivery man যখন আপনার ঠিকানায় নতুন ফ্রেশ copy নিয়ে যাবে, তখনই আপনি শুধু পুরাতন ঝাপসা print-এর বইটা তার হাতে হস্তান্তর করে দেবেন। পুরো process-টাই home pickup এবং delivery হবে।
+
+**১২. কাস্টমারঃ** এটা শুনে বেশ স্বস্তি পেলাম। কিন্তু আমার প্রশ্ন হচ্ছে, এই exchange বা delivery-র জন্য কি নতুন করে কোনো shipping charge দিতে হবে?
+
+**১৩. এজেন্টঃ** না sir, যেহেতু এটা একটা print quality defect ছিল, তাই replacement delivery এবং return transport সম্পূর্ণ free of cost-এ হবে। আপনার থেকে এক পয়সাও extra charge করা হবে না।
+
+**১৪. কাস্টমারঃ** ঠিক আছে, এটা খুবই fair। আচ্ছা ভাই, আমার বাসা মিরপুর পল্লবীতে, কত দিনের মধ্যে এই replacement বইটা আমার হাতে আসতে পারে বলবেন?
+
+**১৫. এজেন্টঃ** sir, মিরপুর পল্লবী যেহেতু ঢাকার ভেতরেই, আমি আজকেই urgent basis-এ dispatch request দিয়ে দিচ্ছি। আগামীকাল বিকেলের মধ্যেই আমাদের rider আপনার ঠিকানায় পৌঁছে যাবে 인শাআল্লাহ।
+
+**১৬. কাস্টমারঃ** কাল বিকেল হলে খুব ভালো হয়, কারণ কাল শুক্রবার আমার ছুটি আছে। rider আসার আগে যেন অবশ্যই একটু call দিয়ে নেয়।
+
+**১৭. এজেন্টঃ** অবশ্যই sir, আমাদের rider ডেলিভারি দেওয়ার ৩০ মিনিট আগে আপনাকে phone দিয়ে confirm করে নেবে। এছাড়া আমি internally আমাদের partner publisher-কে এই blurry print-এর issue-টা report করে দিচ্ছি যেন future production-এ এমনটা না হয়।
+
+**১৮. কাস্টমারঃ** হ্যাঁ, publisher-দের print clear রাখা উচিত, বিশেষ করে হুমায়ূন আহমেদের মতো লেখকের বইয়ের ক্ষেত্রে। আপনাদের এই instant solution দেওয়ার ব্যাপারটা সত্যিই বেশ প্রশংসনীয়।
+
+**১৯. এজেন্টঃ** অনেক ধন্যবাদ sir, আপনাদের satisfaction এবং পড়ার আনন্দ অটুট রাখাই আমাদের মূল লক্ষ্য। এছাড়া আপনার এই সাময়িক inconvenience-এর জন্য আমি আপনার account-এ একটা ফ্রি bookmarks pack আর ৫০ টাকার একটা gift voucher add করে দিচ্ছি, যা next purchase-এ use করতে পারবেন।
+
+**২০. কাস্টমারঃ** ওরে বাবা, gift voucher! সত্যিই অনেক খুশি হলাম ভাই। আপনাদের support service সত্যি খুব customer friendly এবং professional। অনেক ধন্যবাদ।
+
+**২১. এজেন্টঃ** আপনাকেও অসংখ্য ধন্যবাদ sir, এত ধৈর্য ধরে আমাদের সাথে cooperate করার জন্য। আগামীকাল নতুন ফ্রেশ copy হাতে পাওয়ার পর "কোথাও কেউ নেই" পড়ে দারুণ সময় কাটুক। ভালো থাকবেন sir!
+
+---
