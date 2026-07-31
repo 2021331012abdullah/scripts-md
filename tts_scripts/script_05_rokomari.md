@@ -1308,3 +1308,885 @@
 **২৫. এজেন্টঃ** অশেষ ধন্যবাদ sir! ঢাকা বিশ্ববিদ্যালয়ের গবেষণা ও শিক্ষার অগ্রগতিতে পাশে থাকতে পেরে Rokomari গর্বিত। আপনার যেকোনো দরকারে আমাকে স্মরণ করবেন। শুভ অপরাহ্ণ, আসসালামু আলাইকুম!
 
 ---
+
+## সিনারিও ২৬ঃ রিফান্ড ৭ দিন পরেও পাইনি
+
+> একজন কাস্টমার ৭ দিন আগে return করে refund request করেছিলেন কিন্তু এখনো টাকা ফেরত পাননি, বারবার follow up করেও সমাধান হচ্ছে না।
+
+**১. কাস্টমারঃ** ভাই, আমি বেশ রাগে আর হতাশায় ভরে আছি। আজকে তৃতীয়বার call করছি — আমার refund কোথায়? ৭ দিন হয়ে গেছে, এক টাকাও পাইনি!
+
+**২. এজেন্টঃ** sir, আপনার frustration পুরোপুরি বুঝতে পারছি এবং এত দীর্ঘ delay-র জন্য আন্তরিকভাবে ক্ষমাপ্রার্থী। আমি এখনই আপনার refund-এর current status check করছি।
+
+**৩. কাস্টমারঃ** আগের দুইবারও same কথা বলেছে — "check করছি, ৪৮ ঘণ্টায় পাবেন।" কিন্তু কিছুই হয়নি!
+
+**৪. এজেন্টঃ** sir, আমি দেখতে পাচ্ছি আপনার refund system-এ "processing" status-এ আটকে আছে। finance team-এর approval queue-তে backlog হয়েছে। আমি directly finance head-কে escalate করছি।
+
+**৫. কাস্টমারঃ** escalate! প্রতিবারই escalate বলেন, result কিছু দেখি না। refund amount ১,৮০০ টাকা — ছাত্র মানুষ, আমার কাছে অনেক বড় টাকা।
+
+**৬. এজেন্টঃ** sir, ১,৮০০ টাকা কোনো ছোট amount না। এবার আমি শুধু ticket raise না — এই call চলাকালীনই finance supervisor-কে internal message পাঠাচ্ছি immediate action-এর জন্য।
+
+**৭. কাস্টমারঃ** তাহলে এখনই message পাঠান, আমি hold-এ থাকবো। শেষবারের মতো patience ধরছি।
+
+**৮. এজেন্টঃ** sir, message পাঠিয়ে দিয়েছি priority flag সহ। guarantee দিচ্ছি — আজকের মধ্যে refund initiate না হলে আমি personally callback দেবো update সহ।
+
+**৯. কাস্টমারঃ** callback-এর promise আগেও পেয়েছি, কেউ করেনি। আপনি সত্যিই করবেন?
+
+**১০. এজেন্টঃ** sir, আমার employee ID — RM-4521, নাম তারেক। আজ সন্ধ্যা ৭টার মধ্যে নিজে call করবো। না করলে এই ID দিয়ে complaint করতে পারবেন।
+
+**১১. কাস্টমারঃ** note করে রাখলাম তারেক ভাই। refund-টা bKash-এ চাই, card-এ নয়।
+
+**১২. এজেন্টঃ** sir, original payment ছিল debit card-এ। normally refund same method-এ যায়, তবে bKash prefer করলে payment method change request submit করে দিচ্ছি।
+
+**১৩. কাস্টমারঃ** bKash-এই দিন। card refund-এ আরো ৭-১০ দিন লাগে bank processing-এ, আর wait করতে পারবো না।
+
+**১৪. এজেন্টঃ** বুঝতে পারছি sir। bKash refund ২৪ ঘণ্টায় complete হয়, card-এর চেয়ে অনেক দ্রুত। registered bKash number confirm করুন please।
+
+**১৫. কাস্টমারঃ** ০১৭XXXXXXXX — ১,৮০০ টাকা exact amount তো?
+
+**১৬. এজেন্টঃ** হ্যাঁ sir, exact। delay-র compensation হিসেবে additional ১০০ টাকা store credit add করে দিচ্ছি।
+
+**১৭. কাস্টমারঃ** store credit ভালো, কিন্তু আসল কথা টাকা ফেরত পাওয়া। সন্ধ্যার callback wait করবো তারেক ভাই।
+
+**১৮. এজেন্টঃ** অবশ্যই sir। আপনার case "priority refund" queue-তে move করেছি — ৬ ঘণ্টার মধ্যে mandatory process হবে।
+
+**১৯. কাস্টমারঃ** ৬ ঘণ্টা? তাহলে আজ বিকেলের মধ্যেই bKash-এ পাওয়ার কথা?
+
+**২০. এজেন্টঃ** হ্যাঁ sir, বিকেল ৫টার মধ্যে bKash notification পাওয়া উচিত। সন্ধ্যায় confirm করতে call করবো। আমি personally responsible এবার।
+
+**২১. কাস্টমারঃ** ঠিক আছে, এবার যদি সত্যিই হয় তাহলে আবার কেনাকাটা করবো। না হলে social media-তে পোস্ট দেবো!
+
+**২২. এজেন্টঃ** সেই প্রয়োজন হবে না ইনশাআল্লাহ sir। আজকেই complete হবে। ধৈর্য ধরার জন্য অসংখ্য ধন্যবাদ!
+
+---
+
+## সিনারিও ২৭ঃ রিটার্ন পলিসি জানতে চান — বই খুলে পড়ে ফেলেছে
+
+> একজন কাস্টমার self-help বইয়ের Bangla translation কিনে পুরো পড়ে ফেলেছেন, translation quality poor হওয়ায় return করতে চান।
+
+**১. কাস্টমারঃ** ভাই, একটা বই return করতে চাই। আপনাদের return policy কি? কত দিনের মধ্যে return করা যায়?
+
+**২. এজেন্টঃ** sir, Rokomari-তে standard return window হলো delivery-র ৩ দিনের মধ্যে। তবে specific conditions আছে। বইটা কবে পেয়েছেন?
+
+**৩. কাস্টমারঃ** ৫ দিন আগে পেয়েছি। পড়ে শেষ করেছি, ভালো লাগেনি তাই return করতে চাই।
+
+**৪. এজেন্টঃ** sir, honestly বলছি দুটো issue আছে। ৩ দিনের window পার হয়ে গেছে, আর বই পড়ার পর "পছন্দ হয়নি" reason-এ return accept হয় না policy-তে।
+
+**৫. কাস্টমারঃ** কেন হবে না? Amazon-এ তো ৩০ দিন পর্যন্ত return করা যায়! আপনাদের policy এত strict কেন?
+
+**৬. এজেন্টঃ** sir, বই unique product — পড়ে ফেলার পর "নতুন" থাকে না। আমাদের policy হলো defective, damaged বা wrong book পেলে ৩ দিনে return।
+
+**৭. কাস্টমারঃ** তাহলে customer satisfaction বলে কিছু নেই? ৬৫০ টাকা দিয়েছি, বইটা সম্পূর্ণ waste!
+
+**৮. এজেন্টঃ** sir, বুঝতে পারছি। কোন বইটা? হয়তো alternative solution বের করা যায়।
+
+**৯. কাস্টমারঃ** "The Subtle Art of Not Giving a F*ck" — Bangla translation। title দেখে মনে হয়েছিল দারুণ, কিন্তু translation quality এত খারাপ যে মূল message হারিয়ে গেছে।
+
+**১০. এজেন্টঃ** আহা sir, translation quality poor হওয়াটা different issue। এটা "পছন্দ হয়নি" না — product quality concern। specific example দিতে পারেন translation-এ কোথায় problem?
+
+**১১. কাস্টমারঃ** অনেক জায়গায় English idioms সরাসরি literal Bangla-তে translate হয়েছে, meaning করে না। অনেক paragraph grammatically ভুল।
+
+**১২. এজেন্টঃ** sir, এটা genuine translation quality issue! আমাদের product quality defect-এর আওতায় পড়ে। poor translation-এ reading experience নষ্ট হলে action নিতে পারি।
+
+**১৩. কাস্টমারঃ** সত্যিই? তাহলে কী করা যাবে?
+
+**১৪. এজেন্টঃ** sir, দুটো option। এক — publisher-কে complaint জানিয়ে English original-এ exchange, ৩ দিন পার হলেও। দুই — full refund-এর বদলে ৫০% store credit।
+
+**১৫. কাস্টমারঃ** English original-এ exchange? সেটা ভালো। English version-এর price কত?
+
+**১৬. এজেন্টঃ** sir, English paperback ৮৫০ টাকা, Bangla ৬৫০ ছিল। ২০০ টাকা difference আছে, তবে translation quality issue হওয়ায় ওই ২০০ টাকা waive করছি।
+
+**১৭. কাস্টমারঃ** free-তে English version? extra cost নেই?
+
+**১৮. এজেন্টঃ** exactly sir। Bangla copy return করবেন, English original পাবেন — additional payment নেই, delivery charge-ও free।
+
+**১৯. কাস্টমারঃ** excellent deal! কিন্তু Bangla copy পুরো পড়ে ফেলেছি, spine fold হয়েছে — এই condition-এও return নেবেন?
+
+**২০. এজেন্টঃ** sir, quality-based exchange হওয়ায় পড়া condition-এও নেবো। translation quality-ই poor ছিল, আপনার দোষ না।
+
+**২১. কাস্টমারঃ** great! English version কবে পাবো?
+
+**২২. এজেন্টঃ** আগামীকালই rider যাবে sir — Bangla copy pick up, English original deliver। ঢাকায় থাকলে বিকেলের মধ্যে পাবেন।
+
+**২৩. কাস্টমারঃ** ঢাকায় আছি। ভাই, প্রথমে মনে হয়েছিল return হবে না, কিন্তু সুন্দর solution দিলেন!
+
+**২৪. এজেন্টঃ** ধন্যবাদ sir। goal হলো customer-কে হতাশ না করা — সবসময় fair solution বের করা। English version enjoy করুন!
+
+**২৫. কাস্টমারঃ** অবশ্যই। service সত্যিই impressive। ভালো থাকবেন ভাই!
+
+**২৬. এজেন্টঃ** আপনিও ভালো থাকবেন sir! Rokomari-তে call করার জন্য ধন্যবাদ, happy reading!
+
+---
+
+## সিনারিও ২৮ঃ ভুল বইয়ের জন্য রিটার্ন পিকআপ চান
+
+> কাস্টমার সৌরভ চক্রবর্তীর novel order করেছিলেন কিন্তু completely different author-এর বই পেয়েছেন। Return pickup schedule করতে চান।
+
+**১. কাস্টমারঃ** আপু, আমি সৌরভ চক্রবর্তীর "হিমুর রূপালী রাত" order করেছিলাম। কিন্তু package খুলে দেখি "রবীন্দ্রনাথের ছোটগল্প সমগ্র" এসেছে। সম্পূর্ণ ভুল বই!
+
+**২. এজেন্টঃ** mam, সত্যিই দুঃখিত! এটা warehouse-এর packing error। আপনার সঠিক বইটা আমি immediately arrange করছি। ভুল বইটা return pickup করে নেবো।
+
+**৩. কাস্টমারঃ** return pickup কবে হবে? আমি ঘরে সারাক্ষণ থাকতে পারি না, চাকরি আছে।
+
+**৪. এজেন্টঃ** mam, আপনার convenient time বলুন — আমি সেই অনুযায়ী rider schedule করবো। কোন দিন এবং কোন সময় আপনার জন্য সবচেয়ে ভালো?
+
+**৫. কাস্টমারঃ** আগামীকাল শুক্রবার বাসায় থাকবো। সকাল ১০টা থেকে দুপুর ১টার মধ্যে আসলে ভালো হয়।
+
+**৬. এজেন্টঃ** noted mam। আগামীকাল সকাল ১০টা থেকে ১টার মধ্যে rider আসবে। আসার ৩০ মিনিট আগে call দেবে।
+
+**৭. কাস্টমারঃ** ঠিক আছে। কিন্তু আমার সঠিক বই "হিমুর রূপালী রাত" — সেটা কি rider-ই নিয়ে আসবে?
+
+**৮. এজেন্টঃ** mam, আমি চেষ্টা করবো same rider-ই ভুল বই pick up করার সময় সঠিক বইটাও সাথে নিয়ে আসুক। তাহলে একই সময়ে exchange হয়ে যাবে।
+
+**৯. কাস্টমারঃ** সেটা সবচেয়ে ভালো। আলাদা আলাদা দিনে আসলে আমার জন্য ঝামেলা।
+
+**১০. এজেন্টঃ** বুঝতে পারছি mam। আমি warehouse-কে বলছি আজকেই "হিমুর রূপালী রাত" ready রাখতে, কাল সকালে rider দুটো কাজই একসাথে করবে।
+
+**১১. কাস্টমারঃ** আচ্ছা আপু, ভুল বইটা কি sealed condition-এ রাখতে হবে return-এর জন্য? আমি তো package খুলে ফেলেছি।
+
+**১২. এজেন্টঃ** mam, package খোলা হলেও সমস্যা নেই। বইটা যেকোনো condition-এ return দিতে পারেন — ভুল বই পাঠানো আমাদের mistake, আপনার কোনো দোষ নেই।
+
+**১৩. কাস্টমারঃ** ঠিক আছে। এই return-এর জন্য কোনো charge দিতে হবে না তো?
+
+**১৪. এজেন্টঃ** একদমই না mam। pickup-ও free, নতুন বইয়ের delivery-ও free। সবকিছু আমাদের expense-এ হবে।
+
+**১৫. কাস্টমারঃ** ভালো। আচ্ছা আপু, ঐ রবীন্দ্রনাথের বইটা তো আমার কাছে আসার কথা না। এটা কি অন্য কোনো customer-এর order ছিল?
+
+**১৬. এজেন্টঃ** mam, হ্যাঁ — সম্ভবত warehouse-এ দুটো order-এর বই swap হয়ে গেছে। অন্য customer-ও হয়তো আপনার বই পেয়েছেন। আমি দুটো case-ই parallel handle করছি।
+
+**১৭. কাস্টমারঃ** বুঝলাম। তাহলে আগামীকাল সকালের wait করছি। rider যেন ঠিক সময়ে আসে।
+
+**১৮. এজেন্টঃ** ইনশাআল্লাহ mam। আমি personally rider-কে brief করবো timing নিয়ে। ধন্যবাদ, ভালো থাকবেন!
+
+**১৯. কাস্টমারঃ** আপনিও ভালো থাকবেন আপু। ধন্যবাদ!
+
+---
+
+## সিনারিও ২৯ঃ রিফান্ড প্রসেস কমপ্লিট — কাস্টমারকে জানানো (Outbound)
+
+> Rokomari finance team একটা pending refund process করেছে। Agent customer-কে call করে confirm করছেন এবং future order-এ discount offer দিচ্ছেন।
+
+**১. এজেন্টঃ** আসসালামু আলাইকুম, এটা কি শাহীন সাহেব? Rokomari finance support থেকে নাফিসা বলছি।
+
+**২. কাস্টমারঃ** ওয়ালাইকুমুসসালাম। হ্যাঁ আমি শাহীন। কী ব্যাপার আপু?
+
+**৩. এজেন্টঃ** sir, আপনাকে একটা good news দিতে call করেছি। আপনার ১,২০০ টাকার refund request-টা আজ সকালে successfully process হয়ে গেছে।
+
+**৪. কাস্টমারঃ** সত্যি? বলেন কি! কত দিন ধরে wait করেছি এই refund-এর জন্য! কোন method-এ আসবে টাকাটা?
+
+**৫. এজেন্টঃ** sir, আপনি bKash-এ refund request করেছিলেন। ১,২০০ টাকা আপনার bKash number ০১৮XXXXXXXX-এ পাঠানো হয়েছে। notification check করে দেখুন please।
+
+**৬. কাস্টমারঃ** একটু wait করুন আপু, bKash app check করি... হ্যাঁ! পেয়েছি! ১,২০০ টাকা এসেছে। আলহামদুলিল্লাহ!
+
+**৭. এজেন্টঃ** আলহামদুলিল্লাহ sir! দেরি হওয়ার জন্য আবারো আন্তরিকভাবে দুঃখিত। আচ্ছা sir, refund-এর original reason ছিল delivery-তে damaged book — সেই বইটার replacement কি নিতে চান?
+
+**৮. কাস্টমারঃ** না আপু, replacement লাগবে না। আমি local bookshop থেকে কিনে ফেলেছি already।
+
+**৯. এজেন্টঃ** বুঝতে পারছি sir। আপনার inconvenience-এর জন্য আমরা দুঃখিত এবং compensation হিসেবে আপনার next order-এ ১৫% discount দিতে চাই। একটা special promo code পাঠাচ্ছি।
+
+**১০. কাস্টমারঃ** ১৫% discount? সেটা তো ভালো। কোন কোন বইতে apply হবে এই code?
+
+**১১. এজেন্টঃ** sir, এই code সব বইতে applicable — Bangla, English, imported, সব category-তে। validity হলো ৩০ দিন। code হলো "SORRY15"।
+
+**১২. কাস্টমারঃ** "SORRY15" — মজার code name! ঠিক আছে, মনে রাখলাম। আচ্ছা আপু, আমি কি আপনাদের service নিয়ে কিছু feedback দিতে পারি?
+
+**১৩. এজেন্টঃ** অবশ্যই sir! আপনার feedback আমাদের improve করতে সাহায্য করে। বলুন please।
+
+**১৪. কাস্টমারঃ** দেখুন, refund তো পেলাম ঠিকই, কিন্তু ১০ দিন লেগেছে। এই timeline acceptable না। আর প্রতিবার call করলে different agent পাই — কেউ আগের history জানে না।
+
+**১৫. এজেন্টঃ** sir, আপনার feedback দুটোই extremely valid। আমি এই specific points আমাদের operations head-কে forward করছি। refund SLA improve করা এবং customer history tracking system upgrade করা — দুটোই আমাদের priority list-এ আছে।
+
+**১৬. কাস্টমারঃ** ভালো, কারণ product quality আপনাদের ভালো, delivery-ও mostly ঠিক থাকে। শুধু after-sales support-এ improvement দরকার।
+
+**১৭. এজেন্টঃ** ১০০% সঠিক পর্যবেক্ষণ sir। আমরা actively কাজ করছি dedicated case manager system introduce করতে, যেখানে একজন agent পুরো case handle করবে start to finish।
+
+**১৮. কাস্টমারঃ** সেটা হলে অনেক ভালো হবে। ঠিক আছে আপু, ধন্যবাদ refund-এর update জানানোর জন্য।
+
+**১৯. এজেন্টঃ** আপনাকেও ধন্যবাদ sir, এত valuable feedback দেওয়ার জন্য। SORRY15 code use করে next purchase-এ ভালো experience পাবেন ইনশাআল্লাহ।
+
+**২০. কাস্টমারঃ** ইনশাআল্লাহ। ভালো থাকবেন আপু।
+
+**২১. এজেন্টঃ** আপনিও ভালো থাকবেন sir। Rokomari-র সাথে থাকার জন্য ধন্যবাদ!
+
+---
+
+## সিনারিও ৩০ঃ আংশিক রিফান্ড পেয়েছেন, পুরো টাকা চান
+
+> কাস্টমার ৩টা বইয়ের order cancel করেছিলেন কিন্তু মাত্র ২টার refund পেয়েছেন। তৃতীয় বইয়ের refund নিয়ে dispute।
+
+**১. কাস্টমারঃ** ভাই, আমি ৩টা বইয়ের order cancel করেছিলাম। total ছিল ২,১০০ টাকা। কিন্তু bKash-এ পেয়েছি মাত্র ১,৪০০ টাকা। বাকি ৭০০ টাকা কোথায়?
+
+**২. এজেন্টঃ** sir, আমি এখনই আপনার refund breakdown check করছি। ৩টা বইয়ের মধ্যে কোনটার refund missing সেটা verify করি।
+
+**৩. কাস্টমারঃ** "পথের পাঁচালী" ৪৫০ টাকা, "আরণ্যক" ৪৫০ টাকা, আর "চাঁদের পাহাড়" ৭০০ টাকা। প্রথম দুটোর refund পেয়েছি, "চাঁদের পাহাড়"-এরটা পাইনি।
+
+**৪. এজেন্টঃ** sir, system-এ দেখছি "চাঁদের পাহাড়" already dispatch হয়ে গেছিল cancel request-এর আগে। তাই এটা cancel-এর পরিবর্তে return category-তে চলে গেছে।
+
+**৫. কাস্টমারঃ** কিন্তু আমি তো তিনটাই একসাথে cancel করেছি! আপনাদের system এত slow যে ৩টার মধ্যে ১টা dispatch হয়ে গেলো?
+
+**৬. এজেন্টঃ** sir, আপনার বক্তব্য সঠিক। cancel request process করতে যে সময় লেগেছে, তার মধ্যে "চাঁদের পাহাড়" already courier-এ handover হয়ে গিয়েছিল। এখন বইটা কি আপনার কাছে এসেছে?
+
+**৭. কাস্টমারঃ** হ্যাঁ, এসেছে। কিন্তু আমি খুলিনি, sealed অবস্থায় আছে। আমার দরকার নেই, টাকাটা ফেরত চাই।
+
+**৮. এজেন্টঃ** sir, sealed অবস্থায় থাকলে return process অনেক সহজ। আমি এখনই return pickup schedule করছি এবং pickup হওয়ার পর ২৪ ঘণ্টায় ৭০০ টাকা bKash-এ refund করে দেবো।
+
+**৯. কাস্টমারঃ** ২৪ ঘণ্টা? আগের দুটোর refund তো ২ দিন লেগেছে!
+
+**১০. এজেন্টঃ** sir, আগের দুটো cancellation refund ছিল যেটা finance queue-তে যায়। এবার return refund — এটা pickup confirm হওয়ার সাথে সাথে trigger হবে, তাই faster।
+
+**১১. কাস্টমারঃ** আচ্ছা ভালো। pickup কবে হবে?
+
+**১২. এজেন্টঃ** sir, আগামীকাল সকালে rider আসবে। আপনি sealed package-টা handover করে দেবেন। return pickup সম্পূর্ণ free।
+
+**১৩. কাস্টমারঃ** ঠিক আছে। কিন্তু ভাই, আমি এই পুরো process-এ যে সময় waste করলাম — ৩ বার call, email, wait — এর কোনো compensation?
+
+**১৪. এজেন্টঃ** sir, আপনার হয়রানি আমরা স্বীকার করছি। ৭০০ টাকা refund-এর সাথে additional ৫০ টাকা goodwill credit আপনার account-এ add করছি।
+
+**১৫. কাস্টমারঃ** ৫০ টাকা? ভাই, ৩ দিন ধরে call করেছি, প্রত্যেকবার ২০-৩০ মিনিট hold-এ থেকেছি। ৫০ টাকা তো symbolic!
+
+**১৬. এজেন্টঃ** sir, আপনার point valid। আমি ১০০ টাকা করে দিচ্ছি, plus next order-এ free delivery। এটা আমার authority-তে maximum যা দিতে পারি।
+
+**১৭. কাস্টমারঃ** ঠিক আছে, ১০০ টাকা credit আর free delivery — accept করলাম। আর please আপনাদের cancellation system improve করুন, যেন cancel request instantly process হয়।
+
+**১৮. এজেন্টঃ** sir, noted। আমি এই feedback operations team-কে forward করছি। ধন্যবাদ sir, কাল pickup হয়ে যাবে ইনশাআল্লাহ।
+
+**১৯. কাস্টমারঃ** ইনশাআল্লাহ। এবার যেন ঠিকমতো হয়। ভালো থাকবেন।
+
+**২০. এজেন্টঃ** অবশ্যই হবে sir। আপনিও ভালো থাকবেন!
+
+---
+
+## সিনারিও ৩১ঃ রিটার্ন রিকোয়েস্ট রিজেক্ট হয়েছে, কারণ জানতে চান
+
+> কাস্টমারের online return request system automatically reject করেছে। কাস্টমার রাগান্বিত, কারণ জানতে চান।
+
+**১. কাস্টমারঃ** ভাই, আমি আপনাদের app-এ return request দিয়েছিলাম, ১ ঘণ্টার মধ্যে "rejected" notification এসেছে। কোনো explanation নেই! এটা কোন ধরনের customer service?
+
+**২. এজেন্টঃ** sir, দুঃখিত এই অভিজ্ঞতার জন্য। system-generated rejection-এ detailed reason না দেখানোটা আমাদের একটা known limitation। আমি manually check করে আপনাকে exact reason বলছি।
+
+**৩. কাস্টমারঃ** please check করুন। আমি কেন return করতে পারবো না সেটা জানার অধিকার তো আমার আছে!
+
+**৪. এজেন্টঃ** sir, check করে দেখছি — আপনার return request reject হওয়ার কারণ হলো, বইটা "non-returnable" category-তে listed। কোন বইটা return করতে চেয়েছিলেন?
+
+**৫. কাস্টমারঃ** "IELTS Academic Practice Tests" — একটা exam preparation বই। ১,২০০ টাকা দিয়ে কিনেছি। non-returnable কেন?
+
+**৬. এজেন্টঃ** sir, exam preparation materials, practice test books, stationery items — এগুলো আমাদের non-returnable category-তে পড়ে। কারণ এগুলো একবার open করলে ভেতরের content access হয়ে যায়।
+
+**৭. কাস্টমারঃ** কিন্তু আমি তো open করিনি! sealed অবস্থায় আছে। আমি ভুলে দুইটা order দিয়ে ফেলেছি, একটা extra হয়ে গেছে।
+
+**৮. এজেন্টঃ** ওহ sir, sealed থাকলে situation অনেক different! system-এ category-wise auto-reject হয়ে গেছে, কিন্তু sealed copy-র ক্ষেত্রে manual override করা সম্ভব।
+
+**৯. কাস্টমারঃ** তাহলে manually approve করুন না! আমি sealed condition-এ return দিতে চাই।
+
+**১০. এজেন্টঃ** sir, আমি এখনই আমাদের return approval team-কে manual review request পাঠাচ্ছি। sealed condition-এর photo proof দিতে পারলে process আরো দ্রুত হবে।
+
+**১১. কাস্টমারঃ** photo পাঠাবো। কোথায় পাঠাবো? আর কতক্ষণ লাগবে approve হতে?
+
+**১২. এজেন্টঃ** sir, returns@rokomari.com-এ photo পাঠান — sealed packaging-এর সামনে আর পেছনে দুটো ছবি। ৪-৬ ঘণ্টায় approval আসবে।
+
+**১৩. কাস্টমারঃ** ৪-৬ ঘণ্টা? auto-reject ১ ঘণ্টায় হলো, approval-এ ৬ ঘণ্টা!
+
+**১৪. এজেন্টঃ** sir, reject automatic হওয়ায় instant হয়। approval-এ human review লাগে তাই একটু সময় নেয়। তবে আমি urgent flag দিচ্ছি, ২-৩ ঘণ্টায় হওয়া উচিত।
+
+**১৫. কাস্টমারঃ** ঠিক আছে। approve হলে refund কিভাবে পাবো? আমি online payment করেছিলাম Visa card-এ।
+
+**১৬. এজেন্টঃ** sir, card payment-এ refund same card-এ ৫-৭ working days লাগে bank-এর কারণে। তবে আপনি চাইলে bKash-এ ২৪ ঘণ্টায় পেতে পারেন।
+
+**১৭. কাস্টমারঃ** bKash-এই দিন, দ্রুত পেতে চাই। আচ্ছা ভাই, extra copy-টা তো sealed, return pickup কবে?
+
+**১৮. এজেন্টঃ** sir, approval হওয়ার পরদিনই rider pickup-এ যাবে। আমি approval notification-এর সাথে pickup schedule-ও SMS-এ জানাবো।
+
+**১৯. কাস্টমারঃ** আচ্ছা ভাই, আরেকটা কথা — আপনাদের system কেন auto-reject করে reason ছাড়া? অন্তত একটা line explanation দিলে customer-রা বুঝতে পারতো।
+
+**২০. এজেন্টঃ** sir, excellent feedback। আমি product team-কে suggest করবো rejection notification-এ clear reason mention করতে। এটা সত্যিই improve করা দরকার।
+
+**২১. কাস্টমারঃ** অবশ্যই দরকার। ঠিক আছে ভাই, photo পাঠাচ্ছি এখনই। approval-এর wait করবো।
+
+**২২. এজেন্টঃ** ধন্যবাদ sir। photo পাওয়ার সাথে সাথে process শুরু হবে। ভালো থাকবেন!
+
+---
+
+## সিনারিও ৩২ঃ রিটার্ন পিকআপ শিডিউলিং কল (Outbound)
+
+> Rokomari logistics team থেকে কাস্টমারকে call করা হচ্ছে return pickup-এর সময় ও ঠিকানা confirm করতে।
+
+**১. এজেন্টঃ** আসসালামু আলাইকুম, আমি কি রুমানা আপা? Rokomari return logistics থেকে সাদিক বলছি।
+
+**২. কাস্টমারঃ** ওয়ালাইকুমুসসালাম। হ্যাঁ আমি রুমানা। কী বিষয়ে call করছেন ভাই?
+
+**৩. এজেন্টঃ** mam, আপনার return request approve হয়েছে। আমি pickup schedule confirm করতে call করেছি। কাল কোন সময়ে আপনার জন্য convenient?
+
+**৪. কাস্টমারঃ** কাল সকাল ৯টা থেকে ১১টার মধ্যে ভালো হয়। আমার বাচ্চা স্কুলে থাকবে, শান্তিতে handle করতে পারবো।
+
+**৫. এজেন্টঃ** noted mam, ৯টা-১১টা। আপনার address verify করে নিই — ধানমন্ডি ৩২ নম্বর রোড, বাসা ১২, ২য় তলা — ঠিক আছে?
+
+**৬. কাস্টমারঃ** হ্যাঁ, ঠিক আছে। gate-এ এসে call দিলেই আমি নিচে নামবো। lift নেই, সিঁড়ি দিয়ে আসতে হবে।
+
+**৭. এজেন্টঃ** বুঝেছি mam। rider আসার আগে call দেবে। আচ্ছা mam, return-এ কয়টা item আছে? packing কি করতে হবে আপনার?
+
+**৮. কাস্টমারঃ** একটাই বই, "মিসির আলি"। original package-এই রেখেছি, alright তো?
+
+**৯. এজেন্টঃ** perfect mam, original package-এ থাকলে সবচেয়ে ভালো। rider একটা return receipt দেবে — সেটা অবশ্যই রাখবেন, refund-এর proof হিসেবে কাজে লাগবে।
+
+**১০. কাস্টমারঃ** receipt রাখবো। refund কবে পাবো?
+
+**১১. এজেন্টঃ** mam, pickup confirm হওয়ার ২৪-৪৮ ঘণ্টার মধ্যে। আপনি bKash-এ চান নাকি original payment method-এ?
+
+**১২. কাস্টমারঃ** bKash-এ চাই। ০১৯XXXXXXXX — এই number-এ।
+
+**১৩. এজেন্টঃ** noted mam। ৪৫০ টাকা — pickup confirm হওয়ার পর ২৪ ঘণ্টায় bKash-এ পাঠানো হবে।
+
+**১৪. কাস্টমারঃ** ঠিক আছে ভাই। আচ্ছা, "মিসির আলি" return করার পর কি অন্য কোনো হুমায়ূন আহমেদের বই suggest করবেন? আমি নতুন কিছু পড়তে চাই।
+
+**১৫. এজেন্টঃ** mam, অবশ্যই! "হিমু" series try করতে পারেন — সম্পূর্ণ different taste। অথবা "শঙ্খনীল কারাগার" — mystery lover-দের জন্য অসাধারণ।
+
+**১৬. কাস্টমারঃ** "শঙ্খনীল কারাগার" আগে পড়িনি, interesting শোনাচ্ছে। price কত?
+
+**১৭. এজেন্টঃ** mam, ৩২০ টাকা। আর আপনার return goodwill হিসেবে ১০% discount code দিচ্ছি — "RETURN10"। apply করলে ২৮৮ টাকায় পাবেন।
+
+**১৮. কাস্টমারঃ** ওহ, discount code-ও! ভালো তো! ঠিক আছে, পরে order দেবো। ধন্যবাদ ভাই!
+
+**১৯. এজেন্টঃ** ধন্যবাদ mam! কাল সকালে rider যাবে, receipt নিতে ভুলবেন না। ভালো থাকবেন!
+
+---
+
+## সিনারিও ৩৩ঃ রিফান্ড বিকাশে চান, কার্ডে নয়
+
+> কাস্টমার credit card-এ refund পেতে চান না কারণ card block হয়ে গেছে, bKash-এ refund method change করতে চান।
+
+**১. কাস্টমারঃ** ভাই, আমার একটা refund pending আছে ৮৫০ টাকার। এটা আমার credit card-এ আসার কথা, কিন্তু আমার card গতকাল bank block করে দিয়েছে। bKash-এ নিতে চাই।
+
+**২. এজেন্টঃ** sir, বুঝতে পেরেছি। card blocked হলে refund bounce হয়ে যাবে। আমি payment method change করে bKash-এ redirect করে দিচ্ছি।
+
+**৩. কাস্টমারঃ** কত দিন লাগবে change করতে? refund তো already process হচ্ছে।
+
+**৪. এজেন্টঃ** sir, refund যদি already bank-এ পাঠানো হয়ে থাকে তাহলে একটু complex হবে। আমি check করি refund কোন stage-এ আছে... sir, সুখবর — refund এখনো আমাদের system-এ আছে, bank-এ যায়নি।
+
+**৫. কাস্টমারঃ** যাক বাঁচা গেলো! তাহলে এখনই bKash-এ redirect করে দিন।
+
+**৬. এজেন্টঃ** sir, করে দিচ্ছি। আপনার bKash number কোনটা? আর এটা কি আপনার নামেই registered?
+
+**৭. কাস্টমারঃ** ০১৭XXXXXXXX, আমার নামেই registered — রিয়াজ উদ্দিন। NID verified bKash account।
+
+**৮. এজেন্টঃ** sir, NID verified account-এ refund পাঠানো সবচেয়ে নিরাপদ। আমি method change request submit করেছি। ৪-৬ ঘণ্টায় bKash-এ ৮৫০ টাকা চলে আসবে।
+
+**৯. কাস্টমারঃ** ৪-৬ ঘণ্টা? card refund-এ তো ৫-৭ দিন লাগতো, bKash-এ কেন এত দ্রুত?
+
+**১০. এজেন্টঃ** sir, card refund-এ bank-এর multiple clearing layer পার করতে হয়। bKash direct mobile wallet transfer, তাই intermediary নেই — সরাসরি আপনার account-এ যায়।
+
+**১১. কাস্টমারঃ** বুঝলাম, bKash-ই better option। আচ্ছা ভাই, আমার blocked card-এ যদি ভবিষ্যতে কোনো refund automatically যায়, সেটা কি হারিয়ে যাবে?
+
+**১২. এজেন্টঃ** sir, না হারাবে না। blocked card-এ refund গেলে bank সেটা hold করে রাখে। card reactivate হলে পাবেন, নাহলে bank statement-এ credit দেখাবে যেটা bank-এ গিয়ে withdraw করতে পারবেন।
+
+**১৩. কাস্টমারঃ** ওহ, জানতাম না। ভালো information। আচ্ছা ভাই, ভবিষ্যতে আমার সব order-এ কি default payment method bKash রাখতে পারি?
+
+**১৪. এজেন্টঃ** sir, অবশ্যই। আপনার Rokomari account settings-এ গিয়ে "Payment Preferences" section-এ bKash-কে default set করতে পারবেন। তাহলে order আর refund দুটোই bKash-এ হবে।
+
+**১৫. কাস্টমারঃ** চমৎকার, সেটাই করবো। আচ্ছা, আজকের মধ্যেই ৮৫০ টাকা পাবো তো?
+
+**১৬. এজেন্টঃ** sir, ইনশাআল্লাহ আজ বিকেলের মধ্যেই। bKash notification আসলে বুঝবেন process complete হয়েছে।
+
+**১৭. কাস্টমারঃ** ঠিক আছে ভাই, ধন্যবাদ দ্রুত help করার জন্য। বেশিরভাগ company-তে payment method change করতে এত hassle হয়!
+
+**১৮. এজেন্টঃ** ধন্যবাদ sir, Rokomari-তে আমরা চেষ্টা করি process যতটা সম্ভব smooth রাখতে। ভালো থাকবেন!
+
+**১৯. কাস্টমারঃ** আপনিও ভালো থাকবেন। আসসালামু আলাইকুম!
+
+**২০. এজেন্টঃ** ওয়ালাইকুমুসসালাম sir!
+
+---
+
+## সিনারিও ৩৪ঃ গিফট হিসেবে পাওয়া বই রিটার্ন করতে চান
+
+> কাস্টমার জন্মদিনে gift হিসেবে একটা বই পেয়েছেন, কিন্তু বইটা already পড়া আছে। Return বা exchange করতে চান, যেন gift-দাতাকে জানাতে না হয়।
+
+**১. কাস্টমারঃ** আপু, আমি একটু awkward situation-এ আছি। আমার বান্ধবী আমার birthday-তে Rokomari থেকে একটা বই gift করেছে, কিন্তু বইটা আমার already পড়া আছে।
+
+**২. এজেন্টঃ** mam, বুঝতে পারছি — gift return করতে চান কিন্তু বান্ধবীকে জানাতে চান না। এটা বেশ common situation। আমরা help করতে পারবো।
+
+**৩. কাস্টমারঃ** সত্যি? কিন্তু order তো ওর account থেকে হয়েছে, আমার account থেকে না। তাও return হবে?
+
+**৪. এজেন্টঃ** mam, Rokomari-তে gift return option আছে। আপনার বান্ধবীর invoice-তে gift receipt থাকলে, আপনি নিজের account দিয়ে exchange request দিতে পারবেন।
+
+**৫. কাস্টমারঃ** invoice দেখিনি, বইটা gift wrap-এ ছিল। invoice ছাড়া কি হবে না?
+
+**৬. এজেন্টঃ** mam, invoice ছাড়াও হবে। বইয়ের ভেতরে বা package-এ একটা barcode sticker থাকে — সেটা দিয়ে আমরা original order trace করতে পারি। barcode দেখতে পাচ্ছেন?
+
+**৭. কাস্টমারঃ** হ্যাঁ, back cover-এ একটা sticker আছে। number দিই?
+
+**৮. এজেন্টঃ** please দিন mam।
+
+**৯. কাস্টমারঃ** RKM-2024-78542। এটাই তো?
+
+**১০. এজেন্টঃ** হ্যাঁ mam, perfect। আমি trace করে পেয়েছি — বইটা "কাফকা অন দ্য শোর" হারুকি মুরাকামি, price ৬৫০ টাকা। আপনার বান্ধবী এটা গত সপ্তাহে order করেছিলেন।
+
+**১১. কাস্টমারঃ** হ্যাঁ, ঠিক। আমি এটা exchange করতে চাই অন্য একটা মুরাকামি বইতে যেটা আমার পড়া নেই। refund চাই না, exchange চাই।
+
+**১২. এজেন্টঃ** mam, চমৎকার idea। মুরাকামির কোন বইটা চান? "Norwegian Wood" বা "1Q84" পড়েছেন?
+
+**১৩. কাস্টমারঃ** "Norwegian Wood" পড়িনি! ওটা কি available?
+
+**১৪. এজেন্টঃ** mam, Bangla translation available, ৫৫০ টাকা। "কাফকা অন দ্য শোর" ৬৫০ টাকা ছিল — ১০০ টাকা difference আপনার bKash-এ refund করে দিতে পারি।
+
+**১৫. কাস্টমারঃ** না, ১০০ টাকা refund-এর দরকার নেই। বরং ওটা store credit-এ রাখুন, পরে কাজে লাগবে। আচ্ছা আপু, আমার বান্ধবী কি জানতে পারবে যে আমি gift return করেছি?
+
+**১৬. এজেন্টঃ** mam, না। gift return confidential process — আমরা original purchaser-কে কোনো notification পাঠাই না। আপনার privacy সম্পূর্ণ protected।
+
+**১৭. কাস্টমারঃ** যাক, শুনে নিশ্চিন্ত হলাম! কবে "Norwegian Wood" পাবো?
+
+**১৮. এজেন্টঃ** mam, "কাফকা অন দ্য শোর" return pickup-এর সাথেই rider "Norwegian Wood" নিয়ে আসবে। আগামীকাল বিকেলের মধ্যে হওয়া উচিত।
+
+**১৯. কাস্টমারঃ** perfect! ধন্যবাদ আপু, আপনি সত্যিই awkward situation-কে smooth করে দিলেন!
+
+**২০. এজেন্টঃ** ধন্যবাদ mam! মুরাকামির জগতে ডুব দিয়ে enjoy করুন। ভালো থাকবেন!
+
+---
+
+## সিনারিও ৩৫ঃ ক্যানসেল করা অর্ডারের টাকা এখনো কাটা আছে
+
+> কাস্টমার order cancel করেছেন কিন্তু bKash থেকে কাটা টাকা bank statement-এ এখনো দেখাচ্ছে। Refund হয়নি কি হয়েছে বুঝতে পারছেন না।
+
+**১. কাস্টমারঃ** ভাই, আমি ৩ দিন আগে একটা order cancel করেছি। bKash-এ pay করেছিলাম ৯৫০ টাকা। কিন্তু bKash statement-এ এখনো deducted দেখাচ্ছে, refund আসেনি।
+
+**২. এজেন্টঃ** sir, আমি check করছি। আপনার cancellation কি আমাদের app থেকে করেছেন নাকি helpline-এ call করে?
+
+**৩. কাস্টমারঃ** app থেকে করেছি। "Order Cancelled Successfully" message-ও পেয়েছি। তাহলে refund কোথায়?
+
+**৪. এজেন্টঃ** sir, system-এ দেখছি cancellation confirmed আছে এবং refund status "initiated" দেখাচ্ছে। bKash refund সাধারণত ২৪-৪৮ ঘণ্টায় process হয়, কিন্তু আপনার ক্ষেত্রে ৩ দিন হয়ে গেছে — এটা normal না।
+
+**৫. কাস্টমারঃ** exactly! ৩ দিন কেন লাগছে? আর "initiated" মানে কী — refund হয়েছে নাকি হয়নি?
+
+**৬. এজেন্টঃ** sir, "initiated" মানে আমাদের system থেকে refund request তৈরি হয়েছে কিন্তু bKash gateway-তে এখনো submit হয়নি। মাঝখানে একটা processing gap আছে। আমি এখনই manually push করে দিচ্ছি।
+
+**৭. কাস্টমারঃ** manually push মানে? আপনাদের system automatic না?
+
+**৮. এজেন্টঃ** sir, normally automatic। তবে মাঝে মাঝে bKash API-তে timeout বা connection error হলে queue-তে আটকে যায়। আমি এখন retry trigger করলাম — ১-২ ঘণ্টায় bKash-এ ৯৫০ টাকা চলে আসবে।
+
+**৯. কাস্টমারঃ** ১-২ ঘণ্টা? ঠিক আছে, wait করি। কিন্তু ভাই, যদি আজও না আসে?
+
+**১০. এজেন্টঃ** sir, আজ না আসলে আপনি সরাসরি আমাকে call করবেন — আমার extension হলো 245। আমি নিজে finance team-এর সাথে বসে manually transfer করবো।
+
+**১১. কাস্টমারঃ** extension 245 — note করলাম। আচ্ছা ভাই, একটা কথা — আমি যখন order cancel করি, তখন কি টাকা সাথে সাথে ফেরত আসা উচিত না? pre-paid order-এ cancel মানে instant refund হওয়া উচিত।
+
+**১২. এজেন্টঃ** sir, আপনার point ১০০% valid। ideal scenario-তে cancellation confirmation-এর সাথে সাথেই refund trigger হওয়া উচিত। আমরা এই instant refund feature নিয়ে কাজ করছি — আগামী quarter-এ launch হবে ইনশাআল্লাহ।
+
+**১৩. কাস্টমারঃ** সেটা হলে দারুণ হবে। আচ্ছা ভাই, আমি cancel কেন করেছিলাম জানেন? দুই দিনেও dispatch হয়নি, tracking-এ "processing" দেখাচ্ছিল।
+
+**১৪. এজেন্টঃ** sir, দুঃখিত। dispatch delay-ও আমাদের একটা known issue কিছু কিছু বইয়ের ক্ষেত্রে। যখন publisher stock-এ বই নেই তখন external sourcing-এ সময় লাগে, কিন্তু আমরা সেটা customer-কে proactively জানানো উচিত।
+
+**১৫. কাস্টমারঃ** ঠিক তাই! যদি আমাকে জানাতেন যে ২-৩ দিন delay হবে, আমি cancel করতাম না হয়তো। communication gap-টাই সমস্যা।
+
+**১৬. এজেন্টঃ** sir, সম্পূর্ণ একমত। আমি এই feedback আমাদের product notification team-কে forward করছি। delay হলে auto SMS/notification যাওয়া উচিত।
+
+**১৭. কাস্টমারঃ** ঠিক আছে ভাই। তাহলে refund-এর wait করি। আশা করি ১-২ ঘণ্টায় সত্যিই আসবে।
+
+**১৮. এজেন্টঃ** ইনশাআল্লাহ sir। bKash notification আসলে বুঝবেন complete হয়েছে। না আসলে extension 245-এ call করবেন।
+
+**১৯. কাস্টমারঃ** ঠিক আছে। ভালো থাকবেন ভাই।
+
+**২০. এজেন্টঃ** আপনিও ভালো থাকবেন sir। ধন্যবাদ Rokomari-তে call করার জন্য!
+
+---
+
+## সিনারিও ৩৬ঃ অনলাইন পেমেন্ট ফেইল কিন্তু টাকা কাটা গেছে
+
+> কাস্টমার Visa card-এ payment দিতে গিয়ে "Payment Failed" error পেয়েছেন কিন্তু bank থেকে SMS এসেছে যে টাকা deduct হয়ে গেছে।
+
+**১. কাস্টমারঃ** ভাই, আমি এইমাত্র আপনাদের website-এ Visa card দিয়ে ১,৫০০ টাকার order-এ pay করলাম। screen-এ "Payment Failed" দেখালো, কিন্তু bank থেকে deduction SMS এসেছে!
+
+**২. এজেন্টঃ** sir, এটা payment gateway-র একটা known issue। card থেকে টাকা কাটা গেছে কিন্তু আমাদের system-এ payment confirm হয়নি। আমি এখনই investigate করছি।
+
+**৩. কাস্টমারঃ** investigate করুন কিন্তু ভাই, আমার ১,৫০০ টাকা শূন্যে হারিয়ে গেছে — না order হয়েছে, না টাকা আছে!
+
+**৪. এজেন্টঃ** sir, হারায়নি — টাকাটা এখন bank আর payment gateway-র মাঝখানে আটকে আছে। দুটো outcome হতে পারে — হয় auto-reversal হবে ২৪-৪৮ ঘণ্টায়, অথবা আমরা manually reconcile করে ফেরত দেবো।
+
+**৫. কাস্টমারঃ** ২৪-৪৮ ঘণ্টা? আমি তো আজকেই বইটা কিনতে চাই! আবার pay করলে কি আরেকবার কেটে যাবে?
+
+**৬. এজেন্টঃ** sir, আবার pay করলে double deduction-এর risk আছে। আমি suggest করবো — এবার bKash বা Nagad দিয়ে pay করুন, তাহলে instant confirm হবে। আর card-এর কাটা টাকা auto-reverse হয়ে যাবে।
+
+**৭. কাস্টমারঃ** বুঝলাম। তাহলে bKash-এ pay করি। কিন্তু card-এর ১,৫০০ টাকা কি সত্যিই ফেরত আসবে?
+
+**৮. এজেন্টঃ** sir, ১০০% ফেরত আসবে। failed transaction-এ bank automatically reversal করে। আমি আমাদের payment gateway team-কেও ticket দিচ্ছি, তারা bank-কে reversal request পাঠাবে।
+
+**৯. কাস্টমারঃ** কত দিন লাগবে card-এ ফেরত আসতে?
+
+**১০. এজেন্টঃ** sir, সাধারণত ৩-৫ working days। তবে কিছু bank-এ ৭ দিন পর্যন্ত লাগতে পারে। আপনি কোন bank-এর card use করেছেন?
+
+**১১. কাস্টমারঃ** Dutch-Bangla Bank-এর Visa debit card।
+
+**১২. এজেন্টঃ** sir, DBBL-এর reversal সাধারণত ৩-৪ দিনে হয়, relatively fast। আমি gateway reference number দিচ্ছি — এটা bank-এ call করলে কাজে লাগবে।
+
+**১৩. কাস্টমারঃ** reference number দিন।
+
+**১৪. এজেন্টঃ** sir, GW-REF-20240731-5847। এটা note করে রাখুন। ৫ দিন পরও reversal না হলে bank-এ এই reference দিয়ে inquiry করবেন।
+
+**১৫. কাস্টমারঃ** noted। আচ্ছা ভাই, এই ধরনের issue কি frequently হয়? আমি কি ভবিষ্যতে card avoid করবো?
+
+**১৬. এজেন্টঃ** sir, honestly বললে — card payment-এ মাঝে মাঝে gateway timeout হয়, বিশেষ করে peak hours-এ। bKash বা Nagad-এ এই risk অনেক কম, কারণ direct mobile wallet integration।
+
+**১৭. কাস্টমারঃ** বুঝলাম, তাহলে bKash-ই safe। ঠিক আছে ভাই, bKash-এ order দিচ্ছি এখন।
+
+**১৮. এজেন্টঃ** sir, আর ভবিষ্যতে card-এ pay করলে incognito/private browser window use করবেন — এতে cache conflict কম হয় এবং payment success rate বাড়ে।
+
+**১৯. কাস্টমারঃ** ও, এই tip তো জানতাম না! ধন্যবাদ ভাই।
+
+**২০. এজেন্টঃ** ধন্যবাদ sir! card reversal হলে SMS পাবেন। ভালো থাকবেন!
+
+---
+
+## সিনারিও ৩৭ঃ ডাবল চার্জ হয়ে গেছে একটা অর্ডারে
+
+> কাস্টমার একটাই order দিয়েছেন কিন্তু bKash থেকে দুইবার টাকা কেটেছে। Double charge নিয়ে complaint।
+
+**১. কাস্টমারঃ** আপু, আমার bKash থেকে একটা order-এর জন্য দুইবার টাকা কেটে গেছে! ৭৫০ টাকার order, কিন্তু ১,৫০০ টাকা কাটা!
+
+**২. এজেন্টঃ** ওহ sir, এটা শুনে দুঃখিত! double charge হওয়াটা definitely একটা system glitch। আমি এখনই আপনার transaction history check করছি।
+
+**৩. কাস্টমারঃ** bKash app-এ দেখতে পাচ্ছি — একই সময়ে, একই amount, দুইটা transaction। দুটোরই merchant name "Rokomari"।
+
+**৪. এজেন্টঃ** sir, হ্যাঁ আমি-ও system-এ দেখতে পাচ্ছি। প্রথম transaction-টা payment confirmation-এ গেছে, কিন্তু দ্বিতীয়টা "pending" status-এ আছে। সম্ভবত আপনি "Pay" button দুইবার click করেছিলেন।
+
+**৫. কাস্টমারঃ** হ্যাঁ, প্রথমবার click করার পর কিছু হলো না, screen hang হলো, তাই আবার click করলাম। কিন্তু দুইবারই কেটে নিলো!
+
+**৬. এজেন্টঃ** sir, এটা একটা common scenario — slow connection-এ button double-click হলে duplicate transaction create হয়। আমি দ্বিতীয় transaction-টা immediately void করে দিচ্ছি।
+
+**৭. কাস্টমারঃ** void করলে টাকা ফেরত আসবে কবে?
+
+**৮. এজেন্টঃ** sir, bKash-এ void transaction-এর refund সাধারণত ২-৪ ঘণ্টার মধ্যে automatic হয়ে যায়। ৭৫০ টাকা আপনার bKash wallet-এ ফিরে আসবে।
+
+**৯. কাস্টমারঃ** ২-৪ ঘণ্টা? ঠিক আছে। কিন্তু আমার order-টা তো ঠিক আছে তো? cancel হয়ে যায়নি?
+
+**১০. এজেন্টঃ** sir, না। প্রথম transaction-এ order confirm আছে, processing-এ আছে। শুধু duplicate দ্বিতীয় transaction void হচ্ছে।
+
+**১১. কাস্টমারঃ** যাক, বাঁচা গেলো। আচ্ছা আপু, ভবিষ্যতে এই double-click issue যেন না হয়, আপনাদের app-এ কি কোনো protection নেই?
+
+**১২. এজেন্টঃ** sir, আমাদের app-এ "processing, please wait" overlay আসার কথা যেটা duplicate click prevent করে। কিন্তু slow internet-এ মাঝে মাঝে overlay late load হয়। আমি dev team-কে report করবো।
+
+**১৩. কাস্টমারঃ** হ্যাঁ, ওই "please wait" screen আমি দেখিনি। internet slow ছিল হয়তো।
+
+**১৪. এজেন্টঃ** sir, ভবিষ্যতে payment page-এ একবার click করার পর কিছু না হলেও ৩০ সেকেন্ড wait করবেন। multiple click avoid করবেন — এটাই safest approach।
+
+**১৫. কাস্টমারঃ** বুঝলাম, ধৈর্য ধরতে হবে। আচ্ছা আপু, void-এর confirmation কি SMS-এ আসবে?
+
+**১৬. এজেন্টঃ** sir, হ্যাঁ। bKash থেকে refund SMS আসবে এবং আমাদের থেকেও email notification পাবেন void confirmation সহ।
+
+**১৭. কাস্টমারঃ** ঠিক আছে। ধন্যবাদ আপু, দ্রুত solve করার জন্য।
+
+**১৮. এজেন্টঃ** ধন্যবাদ sir! ৭৫০ টাকা ফেরত আসবে শীঘ্রই। ভালো থাকবেন!
+
+---
+
+## সিনারিও ৩৮ঃ বিকাশ পেমেন্ট ভেরিফাই হচ্ছে না
+
+> কাস্টমার bKash-এ payment করেছেন, bKash confirmation SMS পেয়েছেন কিন্তু Rokomari-র app-এ order status "Payment Pending" দেখাচ্ছে।
+
+**১. কাস্টমারঃ** ভাই, আমি ২ ঘণ্টা আগে bKash-এ ৪৮০ টাকা pay করেছি। bKash থেকে confirmation SMS-ও পেয়েছি। কিন্তু আপনাদের app-এ এখনো "Payment Pending" দেখাচ্ছে!
+
+**২. এজেন্টঃ** sir, এটা মাঝে মাঝে হয় যখন bKash-এর payment notification আমাদের server-এ late আসে। আপনার bKash transaction ID-টা বলবেন please?
+
+**৩. কাস্টমারঃ** transaction ID হলো TXN7K9M2P4। ২ ঘণ্টা হয়ে গেছে, কত দেরি হবে?
+
+**৪. এজেন্টঃ** sir, আমি এই TXN ID দিয়ে manually verify করে নিচ্ছি... sir, payment successfully received হয়েছে আমাদের end-এ! শুধু order status auto-update হয়নি — আমি manually confirm করে দিচ্ছি।
+
+**৫. কাস্টমারঃ** তাহলে আমার order process হবে তো এখন?
+
+**৬. এজেন্টঃ** হ্যাঁ sir, এখনই। status "Payment Confirmed" এ change হয়ে গেছে। ৫ মিনিটের মধ্যে app refresh করলে দেখতে পাবেন।
+
+**৭. কাস্টমারঃ** যাক! কিন্তু ভাই, এই auto-update না হওয়ার issue-টা কেন হয়? আমি তো ভেবেছিলাম টাকা মেরে দিয়েছেন!
+
+**৮. এজেন্টঃ** sir, একদমই না! bKash IPN (Instant Payment Notification) মাঝে মাঝে server congestion-এ delay হয়। আমাদের technical team এই sync issue fix করার জন্য কাজ করছে।
+
+**৯. কাস্টমারঃ** ভবিষ্যতে যদি আবার এরকম হয়, আমি কি নিজে কিছু করতে পারি verify করাতে?
+
+**১০. এজেন্টঃ** sir, হ্যাঁ। app-এ "Payment Help" section-এ একটা "Verify Payment" button আছে — সেখানে bKash transaction ID দিলে instant verify হয়ে যায়।
+
+**১১. কাস্টমারঃ** ওহ, এই feature আছে জানতাম না! ঠিক আছে, পরের বার নিজেই করবো। ধন্যবাদ ভাই।
+
+**১২. এজেন্টঃ** ধন্যবাদ sir! আপনার order এখন processing-এ আছে, শীঘ্রই dispatch হবে। ভালো থাকবেন!
+
+---
+
+## সিনারিও ৩৯ঃ ক্রেডিট কার্ড EMI অপশন কাজ করছে না
+
+> কাস্টমার expensive imported book set কিনতে চান credit card EMI-তে, কিন্তু checkout page-এ EMI option দেখাচ্ছে না।
+
+**১. কাস্টমারঃ** ভাই, আমি একটা ৮,০০০ টাকার book collection কিনতে চাই credit card EMI-তে। কিন্তু checkout page-এ EMI option show করছে না। শুধু full payment option দেখাচ্ছে।
+
+**২. এজেন্টঃ** sir, EMI option specific conditions-এ available হয়। আপনি কোন bank-এর credit card use করছেন?
+
+**৩. কাস্টমারঃ** City Bank-এর Visa credit card।
+
+**৪. এজেন্টঃ** sir, City Bank আমাদের EMI partner list-এ আছে। তবে EMI activate হতে minimum order value ৫,০০০ টাকা লাগে — আপনার ৮,০০০ টাকা, তাহলে eligible। কিন্তু আরেকটা condition আছে — EMI শুধু "EMI Eligible" tag থাকা products-এ available।
+
+**৫. কাস্টমারঃ** আমার cart-এর সব বইতে কি EMI tag আছে? কিভাবে check করবো?
+
+**৬. এজেন্টঃ** sir, product page-এ title-এর নিচে "EMI Available" badge থাকলে eligible। আমি আপনার cart check করছি... sir, ৫টা বইয়ের মধ্যে ৩টাতে EMI tag আছে, ২টাতে নেই — ঐ ২টা local publisher-এর বই যেগুলো EMI eligible না।
+
+**৭. কাস্টমারঃ** তাহলে কি ঐ ২টা বই বাদ দিতে হবে EMI পেতে?
+
+**৮. এজেন্টঃ** sir, একটা workaround আছে — ৩টা EMI eligible বই আলাদা order-এ EMI-তে কিনুন, বাকি ২টা আরেকটা order-এ regular payment-এ। তাহলে EMI-ও পাবেন, সব বই-ও পাবেন।
+
+**৯. কাস্টমারঃ** দুটো আলাদা order? তাহলে delivery charge দুইবার দিতে হবে!
+
+**১০. এজেন্টঃ** sir, সেটা ঠিক ধরেছেন। কিন্তু আমি আপনার দ্বিতীয় order-এ delivery charge waive করে দিতে পারি — একটা special coupon দিচ্ছি "FREEDEL"।
+
+**১১. কাস্টমারঃ** ও, তাহলে সমাধান হয়ে গেলো। EMI-তে কয় মাসের installment option আছে?
+
+**১২. এজেন্টঃ** sir, City Bank-এ ৩, ৬, ৯, আর ১২ মাসের EMI option আছে। ৩টা EMI eligible বইয়ের total ৫,৫০০ টাকা হলে, ৩ মাসে per installment প্রায় ১,৮৩৩ টাকা, interest-ও bank bear করে zero-interest EMI-তে।
+
+**১৩. কাস্টমারঃ** zero-interest EMI? bank interest নেবে না? এটা তো দারুণ!
+
+**১৪. এজেন্টঃ** sir, হ্যাঁ। Rokomari select partner banks-এর সাথে zero-interest EMI deal করে রেখেছে। City Bank তাদের মধ্যে একটা। ৩ মাসে EMI interest-free-তেই পাবেন।
+
+**১৫. কাস্টমারঃ** excellent! তাহলে ৩ মাসের EMI-ই নেবো। checkout-এ কি নিজেই select করতে পারবো?
+
+**১৬. এজেন্টঃ** sir, হ্যাঁ। EMI eligible বইগুলো cart-এ রেখে checkout page-এ "EMI" tab select করুন, তারপর City Bank select করে ৩ month option choose করুন। OTP verification-এর পর confirm হয়ে যাবে।
+
+**১৭. কাস্টমারঃ** ঠিক আছে, এখনই try করি। আচ্ছা ভাই, EMI-তে order করলে delivery কি regular order-এর মতোই হবে?
+
+**১৮. এজেন্টঃ** sir, ১০০% same। EMI শুধু payment method — delivery timeline, packaging সব identical থাকে। ঢাকায় ১-২ দিনে পাবেন।
+
+**১৯. কাস্টমারঃ** চমৎকার! ধন্যবাদ ভাই, সব clear করে দিলেন। checkout করছি এখন।
+
+**২০. এজেন্টঃ** ধন্যবাদ sir! EMI-তে hassle-free shopping enjoy করুন। "FREEDEL" code ভুলবেন না দ্বিতীয় order-এ! ভালো থাকবেন!
+
+---
+
+## সিনারিও ৪০ঃ পেমেন্ট পেন্ডিং — রিমাইন্ডার কল (Outbound)
+
+> কাস্টমার COD order পরিবর্তন করে online prepaid payment-এ switch করতে চেয়েছিলেন কিন্তু payment complete করেননি। Agent reminder call করছেন।
+
+**১. এজেন্টঃ** আসসালামু আলাইকুম, আমি কি ফাহিম সাহেবের সাথে কথা বলছি? Rokomari order support থেকে লিমা বলছি।
+
+**২. কাস্টমারঃ** ওয়ালাইকুমুসসালাম। হ্যাঁ আমি ফাহিম। কী ব্যাপার আপু?
+
+**৩. এজেন্টঃ** sir, আপনি গতকাল আপনার COD order-টা prepaid online payment-এ convert করতে চেয়েছিলেন। আমরা payment link SMS-এ পাঠিয়েছিলাম, কিন্তু payment এখনো complete হয়নি।
+
+**৪. কাস্টমারঃ** হ্যাঁ আপু, SMS পেয়েছিলাম কিন্তু ভুলে গেছি pay করতে। link-টা কি এখনো active?
+
+**৫. এজেন্টঃ** sir, ঐ link-এর validity ২৪ ঘণ্টা ছিল, expire হয়ে গেছে। আমি নতুন link generate করে এখনই পাঠাচ্ছি।
+
+**৬. কাস্টমারঃ** ঠিক আছে, এবার এখনই pay করবো phone-এ। কিন্তু আপু, আমি COD থেকে prepaid-এ কেন switch করতে চেয়েছিলাম মনে আছে? cash ready রাখতে ঝামেলা হয়।
+
+**৭. এজেন্টঃ** sir, prepaid-এ আরো একটা benefit আছে — আমরা prepaid order-এ ৫% instant cashback offer দিচ্ছি। তাই আপনার ১,১০০ টাকার order-এ ৫৫ টাকা save হবে।
+
+**৮. কাস্টমারঃ** ৫% cashback! সেটা তো জানতাম না, দারুণ তো! link পাঠান, এখনই pay করছি।
+
+**৯. এজেন্টঃ** sir, link পাঠিয়ে দিয়েছি। payment complete হলে confirmation SMS আসবে এবং order automatically priority queue-তে চলে যাবে।
+
+**১০. কাস্টমারঃ** priority queue মানে?
+
+**১১. এজেন্টঃ** sir, prepaid order COD-এর আগে dispatch হয় — কারণ payment already confirmed। তাই আপনি COD customer-দের চেয়ে ১ দিন আগে delivery পাবেন।
+
+**১২. কাস্টমারঃ** ও, তাহলে prepaid-এ অনেক advantage! ঠিক আছে আপু, pay করে নিচ্ছি এখন। hold করুন... done! payment complete।
+
+**১৩. এজেন্টঃ** sir, আমি system-এ দেখছি... হ্যাঁ, payment confirmed! order-টা এখন "Ready to Dispatch" status-এ। আগামীকালই dispatch হবে।
+
+**১৪. কাস্টমারঃ** চমৎকার! ধন্যবাদ আপু, reminder দেওয়ার জন্য। নাহলে ভুলেই যেতাম!
+
+**১৫. এজেন্টঃ** ধন্যবাদ sir! prepaid-এ shop করে cashback enjoy করুন। ভালো থাকবেন!
+
+---
+
+## সিনারিও ৪১ঃ নগদ দিয়ে পেমেন্ট করতে চান, অপশন নেই
+
+> কাস্টমার Nagad mobile wallet-এ payment করতে চান কিন্তু Rokomari checkout-এ Nagad option দেখতে পাচ্ছেন না।
+
+**১. কাস্টমারঃ** ভাই, আমি আপনাদের website-এ checkout করতে গিয়ে দেখছি bKash আছে, Rocket আছে, card আছে — কিন্তু Nagad নেই! আমি Nagad-এ pay করতে চাই।
+
+**২. এজেন্টঃ** sir, দুঃখিত। বর্তমানে Rokomari-তে Nagad directly integrated নেই। আমরা bKash, Rocket, এবং major bank cards support করি।
+
+**৩. কাস্টমারঃ** কিন্তু ভাই, আমার bKash account নেই, শুধু Nagad আছে! Nagad তো বাংলাদেশের দ্বিতীয় বৃহত্তম mobile wallet, আপনারা কেন add করেননি?
+
+**৪. এজেন্টঃ** sir, আপনার frustration বুঝতে পারছি। Nagad integration আমাদের upcoming feature roadmap-এ আছে। আশা করছি আগামী ২-৩ মাসের মধ্যে launch করতে পারবো।
+
+**৫. কাস্টমারঃ** ২-৩ মাস পর launch করে কি হবে, আমি তো এখনই বই কিনতে চাই! alternative কোনো way আছে Nagad দিয়ে pay করার?
+
+**৬. এজেন্টঃ** sir, direct Nagad payment support নেই, তবে একটা workaround আছে। Nagad app থেকে আপনার bank account-এ Nagad balance transfer করতে পারেন, তারপর bank card/account দিয়ে pay করতে পারেন।
+
+**৭. কাস্টমারঃ** সেটা তো অনেক ঘুরপথ! Nagad থেকে bank, bank থেকে card — fee-ও কাটবে মাঝখানে।
+
+**৮. এজেন্টঃ** sir, আপনার point valid। তাহলে আরেকটা option — আপনি COD (Cash on Delivery) select করুন। delivery man আসলে তাকে cash দিয়ে দেবেন, কোনো digital payment-এর দরকার নেই।
+
+**৯. কাস্টমারঃ** COD-তে কি extra charge লাগে?
+
+**১০. এজেন্টঃ** sir, COD-তে সামান্য ২০ টাকা cash handling fee লাগে। কিন্তু আমি আপনার inconvenience-এর জন্য সেটা waive করে দিচ্ছি।
+
+**১১. কাস্টমারঃ** fee waive? সেটা ভালো। তাহলে COD-ই দিই। কিন্তু ভাই, Nagad add করার বিষয়ে আমার suggestion consider করবেন please।
+
+**১২. এজেন্টঃ** sir, অবশ্যই! আপনার মতো অনেক customer Nagad integration demand করছেন। আমি আপনার feedback product team-কে report করে "Nagad demand counter" বাড়িয়ে দিচ্ছি।
+
+**১৩. কাস্টমারঃ** demand counter? মানে?
+
+**১৪. এজেন্টঃ** sir, আমরা internally track করি কতজন customer কোন feature চাইছে। Nagad-এর demand counter এখন অনেক high — তাই integration priority-তে আছে।
+
+**১৫. কাস্টমারঃ** বুঝলাম, ভালো system। ঠিক আছে ভাই, আপাতত COD-তে order দিচ্ছি। Nagad আসলে switch করবো।
+
+**১৬. এজেন্টঃ** sir, Nagad launch হলে আমরা email আর SMS-এ জানিয়ে দেবো। আর COD order-এ delivery charge waive code "NAGADUSER" — এটা checkout-এ apply করবেন।
+
+**১৭. কাস্টমারঃ** "NAGADUSER" — creative code! ঠিক আছে ভাই, ধন্যবাদ help করার জন্য।
+
+**১৮. এজেন্টঃ** ধন্যবাদ sir! শীঘ্রই Nagad-এ pay করতে পারবেন ইনশাআল্লাহ। ভালো থাকবেন!
+
+---
+
+## সিনারিও ৪২ঃ ভাউচার/কুপন কোড কাজ করছে না
+
+> কাস্টমার "BOOKFEST50" coupon code apply করতে পারছেন না checkout-এ। Error message আসছে "Invalid Code"।
+
+**১. কাস্টমারঃ** ভাই, আমি আপনাদের "BOOKFEST50" coupon code apply করতে গেলে "Invalid Code" দেখাচ্ছে। এই code তো আপনাদের Facebook page-এই দিয়েছেন!
+
+**২. এজেন্টঃ** sir, দুঃখিত এই ঝামেলার জন্য। আমি code-টা check করছি। "BOOKFEST50" — মানে ৫০ টাকা discount, ঠিক?
+
+**৩. কাস্টমারঃ** না ভাই, ৫০% discount! Facebook post-এ clearly লেখা ছিল "৫০% ছাড়!"
+
+**৪. এজেন্টঃ** sir, আমি Facebook post check করছি... sir, post-টাতে কিছু terms & conditions ছিল যেটা fine print-এ ছিল। এই code শুধু specific "Book Festival" category-র বইগুলোতে applicable, সব বইতে না।
+
+**৫. কাস্টমারঃ** specific category? post-এ তো কোনো category mention ছিল না! শুধু "৫০% ছাড়, code: BOOKFEST50" — এটুকুই ছিল!
+
+**৬. এজেন্টঃ** sir, আপনি ঠিকই বলছেন — post-এর main text-এ details ছিল না, comment section-এ terms link দেওয়া হয়েছিল। এটা আমাদের marketing communication-এর ভুল, misleading হয়ে গেছে।
+
+**৭. কাস্টমারঃ** তাহলে আমি কোন বইতে apply করবো? আমার cart-এ ৩টা বই আছে।
+
+**৮. এজেন্টঃ** sir, আপনার cart-এ কোন কোন বই আছে বলুন, আমি check করি কোনটা eligible।
+
+**৯. কাস্টমারঃ** "দেবদাস", "পথের পাঁচালী", আর "ফেলুদা সমগ্র"।
+
+**১০. এজেন্টঃ** sir, check করে দেখছি — "দেবদাস" Book Festival category-তে আছে, eligible। বাকি দুটো regular category, eligible না।
+
+**১১. কাস্টমারঃ** মানে শুধু একটা বইতে ৫০% discount? তাহলে মাত্র ১২০ টাকা ছাড়? এত hype Facebook-এ করে মাত্র এটুকু?
+
+**১২. এজেন্টঃ** sir, আমি বুঝতে পারছি আপনার হতাশা। marketing post-এ clear terms না থাকাটা আমাদের ভুল। আমি আপনার সম্পূর্ণ cart-এ একটা alternative ১৫% discount manually apply করে দিতে পারি — যেটা সব বইতে কাজ করবে।
+
+**১৩. কাস্টমারঃ** ১৫% সব বইতে? total কত save হবে?
+
+**১৪. এজেন্টঃ** sir, আপনার ৩টা বইয়ের total ১,৮৫০ টাকা। ১৫% discount-এ ২৭৭ টাকা save হবে, final price ১,৫৭৩ টাকা।
+
+**১৫. কাস্টমারঃ** ২৭৭ টাকা save? সেটা ১২০ টাকার চেয়ে অনেক ভালো! ১৫% code কী?
+
+**১৬. এজেন্টঃ** sir, আমি manually আপনার cart-এ apply করে দিচ্ছি agent-end থেকে। আপনি checkout page refresh করলে discounted price দেখতে পাবেন।
+
+**১৭. কাস্টমারঃ** refresh করছি... হ্যাঁ! ১,৫৭৩ দেখাচ্ছে! দারুণ, ধন্যবাদ ভাই!
+
+**১৮. এজেন্টঃ** ধন্যবাদ sir! আর ভবিষ্যতে coupon-এর terms সম্পর্কে আমাদের app-এর "Offers" page-এ details পাবেন। ভালো থাকবেন!
+
+---
+
+## সিনারিও ৪৩ঃ স্টোর ক্রেডিট ব্যালেন্স দেখাচ্ছে না
+
+> কাস্টমারকে agent আগে ২০০ টাকা store credit দিয়েছিলেন compensation হিসেবে কিন্তু checkout-এ balance দেখাচ্ছে না।
+
+**১. কাস্টমারঃ** আপু, গত সপ্তাহে আপনাদের একজন agent আমাকে ২০০ টাকা store credit দিয়েছিলেন damaged book-এর compensation হিসেবে। কিন্তু checkout-এ কোনো credit balance দেখাচ্ছে না!
+
+**২. এজেন্টঃ** mam, আমি আপনার account-এর credit history check করছি। কোন agent দিয়েছিলেন মনে আছে?
+
+**৩. কাস্টমারঃ** নাম মনে নেই, কিন্তু call-এ বলেছিলেন "২০০ টাকা store credit add করে দিচ্ছি আপনার account-এ।"
+
+**৪. এজেন্টঃ** mam, আপনার account-এ আমি দেখতে পাচ্ছি... হ্যাঁ, ২০০ টাকা credit add হয়েছে ২৫ তারিখে। কিন্তু এটা "Pending Approval" status-এ আটকে আছে। মানে supervisor approve করেননি।
+
+**৫. কাস্টমারঃ** approve করেননি? তাহলে agent মিথ্যা বলেছেন যে add করে দিচ্ছেন?
+
+**৬. এজেন্টঃ** mam, মিথ্যা বলেননি — agent request submit করেছিলেন ঠিকই, কিন্তু ১০০ টাকার বেশি credit supervisor approval লাগে। সেটা queue-তে আটকে গেছে।
+
+**৭. কাস্টমারঃ** তাহলে আপনিই approve করে দিন! আমি এখনই একটা order-এ use করতে চাই।
+
+**৮. এজেন্টঃ** mam, আমি এখনই supervisor-কে expedite request পাঠাচ্ছি... mam, approved! আপনার account-এ এখন ২০০ টাকা active store credit available।
+
+**৯. কাস্টমারঃ** এত দ্রুত? ধন্যবাদ আপু! checkout-এ কিভাবে use করবো?
+
+**১০. এজেন্টঃ** mam, checkout page-এ "Payment Method" section-এ "Use Store Credit" checkbox দেখতে পাবেন। tick দিলে automatically ২০০ টাকা deduct হবে total থেকে।
+
+**১১. কাস্টমারঃ** আচ্ছা, আমার order total ৫৫০ টাকা। ২০০ টাকা credit use করলে বাকি ৩৫০ টাকা bKash-এ pay করতে পারবো?
+
+**১২. এজেন্টঃ** mam, ১০০%। store credit আর bKash split payment fully supported। ৫৫০ থেকে ২০০ credit = ৩৫০ bKash-এ pay করবেন।
+
+**১৩. কাস্টমারঃ** perfect! আচ্ছা আপু, store credit কি expire হয়ে যায়?
+
+**১৪. এজেন্টঃ** mam, হ্যাঁ। store credit-এর validity ৯০ দিন। তারপর automatically expire হয়ে যায়। আপনার credit ২৫ তারিখে add হয়েছে, তাই ৯০ দিন পর্যন্ত valid।
+
+**১৫. কাস্টমারঃ** ৯০ দিন? সেটা যথেষ্ট সময়। ঠিক আছে আপু, checkout করছি এখন। ধন্যবাদ!
+
+**১৬. এজেন্টঃ** ধন্যবাদ mam! ভবিষ্যতে account-এর "Wallet" section-এ store credit balance সবসময় দেখতে পাবেন। ভালো থাকবেন!
+
+---
+
+## সিনারিও ৪৪ঃ পেমেন্ট কনফার্মেশন ও ইনভয়েস কল (Outbound)
+
+> Rokomari থেকে corporate/institutional bulk order-এর payment receive হওয়ার পর customer-কে confirm করা এবং invoice details discuss করা।
+
+**১. এজেন্টঃ** আসসালামু আলাইকুম, আমি কি প্রিন্সিপাল নাজমুল সাহেবের সাথে কথা বলছি? Rokomari corporate sales থেকে সুমাইয়া বলছি।
+
+**২. কাস্টমারঃ** ওয়ালাইকুমুসসালাম। হ্যাঁ আমি নাজমুল হক। বলুন আপু, কী বিষয়ে call?
+
+**৩. এজেন্টঃ** sir, আপনার school library-র জন্য ৫০টা শিশু সাহিত্যের বইয়ের bulk order-এর bank transfer payment আজ সকালে successfully receive হয়েছে। ১৮,৫০০ টাকা confirm করছি।
+
+**৪. কাস্টমারঃ** হ্যাঁ আপু, bank transfer করেছিলাম গতকাল। amount ঠিক আছে তো? school-এর fund থেকে pay করেছি।
+
+**৫. এজেন্টঃ** sir, ১৮,৫০০ টাকা exact match করছে। এখন আমি আপনার জন্য official tax invoice prepare করছি। invoice-এ school-এর নাম কি "আল-আমিন মডেল স্কুল" দেবো?
+
+**৬. কাস্টমারঃ** হ্যাঁ, "আল-আমিন মডেল স্কুল অ্যান্ড কলেজ" — full name দিন। TIN number-ও দেবো কি?
+
+**৭. এজেন্টঃ** sir, TIN number দিলে চমৎকার হয়, institutional purchase-এ tax compliance-র জন্য helpful। বলুন please।
+
+**৮. কাস্টমারঃ** TIN: ১২৩৪৫৬৭৮৯। এটা invoice-এ include করুন।
+
+**৯. এজেন্টঃ** noted sir। invoice-এ item-wise breakdown থাকবে — ৫০টা বইয়ের individual title, unit price, subtotal, delivery charge, আর grand total সবই detail-এ।
+
+**১০. কাস্টমারঃ** delivery charge কত ধরেছেন? bulk order-এ কি free delivery নেই?
+
+**১১. এজেন্টঃ** sir, ১৫,০০০ টাকার ওপরে bulk order-এ delivery সম্পূর্ণ free! আপনার ১৮,৫০০ টাকায় delivery charge zero দেখাবে invoice-এ।
+
+**১২. কাস্টমারঃ** চমৎকার! invoice কবে পাঠাবেন? school-এর accounts department-এর জন্য দরকার।
+
+**১৩. এজেন্টঃ** sir, আজ বিকেলের মধ্যে PDF invoice আপনার email-এ পাঠিয়ে দেবো। hard copy দরকার হলে delivery-র সাথে printed invoice-ও পাবেন।
+
+**১৪. কাস্টমারঃ** দুটোই চাই — email-এ PDF আর delivery-র সাথে printed। আচ্ছা আপু, ৫০টা বই কবে ডেলিভারি হবে?
+
+**১৫. এজেন্টঃ** sir, bulk order হওয়ায় packing-এ ১-২ দিন লাগবে। আগামী বুধবারের মধ্যে school-এ ডেলিভারি হবে ইনশাআল্লাহ। school gate-এ কি রিসিভ করবেন?
+
+**১৬. কাস্টমারঃ** হ্যাঁ, office room-এ দিয়ে আসলে ভালো হয়। guard-কে বলে রাখবো।
+
+**১৭. এজেন্টঃ** noted sir। rider আসার আগে আপনাকে call দেবে। অনেক ধন্যবাদ sir, school library enrichment-এ Rokomari-কে বেছে নেওয়ার জন্য!
+
+**১৮. কাস্টমারঃ** আপনাদেরকেও ধন্যবাদ। বাচ্চাদের পড়ার জন্য ভালো বই দরকার।
+
+**১৯. এজেন্টঃ** ১০০% সঠিক sir! ভবিষ্যতে school-এর যেকোনো book requirement-এ আমাদের corporate desk-এ যোগাযোগ করবেন। আসসালামু আলাইকুম!
+
+---
+
+## সিনারিও ৪৫ঃ প্রমোশনাল প্রাইস চার্জ হয়নি, ফুল প্রাইস কাটা
+
+> কাস্টমার website-এ promotional price দেখে order করেছেন কিন্তু bKash থেকে full MRP কেটে নিয়েছে। Price mismatch complaint।
+
+**১. কাস্টমারঃ** ভাই, আমি আপনাদের website-এ "সপ্তাহের সেরা অফার" section-এ "আদর্শ সন্তান গড়ুন" বইটা ৩২০ টাকায় দেখে order করেছিলাম। কিন্তু bKash থেকে ৪৫০ টাকা কেটে নিয়েছে — MRP price!
+
+**২. এজেন্টঃ** sir, এটা শুনে দুঃখিত। promotional price আর actual charged price-এ mismatch হওয়া উচিত না। আমি এখনই check করছি।
+
+**৩. কাস্টমারঃ** হ্যাঁ check করুন, ১৩০ টাকা extra কেটেছে! website-এ স্পষ্ট ৩২০ টাকা লেখা ছিল।
+
+**৪. এজেন্টঃ** sir, system-এ দেখছি — "সপ্তাহের সেরা অফার" promotion-টা গতকাল রাত ১২টায় expire হয়ে গেছে। আপনি order করেছেন আজ সকালে। সম্ভবত website-এ cached promotional price দেখাচ্ছিল কিন্তু system-এ full price apply হয়েছে।
+
+**৫. কাস্টমারঃ** কিন্তু ভাই, আমি যখন checkout করছিলাম তখনো cart-এ ৩২০ টাকাই দেখাচ্ছিল! payment confirm করার পরই ৪৫০ টাকা কেটেছে!
+
+**৬. এজেন্টঃ** sir, এটা একটা serious UI bug। promotional price cart page-এ দেখানো হচ্ছিল কিন্তু payment gateway-তে actual current price যাচ্ছিল। এটা আমাদের technical fault, আপনার কোনো দোষ নেই।
+
+**৭. কাস্টমারঃ** তাহলে আমার ১৩০ টাকা ফেরত দিন! আমি ৩২০ টাকায় কিনতে চেয়েছি, ৪৫০ টাকায় না।
+
+**৮. এজেন্টঃ** sir, আপনি ১০০% সঠিক এবং ১৩০ টাকা ফেরত পাওয়ার fully entitled। আমি এখনই ১৩০ টাকা price difference refund process করে দিচ্ছি আপনার bKash-এ।
+
+**৯. কাস্টমারঃ** refund কবে পাবো?
+
+**১০. এজেন্টঃ** sir, যেহেতু এটা price adjustment refund, ২-৩ ঘণ্টার মধ্যেই bKash-এ ১৩০ টাকা চলে আসবে।
+
+**১১. কাস্টমারঃ** ঠিক আছে। কিন্তু ভাই, এই ধরনের price mismatch bug তো customer-এর trust নষ্ট করে! কেউ ভাববে আপনারা ইচ্ছা করেই বেশি চার্জ করছেন।
+
+**১২. এজেন্টঃ** sir, ১০০% সঠিক বলেছেন। এটা আমাদের cache synchronization bug — promotion expire হলে সব page-এ price instantly update হওয়া উচিত। আমি dev team-কে urgent bug report submit করেছি।
+
+**১৩. কাস্টমারঃ** ভালো, fix করুন দ্রুত। আমি বই কেনা enjoy করি Rokomari-তে, কিন্তু এই ধরনের issue বারবার হলে trust কমে যাবে।
+
+**১৪. এজেন্টঃ** sir, আপনার trust আমাদের সবচেয়ে মূল্যবান asset। ১৩০ টাকা refund-এর পাশাপাশি আপনার account-এ ৫০ টাকা extra goodwill credit-ও add করে দিচ্ছি।
+
+**১৫. কাস্টমারঃ** ধন্যবাদ ভাই, সেটা appreciate করলাম। refund-এর wait করবো তাহলে।
+
+**১৬. এজেন্টঃ** ধন্যবাদ sir! ২-৩ ঘণ্টায় bKash notification পাবেন। ভালো থাকবেন!
+
+---
