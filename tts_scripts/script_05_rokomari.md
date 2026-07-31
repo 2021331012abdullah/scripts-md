@@ -2190,3 +2190,104 @@
 **১৬. এজেন্টঃ** ধন্যবাদ sir! ২-৩ ঘণ্টায় bKash notification পাবেন। ভালো থাকবেন!
 
 ---
+
+## সিনারিও ৪৬ঃ প্রি-অর্ডার করা বইয়ের ডেলিভারি ডেট জানতে চান
+
+> কাস্টমার একটি নতুন বই pre-order করেছেন কিন্তু ডেলিভারির তারিখ নির্দিষ্ট জানতে চাচ্ছেন কারণ তিনি ঢাকার বাইরে যাবেন।
+
+**১. কাস্টমারঃ** ভাই, আমি গত সপ্তাহে সাদাত হোসাইনের নতুন উপন্যাসটা pre-order করেছিলাম। আপনাদের website-এ কোনো confirmed delivery date দেখাচ্ছে না, শুধু written আছে pre-order item। কবে ডেলিভারি পাবো?
+
+**২. এজেন্টঃ** sir, pre-order করা নতুন বইয়ের delivery schedule সাধারণত publisher-এর release date-এর ওপর depend করে। আমি আপনার chosen বইটার latest production update check করে আপনাকে precise timescale জানাচ্ছি।
+
+**৩. কাস্টমারঃ** একটু দ্রুত check করে বলুন ভাই। আমি আগামী সপ্তাহের মঙ্গলবার ঢাকা ছেড়ে ঢাকার বাইরে যাচ্ছি একটা project-এ, তার আগেই ডেলিভারি পাওয়াটা আমার জন্য extremely urgent।
+
+**৪. এজেন্টঃ** sir, আমি publisher-এর contact table check করে দেখতে পাচ্ছি যে "মেঘের দিনগুলো" বইটার binding এবং final verification কাজ আগামী রবিবারের মধ্যে finish হয়ে আমাদের local warehouse-এ পৌঁছাবে।
+
+**৫. কাস্টমারঃ** রবিবার warehouse-এ এলে আমি হাতে কবে পাবো? আমার তো মঙ্গলবারের আগে অবশ্যই delivery দরকার। দেরি হলে কিন্তু আমি বাসায় বসে রিসিভ করতে পারবো না ভাই।
+
+**৬. এজেন্টঃ** sir, রবিবার warehouse-এ receipt হওয়ার পর সোমবার সকালের first sorting batch-এ আমরা আপনার pre-order pack করে dispatch করে দেবো। ঢাকা সিটিতে dispatch হওয়ার পর ২৪ ঘণ্টার মধ্যেই delivery হয়ে যায়।
+
+**৭. কাস্টমারঃ** মানে সোমবার সকাল অথবা বিকেলের মধ্যেই আমার কাছে চলে আসবে? আপনারা কি নিশ্চিত করতে পারবেন যে publisher রবিবারের মধ্যে release করতে কোনো delay করবে না?
+
+**৮. এজেন্টঃ** sir, pre-order delivery-র ক্ষেত্রে আমরা publisher-দের সাথে strict commitment agreement Maintain করি। তারা already আমাদের inform করেছে যে first printing batch-এর সব copies ready হয়ে গেছে, শুধু minimal packaging বাকি।
+
+**৯. কাস্টমারঃ** শুনে বেশ ভালো লাগলো ভাই। আসলে আগের বার অন্য একটা online store থেকে pre-order দিয়ে ১৫ দিন wait করার পরেও delivery পাইনি। সেজন্যই এত concern হচ্ছিল।
+
+**১০. এজেন্টঃ** sir, আপনার bad experience-এর কথা শুনে খারাপ লাগছে, তবে Rokomari pre-order delivery system-এ automated stock reservation কাজ করে। আমরা release হওয়ার সাথে সাথেই serial অনুযায়ী first pre-order customer-দের priority dispatch দিই।
+
+**১১. কাস্টমারঃ** আমার serial নাম্বার কততম বলতে পারবেন কি? আমি তো launch announcement হওয়ার মাত্র ১ ঘণ্টার মধ্যেই website থেকে pre-order confirm করে payment করে দিয়েছিলাম।
+
+**১২. এজেন্টঃ** sir, আপনার initial quick responsiveness-এর জন্য ধন্যবাদ। system-এ দেখছি আপনি first 50 pre-order sequence-এর ভেতরেই আছেন। এর মানে সোমবার সকালে একদম initial dispatch batch-এ আপনার package বের হবে।
+
+**১৩. কাস্টমারঃ** দারুণ খবর! আচ্ছা ভাই, pre-order-এর সাথে যে special autographed bookmark আর author signature দেওয়ার কথা ছিল, সেগুলো আমার order-এর সাথে confirmed আছে তো?
+
+**১৪. এজেন্টঃ** অবশ্যই sir! প্রথম ৫০০ জন pre-order customer-দের জন্য autographed hardcover copy এবং custom collectible bookmark included থাকছে। আপনার order bundle-এ এই special complimentary promotional gifts securely pack করা থাকবে।
+
+**১৫. কাস্টমারঃ** খুব খুশি হলাম শুনে! আচ্ছা ভাই, যদি কোনো unavoidable কারণে সোমবারে delivery man না আসে, তাহলে মঙ্গলবারের আগে কার সাথে emergency contact করতে পারবো?
+
+**১৬. এজেন্টঃ** sir, আমি আপনার package label-এ "High Priority Urgent Travel Dispatch" flag add করে দিয়েছি। তাছাড়া আপনি সরাসরি আমাদের VIP tracking helpline-এ call করে order reference জানালেই dedicated logistics coordinator support দেবে।
+
+**১৭. কাস্টমারঃ** VIP tracking helpline নাম্বারটা কি regular customer care নাম্বারের চেয়ে আলাদা কোনো hotlink? একটু note করিয়ে দিলে future-এর জন্য খুবই সুবিধে হতো ভাই।
+
+**১৮. এজেন্টঃ** sir, আমাদের internal tracking desk-এর direct hotlink হলো ১৬২৯৭। এখানে automated IVR wait ছাড়াই সরাসরি senior dispatch operator-দের সাথে connect হয়ে quick status update জেনে নিতে পারবেন।
+
+**১৯. কাস্টমারঃ** ১৬২৯৭ নাম্বারটা note করে নিলাম। আচ্ছা, pre-order parcel বের হলে কি rider-এর phone number সহ কোনো clear tracking SMS আমার mobile-এ send করা হবে?
+
+**২০. এজেন্টঃ** হ্যাঁ sir, dispatch confirmation-এর সাথে সাথেই SMS এবং registered email-এ live Google map location tracking link সহ assigned rider-এর official contact details পৌঁছে যাবে, যাতে সহজেই communication করতে পারেন।
+
+**২১. কাস্টমারঃ** আপনাদের customer support সত্যিই অনেক reliable এবং transparent। আমার সব doubt clear হয়ে গেছে ভাই, সোমবারের অপেক্ষায় রইলাম। অনেক ধন্যবাদ আপনাকে।
+
+**২২. এজেন্টঃ** আপনাকেও অনেক ধন্যবাদ sir Rokomari-র সাথে থাকার জন্য। সাদাত হোসাইনের নতুন বই পড়ার experience দুর্দান্ত হোক। ভালো থাকবেন, শুভ কামনা রইলো আপনার journey-র জন্য!
+
+---
+
+## সিনারিও ৪৭ঃ আউট অফ স্টক বই কবে আসবে জানতে চান
+
+> কাস্টমার একটি দুর্লভ অ্যাকাডেমিক রেফারেন্স বই দীর্ঘদিন ধরে stock-এ পাচ্ছেন না। এজেন্ট বিশেষ sourcing ও restock notification setup করে দিচ্ছেন।
+
+**১. কাস্টমারঃ** আপু, আমি গত ২ মাস ধরে আপনাদের website-এ একটা historical reference বইয়ের খোঁজ করছি, কিন্তু সবসময় "Out of Stock" দেখাচ্ছে। এই বইটার stock আসলে কবে available হবে?
+
+**২. এজেন্টঃ** mam, দীর্ঘদিন ধরে stock না পাওয়ার কষ্টটা বুঝতে পারছি। অনেক সময় specific academic বা historical reference বইগুলোর printing circulation সীমিত থাকে। আমাকে বইটার নাম এবং writer-এর নাম বলবেন please?
+
+**৩. কাস্টমারঃ** বইটার নাম "বাংলাদেশের ইতিহাস ও ঐতিহ্য", লেখক অধ্যাপক আফতাব আহমেদ এবং publisher হলো বাংলা একাডেমি। আমার PhD basic thesis research-এর জন্য বইটার original hardcopy খুবই জরুরি।
+
+**৪. এজেন্টঃ** mam, বাংলা একাডেমির research publications অনেক সময় regular market print cycle-এ থাকে না। আমি আমাদের deep procurement pipeline এবং publisher liaison representative-দের system network থেকে current status check করছি।
+
+**৫. কাস্টমারঃ** একটু detailed check করুন আপু। আমি Nilkhet এবং College Street-এর অনেক bookshop ঘুরেও পাইনি। সবাই বলল Rokomari-তে contact করতে, আপনাদের নাকি direct distribution linkage আছে।
+
+**৬. এজেন্টঃ** mam, আপনি ঠিকই শুনেছেন। আমাদের direct publisher liaison desk থেকে জানতে পারলাম বইটার আগের print edition সম্পূর্ণ exhausted হয়ে গেছে। তবে সুখবর হলো আগামী মাসের প্রথম সপ্তাহে revised edition-এর binding শুরু হচ্ছে।
+
+**৭. কাস্টমারঃ** আগামী মাসের প্রথম সপ্তাহ? মানে এখনো প্রায় ১০-১২ দিন wait করতে হবে? আমার research progress তো এই reference document-এর অভাবে অনেকটা stall হয়ে বসে আছে।
+
+**৮. এজেন্টঃ** mam, আপনার urgency আমি সম্পূর্ণ deeply comprehend করতে পারছি। academic deadline-এর চাপ সত্যিই stressful। তবে আমাদের procurement option-এ একটা বিশেষ "Emergency Institutional Sourcing" support system রয়েছে, যেটা academic researchers-দের জন্য tailored করা।
+
+**৯. কাস্টমারঃ** এই Emergency Institutional Sourcing জিনিসটা আসলে কী? এর মাধ্যমে কি আপনারা regular restock schedule-এর আগেই কোথাও থেকে এক কপি arrange করে দিতে পারবেন?
+
+**১০. এজেন্টঃ** mam, এই system-এর অধীনে আমাদের special sourcing agents ঢাকার বিভিন্ন major university library archive, distributor warehouses এবং regional academic book depots-তে direct physical search চালায়। যদি কোনো leftover pristine stock থাকে, আমরা ২৪ ঘণ্টার মধ্যে collect করি।
+
+**১১. কাস্টমারঃ** এটা তো অসম্ভব সুন্দর একটা initiative! এই special urgent sourcing service-এর জন্য কি আমাকে extra কোনো standard processing cost বা finder fee pay করতে হবে?
+
+**১২. এজেন্টঃ** mam, সাধারণত rare publication locator service-এর জন্য ৫০ টাকা nominal standard fee থাকে। তবে আপনি যেহেতু university researcher এবং ২ মাস ধরে wait করছেন, আমি আপনার জন্য academic waiver apply করে সম্পূর্ণ free করে দিচ্ছি।
+
+**১৩. কাস্টমারঃ** অসংখ্য ধন্যবাদ আপু, আপনারা research support-কে এতটা value দিচ্ছেন দেখে মুগ্ধ হলাম। তাহলে এই search process শুরু করতে এখন আমার পক্ষ থেকে কী করতে হবে?
+
+**১৪. এজেন্টঃ** mam, আপনাকে কিছুই করতে হবে না, আমি already system-এ high priority emergency purchase requisition raise করে দিয়েছি। একই সাথে আপনার registered phone number-এ automatic SMS restock alert active করে দিলাম।
+
+**১৫. কাস্টমারঃ** যদি আপনাদের sourcing team আগামী ২-৩ দিনের মধ্যেও কোনো available hardcopy খুঁজে না পায়, তাহলে কি alternative কোনো digital e-book বা legal scan copies পাওয়ার সুযোগ আছে?
+
+**১৬. এজেন্টঃ** mam, বাংলা একাডেমির copyrighted historical publications সাধারণত open public domain-এ e-book হিসেবে release হয় না। তবে research validity-র জন্য আমাদের partner university library gateway থেকে limited chapter viewing access link ব্যবস্থা করার সুযোগ থাকে।
+
+**১৭. কাস্টমারঃ** chapter viewing access থাকলেও আপাতত primary chapters পড়ে কাজ এগিয়ে নিতে পারবো। আপনাদের এই flexible academic assistance সত্যিই praise করার মতো।
+
+**১৮. এজেন্টঃ** ধন্যবাদ mam। আমাদের sourcing agent আগামীকাল বিকেলের মধ্যেই physical copy verification-এর update জানাবে। যদি hardcopy না পাওয়া যায়, আমি সাথে সাথেই digital viewing application instruction আপনার email-এ পাঠিয়ে দেবো।
+
+**১৯. কাস্টমারঃ** ঠিক আছে আপু। আর যদি hardcopy পাওয়া যায়, তাহলে payment কি delivery-র সময়ে cash on delivery পদ্ধতিতে করার সুযোগ থাকবে? নাকি advance payment করতে হবে?
+
+**২০. এজেন্টঃ** mam, emergency institutional procurement-এও regular COD (Cash on Delivery) সুবিধা প্রযোজ্য। rider যখন verified original sealed copy আপনার বাসায় পৌঁছে দেবে, তখনই cash বা bKash wallet payment করতে পারবেন।
+
+**২১. কাস্টমারঃ** দারুণ ব্যাপার! আমার হতাশা কেটে গিয়ে এখন বেশ আশাবাদী লাগছে। আমি তাহলে কাল বিকেলের sourcing status update confirmation call-এর অপেক্ষায় রইলাম।
+
+**২২. এজেন্টঃ** অবশ্যই mam, আমাদের dedicated customer follow-up desk থেকে আপনাকে কাল confirm করা হবে। আপনার PhD research work সফল হোক, Rokomari-র সাথে যোগাযোগ করার জন্য আন্তরিক ধন্যবাদ!
+
+---
+
