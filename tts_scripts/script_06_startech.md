@@ -173,3 +173,115 @@
 
 ---
 
+## সিনারিও ৪ঃ Keyboard-এর কিছু Button কাজ করছে না — Warranty প্রশ্ন
+
+> একজন content writer তার laptop-এ গত কয়েকদিন ধরে কিছু key কাজ করছে না। প্রতিদিন ৮-১০ ঘণ্টা typing করেন, laptop কেনার মাত্র ৪ মাস হয়েছে। External keyboard কেনার সামর্থ্য নিয়েও চিন্তিত।
+
+**১. এজেন্টঃ** Star Tech customer support, শুভ সন্ধ্যা। কীভাবে সাহায্য করতে পারি mam?
+
+**২. কাস্টমারঃ** ভাইয়া, আমার laptop-এর keyboard-এ কিছু key কাজ করছে না। 'E', 'R', আর 'Space' — এই তিনটা key মাঝেমধ্যে response দেয়, মাঝেমধ্যে দেয় না।
+
+**৩. এজেন্টঃ** বুঝতে পারছি mam, এই key গুলো তো খুবই basic — এগুলো ছাড়া typing প্রায় অসম্ভব। সমস্যাটা কি ধীরে ধীরে শুরু হয়েছে, নাকি হঠাৎ?
+
+**৪. কাস্টমারঃ** প্রথমে 'E' button-এ সমস্যা হচ্ছিল, জোরে চাপলে কাজ করত। তারপর গত সপ্তাহে 'R' আর 'Space'-ও intermittent হয়ে গেছে।
+
+**৫. এজেন্টঃ** আচ্ছা mam। একটা গুরুত্বপূর্ণ প্রশ্ন — keyboard-এ কি কখনো পানি বা কোনো তরল পড়েছিল? এটা warranty evaluation-এ গুরুত্বপূর্ণ।
+
+**৬. কাস্টমারঃ** না, কখনোই না। আমি খুব সাবধানে ব্যবহার করি। Laptop-এর কাছে পানির glass-ও রাখি না। এটা পুরোপুরি নিজে থেকে হয়েছে।
+
+**৭. এজেন্টঃ** সেটা ভালো mam। Liquid damage না থাকলে keyboard malfunction warranty-র আওতায় পড়ে। Laptop-টি কতদিন আগে কিনেছিলেন?
+
+**৮. কাস্টমারঃ** মাত্র ৪ মাস। HP Pavilion 14, আপনাদের Mirpur branch থেকে কেনা।
+
+**৯. এজেন্টঃ** ৪ মাস মানে warranty-র মধ্যেই আছেন, কোনো সমস্যা নেই। Keyboard repair বা replacement warranty-তে fully covered। Service center-এ নিয়ে গেলে ওরা keyboard module টা change করে দেবে।
+
+**১০. কাস্টমারঃ** Keyboard change করতে কতদিন লাগবে? আমি content writing করি, এটা আমার income source। একদিনও laptop ছাড়া থাকতে পারব না।
+
+**১১. এজেন্টঃ** সাধারণত keyboard replacement-এ ২ থেকে ৩ working day লাগে যদি HP-র specific keyboard module stock-এ থাকে। অনেক ক্ষেত্রে same day-ও হয়ে যায়, তবে guarantee দিতে পারছি না। তবে আমি আপনাকে একটা immediate solution suggest করতে পারি।
+
+**১২. কাস্টমারঃ** কী solution?
+
+**১৩. এজেন্টঃ** আপনি একটা external USB keyboard ব্যবহার করতে পারেন যতদিন repair হচ্ছে, কিংবা repair-এর সময়েও। ভালো মানের USB keyboard ৫০০-৮০০ টাকায় পাওয়া যায়। এটা কোনো permanent solution না, কিন্তু কাজ চালিয়ে নিতে পারবেন।
+
+**১৪. কাস্টমারঃ** হ্যাঁ, সেটা একটা option। তবে ভাইয়া, repair-এর সময় কি laptop-এর data কোনো risk-এ থাকবে?
+
+**১৫. এজেন্টঃ** Keyboard replacement-এ সাধারণত hard drive বা SSD-তে হাত দিতে হয় না, তাই data safe থাকার কথা। তবুও আমি সবসময় suggest করি important file গুলো আগে backup নিয়ে রাখুন। USB drive বা Google Drive-এ copy করে রাখলে mind-এ peace থাকবে।
+
+**১৬. কাস্টমারঃ** ঠিক আছে, backup নিয়ে রাখব। Mirpur branch-এ কি direct গেলে হবে, নাকি appointment নিতে হবে?
+
+**১৭. এজেন্টঃ** Direct walk-in করতে পারবেন mam, appointment-এর দরকার নেই। তবে সকাল ১০টা থেকে দুপুর ১২টার মধ্যে গেলে সবচেয়ে কম rush থাকে।
+
+**১৮. কাস্টমারঃ** আচ্ছা। আর service charge কত পড়বে? Warranty-তে কি সবটাই free?
+
+**১৯. এজেন্টঃ** Warranty period-এ keyboard replacement সম্পূর্ণ free — parts cost এবং labor cost দুটোই covered। আপনাকে কিছু দিতে হবে না।
+
+**২০. কাস্টমারঃ** এটা শুনে স্বস্তি পেলাম। একটা শেষ প্রশ্ন — নতুন keyboard কি আবার তাড়াতাড়ি নষ্ট হবে না তো?
+
+**২১. এজেন্টঃ** সেটা unlikely mam। এটা সম্ভবত manufacturing defect ছিল, যেটা ব্যবহারের সাথে slowly প্রকাশ পেয়েছে। নতুন keyboard module-এ একই সমস্যা হওয়ার chance খুবই কম, কিন্তু হলেও warranty cover করবে।
+
+**২২. কাস্টমারঃ** বুঝলাম ভাইয়া। আমি পরশু সকালে যাব তাহলে। আজকে-কাল backup নিয়ে নিই।
+
+**২৩. এজেন্টঃ** চমৎকার plan mam। আর ততদিন যদি external keyboard-এ কাজ চালাতে চান, আমাদের online store-এ A4Tech keyboard ৬০০ টাকায় পাবেন, next day delivery আছে।
+
+**২৪. কাস্টমারঃ** ধন্যবাদ ভাইয়া, সব detail জানানোর জন্য। অনেক tension কমে গেল।
+
+**২৫. এজেন্টঃ** আপনার কাজে কোনো disruption না হোক, সেটাই চাই mam। Star Tech customer care-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ৫ঃ Load Shedding-এ Laptop পুড়ে গেছে — Warranty Cover হবে?
+
+> একজন freelancer রাতে কাজ করার সময় load shedding-এর পর হঠাৎ voltage spike-এ laptop-এর charging port থেকে ধোঁয়া বের হয়। এরপর laptop আর চালু হচ্ছে না। তিনি নিশ্চিত warranty-তে cover হবে, কিন্তু বাস্তবতা ভিন্ন।
+
+**১. এজেন্টঃ** Star Tech customer care, শুভ সকাল। আমি কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** ভাই, গত রাতে load shedding-এর পর current আসার সময় আমার laptop-এর charging port থেকে ধোঁয়া বের হয়েছে। তারপর থেকে laptop একদম dead।
+
+**৩. এজেন্টঃ** এটা তো ভয়ংকর ব্যাপার sir। আপনি কি ঠিক আছেন? আর laptop থেকে কি এখনও কোনো গন্ধ বা তাপ আসছে?
+
+**৪. কাস্টমারঃ** আমি ঠিক আছি, ধন্যবাদ। Laptop ঠান্ডা হয়ে গেছে, তবে পোড়া গন্ধ আসছে charging port-এর কাছ থেকে। Charger-টাও মনে হয় নষ্ট হয়ে গেছে।
+
+**৫. এজেন্টঃ** Sir, সবচেয়ে আগে — please charger-টি unplug করে রাখুন এবং laptop-টি কোনোভাবে আবার চালু করার try করবেন না। Internal component short circuit হয়ে থাকতে পারে, চালু করার attempt-এ further damage হতে পারে।
+
+**৬. কাস্টমারঃ** হ্যাঁ, সব unplug করে রেখেছি। এখন আমি জানতে চাইছি — laptop-টা warranty-তে আছে, তাহলে এটা warranty claim করা যাবে তো?
+
+**৭. এজেন্টঃ** Sir, আমি আপনাকে সৎভাবে বলতে চাই — power surge বা voltage fluctuation-এর কারণে যে damage হয় সেটা দুর্ভাগ্যবশত standard warranty-র আওতায় পড়ে না। Warranty manufacturing defect cover করে, কিন্তু external electrical damage-কে "act of nature" বা "environmental damage" হিসেবে classify করা হয়। এটা শুধু Star Tech না, industry-wide এটাই policy।
+
+**৮. কাস্টমারঃ** কী বললেন? মানে warranty থাকতেও কোনো লাভ নেই? আমি ৮০,০০০ টাকা দিয়ে laptop কিনলাম মাত্র ৫ মাস আগে!
+
+**৯. এজেন্টঃ** আপনার হতাশা সম্পূর্ণ বুঝতে পারছি sir, এটা সত্যিই একটা কঠিন পরিস্থিতি। কিন্তু warranty terms-এ voltage surge explicitly excluded। তবে এর মানে এই না যে কোনো solution নেই — আমাকে কিছু options বলতে দিন।
+
+**১০. কাস্টমারঃ** বলুন, কী options আছে?
+
+**১১. এজেন্টঃ** প্রথমত, service center-এ নিয়ে গেলে technician assess করবেন exactly কোন component damage হয়েছে। অনেক সময় শুধু charging IC বা power management chip পুড়ে যায়, সেক্ষেত্রে motherboard-এর বাকি অংশ সুস্থ থাকে। সেক্ষেত্রে repair cost ৩,০০০ থেকে ৮,০০০ টাকার মধ্যে হতে পারে, full motherboard replacement-এর দরকার নাও হতে পারে।
+
+**১২. কাস্টমারঃ** আর যদি motherboard-ই পুড়ে গিয়ে থাকে?
+
+**১৩. এজেন্টঃ** সেক্ষেত্রে motherboard replacement লাগবে, যেটা model depending ১৫,০০০ থেকে ৩০,০০০ টাকা পড়তে পারে। তবে আগে assessment না করে exact cost বলা সম্ভব না। Assessment-এর জন্য কোনো charge নেওয়া হয় না।
+
+**১৪. কাস্টমারঃ** Free assessment, সেটা তাহলে ভালো। আর আমার data? Hard drive-এ অনেক client-এর project file আছে।
+
+**১৫. এজেন্টঃ** সুখবর হলো — voltage surge সাধারণত SSD বা hard drive damage করে না, কারণ storage drive আলাদা power line-এ থাকে। ৯০% ক্ষেত্রে data intact থাকে। Technician drive বের করে আলাদাভাবে check করতে পারবেন, এবং worst case-এও data recovery possible।
+
+**১৬. কাস্টমারঃ** সেটা শুনে একটু স্বস্তি পেলাম। তবে ভাই, এত টাকা দিয়ে laptop কিনে এভাবে নষ্ট হওয়া সত্যিই মন খারাপের ব্যাপার।
+
+**১৭. এজেন্টঃ** একদম ঠিক বলেছেন sir। এই জন্যই আমি strongly recommend করব — repair হোক বা নতুন laptop নিন — একটা ভালো UPS অবশ্যই কিনে নিন। ১,৫০০ থেকে ৩,০০০ টাকায় ভালো mানের UPS পাওয়া যায় যেটা voltage spike থেকে complete protection দেবে।
+
+**১৮. কাস্টমারঃ** UPS আগেই কেনা উচিত ছিল, বুঝতে পারছি এখন। যাই হোক, service center-এ কাল যাব।
+
+**১৯. এজেন্টঃ** আচ্ছা sir, যাওয়ার সময় laptop, charger — দুটোই নিয়ে যাবেন। Charger-ও inspect করতে হবে। আর invoice থাকলে সাথে রাখুন, কারণ warranty-এ না পড়লেও invoice-এ model details থাকে যেটা parts ordering-এ কাজে লাগে।
+
+**২০. কাস্টমারঃ** ঠিক আছে। Assessment report কি ওরা written-এ দেবে?
+
+**২১. এজেন্টঃ** হ্যাঁ sir, assessment-এর পর একটা written report পাবেন যেখানে damaged components-এর list, repair cost estimate, এবং expected timeline থাকবে। সেটা দেখে আপনি decide করতে পারবেন repair করাবেন নাকি না।
+
+**২২. কাস্টমারঃ** ভালো। আর repair না করালে কি laptop ফেরত পাব?
+
+**২৩. এজেন্টঃ** অবশ্যই sir। Repair-এ consent না দিলে laptop as-is ফেরত পাবেন। কোনো force নেই, decision সম্পূর্ণ আপনার।
+
+**২৪. কাস্টমারঃ** ঠিক আছে ভাই। মন খারাপ হলেও অন্তত data থাকার chance আছে শুনে ভালো লাগল। ধন্যবাদ।
+
+**২৫. এজেন্টঃ** আমি আশা করি repair cost-টা manageable হবে sir। কাল assessment-এর পর জানতে পারবেন exact situation। Star Tech customer care-এ call করার জন্য ধন্যবাদ।
+
+---
+
