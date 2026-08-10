@@ -285,3 +285,507 @@
 
 ---
 
+## সিনারিও ৬ঃ Battery ফুলে গেছে ৩ মাসে — Fire Risk নিয়ে আতঙ্ক
+
+> একজন customer লক্ষ্য করেছেন laptop-এর trackpad উঁচু হয়ে যাচ্ছে এবং bottom panel ফুলে উঠেছে। Battery swell হওয়ায় ভয়ে laptop ব্যবহার বন্ধ করে দিয়েছেন। কেনার মাত্র ৩ মাস হয়েছে।
+
+**১. এজেন্টঃ** Star Tech helpline, আমি Tanvir। কীভাবে সাহায্য করব sir?
+
+**২. কাস্টমারঃ** ভাই, urgent একটা বিষয়ে call করছি। আমার laptop-এর নিচের দিকটা ফুলে গেছে, trackpad-ও উঁচু হয়ে গেছে। মনে হচ্ছে battery ফুলে যাচ্ছে।
+
+**৩. এজেন্টঃ** Sir, এটা শুনে আমি সিরিয়াসলি নিচ্ছি। সবার আগে বলুন — laptop-টি কি এই মুহূর্তে চালু আছে? এবং charging-এ লাগানো আছে?
+
+**৪. কাস্টমারঃ** না, আমি ভয়ে বন্ধ করে দিয়েছি কাল রাত থেকে। Charger-ও খুলে রেখেছি। ঠিক করেছি তো?
+
+**৫. এজেন্টঃ** একদম ঠিক করেছেন sir, আপনি smart decision নিয়েছেন। Swollen battery-তে সবচেয়ে গুরুত্বপূর্ণ কাজ হলো power source বিচ্ছিন্ন করা, যেটা আপনি করেছেন। এখন আমি আপনাকে কিছু safety instruction দিচ্ছি যেগুলো মানা খুব জরুরি।
+
+**৬. কাস্টমারঃ** বলুন, আমি শুনছি।
+
+**৭. এজেন্টঃ** প্রথমত, laptop-টি একটা শক্ত, non-flammable surface-এ রাখুন — মেঝের tile বা metal table ভালো। কোনোভাবেই বিছানায়, কুশনে, বা কাপড়ের উপর রাখবেন না। দ্বিতীয়ত, laptop-এর কাছে কোনো আগুন বা heat source রাখবেন না। এবং তৃতীয়ত, force করে battery বের করার চেষ্টা করবেন না।
+
+**৮. কাস্টমারঃ** ঠিক আছে, এগুলো মানব। কিন্তু battery কি explode করতে পারে? আমার ঘরে ছোট বাচ্চা আছে, সেটা নিয়ে tension হচ্ছে।
+
+**৯. এজেন্টঃ** বুঝতে পারছি, বাচ্চা থাকলে চিন্তা হওয়াটা স্বাভাবিক। সত্যি কথা বলতে — swollen battery-র explosion risk খুবই কম, কিন্তু শূন্য না। Puncture হলে বা extreme heat-এ থাকলে সমস্যা হতে পারে। তাই বাচ্চাদের নাগালের বাইরে রাখুন এবং laptop-টি যত দ্রুত সম্ভব service center-এ নিয়ে আসুন।
+
+**১০. কাস্টমারঃ** কত দ্রুত নিয়ে যেতে হবে? আজকেই কি যাওয়া উচিত?
+
+**১১. এজেন্টঃ** আজকে যেতে পারলে সবচেয়ে ভালো sir। Swollen battery case-গুলো আমরা priority basis-এ handle করি, কোনো queue-তে দাঁড়াতে হবে না। Technician battery safely remove করে dispose করবেন।
+
+**১২. কাস্টমারঃ** Laptop কেনার মাত্র ৩ মাস হয়েছে। এটা কি warranty-তে cover হবে?
+
+**১৩. এজেন্টঃ** ১০০% cover হবে sir। Battery swelling ৩ মাসে হওয়া একটা clear manufacturing defect। Warranty claim-এ কোনো সমস্যা হবে না। Battery free-তে replace হবে।
+
+**১৪. কাস্টমারঃ** ভালো কথা। নতুন battery কি immediately পাব, নাকি অপেক্ষা করতে হবে?
+
+**১৫. এজেন্টঃ** সেটা model-এর উপর নির্ভর করে। কোন laptop ব্যবহার করছেন sir?
+
+**১৬. কাস্টমারঃ** Lenovo IdeaPad Slim 3। আপনাদের কাছ থেকেই কেনা তিন মাস আগে।
+
+**১৭. এজেন্টঃ** IdeaPad Slim 3 বেশ popular model, তাই battery stock-এ থাকার chance ভালো। Same day replacement possible হতে পারে। তবে stock না থাকলে Lenovo থেকে order করতে হবে, সেক্ষেত্রে ৫-৭ দিন লাগতে পারে।
+
+**১৮. কাস্টমারঃ** ৫-৭ দিন laptop ছাড়া কাটানো কঠিন হবে। কোনো loaner device-এর ব্যবস্থা আছে?
+
+**১৯. এজেন্টঃ** দুঃখিত sir, loaner device-এর system আমাদের এখনও নেই। তবে battery ছাড়াও laptop charger-এ direct চলে — যদিও portable হবে না, কিন্তু desk-এ বসে কাজ করতে পারবেন। Technician-কে বলবেন swollen battery remove করে charger-এ run করার setup করে দিতে।
+
+**২০. কাস্টমারঃ** ওহ, সেটা তো একটা workaround! Battery ছাড়া charger-এ চলবে?
+
+**২১. এজেন্টঃ** হ্যাঁ sir, বেশিরভাগ laptop charger-এ directly run করতে পারে। Portable হবে না, কিন্তু home desk-এ কাজ চালাতে পারবেন। এটা new battery আসা পর্যন্ত interim solution হিসেবে কাজ করবে।
+
+**২২. কাস্টমারঃ** চমৎকার, এটা জানতাম না। আচ্ছা service center-এ laptop নিয়ে যেতে কি বিশেষ কোনো সতর্কতা নিতে হবে?
+
+**২৩. এজেন্টঃ** হ্যাঁ sir — laptop-টি একটা bag-এ রাখুন কিন্তু bag-এর মধ্যে চাপাচাপি করবেন না। Rickshaw বা car-এ নিচে রাখুন, কোলে না নিলেই ভালো। আর গরমে দীর্ঘ সময় direct sunlight-এ রাখবেন না।
+
+**২৪. কাস্টমারঃ** বুঝলাম ভাই। আমি এখনই রেডি হয়ে service center-এ যাচ্ছি। ধন্যবাদ এত detail-এ বলার জন্য।
+
+**২৫. এজেন্টঃ** আপনাকেও ধন্যবাদ sir, দ্রুত call করার জন্য। Battery issue-তে আপনি একদম সঠিক সময়ে সঠিক পদক্ষেপ নিয়েছেন। নিরাপদে পৌঁছান। Star Tech helpline-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ৭ঃ Repair-এ দিয়েছি ৩ সপ্তাহ — কোনো Update নেই
+
+> একজন software developer তার কাজের laptop repair-এ দিয়েছিলেন ৩ সপ্তাহ আগে। কোনো call, SMS বা email আসেনি। তিনি নিজে ৩ বার call করেছেন, প্রতিবার "দেখছি" বলা হয়েছে। এবারে চতুর্থবার call করছেন, বেশ রাগান্বিত।
+
+**১. এজেন্টঃ** Star Tech customer care-এ স্বাগতম। আমি কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** দেখুন, আমি চতুর্থবার call করছি একই বিষয়ে। তিন সপ্তাহ আগে laptop repair-এ দিয়েছি, আজ পর্যন্ত কোনো update নেই। এটা কোনো service না, এটা অবহেলা।
+
+**৩. এজেন্টঃ** Sir, আপনার frustration সম্পূর্ণ justified এবং আমি এটাকে হালকাভাবে নিচ্ছি না। আমাকে আপনার phone number দিলে আমি এখনই system-এ check করে বলতে পারি exactly কী হচ্ছে।
+
+**৪. কাস্টমারঃ** ০১৭XXXXXXXX। কিন্তু প্রতিবার check করে বলেন "process-এ আছে" — আজকে যদি আবার এটাই বলেন, আমি social media-তে পুরো অভিজ্ঞতা post করব।
+
+**৫. এজেন্টঃ** Sir, আমি আপনাকে generic answer দেব না, promise করছি। আমি system-এ দেখছি — আপনার Dell Inspiron 15, motherboard issue-তে service-এ জমা দিয়েছিলেন Banani branch-এ, ঠিক?
+
+**৬. কাস্টমারঃ** হ্যাঁ, ঠিক। Motherboard-এ কোনো IC পুড়ে গিয়েছিল বলেছিল। বলেছিল ৭-১০ দিনে হবে।
+
+**৭. এজেন্টঃ** Sir, আমি দেখতে পাচ্ছি status-এ লেখা আছে "waiting for parts" — Dell-এর কাছ থেকে replacement IC-র জন্য order দেওয়া হয়েছিল। কিন্তু এটার কোনো follow-up entry নেই, মানে parts order-এর পর কেউ track করেনি। এটা আমাদের পক্ষ থেকে clear communication failure, আমি দুঃখিত।
+
+**৮. কাস্টমারঃ** মানে ৩ সপ্তাহ ধরে শুধু parts-এর জন্য wait করা হচ্ছে এবং কেউ follow up-ই করেনি?
+
+**৯. এজেন্টঃ** দুঃখজনকভাবে সেটাই মনে হচ্ছে sir। আমি এখনই Banani branch-এর service supervisor-কে internally message করছি। একটু hold-এ থাকুন, please — আমি real-time-এ update নিচ্ছি, কোনো পরে জানাব বলে ফোন রাখব না।
+
+**১০. কাস্টমারঃ** ঠিক আছে, আমি hold-এ থাকছি। কিন্তু দ্রুত করুন।
+
+**১১. এজেন্টঃ** Sir, ফিরে এলাম। Supervisor জানাচ্ছেন — Dell-এর কাছ থেকে part টি আসলে ৫ দিন আগেই পৌঁছেছে, কিন্তু technician-কে assign করা হয়নি। এটা সম্পূর্ণ internal mismanagement, আমি সরাসরি acknowledge করছি।
+
+**১২. কাস্টমারঃ** মানে part এসেছে ৫ দিন আগে, কিন্তু কেউ repair শুরুই করেনি? এটা তো আরও হতাশাজনক!
+
+**১৩. এজেন্টঃ** আপনি যা অনুভব করছেন সেটা সম্পূর্ণ সঠিক sir। Supervisor confirm করেছেন — আজকেই technician assign হচ্ছে এবং আগামীকালের মধ্যে repair complete হবে। এটা এখন supervisor personally monitor করছেন।
+
+**১৪. কাস্টমারঃ** আগামীকাল? ৩ সপ্তাহ পর এখন বলছেন আগামীকাল? আমি এই ৩ সপ্তাহ একটা পুরানো laptop ধার করে কাজ চালিয়েছি।
+
+**১৫. এজেন্টঃ** Sir, আমি বুঝতে পারছি এটা আপনার কাজে কতটা ক্ষতি করেছে। আমাদের পক্ষ থেকে এই ধরনের delay সম্পূর্ণ unacceptable এবং আমি এই case-টি quality assurance team-এর কাছে report করছি যাতে ভবিষ্যতে এটা repeat না হয়।
+
+**১৬. কাস্টমারঃ** Report করলে আমার তো কোনো লাভ নেই। আমার ৩ সপ্তাহ নষ্ট হয়ে গেছে।
+
+**১৭. এজেন্টঃ** আপনি ঠিক বলেছেন sir, past undo করা সম্ভব না। তবে আমি branch manager-এর সাথে কথা বলেছি — repair complete হওয়ার পর আপনি যখন laptop নিতে যাবেন, তখন complimentary cleaning service এবং thermal paste replacement করে দেওয়া হবে, সাথে ৬ মাসের extended service support।
+
+**১৮. কাস্টমারঃ** সেটা কিছুটা হলেও ভালো। তবে আসল কথা হলো laptop কাল পাওয়া যাবে কিনা, সেটা confirm হোক আগে।
+
+**১৯. এজেন্টঃ** Sir, আমি personally কাল বিকেল ৪টায় আপনাকে call করে update দেব। Repair complete হলে বলব, কোনো কারণে delay হলেও সৎভাবে জানাব। এটা আমার personal commitment।
+
+**২০. কাস্টমারঃ** ঠিক আছে, দেখি কাল কী হয়। আপনার নাম কী ভাই?
+
+**২১. এজেন্টঃ** আমার নাম Ashraf sir। আমি কাল নিজে call করব, এটা নিশ্চিত।
+
+**২২. কাস্টমারঃ** Ashraf ভাই, আপনি অন্তত সৎভাবে actual situation বলেছেন, সেটার credit দিচ্ছি। আগের তিনজন শুধু "দেখছি" বলে phone রেখে দিয়েছিল।
+
+**২৩. এজেন্টঃ** সেই অভিজ্ঞতার জন্য আমি company-র পক্ষ থেকে ক্ষমা চাইছি sir। Communication-এ আমরা ব্যর্থ হয়েছি, সেটা deny করার কোনো জায়গা নেই।
+
+**২৪. কাস্টমারঃ** ঠিক আছে, কালকের call-এর অপেক্ষায় থাকলাম। ধন্যবাদ Ashraf ভাই।
+
+**২৫. এজেন্টঃ** ধন্যবাদ sir, ধৈর্য ধরার জন্য। কাল বিকেলে কথা হবে। Star Tech customer care-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ৮ঃ Repair করে দিয়েছে কিন্তু একই সমস্যা আবার হচ্ছে
+
+> একজন architect তার laptop overheating issue-র জন্য repair-এ দিয়েছিলেন। ১০ দিন পর পেয়েছেন, কিন্তু মাত্র এক সপ্তাহ পর আবার একই overheating শুরু হয়েছে। AutoCAD চালালে laptop automatic shut down হয়ে যাচ্ছে। Trust সংকটে আছেন।
+
+**১. এজেন্টঃ** Star Tech support line, শুভ বিকেল। কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** ভাই, আপনাদের service center-এ laptop দিয়ে ছিলাম overheating issue-র জন্য। গত সপ্তাহে ফেরত পেলাম, বলেছিল ঠিক করে দিয়েছি। কিন্তু আবার হুবহু একই সমস্যা শুরু হয়েছে।
+
+**৩. এজেন্টঃ** এটা সত্যিই হতাশাজনক sir, repair করানোর পরও একই সমস্যা ফিরে আসা কোনোভাবেই acceptable না। কী ধরনের overheating হচ্ছে?
+
+**৪. কাস্টমারঃ** AutoCAD বা 3D rendering software চালালে ১৫-২০ মিনিটের মধ্যে laptop এতটাই গরম হয়ে যায় যে automatic shut down হয়ে যাচ্ছে। আমার একটা project-এর design deadline আছে, কাজই করতে পারছি না।
+
+**৫. এজেন্টঃ** Sir, আগেও কি ঠিক একই software চালানোর সময় হতো, নাকি এবারে ভিন্ন কিছু করছিলেন?
+
+**৬. কাস্টমারঃ** হুবহু একই। AutoCAD আর SketchUp — এই দুটোতেই। মানে repair-এ কী করেছে তাহলে? শুধু thermal paste দিয়ে ছেড়ে দিয়েছে?
+
+**৭. এজেন্টঃ** আপনার suspicion-এ কিছুটা সত্যতা থাকতে পারে sir। আমি service history দেখছি — হ্যাঁ, record অনুযায়ী thermal paste reapplication এবং fan cleaning করা হয়েছিল। কিন্তু যদি heavy workload-এ ১৫ মিনিটেই shut down হয়, তাহলে root cause সম্ভবত thermal paste-এর বিষয় না।
+
+**৮. কাস্টমারঃ** তাহলে কী হতে পারে?
+
+**৯. এজেন্টঃ** কয়েকটা possibility আছে — heat sink-এর contact surface ঠিকমতো বসেনি, অথবা heat pipe defective হতে পারে, অথবা GPU বা CPU-এর thermal throttling threshold-এ কোনো firmware issue থাকতে পারে। প্রথমবার শুধু surface level fix হয়েছে, deeper diagnosis হয়নি বলে মনে হচ্ছে।
+
+**১০. কাস্টমারঃ** তাহলে এবারেও কি আবার same surface level fix করবে? আমি আর সময় waste করতে চাই না।
+
+**১১. এজেন্টঃ** আপনার কথা সম্পূর্ণ logical sir। এবারে আমি case-টি senior technician-এর কাছে assign করার ব্যবস্থা করছি — মানে regular technician না, যিনি hardware-level deep diagnosis করতে পারবেন। Stress testing tools দিয়ে exactly কোন component-এ সমস্যা সেটা pinpoint করবেন।
+
+**১২. কাস্টমারঃ** কিন্তু ভাই, প্রশ্ন হলো — যদি আবারও ঠিক না হয়? তৃতীয়বারও কি same কথা শুনব?
+
+**১৩. এজেন্টঃ** Sir, এটা fair concern। আমাদের repeat repair policy অনুযায়ী — একই সমস্যায় যদি তৃতীয়বার repair দিতে হয়, তাহলে আপনি device replacement-এর জন্য eligible হবেন। এটা আমাদের official policy।
+
+**১৪. কাস্টমারঃ** ওহ, এটা তো জানতাম না। মানে তৃতীয়বার হলে নতুন laptop?
+
+**১৫. এজেন্টঃ** হ্যাঁ sir, same model বা equivalent value-র device replacement। তবে আমার বিশ্বাস senior technician-এর হাতে গেলে এবারেই root cause fix হবে। দ্বিতীয়বার repair-এ আমরা extra মনোযোগ দিই।
+
+**১৬. কাস্টমারঃ** আশা করি। Laptop নিয়ে কবে যাব?
+
+**১৭. এজেন্টঃ** Sir, এবারে আমরা ভিন্নভাবে করব। আমি pickup arrange করে দিচ্ছি — আমাদের logistics team আপনার location থেকে laptop collect করবে। আপনার branch-এ আসার দরকার নেই।
+
+**১৮. কাস্টমারঃ** সত্যিই? সেটা তো অনেক ভালো। কবে আসবে pick up করতে?
+
+**১৯. এজেন্টঃ** আগামীকাল সকাল ১০টা থেকে ১২টার মধ্যে আপনার convenient হলে pick up করবে। আর repair progress-এর daily SMS update পাবেন এবারে, যাতে অন্ধকারে থাকতে না হয়।
+
+**২০. কাস্টমারঃ** Daily update! এটা প্রথমবার হলেই ভালো হতো। যাই হোক, আগামীকাল সকাল ঠিক আছে।
+
+**২১. এজেন্টঃ** একদম sir। আর laptop handover-এর সময় logistics person-কে একটা demo দেখাবেন যে exactly কোন software-এ কত মিনিট পর shut down হচ্ছে। এটা technician-এর জন্য valuable information হবে।
+
+**২২. কাস্টমারঃ** ভালো কথা, দেখাব। AutoCAD চালিয়ে দেখাতে পারব।
+
+**২৩. এজেন্টঃ** Perfect sir। আর এবারে repair complete হওয়ার পর আমরা service center-এই ২ ঘণ্টা stress test চালাব deliver করার আগে, যাতে নিশ্চিত হই সমস্যা সত্যিই solve হয়েছে।
+
+**২৪. কাস্টমারঃ** এটা শুনে বেশ confident feel করছি। ধন্যবাদ ভাই, আশা করি এবারে শেষবারের মতো দিতে হবে।
+
+**২৫. এজেন্টঃ** সেটাই আমাদের target sir। আপনার project-এ যেন আর বাধা না আসে। Star Tech support-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ৯ঃ Spare Part নেই বলছে — Laptop-ই একমাত্র Device
+
+> একজন school teacher তার Acer laptop-এর hinge ভেঙে গেছে, screen প্রায় ঝুলে আছে। Service center-এ নিয়ে গেলে বলেছে spare part Bangladesh-এ নেই, order দিতে হবে ৪-৬ সপ্তাহ লাগবে। Online class নেন, laptop ছাড়া কোনো উপায় নেই।
+
+**১. এজেন্টঃ** Star Tech customer care, শুভ দুপুর। কীভাবে সাহায্য করতে পারি mam?
+
+**২. কাস্টমারঃ** ভাইয়া, আমি গতকাল আপনাদের Uttara service center-এ গিয়েছিলাম laptop-এর hinge ভেঙে গেছে বলে। ওরা বলল spare part নেই, ৪-৬ সপ্তাহ লাগবে আসতে। আমি এত দিন কীভাবে wait করব?
+
+**৩. এজেন্টঃ** বুঝতে পারছি mam, ৪-৬ সপ্তাহ সত্যিই অনেক লম্বা সময়। আপনার laptop-এর model-টা কি বলবেন?
+
+**৪. কাস্টমারঃ** Acer Aspire 5, ১৫ inch, কেনার দেড় বছর হয়েছে। Left side hinge-টা ভেঙে গেছে, screen ঝুলে আছে একপাশে। খোলা রাখলে পড়ে যাচ্ছে।
+
+**৫. এজেন্টঃ** Acer Aspire 5-এর hinge assembly, হ্যাঁ — এটা specific model-এর part, generic part দিয়ে replace করা যায় না। তাই availability issue হয়। তবে mam, আমি কয়েকটা alternative explore করতে পারি আপনার জন্য।
+
+**৬. কাস্টমারঃ** বলুন, যেকোনো option চাই। আমি school teacher, online class নিই প্রতিদিন। Laptop ছাড়া class নেওয়া impossible।
+
+**৭. এজেন্টঃ** প্রথম option — আমি অন্য branch-এর stock check করতে পারি। Elephant Road বা Dhanmondi-তে অনেক সময় parts থাকে যেটা Uttara-তে নেই। একটু hold-এ থাকুন please, real-time inventory check করছি।
+
+**৮. কাস্টমারঃ** জ্বী, আছি। Please দেখুন।
+
+**৯. এজেন্টঃ** Mam, ফিরে এলাম। দুঃখিত, কোনো branch-এই Acer Aspire 5-এর left hinge stock-এ নেই এই মুহূর্তে। তবে দ্বিতীয় option আছে — Acer Bangladesh-এর নিজস্ব service center-এ কখনো কখনো parts faster পাওয়া যায়, কারণ ওরা directly manufacturer থেকে source করে।
+
+**১০. কাস্টমারঃ** Acer-এর service center কোথায়?
+
+**১১. এজেন্টঃ** Acer-এর authorized service center Motijheel-এ আছে। ওদের phone number আমি SMS-এ পাঠিয়ে দিচ্ছি। ওদেরকে call করে model number বলুন, ওরা stock check করে জানাবে।
+
+**১২. কাস্টমারঃ** ঠিক আছে, try করব। কিন্তু ওখানেও যদি না থাকে?
+
+**১৩. এজেন্টঃ** তৃতীয় option হলো — IDB Bhaban এবং Elephant Road-এ কিছু independent repair shop আছে যারা third-party compatible hinge রাখে। Original-এর মতো exactly same না হলেও functionally কাজ করে এবং দামও অনেক কম, ১,০০০-২,০০০ টাকার মধ্যে। তবে এটায় manufacturer warranty void হতে পারে।
+
+**১৪. কাস্টমারঃ** দেড় বছর হয়ে গেছে, warranty তো শেষ মনে হয়। তাহলে third-party part দিলে কি damage হওয়ার risk আছে?
+
+**১৫. এজেন্টঃ** ভালো প্রশ্ন mam। Compatible hinge ঠিকমতো fit করলে laptop-এর function-এ কোনো সমস্যা হওয়ার কথা না। তবে একটাই risk — যদি hinge-এর tension calibration original-এর চেয়ে বেশি হয় তাহলে screen-এর bezel-এ stress পড়তে পারে। তাই experienced technician দিয়ে করানো জরুরি।
+
+**১৬. কাস্টমারঃ** আচ্ছা। কিন্তু এত ঘোরাঘুরি করা আমার পক্ষে কঠিন, আমার class-ও আছে। ততদিনে কি laptop ব্যবহার করার কোনো temporary উপায় আছে?
+
+**১৭. এজেন্টঃ** হ্যাঁ mam, একটা quick fix বলছি — laptop-টি table-এ রেখে screen-এর পেছনে একটা thick book বা box দিয়ে ঠেস দিন, যাতে screen পড়ে না যায়। এভাবে desk-এ বসে কিছুদিন কাজ চালাতে পারবেন। Portable হিসেবে use করবেন না, screen complete ভেঙে যেতে পারে।
+
+**১৮. কাস্টমারঃ** হ্যাঁ, কাল থেকে বালিশ দিয়ে ঠেস দিয়ে রেখেছি। এভাবে কি display cable damage হতে পারে?
+
+**১৯. এজেন্টঃ** সেটাই মূল risk mam — hinge-এর মধ্য দিয়ে display cable যায়। বারবার open-close করলে ভাঙা hinge-এ cable-এর উপর চাপ পড়ে এবং cable ছিঁড়ে যেতে পারে। তাই laptop একবার খুলে রেখে আর বন্ধ না করাই ভালো, ঢাকনা open position-এই রাখুন।
+
+**২০. কাস্টমারঃ** বুঝলাম, তাহলে খোলাই রাখব। Acer service center-এ একবার call করে দেখি, না পেলে Elephant Road-এ যাব।
+
+**২১. এজেন্টঃ** একটা কাজ করুন mam — Elephant Road যাওয়ার আগে আমাকে একবার call করবেন, আমি experienced shop-এর reference দিতে পারব যারা Acer hinge কাজে ভালো। Random কোনো shop-এ না গিয়ে referral-এ যাওয়া safer।
+
+**২২. কাস্টমারঃ** ও, সেটা তো অনেক helpful হবে। ধন্যবাদ ভাইয়া। আর Acer-এর number-টা SMS-এ দিন please।
+
+**২৩. এজেন্টঃ** এখনই পাঠাচ্ছি mam। আর আমাদের order-টাও cancel করব না — parallel-এ original Acer part-ও আসুক, ৪-৬ সপ্তাহের মধ্যে পেলে later original-টা লাগিয়ে নেবেন, বেশি durable হবে।
+
+**২৪. কাস্টমারঃ** ভালো idea। দুটো track-এই চলুক তাহলে। ধন্যবাদ অনেক, আপনি really helpful ছিলেন।
+
+**২৫. এজেন্টঃ** আপনার class-গুলো যেন কোনো disruption ছাড়াই চলে mam। Acer number SMS করে দিলাম। Star Tech-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ১০ঃ Monitor-এ Backlight Bleeding — Warranty Claim
+
+> একজন video editor ৬ মাস আগে একটি high-end gaming monitor কিনেছেন। অন্ধকার scene edit করতে গিয়ে screen-এর চার কোনায় আলো ছড়িয়ে পড়ছে — backlight bleeding। Video editing-এ accurate color দেখা যাচ্ছে না।
+
+**১. এজেন্টঃ** Star Tech customer support, শুভ সকাল। কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** ভাই, ৬ মাস আগে আপনাদের থেকে একটা MSI gaming monitor কিনেছিলাম ভিডিও editing-এর জন্য। এখন দেখছি dark scene-এ screen-এর চারপাশ দিয়ে আলো leak হচ্ছে। Corners ধোঁয়াটে দেখাচ্ছে।
+
+**৩. এজেন্টঃ** আচ্ছা sir, আপনি যেটা describe করছেন সেটাকে backlight bleeding বলে। আমাকে একটু বুঝতে দিন — সমস্যাটা কি সবসময় দেখা যায়, নাকি শুধু অন্ধকার ঘরে dark content দেখার সময়?
+
+**৪. কাস্টমারঃ** অন্ধকার ঘরে edit করার সময় বেশি দেখা যায়, কিন্তু এখন দিনের আলোতেও bottom-left corner-এ clearly দেখতে পাচ্ছি। ক্রমশ worse হচ্ছে।
+
+**৫. এজেন্টঃ** সেটা concerning sir। আমি একটা important distinction বলি — IPS panel-এ একটু "IPS glow" থাকে যেটা normal এবং viewing angle change করলে কমে যায়। কিন্তু backlight bleeding হলো physical defect, যেটা angle change করলেও থাকে এবং সময়ের সাথে worse হয়। আপনার ক্ষেত্রে যেহেতু worse হচ্ছে বলছেন, এটা IPS glow না, এটা genuine bleeding।
+
+**৬. কাস্টমারঃ** হ্যাঁ, আমি YouTube-এ দেখেছি difference কী। আমার case-এ definitely bleeding। Angle change করলেও একই রকম থাকছে।
+
+**৭. এজেন্টঃ** তাহলে আপনি সঠিকভাবে identify করেছেন sir। ৬ মাসে যে bleeding worse হচ্ছে সেটা panel-এর diffuser layer-এ manufacturing weakness indicate করে। Warranty-র আওতায় পড়ার ভালো chance আছে।
+
+**৮. কাস্টমারঃ** ভালো। কিন্তু আমি শুনেছি backlight bleeding-এ অনেক company claim reject করে। আপনাদের policy কী?
+
+**৯. এজেন্টঃ** সৎ কথা বলতে গেলে sir — minor bleeding যেটা শুধু pitch black room-এ, maximum brightness-এ, dark wallpaper-এ দেখা যায় সেটা অনেক manufacturer reject করে। কিন্তু আপনার ক্ষেত্রে দুটো strong point আছে — daylight-এও visible এবং progressively worsening। এই দুটো condition থাকলে claim accept হওয়ার probability অনেক বেশি।
+
+**১০. কাস্টমারঃ** Process-টা কী হবে?
+
+**১১. এজেন্টঃ** Service center-এ monitor নিয়ে গেলে technician একটা standardized test করেন — pitch black room-এ specific test pattern দিয়ে bleeding measure করেন। একটা threshold আছে, সেটা exceed করলে warranty claim approve হয়।
+
+**১২. কাস্টমারঃ** Threshold কতটুকু? কোথাও কি লেখা আছে?
+
+**১৩. এজেন্টঃ** MSI-র official documentation-এ exact threshold publicly shared করা হয় না sir, এটা internal guideline। তবে আমার experience-এ বলছি — daylight-এ visible bleeding-এ ৯০% ক্ষেত্রে claim approve হয়। আপনার case strong।
+
+**১৪. কাস্টমারঃ** Claim approve হলে কী হবে? New monitor দেবে নাকি repair করবে?
+
+**১৫. এজেন্টঃ** Backlight bleeding repair করা technically possible না sir — এটা panel-এর structural issue। তাই approve হলে full panel replacement হবে, মানে practically নতুন monitor। অথবা same model-এর new unit, stock availability depending।
+
+**১৬. কাস্টমারঃ** সেটা ভালো। আর claim process-এ কতদিন লাগবে?
+
+**১৭. এজেন্টঃ** Assessment দিনেই হবে, তবে claim approval MSI-র regional office থেকে আসে, সেটায় ৭-১০ working day সময় লাগতে পারে। তারপর replacement unit আসতে আরও ৫-৭ দিন।
+
+**১৮. কাস্টমারঃ** মোটামুটি ৩ সপ্তাহ? আমার video editing কীভাবে চলবে ততদিন? Color accuracy ছাড়া edit করা মানে client-কে ভুল color দেওয়া।
+
+**১৯. এজেন্টঃ** আপনার concern valid sir। একটা suggestion — claim process চলাকালীন আপনি current monitor-ই ব্যবহার করতে পারবেন। Bleeding থাকলেও center area-তে color accuracy-তে কোনো সমস্যা নেই সাধারণত, শুধু edges-এ সমস্যা। তাই editing-এর সময় important elements screen-এর center-এ রেখে কাজ চালাতে পারবেন।
+
+**২০. কাস্টমারঃ** মানে monitor জমা না দিয়েই claim করতে পারব?
+
+**২১. এজেন্টঃ** Initial assessment-এর জন্য একবার নিয়ে যেতে হবে, সেটা ১-২ ঘণ্টায় হবে। তারপর monitor আপনাকে ফেরত দিয়ে দেবে। Replacement unit আসলে তখন swap করবে — পুরানোটা দেবেন, নতুনটা পাবেন।
+
+**২২. কাস্টমারঃ** ওহ, সেটা তো great! তাহলে monitor ছাড়া থাকতে হবে না?
+
+**২৩. এজেন্টঃ** না sir, শুধু swap-এর দিন ২-৩ ঘণ্টা। বাকি সময় আপনার কাছেই থাকবে। Assessment-এর আগে bleeding-এর clear photo তুলে রাখুন — dark room-এ একটা pure black image display করে কয়েকটা angle থেকে photo নিন। এটা documentation-এ কাজে লাগবে।
+
+**২৪. কাস্টমারঃ** Photo তুলে রাখব। ধন্যবাদ ভাই, খুব clearly সব বুঝিয়ে বললেন।
+
+**২৫. এজেন্টঃ** আপনার editing work যেন ব্যাহত না হয় সেটাই priority sir। যেকোনো সময় call করুন। Star Tech support-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ১১ঃ ভুল Variant Delivery — 16GB Order করেছিলাম, 8GB এসেছে
+
+> একজন data analyst online-এ 16GB RAM variant-এর laptop order করেছিলেন। দুইদিন ব্যবহার করার পর System Properties check করে দেখেন মাত্র 8GB RAM। Invoice-এ 16GB লেখা আছে কিন্তু device-এ 8GB।
+
+**১. এজেন্টঃ** Star Tech online order support, আমি কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** ভাই, আমি বড় ভুলের শিকার হয়েছি। 16GB RAM-এর ASUS laptop order করেছিলাম, আজকে check করে দেখি 8GB আসছে System Properties-এ। দুইদিন ধরে ব্যবহার করছি এটা বুঝতেই পারিনি।
+
+**৩. এজেন্টঃ** এটা তো সত্যিই গুরুতর ভুল sir। আপনি কি please laptop-এর নিচের দিকে sticker-এ যে model number আছে সেটা একবার পড়ে বলবেন? সাথে invoice-এ কোন model number লেখা আছে সেটাও?
+
+**৪. কাস্টমারঃ** Invoice-এ লেখা আছে ASUS VivoBook 15 X515EA, RAM: 16GB। কিন্তু laptop-এর sticker-এ model number শেষে আলাদা suffix আছে, মানে এটা 8GB variant।
+
+**৫. এজেন্টঃ** Clear mismatch sir। এটা আমাদের warehouse-এর dispatching error — দুটো variant-এর packaging প্রায় identical হওয়ায় occasionally এটা ঘটে। আপনার কোনো দোষ নেই, এটা সম্পূর্ণ আমাদের mistake।
+
+**৬. কাস্টমারঃ** তাহলে exchange হবে তো? আমি 16GB-র দাম দিয়েছি, 16GB-ই চাই। কিন্তু সমস্যা হলো আমি দুইদিন ব্যবহার করে ফেলেছি, software install করেছি।
+
+**৭. এজেন্টঃ** কোনো সমস্যা নেই sir। এটা আমাদের error, তাই used condition-এও exchange হবে। আপনাকে 16GB variant পাঠানো হবে, 8GB-টা ফেরত নেওয়া হবে। দুইদিন ব্যবহার করেছেন সেটা কোনো barrier না।
+
+**৮. কাস্টমারঃ** আর আমি যে software install করেছি, Windows setup করেছি — সব আবার নতুন laptop-এ করতে হবে?
+
+**৯. এজেন্টঃ** হ্যাঁ sir, সেটা unfortunately করতে হবে। নতুন laptop-টায় fresh Windows আসবে। তবে আপনার installed software-এর list একটা note করে রাখুন, আর important files external drive বা cloud-এ backup করুন — swap-এর সময় কাজে আসবে।
+
+**১০. কাস্টমারঃ** বুঝলাম, সেটা একটু ঝামেলা হবে তবে 16GB তো দরকারই। Exchange process-টা কীভাবে হবে? আমাকে কি branch-এ যেতে হবে?
+
+**১১. এজেন্টঃ** না sir, online order-এ আমরা courier exchange করি। আমাদের delivery person 16GB variant নিয়ে আপনার address-এ আসবে, আপনার কাছ থেকে 8GB-টা নিয়ে যাবে। Same time-এ swap হবে, doorstep-এই।
+
+**১২. কাস্টমারঃ** ও, সেটা তো convenient। কতদিনের মধ্যে আসবে?
+
+**১৩. এজেন্টঃ** Dhaka-র মধ্যে হলে ২-৩ working day। আপনি কোন area-তে আছেন sir?
+
+**১৪. কাস্টমারঃ** Mohammadpur। তাহলে ২-৩ দিনের মধ্যেই পাব?
+
+**১৫. এজেন্টঃ** হ্যাঁ sir, Mohammadpur Dhaka city-র মধ্যে, delivery team easily reach করতে পারবে। তবে আগে আমাদের warehouse-এ 16GB variant-এর stock confirm করতে হবে। আমি এখনই check করছি — একটু wait করুন please।
+
+**১৬. কাস্টমারঃ** জ্বী, আছি।
+
+**১৭. এজেন্টঃ** Sir, good news — 16GB variant stock-এ আছে। আমি exchange request raise করে দিচ্ছি। আগামীকাল বা পরশু delivery team আপনাকে call করবে timing confirm করতে।
+
+**১৮. কাস্টমারঃ** চমৎকার। আর একটা কথা — নতুন laptop-টা আমি delivery person-এর সামনেই check করতে পারব তো? আবার যেন ভুল variant না আসে।
+
+**১৯. এজেন্টঃ** Absolutely sir, সেটা আপনার right। Delivery person-এর সামনে unbox করুন, power on করুন, System Properties-এ RAM check করুন। সব ঠিক থাকলে তবেই পুরানোটা হস্তান্তর করুন।
+
+**২০. কাস্টমারঃ** ভালো। আর যদি check-এ কোনো সমস্যা পাই?
+
+**২১. এজেন্টঃ** সেক্ষেত্রে exchange reject করুন, delivery person পুরানো laptop-ও নেবে না। তারপর আমাদের call করুন, আমরা সঠিক unit আবার পাঠাব। আপনার কোনো risk নেই।
+
+**২২. কাস্টমারঃ** Perfect। আর 8GB laptop return করার আগে কি আমার personal data delete করা উচিত?
+
+**২৩. এজেন্টঃ** অবশ্যই sir, সেটা গুরুত্বপূর্ণ। Windows Settings-এ গিয়ে "Reset this PC" করুন এবং "Remove everything" select করুন। এটা করলে আপনার সব personal data, login, files মুছে যাবে। Return-এর আগে এটা করে নেওয়া best practice।
+
+**২৪. কাস্টমারঃ** বুঝলাম, exchange-এর আগে reset করে রাখব। ধন্যবাদ ভাই, smooth process মনে হচ্ছে।
+
+**২৫. এজেন্টঃ** এই ভুলের জন্য আবারও দুঃখিত sir। আমরা ensure করব সঠিক variant পৌঁছায়। Star Tech online support-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ১২ঃ Gaming PC Build Order — ৫ দিন কোনো Status নেই
+
+> একজন YouTuber gaming content-এর জন্য custom PC build order দিয়েছেন ৫ দিন আগে। ১,২০,০০০ টাকার order, কোনো status update পাননি। Content schedule-এর চাপে anxious।
+
+**১. এজেন্টঃ** Star Tech custom build support, শুভ সন্ধ্যা। কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** ভাই, আমি ৫ দিন আগে একটা gaming PC build order দিয়েছি আপনাদের website থেকে। ১ লাখ ২০ হাজার টাকার order, আজ পর্যন্ত কোনো update নেই — না call, না email, না SMS।
+
+**৩. এজেন্টঃ** ৫ দিন update ছাড়া থাকা নিশ্চয়ই uncomfortable sir, বিশেষ করে এত বড় order-এ। আমি এখনই build queue-তে আপনার order check করছি। আপনার order number-টা কি handy আছে?
+
+**৪. কাস্টমারঃ** হ্যাঁ, STB-2025-09821। আমি YouTuber, gaming content বানাই — নতুন PC ছাড়া next video shoot-ই possible না।
+
+**৫. এজেন্টঃ** বুঝতে পারছি sir, content creation-এ timeline crucial। আমি order দেখছি — আপনার build list-এ আছে Ryzen 7 7800X3D, RTX 4070 Ti Super, 32GB DDR5, 1TB NVMe SSD। Status দেখছি "parts staging" — মানে components collect করা হচ্ছে assembly-র জন্য।
+
+**৬. কাস্টমারঃ** মানে ৫ দিন ধরে parts collect হচ্ছে? এত সময় লাগে?
+
+**৭. এজেন্টঃ** না sir, এত সময় লাগার কথা না। আমি detail-এ দেখছি — ৯টা component-এর মধ্যে ৮টা already picked এবং ready। একটা component pending — RTX 4070 Ti Super। Status বলছে "awaiting restock"। মানে এই GPU-টা এই মুহূর্তে out of stock।
+
+**৮. কাস্টমারঃ** কী! Out of stock হলে order accept করলো কেন? Website-এ তো "In Stock" দেখাচ্ছিল!
+
+**৯. এজেন্টঃ** আপনি ঠিক বলেছেন sir, এটা আমাদের inventory system-এর একটা known issue — custom build-এ order place হলে real-time stock deduction সবসময় sync হয় না। আগে আরেকটা order-এ শেষ GPU টা allocated হয়ে যেতে পারে। এটা আমাদের end-এর সমস্যা।
+
+**১০. কাস্টমারঃ** তাহলে এখন কী হবে? আমার পুরো build আটকে আছে একটা GPU-র জন্য?
+
+**১১. এজেন্টঃ** Sir, দুটো option আছে। প্রথমত, RTX 4070 Ti Super-এর next shipment আসবে আগামী সপ্তাহে — মঙ্গলবার বা বুধবার। Wait করলে ঠিক সেই GPU পাবেন। দ্বিতীয়ত, RTX 4070 Ti (non-Super) এই মুহূর্তে stock-এ আছে। Performance difference marginally কম, কিন্তু price-ও ৫,০০০ টাকা কম। Difference refund হয়ে যাবে।
+
+**১২. কাস্টমারঃ** Non-Super version-এ gaming-এ কতটুকু difference পড়বে practically?
+
+**১৩. এজেন্টঃ** সত্যি কথা বলতে sir, 1080p বা 1440p gaming-এ average ৫-৮% FPS difference। আপনি যদি YouTube content-এর জন্য 1080p-তে record করেন, difference practically অনুভব করবেন না। তবে 4K gaming বা heavy ray tracing-এ Super version-এর VRAM advantage কিছুটা বেশি।
+
+**১৪. কাস্টমারঃ** আমি 1440p-তে record করি mainly। তাহলে non-Super-ও চলবে মনে হচ্ছে। কিন্তু ৫,০০০ টাকা refund হবে তো?
+
+**১৫. এজেন্টঃ** ১০০% sir। Original payment method-এই refund হবে, ৩-৫ working day-এ। আর GPU swap confirm করলে আজকেই assembly শুরু হবে, কারণ বাকি ৮টা component ready আছে।
+
+**১৬. কাস্টমারঃ** Assembly-তে কতদিন লাগবে?
+
+**১৭. এজেন্টঃ** Custom build assembly সাধারণত ২৪ থেকে ৪৮ ঘণ্টা। Cable management, thermal paste application, Windows installation, আর ২ ঘণ্টার stress test — সব মিলিয়ে। আপনি confirm করলে পরশুর মধ্যে delivery ready।
+
+**১৮. কাস্টমারঃ** পরশু? তাহলে তো ভালোই। ঠিক আছে, non-Super দিয়ে build করুন। ৫,০০০ টাকা refund করবেন।
+
+**১৯. এজেন্টঃ** Done sir, আমি এখনই GPU swap approve করে assembly queue-তে push করছি। আপনি একটা confirmation email পাবেন updated component list সহ — verify করে reply দিলে formal approval হবে।
+
+**২০. কাস্টমারঃ** ঠিক আছে। আর delivery কীভাবে হবে? এত বড় PC case তো courier-এ risky।
+
+**২১. এজেন্টঃ** খুবই valid concern sir। Custom PC build আমরা special packaging-এ পাঠাই — anti-static foam, GPU support bracket লাগানো থাকে transport-এর জন্য, এবং double-walled carton ব্যবহার করি। Dhaka-র মধ্যে আমাদের নিজস্ব delivery team পৌঁছে দেবে, third-party courier না।
+
+**২২. কাস্টমারঃ** নিজেদের delivery team, সেটা ভালো। আর আমি কি delivery-র সময় PC চালু করে test করতে পারব?
+
+**২৩. এজেন্টঃ** অবশ্যই sir। Delivery person-এর কাছে আপনার stress test report-এর printout থাকবে। আপনি চাইলে নিজেও boot করে দেখতে পারবেন। Monitor আগে থেকে ready রাখবেন, HDMI cable আমরা সাথে দেব।
+
+**২৪. কাস্টমারঃ** Excellent! ধন্যবাদ ভাই, GPU issue-টা ছাড়া বাকি সব smooth মনে হচ্ছে।
+
+**২৫. এজেন্টঃ** GPU issue-র জন্য আবারও দুঃখিত sir। পরশুর মধ্যে আপনার gaming beast ready হবে ইনশাআল্লাহ। Star Tech build support-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ১৩ঃ PC Build Delivery-তে GPU নেই — Package খুলে দেখি Missing
+
+> একজন customer custom PC build order দিয়ে delivery পেয়েছেন। Package খুলে দেখেন GPU slot খালি — ৪৫,০০০ টাকার RTX 4060 নেই। Packing error নাকি transit-এ চুরি সেটা নিয়ে সন্দেহ।
+
+**১. এজেন্টঃ** Star Tech customer care, আমি Sadia বলছি। কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** আপু, আমি এইমাত্র আমার PC build-এর delivery পেলাম। Package খুলে দেখি GPU নেই! Case-এর ভেতরে GPU slot একদম খালি। ৪৫,০০০ টাকার RTX 4060 কোথায়?
+
+**৩. এজেন্টঃ** Sir, এটা শুনে আমি shocked। একটা major component missing — এটা খুবই serious। Package-এর condition কেমন ছিল? Seal ভাঙা ছিল কি, কোনো tampering-এর চিহ্ন?
+
+**৪. কাস্টমারঃ** Package-এর seal intact ছিল, box-ও ভালো condition-এ ছিল। কিন্তু PC case খুলতেই দেখি GPU slot empty, PCIe cable ঝুলে আছে। বাকি সব component আছে — CPU, RAM, SSD, motherboard।
+
+**৫. এজেন্টঃ** Seal intact মানে transit-এ tampering-এর chance কম sir। এটা আমাদের assembly floor থেকেই packing error হয়ে থাকতে পারে। আপনি কি PC-র সাথে যে packing checklist ছিল সেটা check করেছেন? Assembly team প্রতিটা component tick করে একটা list দেয়।
+
+**৬. কাস্টমারঃ** হ্যাঁ, checklist-এ GPU tick mark দেওয়া আছে! মানে ওরা বলছে GPU দিয়েছে, কিন্তু আমি পাইনি।
+
+**৭. এজেন্টঃ** এটা contradictory information sir। দুটোর একটা ঘটেছে — হয় tick mark দিয়ে GPU install করা হয়নি, অথবা install করার পর packaging-এর সময় কোনো কারণে বের করা হয়েছে এবং আবার দেওয়া হয়নি। আমি এখনই assembly team-এর সাথে যোগাযোগ করছি।
+
+**৮. কাস্টমারঃ** আপু, আমি বলি — ৪৫,০০০ টাকার জিনিস missing, এটা ছোট বিষয় না। আমি invoice-এ GPU-র দাম দিয়েছি।
+
+**৯. এজেন্টঃ** Sir, আমি এটাকে সর্বোচ্চ priority দিচ্ছি। আমাদের assembly area-তে CCTV footage আছে — আমি immediately request দিচ্ছি আপনার build-এর assembly footage review করতে। এটাতে clearly দেখা যাবে GPU install হয়েছিল কিনা।
+
+**১০. কাস্টমারঃ** CCTV আছে, সেটা ভালো। কতক্ষণে answer পাওয়া যাবে?
+
+**১১. এজেন্টঃ** CCTV review-তে কয়েক ঘণ্টা লাগতে পারে sir, কারণ specific build-এর timestamp match করতে হবে। তবে আমি আজকের মধ্যেই আপনাকে preliminary update দেওয়ার target রাখছি।
+
+**১২. কাস্টমারঃ** আজকের মধ্যে। কিন্তু ততক্ষণে কী হবে? আমার PC GPU ছাড়া চালু হবে না, Ryzen 7800X3D-তে তো integrated graphics নেই।
+
+**১৩. এজেন্টঃ** আপনি technically correct sir — 7800X3D-তে iGPU নেই, তাই GPU ছাড়া display output আসবে না। এই অবস্থায় PC completely unusable। আমি supervisor-এর সাথে কথা বলে দেখছি interim-এ কী করা যায়।
+
+**১৪. কাস্টমারঃ** Please দ্রুত করুন আপু।
+
+**১৫. এজেন্টঃ** Sir, supervisor approve করেছেন — আগামীকালের মধ্যে আমরা আপনার address-এ একটা RTX 4060 পাঠিয়ে দেব। CCTV review-এর result যাই হোক, আপনি GPU-র জন্য pay করেছেন তাই আপনি GPU পাবেন। Investigation আমরা internally handle করব, আপনাকে wait করতে হবে না।
+
+**১৬. কাস্টমারঃ** সত্যিই? মানে investigation complete হওয়ার আগেই GPU পাঠাবেন?
+
+**১৭. এজেন্টঃ** হ্যাঁ sir। আপনি paying customer, আপনার order-এ GPU included ছিল, আপনি সেটা পাওয়ার entitled। আমাদের internal investigation আমাদের ব্যাপার, সেটার জন্য আপনাকে ভুগতে হবে না।
+
+**১৮. কাস্টমারঃ** এটা শুনে অনেক relieved feel করছি। কাল কখন আসবে GPU?
+
+**১৯. এজেন্টঃ** আগামীকাল বিকেলের মধ্যে। Delivery person GPU install করে দিয়ে যাবে — মানে শুধু দিয়ে যাবে না, case খুলে PCIe slot-এ বসিয়ে, power cable লাগিয়ে, boot test করে দেবে।
+
+**২০. কাস্টমারঃ** Install পর্যন্ত করে দেবে? সেটা তো excellent service।
+
+**২১. এজেন্টঃ** এটা তো আমাদের দায়িত্ব sir। আপনি complete build-এর order দিয়েছিলেন, complete build-ই পাওয়া উচিত। এই ভুলের জন্য আমি গভীরভাবে দুঃখিত।
+
+**২২. কাস্টমারঃ** আপু, আপনার response-এ আমি impressed। প্রথমে অনেক রাগ ছিল, কিন্তু আপনি professionally handle করলেন।
+
+**২৩. এজেন্টঃ** ধন্যবাদ sir, রাগ করা আপনার সম্পূর্ণ right ছিল। ৪৫,০০০ টাকার component missing — যে কেউই upset হতেন। আমরা এটা ঠিক করব।
+
+**২৪. কাস্টমারঃ** ঠিক আছে আপু, কালকের delivery-র অপেক্ষায় থাকলাম। ধন্যবাদ।
+
+**২৫. এজেন্টঃ** আপনাকেও ধন্যবাদ sir, সবর করার জন্য। কাল GPU install হয়ে গেলে আপনার complete build enjoy করুন। Star Tech customer care-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ১৪ঃ Delivery Man Laptop ফেলে দিয়েছে — Physical Damage
+
+> একজন customer-এর সামনে delivery man laptop-এর box হাত থেকে পড়ে যায়। Box-এর corner দেঁতো হয়ে গেছে এবং laptop-এর body-তে dent দেখা যাচ্ছে। Customer পুরো ঘটনা mobile-এ video করেছেন।
+
+**১. এজেন্টঃ** Star Tech delivery support, শুভ বিকেল। কীভাবে সাহায্য করতে পারি mam?
+
+**২. কাস্টমারঃ** ভাইয়া, এইমাত্র আমার laptop delivery আসল। Delivery man-এর হাত থেকে box-টা পড়ে গেল সিঁড়িতে, আমার সামনেই। Box-এর corner ভেঙে গেছে, laptop-ও dent হয়েছে। আমি পুরোটা video করেছি।
+
+**৩. এজেন্টঃ** Mam, এটা শুনে খুবই দুঃখিত। আপনি video করেছেন সেটা অত্যন্ত important — এটা আপনার claim-এর strongest evidence। Laptop কি চালু হচ্ছে? নাকি শুধু body damage?
+
+**৪. কাস্টমারঃ** চালু হচ্ছে, screen-ও ঠিক আছে। কিন্তু laptop-এর right side-এ clear dent আছে, আর bottom panel-এ scratch। ৬৫,০০০ টাকার laptop, একদম নতুন — এভাবে receive করা কোনোভাবে acceptable না।
+
+**৫. এজেন্টঃ** সম্পূর্ণ একমত mam। নতুন product-এ কোনো physical damage থাকা acceptable না, বিশেষ করে delivery-র সময় ঘটলে সেটা ১০০% আমাদের দায়িত্ব।
+
+**৬. কাস্টমারঃ** Delivery man বলছিল "ভেতরে তো ঠিক আছে, একটু dent হয়েছে, সমস্যা নেই।" আমি receive করতে রাজি হইনি, ওকে বলেছি রেখে যাও, আমি company-তে call করব।
+
+**৭. এজেন্টঃ** আপনি একদম সঠিক decision নিয়েছেন mam। Receive না করাটাই right move ছিল। Delivery man-এর "সমস্যা নেই" বলার কোনো authority নেই, damage assessment আমাদের team করবে।
+
+**৮. কাস্টমারঃ** তাহলে এখন কী হবে? আমি নতুন undamaged laptop চাই।
+
+**৯. এজেন্টঃ** আপনি পাবেন mam। Delivery-তে damage হলে আমাদের policy হলো full replacement — নতুন, undamaged unit পাঠানো হবে। আপনার case-এ video evidence-ও আছে, তাই কোনো dispute-এর প্রশ্নই আসে না।
+
+**১০. কাস্টমারঃ** Video কোথায় পাঠাব? আর damaged laptop-টা কি delivery man-ই নিয়ে গেছে?
+
+**১১. এজেন্টঃ** Video আমাদের WhatsApp number-এ পাঠিয়ে দিন — 01XXXXXXXXX, আমি এখনই number SMS-এ পাঠাচ্ছি। আর damaged laptop কি delivery man রেখে গেছে নাকি ফেরত নিয়ে গেছে?
+
+**১২. কাস্টমারঃ** রেখে গেছে, বলেছে "আপনি রাখুন, company বলবে কী করতে হবে।"
+
+**১৩. এজেন্টঃ** ঠিক আছে mam। Damaged unit আপনার কাছে থাকুক, replacement delivery-র সময় swap করে নিয়ে যাবে। ততক্ষণ damaged laptop-টা ব্যবহার না করলেই ভালো — internal damage থাকতে পারে যেটা visible না।
+
+**১৪. কাস্টমারঃ** বুঝলাম, ব্যবহার করব না। Replacement কতদিনে আসবে?
+
+**১৫. এজেন্টঃ** Same model-এর stock থাকলে ২-৩ working day-এ। আমি এখনই stock check করছি — আপনার laptop model কোনটা mam?
+
+**১৬. কাস্টমারঃ** HP Pavilion Plus 14, Core i7, 16GB RAM variant।
+
+**১৭. এজেন্টঃ** একটু wait করুন please — হ্যাঁ mam, stock-এ আছে। আগামীকাল বা পরশু replacement delivery আসবে। এবারে specially marked package-এ পাঠাব এবং delivery person-কে extra caution-এর instruction দেওয়া হবে।
+
+**১৮. কাস্টমারঃ** Please এবার যেন কোনো ঘটনা না হয়। আর delivery cost কি আমাকে দিতে হবে replacement-এর জন্য?
+
+**১৯. এজেন্টঃ** না mam, কোনো delivery cost নেই — পুরোটাই আমাদের expense-এ। এটা আমাদের ভুলের কারণে হয়েছে, আপনাকে একটা পয়সাও extra দিতে হবে না।
+
+**২০. কাস্টমারঃ** ঠিক আছে। আর ওই delivery man-এর ব্যাপারে কি কিছু হবে? উনি তো আমাকে damaged product accept করতে pressure দিচ্ছিলেন।
+
+**২১. এজেন্টঃ** Mam, delivery partner-দের performance আমরা track করি। আপনার complaint এবং video evidence-এর ভিত্তিতে delivery partner-এর বিরুদ্ধে internal action নেওয়া হবে। Customer-কে damaged product accept করতে বলা আমাদের policy-র সরাসরি violation।
+
+**২২. কাস্টমারঃ** ভালো। আমি চাই অন্য customer-দের সাথে যেন এটা না হয়।
+
+**২৩. এজেন্টঃ** একদম ঠিক mam। আপনার feedback-এর ভিত্তিতে আমরা delivery protocol review করব। এই ধরনের incident-ই আমাদের system improve করতে সাহায্য করে।
+
+**২৪. কাস্টমারঃ** ধন্যবাদ ভাইয়া। Video পাঠাচ্ছি WhatsApp-এ, replacement-এর খবর অপেক্ষায় আছি।
+
+**২৫. এজেন্টঃ** ধন্যবাদ mam, video evidence save করার জন্য এবং সঠিক সময়ে call করার জন্য। আগামীকালের মধ্যে update পাবেন। Star Tech delivery support-এ call করার জন্য ধন্যবাদ।
+
+---
+
