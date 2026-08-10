@@ -1,0 +1,119 @@
+# Star Tech / Ryans কাস্টমার সার্ভিস কল সেন্টার স্ক্রিপ্ট
+
+**Domain:** Electronics & PC Components E-commerce (Star Tech / Ryans Computers)  
+**মোট Scenario:** ৬০+ (৫০ Inbound + ১০ Outbound)
+
+---
+
+## সিনারিও ১ঃ Laptop Screen হঠাৎ বন্ধ — Warranty Claim
+
+> একজন university ছাত্র রাতে পড়ার সময় তার laptop-এর screen হঠাৎ কালো হয়ে যায়। Laptop টি কেনার ৮ মাস হয়েছে এবং পরীক্ষা মাত্র তিন দিন পরে।
+
+**১. এজেন্টঃ** Star Tech customer care-এ আপনাকে স্বাগতম। আমি কীভাবে আপনাকে সাহায্য করতে পারি, sir?
+
+**২. কাস্টমারঃ** ভাই, আমার laptop-এর screen হঠাৎ একদম কালো হয়ে গেছে। Power দিলে keyboard-এর light আসছে, fan ঘুরছে, কিন্তু screen একদম blank।
+
+**৩. এজেন্টঃ** বুঝতে পারছি, এটা সত্যিই চিন্তার বিষয়। Screen কালো হওয়ার আগে কি কোনো warning আসছিল, নাকি একদম হঠাৎ হয়েছে?
+
+**৪. কাস্টমারঃ** একদম হঠাৎ। পড়ছিলাম, screen একবার flicker করল, তারপর একদম বন্ধ। কোনো error message আসেনি।
+
+**৫. এজেন্টঃ** আচ্ছা sir। Laptop-টি কি আপনি একবার সম্পূর্ণ বন্ধ করে, battery খুলে ৩০ সেকেন্ড রেখে আবার চালু করে দেখেছেন?
+
+**৬. কাস্টমারঃ** হ্যাঁ, দুইবার try করলাম। Power চালু হচ্ছে বোঝা যাচ্ছে, কিন্তু screen কালোই থাকছে।
+
+**৭. এজেন্টঃ** কাছে কোনো external monitor বা TV আছে? HDMI দিয়ে connect করলে বুঝতে পারব সমস্যাটা screen-এ নাকি অন্য কোথাও।
+
+**৮. কাস্টমারঃ** না ভাই, আমি hall-এ থাকি। কাছে কোনো monitor নেই। তবে laptop চালু হচ্ছে মনে হচ্ছে, শুধু কিছু দেখা যাচ্ছে না।
+
+**৯. এজেন্টঃ** ঠিক আছে sir। আপনার description অনুযায়ী এটা সম্ভবত display panel বা display cable-এর সমস্যা। Laptop কোন model এবং কতদিন আগে কিনেছিলেন?
+
+**১০. কাস্টমারঃ** ASUS VivoBook 15, প্রায় ৮ মাস আগে আপনাদের কাছ থেকেই কিনেছিলাম। Warranty এখনও আছে বলে মনে হচ্ছে।
+
+**১১. এজেন্টঃ** হ্যাঁ sir, ৮ মাস হলে অবশ্যই ১ বছরের warranty-র মধ্যে আছেন। Display সংক্রান্ত এই ধরনের সমস্যা warranty-র আওতায় পড়ে। এটা নিয়ে দুশ্চিন্তা করবেন না।
+
+**১২. কাস্টমারঃ** Repair-এ কতদিন লাগবে? আমার পরীক্ষা তিন দিন পরে, এই laptop ছাড়া notes-ই access করতে পারব না।
+
+**১৩. এজেন্টঃ** সাধারণত display repair-এ ৫ থেকে ৭ working day লাগে, কারণ parts availability-র উপর নির্ভর করে। কিন্তু আপনার পরিস্থিতির কথা মাথায় রেখে আমি এটাকে urgent হিসেবে note করছি।
+
+**১৪. কাস্টমারঃ** ৫-৭ দিন মানে পরীক্ষার পরে পাব! একটু fast করা কি সম্ভব? এটা আমার একমাত্র device।
+
+**১৫. এজেন্টঃ** আপনার urgency সম্পূর্ণ বুঝতে পারছি sir। আমি suggest করব আপনি কাল সকালে সরাসরি Elephant Road বা Dhanmondi service center-এ যান এবং supervisor-কে পরিস্থিতিটা সরাসরি বলুন। On-site assessment-এ অনেক সময় express repair possible হয়।
+
+**১৬. কাস্টমারঃ** Express repair মানে কি ২৪-৪৮ ঘণ্টায় হতে পারে?
+
+**১৭. এজেন্টঃ** হ্যাঁ sir, যদি ASUS-এর display panel তাদের stock-এ থাকে তাহলে ২৪ থেকে ৪৮ ঘণ্টায় সম্ভব। Stock না থাকলে order করতে হবে, সেক্ষেত্রে একটু বেশি সময় লাগবে।
+
+**১৮. কাস্টমারঃ** Service center-এ কী কী নিয়ে যেতে হবে?
+
+**১৯. এজেন্টঃ** Star Tech-এর original purchase invoice আর laptop নিজে নিয়ে গেলেই হবে। Invoice যদি email-এ থাকে, phone-এ দেখালেও চলবে। NID বা অন্য কিছু লাগবে না।
+
+**২০. কাস্টমারঃ** Invoice email-এ আছে, ভালো হলো। আর service center সকাল কটায় খোলে?
+
+**২১. এজেন্টঃ** সকাল ১০টায় খোলে, সন্ধ্যা ৮টা পর্যন্ত থাকে। কাল সকালে early-তে গেলে queue-তে কম থাকবেন।
+
+**২২. কাস্টমারঃ** ঠিক আছে। আমি কি এই call-এর কোনো reference পাব, যাতে ওখানে গিয়ে বলতে পারি urgent বলা হয়েছে?
+
+**২৩. এজেন্টঃ** অবশ্যই sir। আপনার reference number হলো ST-2025-7823। Service center-এ এই number দিলে ওরা দেখতে পাবে case টি urgent হিসেবে log করা।
+
+**২৪. কাস্টমারঃ** নোট করে নিলাম। ধন্যবাদ ভাই, অনেক help হলো।
+
+**২৫. এজেন্টঃ** আপনার পরীক্ষা ভালো হোক sir। Star Tech customer care-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ২ঃ Dead Pixel Policy নিয়ে বিতর্ক — Monitor Replacement
+
+> একজন graphic designer দুই সপ্তাহ আগে একটি premium 4K monitor কিনেছেন। Screen-এর মাঝখানে ৫টি dead pixel দেখা গেছে যা তার professional কাজে সরাসরি সমস্যা করছে। Store বলছে এটা acceptable threshold-এর মধ্যে পড়ে।
+
+**১. এজেন্টঃ** Star Tech customer care-এ স্বাগতম। আমি Rafi বলছি, কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** দেখুন, দুই সপ্তাহ আগে আপনাদের কাছ থেকে একটা monitor কিনেছিলাম। এখন দেখছি screen-এ কয়েকটা dead pixel আছে। এটা কোনোভাবে accept করা সম্ভব না।
+
+**৩. এজেন্টঃ** আপনার অসুবিধার জন্য দুঃখিত sir। কোন model-এর monitor এবং কতগুলো dead pixel দেখতে পাচ্ছেন?
+
+**৪. কাস্টমারঃ** LG 27 inch 4K IPS monitor, দাম ছিল ৩৫,০০০ টাকার মতো। Screen-এ ৫টা dead pixel দেখছি, সবগুলো center-এর দিকে।
+
+**৫. এজেন্টঃ** বুঝতে পারছি sir। আপনাকে সৎভাবে বলছি — manufacturer-এর ISO 13406-2 standard অনুযায়ী 4K IPS panel-এ একটি নির্দিষ্ট সংখ্যক dead pixel কে technically acceptable ধরা হয়। এটাই industry-wide policy। তবে আপনার case-টি আমি একটু ভিন্নভাবে দেখছি কারণ pixel গুলো center zone-এ।
+
+**৬. কাস্টমারঃ** আমি graphic design করি, সারাদিন এই screen-এর সামনে কাজ। Center-এ dead pixel থাকলে white background-এ কাজ করাই অসম্ভব।
+
+**৭. এজেন্টঃ** একদম ঠিক বলেছেন sir। Screen-এর center zone-এ pixel defect থাকলে সেটা professional work-কে directly impact করে। এই কারণে center zone-এর defect আমরা edge-এর তুলনায় বেশি গুরুত্ব দিই।
+
+**৮. কাস্টমারঃ** তাহলে কি replacement হবে? নাকি শুধু আশ্বাস?
+
+**৯. এজেন্টঃ** সরাসরি বলছি — replacement হবে কিনা সেটা এখনই confirm করতে পারব না। কিন্তু center zone-এ ৫টি dark pixel-এর case-এ exception হওয়ার ভালো সম্ভাবনা আছে। এর জন্য আমাদের technical team-এর verification দরকার।
+
+**১০. কাস্টমারঃ** Verification-এ কতদিন লাগবে? এই সপ্তাহে আমার একটা বড় project deadline আছে।
+
+**১১. এজেন্টঃ** আপনি যদি monitor-টি সরাসরি Elephant Road service center-এ নিয়ে যান, on-site assessment সাধারণত ৩০ মিনিট থেকে ১ ঘণ্টার মধ্যে হয়। Technician পাঠানোর চেয়ে এটা অনেক দ্রুত হবে।
+
+**১২. কাস্টমারঃ** সেখানে গেলে যদি ওরা আবার সেই একই policy বলে এবং refuse করে?
+
+**১৩. এজেন্টঃ** সেক্ষেত্রে sir, আমাদের Head Office complaint portal-এ escalate করতে পারবেন। সেখানে customer relations team আলাদাভাবে review করে। এটা আমাদের official escalation path।
+
+**১৪. কাস্টমারঃ** আর LG Bangladesh-কে directly জানানোর কোনো option আছে?
+
+**১৫. এজেন্টঃ** হ্যাঁ sir, LG-এর নিজস্ব warranty claim process আছে। কিন্তু আমি suggest করব প্রথমে আমাদের channel-এই try করুন। Star Tech-এর through এটা দ্রুত resolve হওয়ার সম্ভাবনা বেশি।
+
+**১৬. কাস্টমারঃ** আচ্ছা। Service center-এ কী কী নিয়ে যাব?
+
+**১৭. এজেন্টঃ** Purchase invoice আর monitor original box সহ নিয়ে যান। আর আগে থেকে dead pixel-গুলোর photo বা short video তুলে রাখুন — একটা white background image full screen-এ দিলে clearly ধরা পড়বে। এই evidence থাকলে assessment আরও দ্রুত হয়।
+
+**১৮. কাস্টমারঃ** ভালো idea। Photo তুলে রাখব। Monitor transport করতে গেলে নিরাপদে কীভাবে নেব?
+
+**১৯. এজেন্টঃ** Original box থাকলে সেটাই সবচেয়ে safe। Box না থাকলে screen-এর উপর soft cloth রেখে bubble wrap দিয়ে মুড়িয়ে নিন। Screen-এ যেন কোনো চাপ না লাগে।
+
+**২০. কাস্টমারঃ** Box আছে, সেটাতেই নেব। কাল সকালে যাওয়া ঠিক হবে?
+
+**২১. এজেন্টঃ** একদম ঠিক হবে sir। কাল সকাল ১০টায় গেলে queue কম থাকবে। Service counter-এ বলুন dead pixel verification-এর জন্য এসেছেন।
+
+**২২. কাস্টমারঃ** আপনার সাথে কথা বলেছি এটার কোনো record থাকবে?
+
+**২৩. এজেন্টঃ** হ্যাঁ sir, আপনার call টি system-এ log হয়ে গেছে। Service center-এ আপনার phone number দিলে ওরা conversation history দেখতে পাবে।
+
+**২৪. কাস্টমারঃ** ঠিক আছে ভাই, কাল যাব। ধন্যবাদ সৎভাবে সব বলার জন্য।
+
+**২৫. এজেন্টঃ** আশা করি দ্রুত সমাধান হবে sir। আপনার project-এর জন্যও শুভ কামনা। Star Tech-এ call করার জন্য ধন্যবাদ।
+
+---
+
