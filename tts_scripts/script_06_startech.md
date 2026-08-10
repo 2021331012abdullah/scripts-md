@@ -953,3 +953,111 @@
 
 ---
 
+## সিনারিও ১৮ঃ Invoice-এ দাম ভুল — Corporate Tax Filing-এর জন্য Correct Invoice দরকার
+
+> একটি IT company-র procurement officer ৫টি desktop computer কিনেছেন। Invoice-এ unit price ভুল লেখা এবং VAT breakdown নেই। Company-র tax filing deadline আগামী সপ্তাহে, corrected invoice জরুরি।
+
+**১. এজেন্টঃ** Star Tech corporate sales support, আমি কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** ভাই, আমি একটা IT company থেকে বলছি। গত সপ্তাহে আপনাদের কাছ থেকে ৫টা desktop computer কিনেছিলাম। Invoice check করতে গিয়ে দেখলাম unit price ভুল লেখা এবং VAT-এর breakdown নেই। আমাদের tax filing আগামী সপ্তাহে, corrected invoice ছাড়া accounts department accept করবে না।
+
+**৩. এজেন্টঃ** বুঝতে পারছি sir, corporate purchase-এ invoice accuracy critical। Invoice-এ exactly কী ভুল দেখছেন?
+
+**৪. কাস্টমারঃ** দুটো সমস্যা — প্রথমত, unit price ৪২,০০০ টাকা হওয়ার কথা ছিল কিন্তু invoice-এ ৪৫,০০০ লেখা। দ্বিতীয়ত, total amount-এ VAT আলাদাভাবে show করা নেই, একটা lump sum amount দেওয়া আছে। আমাদের company-র auditor VAT breakdown ছাড়া accept করবেন না।
+
+**৫. এজেন্টঃ** দুটোই serious discrepancy sir। Unit price difference মানে total-এ ১৫,০০০ টাকার variance। আর VAT breakdown ছাড়া corporate compliance হয় না — আপনি ঠিকই বলেছেন। আমি এখনই billing team-কে contact করছি।
+
+**৬. কাস্টমারঃ** Please দ্রুত করুন। আমাদের chief accountant বলেছেন এই invoice নিয়ে সামনে যাওয়া সম্ভব না। NBR-র regulation অনুযায়ী VAT registration number, VAT amount, product description আলাদাভাবে থাকতে হবে।
+
+**৭. এজেন্টঃ** আপনি ঠিক বলেছেন sir। NBR-compliant invoice-এ seller-এর VAT registration number বা BIN, product-wise unit price, VAT rate এবং VAT amount separately mention থাকা mandatory। আমাদের standard retail invoice-এ এগুলো থাকে, কিন্তু মনে হচ্ছে আপনার invoice-টি simplified format-এ generate হয়েছে।
+
+**৮. কাস্টমারঃ** হ্যাঁ, exactly। আমরা corporate buyer, আমাদের detailed invoice দরকার।
+
+**৯. এজেন্টঃ** সম্পূর্ণ বুঝতে পারছি sir। Invoice reissue-এর জন্য আমার কাছে দুটো information দরকার — আপনার company-র full legal name যেটা invoice-এ থাকবে, এবং company-র TIN number। এগুলো দিলে corrected invoice-এ আপনার company-র details-ও add করা যাবে।
+
+**১০. কাস্টমারঃ** Company name হলো TechVision Solutions Ltd., TIN number আমি email-এ পাঠাচ্ছি। কিন্তু invoice reissue কতদিনে হবে?
+
+**১১. এজেন্টঃ** Corporate invoice reissue সাধারণত ২৪ থেকে ৪৮ ঘণ্টায় হয় sir। তবে আপনার urgency বিবেচনায় আমি billing team-কে priority request পাঠাচ্ছি। আগামীকালের মধ্যে corrected invoice email-এ পাবেন।
+
+**১২. কাস্টমারঃ** আগামীকাল? সেটা acceptable। কিন্তু invoice-এ unit price ৪২,০০০ হবে তো? ৪৫,০০০ না?
+
+**১৩. এজেন্টঃ** আমি purchase order verify করছি — হ্যাঁ sir, আপনার quotation-এ unit price ৪২,০০০ টাকা ছিল। Invoice-এ ৪৫,০০০ লেখা হয়েছে সেটা data entry error। Corrected invoice-এ ৪২,০০০ per unit-ই থাকবে। Total amount-ও accordingly adjust হবে।
+
+**১৪. কাস্টমারঃ** মানে আমরা ১৫,০০০ টাকা বেশি pay করেছি?
+
+**১৫. এজেন্টঃ** একটু check করি sir — আপনারা payment কীভাবে করেছিলেন? Bank transfer? Invoice amount অনুযায়ী pay করেছিলেন নাকি quotation amount অনুযায়ী?
+
+**১৬. কাস্টমারঃ** Quotation amount অনুযায়ী pay করেছি, মানে ৫ × ৪২,০০০ = ২,১০,০০০ plus VAT। Invoice-এর amount নিয়ে confusion হওয়ায় ওটা অনুযায়ী pay করিনি।
+
+**১৭. এজেন্টঃ** তাহলে payment correct আছে sir, শুধু invoice-এর printed amount ভুল। Corrected invoice-এ actual paid amount reflect করা হবে — কোনো additional payment বা refund-এর বিষয় নেই।
+
+**১৮. কাস্টমারঃ** ভালো, তাহলে শুধু invoice correction। Invoice-টা কি hard copy-তেও পাব? আমাদের auditor original stamp সহ hard copy চান।
+
+**১৯. এজেন্টঃ** হ্যাঁ sir, email-এ digital copy পাবেন আগে, পরে stamped hard copy আপনাদের office address-এ courier করা হবে। Hard copy-তে authorized signatory-র signature এবং company seal থাকবে।
+
+**২০. কাস্টমারঃ** Courier-এ কতদিন লাগবে?
+
+**২১. এজেন্টঃ** Dhaka-র মধ্যে হলে ১-২ working day। আপনাদের office কোথায় sir?
+
+**২২. কাস্টমারঃ** Motijheel-এ। তাহলে মোটামুটি ৩-৪ দিনের মধ্যে digital এবং hard copy দুটোই পেয়ে যাব?
+
+**২৩. এজেন্টঃ** হ্যাঁ sir, digital copy আগামীকাল, hard copy পরশু বা তার পরের দিন। Tax filing deadline-এর আগেই পৌঁছে যাবে। আপনাদের email address-টা confirm করুন please — invoice সেখানেই পাঠাব।
+
+**২৪. কাস্টমারঃ** procurement@techvision.com.bd। ধন্যবাদ ভাই, দ্রুত resolve করার জন্য। ভবিষ্যতে যেন corporate order-এ এই ধরনের error না হয়।
+
+**২৫. এজেন্টঃ** আপনার feedback note করলাম sir। Corporate purchase-এ invoice accuracy নিয়ে আমি billing team-কে separately brief করব। Star Tech corporate sales-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ১৯ঃ GPU লাগিয়েছি, PC চালু হচ্ছে না — POST করছে না
+
+> একজন first-time PC builder নতুন GPU install করেছেন কিন্তু PC boot হচ্ছে না। Screen-এ কিছুই আসছে না, motherboard-এ red LED জ্বলছে। GPU বা motherboard নষ্ট হয়ে গেছে ভেবে আতঙ্কিত।
+
+**১. এজেন্টঃ** Star Tech technical support, শুভ রাত। কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** ভাই, আমি আজকে প্রথমবার নিজে GPU install করলাম PC-তে। RTX 4060, আপনাদের কাছ থেকেই কেনা। Install করার পর PC চালু করলাম, screen-এ কিছুই আসছে না। Motherboard-এ একটা red light জ্বলছে। মনে হচ্ছে কিছু একটা নষ্ট করে ফেলেছি!
+
+**৩. এজেন্টঃ** Sir, আতঙ্কিত হবেন না। প্রথমবার GPU install-এ এই ধরনের সমস্যা খুবই common এবং ৯৫% ক্ষেত্রে সহজে solve হয়। কিছু নষ্ট হওয়ার chance অত্যন্ত কম। আমি আপনাকে step by step guide করব, ঠিক আছে?
+
+**৪. কাস্টমারঃ** ঠিক আছে ভাই, বলুন কী করতে হবে।
+
+**৫. এজেন্টঃ** সবার আগে PC সম্পূর্ণ বন্ধ করুন এবং power cable বের করুন। তারপর case-এর side panel খুলুন। GPU-টা কি ঠিকমতো PCIe slot-এ বসেছে দেখুন — slot-এর শেষে একটা latch আছে, সেটা কি click করে lock হয়েছে?
+
+**৬. কাস্টমারঃ** একটু দেখি — হ্যাঁ, latch lock হয়েছে মনে হচ্ছে। GPU বসে আছে slot-এ।
+
+**৭. এজেন্টঃ** আচ্ছা। এবার GPU-র top edge-এ দেখুন — সেখানে ৮-pin বা ৬+২-pin power connector port আছে। সেখানে কি PSU থেকে আসা PCIe power cable লাগানো আছে?
+
+**৮. কাস্টমারঃ** ৮-pin port... একটু দেখি... ভাই, মনে হচ্ছে আমি কোনো cable লাগাইনি এখানে! Port-টা খালি আছে!
+
+**৯. এজেন্টঃ** এটাই সমস্যা sir! RTX 4060-তে আলাদা power connection দরকার — শুধু PCIe slot থেকে যথেষ্ট power পায় না। Power supply unit থেকে একটা cable আসবে যেটায় "PCIe" বা "VGA" লেখা থাকে, সেটা GPU-র ৮-pin port-এ লাগাতে হবে। Cable-টা সাধারণত ৬+২ pin configuration-এ থাকে, দুটো part একসাথে করে ৮-pin বানিয়ে plug করবেন।
+
+**১০. কাস্টমারঃ** PSU থেকে বের হওয়া cable-গুলো দেখছি — হ্যাঁ, একটায় "PCIe" লেখা আছে। এটাই তো?
+
+**১১. এজেন্টঃ** হ্যাঁ sir, সেটাই! ৬+২ pin cable-টা GPU-র ৮-pin port-এ firmly push করুন যতক্ষণ না click sound আসে। Cable loosely বসলেও POST fail হতে পারে, তাই ভালো করে বসান।
+
+**১২. কাস্টমারঃ** লাগাচ্ছি... click sound আসল! ঠিকমতো বসেছে মনে হচ্ছে।
+
+**১৩. এজেন্টঃ** Excellent! এবার side panel আপাতত open রেখেই power cable লাগান এবং PC চালু করুন। দেখুন motherboard-এর red LED এখনও জ্বলে কিনা এবং screen-এ কিছু আসে কিনা।
+
+**১৪. কাস্টমারঃ** চালু করছি... fan ঘুরছে... GPU-র fan-ও ঘুরছে... ভাই, screen-এ BIOS আসছে! কাজ করছে!
+
+**১৫. এজেন্টঃ** চমৎকার sir, congratulations! সমস্যাটা ঠিক যেটা সন্দেহ করেছিলাম — GPU power cable connected ছিল না। Motherboard-এর red VGA LED জ্বলছিল কারণ GPU properly power পাচ্ছিল না।
+
+**১৬. কাস্টমারঃ** বুঝলাম! আমি ভেবেছিলাম শুধু slot-এ বসালেই হবে, আলাদা power cable লাগে জানতাম না। কিন্তু ভাই, এটা GPU box-এর instruction-এও clearly লেখা ছিল না!
+
+**১৭. এজেন্টঃ** সত্যি বলতে sir, অনেক GPU manufacturer-এর quick start guide-এ এটা ছোট print-এ থাকে, beginners প্রায়ই miss করেন। এটা খুবই common mistake, আপনি একা না। Important হলো কিছু নষ্ট হয়নি।
+
+**১৮. কাস্টমারঃ** সেটা শুনে অনেক relief। এখন কি Windows boot করব? BIOS-এ কি কিছু change করতে হবে?
+
+**১৯. এজেন্টঃ** BIOS-এ কিছু change করার দরকার নেই sir। সরাসরি Windows boot করুন। Windows boot হলে GPU automatically detect হবে। তারপর NVIDIA-র official website থেকে GeForce Experience download করুন — সেটা automatically latest driver install করে দেবে।
+
+**২০. কাস্টমারঃ** GeForce Experience, ঠিক আছে। আর driver install হলেই gaming ready?
+
+**২১. এজেন্টঃ** হ্যাঁ sir, driver install হলে GPU full performance-এ কাজ করবে। একটা tip — driver install-এর পর PC একবার restart দিন। তারপর যেকোনো game চালিয়ে test করুন, FPS counter on করে performance verify করুন।
+
+**২২. কাস্টমারঃ** ভাই, আপনি না থাকলে আমি মনে হয় GPU return দিয়ে দিতাম ভেবে নষ্ট হয়ে গেছে! ধন্যবাদ অনেক।
+
+**২৩. এজেন্টঃ** হা হা, সেটা হলে দুঃখজনক হতো sir! সব ঠিক আছে, enjoy your new GPU। কোনো issue হলে আবার call করবেন। Star Tech technical support-এ call করার জন্য ধন্যবাদ।
+
+---
+
