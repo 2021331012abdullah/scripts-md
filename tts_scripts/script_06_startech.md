@@ -2109,3 +2109,171 @@
 
 ---
 
+## সিনারিও ৩৯ঃ Sealed Product-এর বদলে Open-Box Item এসেছে
+
+> একজন customer brand new earbuds order করেছিলেন। Delivery-তে box seal করা ছিল না, ভেতরে earbuds used মনে হচ্ছে, extra ear tips-ও নেই। Customer মনে করছেন refurbished product দেওয়া হয়েছে।
+
+**১. এজেন্টঃ** Star Tech customer service, শুভ সকাল। কীভাবে সাহায্য করতে পারি mam?
+
+**২. কাস্টমারঃ** ভাইয়া, আমি Samsung Galaxy Buds2 Pro order করেছিলাম brand new। Delivery পেলাম, কিন্তু box-এ কোনো seal নেই! ভেতরে earbuds-এ ময়লার দাগ আছে, ear tip-এর packet open, আর একটা set ear tip নেই। এটা কি used product পাঠিয়েছেন?
+
+**৩. এজেন্টঃ** Mam, এটা শুনে সত্যিই মর্মাহত হলাম — আপনি brand new product-এর পয়সা দিয়ে এরকম কিছু পেয়েছেন, এটা গ্রহণযোগ্য না। এই ধরনের ঘটনা আমাদের policy-র সম্পূর্ণ বিরুদ্ধে। আমি immediately investigate করছি।
+
+**৪. কাস্টমারঃ** এটা কি intentionally করা হয়েছে? কেউ কি warehouse থেকে নতুনটা সরিয়ে used দিয়েছে?
+
+**৫. এজেন্টঃ** সেই সম্ভাবনা একদম উড়িয়ে দিচ্ছি না mam — এটা গুরুতর allegation এবং আমরা সেটা seriously investigate করব। Warehouse-এ CCTV footage আছে, packing log আছে। আপনার shipment কোন batch-এ গেছে সেটা trace করা হবে। কিন্তু সবার আগে আপনার সমস্যাটা আমি এখনই resolve করতে চাই।
+
+**৬. কাস্টমারঃ** হ্যাঁ, আমি তো নতুন product চাই। কিন্তু আমি কীভাবে trust করব যে এবার sealed product পাব?
+
+**৭. এজেন্টঃ** সেটা সম্পূর্ণ legitimate concern mam। এবার replacement dispatch করার আগে আমি personally quality check আর sealing verify করার note warehouse team-এ পাঠাব। আর delivery-র সময় courier-এর সামনে খুলবেন — box-এ seal intact না থাকলে সেখানেই refuse করবেন, courier-এর কাছে return দেবেন।
+
+**৮. কাস্টমারঃ** Courier-এর সামনে খুলব। এটা কি করা allowed?
+
+**৯. এজেন্টঃ** অবশ্যই mam, এটা আপনার অধিকার। Open delivery মানে delivery accept করার আগে product check করার permission। Star Tech-এর courier instruction-এ লেখা থাকে "open in front of delivery agent" — especially electronics-এর জন্য। এবার আমি delivery note-এ সেটা explicitly mention করব।
+
+**১০. কাস্টমারঃ** ঠিক আছে। এখন যে product আমার কাছে আছে সেটা কী করব?
+
+**১১. এজেন্টঃ** কিছু করবেন না mam — আগামীকাল আমাদের courier আসবে সেটা pickup করতে। আপনি যেভাবে পেয়েছেন সেভাবেই রাখুন — কোনো কিছু ব্যবহার করবেন না, সব যেমন আছে তেমন থাকুক।
+
+**১২. কাস্টমারঃ** ব্যবহার করিনি, করব না। Replacement কখন আসবে?
+
+**১৩. এজেন্টঃ** Pickup আর delivery simultaneously process হবে mam — আগামীকাল pickup, পরশু নতুন unit dispatch। ঢাকায় আছেন বলে পরশু বা তার পরের দিন delivery হবে। ৩ দিনের মধ্যে।
+
+**১৪. কাস্টমারঃ** ৩ দিন, ঠিক আছে। কিন্তু ভাইয়া, এই ঘটনার জন্য কোনো compensation নেই? আমি mentally stressed হয়েছি, সময় নষ্ট হয়েছে।
+
+**১৫. এজেন্টঃ** আপনার stress এবং সময়ের ক্ষতি আমি fully acknowledge করছি mam। Compensation হিসেবে আমি ৫০০ টাকার store credit offer করছি — এবং পরবর্তী purchase-এ ৫% additional discount-এর arrangement করব। এটা কি acceptable?
+
+**১৬. কাস্টমারঃ** ৫০০ টাকা store credit আর ৫% discount — ঠিক আছে, accept করছি। কিন্তু internal investigation কি সত্যিই হবে?
+
+**১৭. এজেন্টঃ** হ্যাঁ mam, আমি এটা fraud investigation unit-এ refer করছি। আপনার case number FI-2024-089। ২ সপ্তাহের মধ্যে investigation complete হবে। Outcome আপনাকে email-এ জানানো হবে।
+
+**১৮. কাস্টমারঃ** Investigation result জানাবেন? কোনো action নেওয়া হবে কি?
+
+**১৯. এজেন্টঃ** যদি investigation-এ intentional fraud প্রমাণ হয় mam, সেই staff-এর বিরুদ্ধে disciplinary action নেওয়া হবে, প্রয়োজনে legal action-ও। আপনাকে result communicate করা হবে।
+
+**২০. কাস্টমারঃ** ভালো। এবার আমার একটা request — আমি যখন replacement নেব, সেটা কি কোনো specific warehouse থেকে আসবে? মানে same warehouse থেকে না হলে ভালো।
+
+**২১. এজেন্টঃ** আমি সেটা note করছি mam এবং central Dhaka warehouse থেকে dispatch করার জন্য request করব — সেখানে direct management oversight বেশি।
+
+**২২. কাস্টমারঃ** ঠিক আছে। Replacement পাওয়ার পর কি আবার confirm করব?
+
+**২৩. এজেন্টঃ** দরকার নেই mam, তবে seal intact আছে কিনা delivery-র সময় নিশ্চিত করবেন। কোনো সমস্যা হলে সরাসরি আমার এই helpline-এ call করবেন।
+
+**২৪. কাস্টমারঃ** ঠিক আছে ভাইয়া। এত কিছুর পরেও আপনি professionally handle করলেন, ধন্যবাদ।
+
+**২৫. এজেন্টঃ** এটা আমাদের দায়িত্ব mam — এরকম ঘটনা যেন না হয় সেটা ensure করাও। আপনার Galaxy Buds2 Pro অনেক enjoy করবেন। Star Tech customer service-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ৪০ঃ Courier-Damaged Product Return-এ Partial Refund — Full Refund চাই
+
+> একজন customer smartwatch delivery-তে damaged পেয়ে return করেছেন। Refund এসেছে purchase price-এর ৭০% — বাকি ৩০% কাটা হয়েছে "courier damage handling fee" বলে। Customer full refund দাবি করছেন।
+
+**১. এজেন্টঃ** Star Tech customer service, শুভ দুপুর। কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** ভাই, আমি Samsung Galaxy Watch 5 কিনেছিলাম, delivery-তে cracked screen আসায় return করলাম। Refund এসেছে ৮,৭৫০ টাকা — কিন্তু আমি দিয়েছিলাম ১২,৫০০ টাকা। ৩,৭৫০ টাকা কাটা হয়েছে "courier damage handling fee" বলে SMS-এ লেখা। এটা কীসের fee?
+
+**৩. এজেন্টঃ** Sir, আপনার refund amount-এ discrepancy আছে সেটা আমি দেখতে পাচ্ছি। "Courier damage handling fee" আমাদের standard refund policy-তে নেই — এটা আমাকে investigate করতে হবে। আপনার return-টা কীভাবে process হয়েছিল, বলবেন একটু?
+
+**৪. কাস্টমারঃ** আমি delivery-তেই damaged দেখে courier reject করিনি — ভেতরে damage বুঝিনি, box ঠিকঠাক ছিল। বাসায় এনে open করে দেখলাম screen crack। তারপর Star Tech-এর return form submit করলাম, pickup হলো, ১ সপ্তাহ পর partial refund এলো।
+
+**৫. এজেন্টঃ** বুঝলাম sir। তাহলে external box ঠিক ছিল কিন্তু ভেতরের product crack? এটা transit damage-এর classic pattern — courier careless handling-এ inside shock damage হয়। আপনার return form-এ কি "courier transit damage" mention করা ছিল?
+
+**৬. কাস্টমারঃ** হ্যাঁ, clearly লিখেছিলাম "received cracked, box intact" — মানে courier-এর ভুলে damaged।
+
+**৭. এজেন্টঃ** তাহলে এই case-এ ৩০% deduction করার কোনো justification নেই sir। Courier transit damage যদি clearly documented হয়, তাহলে full refund আপনার right। "Courier damage handling fee" কোনো valid charge না। এটা processing error হয়েছে।
+
+**৮. কাস্টমারঃ** Processing error? এটা কি automatically correct হবে?
+
+**৯. এজেন্টঃ** না sir, automatically হবে না। আমাকে manually escalate করতে হবে refund adjustment request হিসেবে। আপনার কাছে কি return form-এর copy বা confirmation email আছে?
+
+**১০. কাস্টমারঃ** হ্যাঁ, email-এ return confirmation আছে। Subject-এ "Transit Damage Return" লেখা।
+
+**১১. এজেন্টঃ** Perfect sir — সেই email-ই প্রমাণ যে আপনি transit damage clearly declare করেছিলেন। আমি এখন supervisor-এর সাথে কথা বলছি, একটু hold-এ থাকুন।
+
+**১২. কাস্টমারঃ** ঠিক আছে, hold-এ থাকছি।
+
+**১৩. এজেন্টঃ** Sir, supervisor কথা বলে confirm করলেন — transit damage declared return-এ কোনো handling fee applicable না। ৩,৭৫০ টাকার remaining refund process করা হবে। ৩-৫ working day-এ আপনার payment method-এ ফেরত আসবে।
+
+**১৪. কাস্টমারঃ** সত্যিই? Full refund পাব?
+
+**১৫. এজেন্টঃ** হ্যাঁ sir, সম্পূর্ণ ১২,৫০০ টাকার মধ্যে ৮,৭৫০ ইতোমধ্যে পেয়েছেন, বাকি ৩,৭৫০ টাকা ৩-৫ working day-এ আসবে। আপনি কার্ড-এ pay করেছিলেন নাকি bKash-এ?
+
+**১৬. কাস্টমারঃ** Credit card-এ।
+
+**১৭. এজেন্টঃ** Credit card refund ৩-৫ working day-এ statement-এ দেখাবে sir। Bank কখনো কখনো ৭ working day পর্যন্ত নিতে পারে, processing cycle depend করে।
+
+**১৮. কাস্টমারঃ** ৭ দিন পর্যন্ত অপেক্ষা করব। কিন্তু ভাই, এই ভুলটা কেন হলো? কেউ কি manually ৩০% deduct করেছে?
+
+**১৯. এজেন্টঃ** সম্ভবত refund processing-এ একটা wrong category select হয়েছিল sir — "general return" আর "transit damage return" দুটো আলাদা process, আর handling fee শুধু general return-এ apply হয়। এটা human error, malicious intent মনে হচ্ছে না। তবে এই miscategorization যেন না হয় সেজন্য আমি internal feedback পাঠাচ্ছি।
+
+**২০. কাস্টমারঃ** বুঝলাম। একটা কথা — ভবিষ্যতে delivery-তে damage পেলে করণীয় কী? Courier reject করতে হবে?
+
+**২১. এজেন্টঃ** হ্যাঁ sir, সবচেয়ে clean process হলো — delivery receive করার সময় box-এর বাইরে কোনো damage দেখলে courier-এর সামনেই খুলুন। Inside damage দেখলে courier-এর সামনেই refuse করুন এবং courier-কে দিয়ে একটা return acknowledgement লিখিয়ে নিন। তাহলে transit damage documented হয় সাথে সাথে।
+
+**২২. কাস্টমারঃ** সেটা জানতাম না। ভবিষ্যতে করব। ধন্যবাদ ভাই, full refund arrange করার জন্য।
+
+**২৩. এজেন্টঃ** আপনি আপনার অধিকার জানতেন এবং সঠিকভাবে claim করেছেন sir — সেটা appreciate করি। Refund reference number হলো REF-2024-3381, এটা note করে রাখুন।
+
+**২৪. কাস্টমারঃ** Note করলাম। ৭ দিন অপেক্ষা করব।
+
+**২৫. এজেন্টঃ** পরের বার ভালো delivery পান সেই কামনা করি sir। Star Tech customer service-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ৪১ঃ Cancelled Order-এর Refund ১২ দিনেও আসেনি
+
+> একজন customer ১২ দিন আগে order cancel করেছেন। ৫-৭ working day-এ refund আসার কথা ছিল। এখনো কিছু আসেনি। দ্বিতীয়বার call করছেন, এবার অত্যন্ত frustrated।
+
+**১. এজেন্টঃ** Star Tech customer service, শুভ বিকেল। কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** ভাই, আমি ১২ দিন আগে একটা order cancel করেছিলাম — Ryzen 5 7600X processor। আগের agent বলেছিল ৫-৭ working day-এ refund আসবে। ১২ দিন হয়ে গেছে, কিচ্ছু আসেনি। এটা কোনো acceptable situation?
+
+**৩. এজেন্টঃ** Sir, আপনি ১২ দিন ধরে অপেক্ষা করছেন এবং promised timeline অনেক আগেই পেরিয়ে গেছে — এটা genuinely unacceptable এবং এর জন্য আমি deeply apologize করছি। আমি এখনই আপনার refund status investigate করছি।
+
+**৪. কাস্টমারঃ** আগেরবার call করেছিলাম, বলেছিল "processing-এ আছে"। এবার সেটা শুনতে চাই না।
+
+**৫. এজেন্টঃ** আমি সেই একই উত্তর দেব না sir, আমি actual status বের করব। আপনার cancellation reference number কি আছে?
+
+**৬. কাস্টমারঃ** STCL-2024-4421।
+
+**৭. এজেন্টঃ** STCL-2024-4421 দিয়ে trace করছি... পেয়েছি sir। Cancellation ১২ দিন আগে approved হয়েছে, refund initiation হয়েছে ১০ দিন আগে, amount ৪৫,০০০ টাকা। কিন্তু দেখছি status "pending bank reconciliation" — মানে আমাদের side থেকে release হয়েছে কিন্তু bank-এ pending queue-এ আটকে আছে।
+
+**৮. কাস্টমারঃ** Bank-এ আটকে আছে মানে? এটা কি আমার bank-এর সমস্যা?
+
+**৯. এজেন্টঃ** সরাসরি আপনার bank-এর সমস্যা না sir। Payment gateway আর bank-এর মধ্যে একটা reconciliation queue থাকে — normally ৫-৭ day-এ clear হয়। কিন্তু কিছু transaction queue-এ stuck হয়ে যায়। আপনারটা ১০ দিন ধরে stuck — এটা abnormal।
+
+**১০. কাস্টমারঃ** Stuck হয়ে আছে ১০ দিন! এখন কী করবেন?
+
+**১১. এজেন্টঃ** আমি এখনই finance team-কে manual intervention request করছি sir — তারা payment gateway-কে direct force push করবে, queue bypass করে। এটা করলে সাধারণত ২৪-৪৮ ঘণ্টার মধ্যে bank statement-এ দেখাবে।
+
+**১২. কাস্টমারঃ** ২৪-৪৮ ঘণ্টা? আর কত দিন? আমি processor কিনতে পারছি না, টাকা আটকে আছে!
+
+**১৩. এজেন্টঃ** আপনার frustration আমি সম্পূর্ণ বুঝতে পারছি sir — ৪৫,০০০ টাকা ১২ দিন আটকে থাকা কারো জন্যই acceptable না। Force push request এখনই submit করছি, এটা priority ticket হিসেবে process হবে।
+
+**১৪. কাস্টমারঃ** এবারো যদি না আসে তাহলে কী করব?
+
+**১৫. এজেন্টঃ** আমি আপনাকে একটা direct escalation number দিচ্ছি sir — আমাদের finance dispute hotline, যেটা সরাসরি refund operations team-এ যায়। এই number-এ call করলে front-line queue bypass হবে। আর আমি personally আপনার case-এ ৪৮ ঘণ্টার মধ্যে follow-up SMS পাঠাব — status update সহ।
+
+**১৬. কাস্টমারঃ** Follow-up SMS? আগের agent-ও একই কথা বলেছিল।
+
+**১৭. এজেন্টঃ** Sir, সেটার জন্য genuinely sorry। এবার আমি ticket-এ আপনার phone number-এ auto-SMS trigger set করছি — finance team যখনই status update করবে, আপনার phone-এ automatically SMS যাবে, manually remember করতে হবে না।
+
+**১৮. কাস্টমারঃ** Auto SMS হবে? সেটা ভালো। আপনার কথা বিশ্বাস করছি। আচ্ছা ৪৮ ঘণ্টা পর না আসলে কি bank dispute raise করতে পারব?
+
+**১৯. এজেন্টঃ** হ্যাঁ sir, সেটা আপনার absolute right। Credit card থেকে pay করলে chargeback করতে পারবেন bank-এ। আমরা তখন bank-এর সাথে cooperate করব। তবে আমি strongly believe করি ৪৮ ঘণ্টার মধ্যে আমাদের force push কাজ করবে।
+
+**২০. কাস্টমারঃ** Credit card-এ pay করেছিলাম। ৪৮ ঘণ্টা দিচ্ছি, তারপর bank-এ যাব।
+
+**২১. এজেন্টঃ** সেটাই করবেন sir, এটা আপনার অধিকার। আর এই অপেক্ষার জন্য compensation হিসেবে আমি আপনার account-এ ৩০০ টাকার store credit add করছি।
+
+**২২. কাস্টমারঃ** ৩০০ টাকা store credit দিলে কী হবে, processor কিনতে পারছি না ১২ দিন ধরে! Timing টা wrong ছিল।
+
+**২৩. এজেন্টঃ** আপনি সম্পূর্ণ ঠিক বলেছেন sir। Compensation-এর চেয়ে আপনার ৪৫,০০০ টাকা ফেরত আসাটাই priority। Ticket number হলো FIN-2024-7820 — এটা দিয়ে যেকোনো সময় status check করতে পারবেন।
+
+**২৪. কাস্টমারঃ** FIN-2024-7820। ঠিক আছে, ৪৮ ঘণ্টা অপেক্ষা করব। এরপর যদি না আসে, তাহলে consumer affairs-এ complaint করব।
+
+**২৫. এজেন্টঃ** আপনার অধিকার আছে সেটা করার sir। আমি আশা করি সেটার দরকার হবে না। Star Tech customer service-এ call করার জন্য ধন্যবাদ।
+
+---
+
