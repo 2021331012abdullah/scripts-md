@@ -789,3 +789,167 @@
 
 ---
 
+## সিনারিও ১৫ঃ Online-এ Home Delivery Select করেছি কিন্তু Store বলছে নিতে আসুন
+
+> একজন physically disabled customer online-এ printer order করে home delivery select করেছিলেন। কিন্তু store থেকে call এসে বলা হয়েছে stock নিকটতম branch-এ আছে, নিতে আসতে হবে। Customer-এর পক্ষে store-এ যাওয়া সম্ভব না।
+
+**১. এজেন্টঃ** Star Tech online support, শুভ দুপুর। কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** ভাই, আমি গতকাল আপনাদের website থেকে একটা printer order করেছি, home delivery select করেছিলাম। আজকে সকালে Gulshan branch থেকে call আসল, বলছে stock ওখানে আছে, নিতে আসতে হবে। আমি home delivery-র জন্য extra charge-ও দিয়েছি!
+
+**৩. এজেন্টঃ** এটা তো ঠিক হয়নি sir। আপনি home delivery select করেছেন এবং delivery charge দিয়েছেন — তাহলে আপনার product আপনার ঘরে পৌঁছানো আমাদের দায়িত্ব। Branch-এ নিতে আসতে বলার কোনো কারণ থাকা উচিত না।
+
+**৪. কাস্টমারঃ** ঠিক এটাই আমি বলেছিলাম। কিন্তু branch-এর লোক বলল "আমরা delivery arrange করতে পারছি না, আপনি এসে নিয়ে গেলে সবচেয়ে সহজ হয়।" ভাই, আমি physically handicapped, wheelchair-এ চলি — আমার পক্ষে store-এ যাওয়া প্রায় অসম্ভব।
+
+**৫. এজেন্টঃ** Sir, আমি আপনার পরিস্থিতি বুঝতে পারছি এবং branch-এর এই response সম্পূর্ণ ভুল। Home delivery-র option দেওয়া হয়েছে website-এ, charge নেওয়া হয়েছে — এর পর "নিতে আসুন" বলা আমাদের policy violation। আমি এখনই এটা resolve করছি।
+
+**৬. কাস্টমারঃ** কীভাবে resolve করবেন? Branch তো বলেছে ওরা delivery arrange করতে পারবে না।
+
+**৭. এজেন্টঃ** Branch locally delivery manage করতে না পারলে সেটা ওদের internal logistics issue, customer-কে সেটার burden দেওয়া যায় না। আমি central logistics team-কে directly request পাঠাচ্ছি — ওরা আমাদের delivery partner network ব্যবহার করে আপনার address-এ পাঠাবে। Branch-এর সাথে আপনার আর কথা বলার দরকার নেই।
+
+**৮. কাস্টমারঃ** সেটা করলে ভালো হয়। আমি Uttara-তে থাকি, ১২ তলা building-এর ৩ তলায়। Lift আছে, কিন্তু delivery man-কে flat পর্যন্ত আসতে হবে।
+
+**৯. এজেন্টঃ** কোনো সমস্যা নেই sir। Home delivery মানেই doorstep delivery — delivery person আপনার flat-এর দরজা পর্যন্ত product নিয়ে আসবে। Lift ব্যবহার করে ৩ তলায় আসা ওদের কাজের অংশ।
+
+**১০. কাস্টমারঃ** আচ্ছা। কত দিনের মধ্যে পাব?
+
+**১১. এজেন্টঃ** যেহেতু product Gulshan branch-এ already আছে, central logistics pickup করে আপনার কাছে পাঠাতে আগামীকাল বা পরশুর মধ্যে হবে। আমি fast-track করছি কারণ আপনার order-এ already delay হয়েছে branch-এর ভুলের কারণে।
+
+**১২. কাস্টমারঃ** ঠিক আছে। আর delivery charge তো আমি already দিয়েছি, আবার কিছু দিতে হবে না তো?
+
+**১৩. এজেন্টঃ** একদমই না sir। আপনি already delivery charge pay করেছেন, extra কিছু দিতে হবে না। বরং branch-এর এই miscommunication-এর জন্য আপনাকে একটা ১০% discount voucher দেওয়া হচ্ছে next purchase-এ ব্যবহারের জন্য — আমাদের ক্ষমা প্রদর্শন হিসেবে।
+
+**১৪. কাস্টমারঃ** সেটা ভালো। ভাই, আমি মূলত কাজের জন্য printer কিনছি, ঘরে বসে freelance কাজ করি। এই delay-এ আমার কিছু urgent print pending আছে।
+
+**১৫. এজেন্টঃ** আপনার urgency বুঝতে পারছি sir। Printer delivery-র সময় delivery person সাথে printer-এর ink cartridge installed অবস্থায় দেবে, box-এ test page print-এর instruction-ও থাকবে। কোনো setup help লাগলে আমাদের technical support-এ call করবেন, phone-এই guide করব।
+
+**১৬. কাস্টমারঃ** Phone-এ guide করবেন? সেটা তো অনেক helpful। কারণ printer setup আমার জন্য একটু কঠিন হতে পারে।
+
+**১৭. এজেন্টঃ** কোনো চিন্তা নেই sir। WiFi printer হলে phone-এই step by step guide করব। আর wired printer হলে USB cable connect করাটাই মূল কাজ, বাকিটা Windows automatic করে দেয়।
+
+**১৮. কাস্টমারঃ** WiFi printer, HP LaserJet M141w। WiFi setup-টা করতে পারলেই হলো।
+
+**১৯. এজেন্টঃ** HP M141w-এর WiFi setup বেশ straightforward sir। HP Smart app download করলে app নিজেই printer detect করে connect করে দেয়। Delivery পাওয়ার পর আমাদের call করলে ১০-১৫ মিনিটে setup complete করে দেব।
+
+**২০. কাস্টমারঃ** চমৎকার। ভাই, আমি অনেক দিন ধরে Star Tech থেকে কিনি, এই প্রথম এমন অভিজ্ঞতা হলো branch-এর সাথে।
+
+**২১. এজেন্টঃ** আপনার loyalty-র জন্য ধন্যবাদ sir, এবং এবারের অভিজ্ঞতার জন্য আমি ক্ষমা চাইছি। Branch-কে আমি feedback দিয়ে রাখব যে home delivery order-এ customer-কে নিতে আসতে বলা acceptable না।
+
+**২২. কাস্টমারঃ** বিশেষ করে disabled customer-দের ক্ষেত্রে এটা আরও sensitive। আমার মতো অনেকেই আছেন যারা online কেনেন কারণ store-এ যেতে পারেন না।
+
+**২৩. এজেন্টঃ** আপনি একদম সঠিক বলেছেন sir। Accessibility আমাদের সবসময় মাথায় রাখা উচিত, এবং আপনার এই feedback আমি management-এর কাছে specifically তুলে ধরব।
+
+**২৪. কাস্টমারঃ** ধন্যবাদ ভাই, আপনি অনেক ভালোভাবে handle করলেন। Delivery-র অপেক্ষায় থাকলাম।
+
+**২৫. এজেন্টঃ** আপনার printer যত দ্রুত সম্ভব পৌঁছানো আমার priority sir। Delivery-র পর setup help-এও call করতে ভুলবেন না। Star Tech online support-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ১৬ঃ Pre-order করা GPU-র Launch পিছিয়ে গেছে — Refund চাই
+
+> একজন gamer RTX 5080 pre-order করে ২০,০০০ টাকা advance দিয়েছিলেন। NVIDIA launch ৩ মাস পিছিয়ে দিয়েছে। Customer আর wait করতে রাজি না, পুরো advance refund চান।
+
+**১. এজেন্টঃ** Star Tech pre-order support, আমি কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** ভাই, আমি RTX 5080 pre-order করেছিলাম দুই মাস আগে, ২০,০০০ টাকা advance দিয়েছিলাম। এখন শুনছি NVIDIA launch date আরও ৩ মাস push করেছে। আমি আর wait করতে চাই না, refund চাই।
+
+**৩. এজেন্টঃ** বুঝতে পারছি sir, ৩ মাস additional wait অনেক দীর্ঘ সময়। Pre-order-এর সময় কোন expected launch date বলা হয়েছিল?
+
+**৪. কাস্টমারঃ** বলেছিল August-এ launch হবে, আমি July-তে pre-order করেছিলাম। এখন শুনছি November-এ হবে। মোট ৫ মাস wait করতে হবে!
+
+**৫. এজেন্টঃ** Sir, NVIDIA-র launch delay আমাদের control-এ নেই — এটা manufacturer-এর decision। তবে আপনার refund-এর right সম্পূর্ণ আছে। Pre-order-এ launch delay হলে customer full refund-এর eligible — এটা আমাদের clear policy।
+
+**৬. কাস্টমারঃ** Full refund? কোনো cancellation fee কাটবে না তো?
+
+**৭. এজেন্টঃ** না sir, manufacturer delay-র কারণে cancel করলে কোনো fee কাটা হয় না। আপনার ২০,০০০ টাকা পুরোটাই ফেরত পাবেন। এটা different situation — আপনি যদি নিজে mind change করে cancel করতেন, তাহলে ৫% fee applicable হতো। কিন্তু delay manufacturer-এর দিক থেকে, তাই full refund।
+
+**৮. কাস্টমারঃ** সেটা fair। Refund কতদিনে হবে?
+
+**৯. এজেন্টঃ** Payment method depending sir — bKash বা bank transfer-এ ৩-৫ working day, credit card-এ ৭-১০ working day। আপনি কীভাবে pay করেছিলেন?
+
+**১০. কাস্টমারঃ** bKash দিয়ে। তাহলে ৩-৫ দিন, ঠিক আছে। ভাই, একটা কথা — ৫ মাস আমি আমার পুরানো GTX 1660 দিয়ে চালাচ্ছি। RTX 5080 wait করার কারণে অন্য কোনো GPU কিনিনি। এখন কি কিছু alternative suggest করতে পারবেন?
+
+**১১. এজেন্টঃ** অবশ্যই sir। আপনার budget range কত, আর primarily কী কাজে GPU ব্যবহার করবেন?
+
+**১২. কাস্টমারঃ** Budget মোটামুটি ৫০,০০০-৬০,০০০ টাকা। 1440p gaming mainly, Cyberpunk, Marvel's Spider-Man, এইসব AAA titles।
+
+**১৩. এজেন্টঃ** তাহলে sir, এই budget-এ দুটো excellent option আছে — RTX 4070 Super, price around ৫৫,০০০ টাকা, অথবা RTX 4070 Ti, price around ৬২,০০০ টাকা। 1440p AAA gaming-এ দুটোই outstanding performance দেবে। 4070 Super value for money-তে ভালো, আর 4070 Ti pure performance-এ একটু এগিয়ে।
+
+**১৪. কাস্টমারঃ** কিন্তু RTX 5080 আসলে তো এগুলোর দাম কমে যাবে, তাই না? এখন কেনা কি wise?
+
+**১৫. এজেন্টঃ** খুবই smart question sir। সত্যি বলতে — next generation launch হলে previous generation-এর দাম কিছুটা কমে, কিন্তু Bangladesh market-এ সেই drop usually ৫-১০% হয়, ৩০-৪০% না। তাই ৩ মাস wait করে ৩,০০০-৫,০০০ টাকা save করবেন, কিন্তু ৩ মাস gaming experience miss করবেন। Decision আপনার।
+
+**১৬. কাস্টমারঃ** ভালো point। আমি মনে হয় 4070 Super নিয়ে নেব। এটা কি stock-এ আছে?
+
+**১৭. এজেন্টঃ** হ্যাঁ sir, multiple brand-এর stock আছে — Zotac, Gigabyte, MSI। Online order করতে পারবেন অথবা store visit-এও কিনতে পারবেন।
+
+**১৮. কাস্টমারঃ** Online-ই order করব। কিন্তু refund-এর টাকাটা তো কয়েক দিন পর আসবে — এখন কি আলাদাভাবে pay করতে হবে?
+
+**১৯. এজেন্টঃ** হ্যাঁ sir, refund process আর new purchase আলাদা transaction। তবে একটা option আছে — আপনি চাইলে pre-order-এর ২০,০০০ টাকা directly নতুন GPU-র purchase-এ transfer করতে পারেন। তাহলে বাকি amount-টাই pay করবেন, refund-এর জন্য wait করতে হবে না।
+
+**২০. কাস্টমারঃ** ওহ সেটা তো সবচেয়ে ভালো option! তাহলে ২০,০০০ transfer আর বাকি ৩৫,০০০ pay করলেই তো হয়।
+
+**২১. এজেন্টঃ** Exactly sir। আমি এখনই pre-order cancellation process করছি এবং সাথে সাথে ২০,০০০ টাকা নতুন order-এ adjust করে দিচ্ছি। আপনি বাকি ৩৫,০০০ online pay করলেই order confirm হবে।
+
+**২২. কাস্টমারঃ** Perfect। কোন brand-এর 4070 Super recommend করবেন?
+
+**২৩. এজেন্টঃ** Budget-এ Zotac Twin Edge OC ভালো value — cooling decent, noise কম। একটু premium চাইলে MSI Gaming X Trio — cooling আর build quality-তে top tier। Gaming-এ performance দুটোতেই same কারণ GPU chip একই, difference শুধু cooler design-এ।
+
+**২৪. কাস্টমারঃ** Zotac-টাই নিই, budget-friendly। Order process করুন ভাই।
+
+**২৫. এজেন্টঃ** Done sir। Pre-order cancel, ২০,০০০ transfer, Zotac RTX 4070 Super order — সব processed। Confirmation email পাবেন shortly। Star Tech pre-order support-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ১৭ঃ দুইটা Item Order করেছিলাম, একটা এসেছে
+
+> একজন gamer একটা mechanical keyboard এবং একটা gaming mouse একসাথে order করেছিলেন। Delivery-তে শুধু keyboard এসেছে, mouse-এর কোনো trace নেই। Tracking-এ দেখাচ্ছে "delivered"।
+
+**১. এজেন্টঃ** Star Tech order support, শুভ সকাল। কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** ভাই, আমি একটা mechanical keyboard আর একটা gaming mouse একসাথে order করেছিলাম। গতকাল delivery আসল, box-এ শুধু keyboard। Mouse নেই। কিন্তু tracking-এ দুটোই "delivered" দেখাচ্ছে।
+
+**৩. এজেন্টঃ** এটা confusing sir, tracking "delivered" দেখালেও product না পাওয়া — এটা clearly সমস্যা। একটু জানতে চাই — delivery-র সময় কয়টা box এসেছিল?
+
+**৪. কাস্টমারঃ** একটাই box। আমি ভেবেছিলাম দুটো item একটা box-এই থাকবে, কিন্তু box-এ শুধু keyboard ছিল, packing slip-এও শুধু keyboard-এর mention।
+
+**৫. এজেন্টঃ** আচ্ছা sir, packing slip-এ শুধু keyboard mention — এর মানে হলো দুটো item আলাদাভাবে ship করা হয়েছে। আমাদের system-এ check করি — হ্যাঁ, দেখতে পাচ্ছি আপনার order-টি দুটো আলাদা shipment-এ split হয়েছে কারণ keyboard Banani warehouse থেকে আর mouse Elephant Road warehouse থেকে dispatch হয়েছে।
+
+**৬. কাস্টমারঃ** মানে দুটো আলাদা delivery? কিন্তু আমাকে তো কেউ জানায়নি!
+
+**৭. এজেন্টঃ** আপনি ঠিক বলেছেন sir, split shipment হলে customer-কে automatically notify করা উচিত ছিল। এটা আমাদের communication gap। আমি mouse-এর tracking check করছি — হ্যাঁ, mouse-এর shipment separate tracking-এ আছে এবং status বলছে "out for delivery" — মানে আজকেই delivery হওয়ার কথা।
+
+**৮. কাস্টমারঃ** আজকে? তাহলে তো ভালো। কিন্তু ভাই, tracking-এ কেন দুটোই "delivered" দেখাচ্ছে?
+
+**৯. এজেন্টঃ** সেটা সম্ভবত system-এর একটা bug sir। যখন একটা order-এ multiple shipment থাকে, একটা deliver হলে system পুরো order-কেই "delivered" mark করে দেয় মাঝেমধ্যে। এটা আমাদের IT team-কে report করা হয়েছে, কিন্তু fix হতে সময় নিচ্ছে।
+
+**১০. কাস্টমারঃ** বুঝলাম। তাহলে mouse আজকেই আসবে?
+
+**১১. এজেন্টঃ** হ্যাঁ sir, courier-এর tracking অনুযায়ী আজকে বিকেলের মধ্যে আসার কথা। Delivery person আপনাকে call করবে আসার আগে।
+
+**১২. কাস্টমারঃ** ঠিক আছে। আর একটা কথা — আমি যে mouse order করেছি সেটা Logitech G502 Hero, price ৪,৫০০ টাকা। Correct item-ই আসছে তো? ভুল item না আসে আবার।
+
+**১৩. এজেন্টঃ** আমি shipment detail verify করছি — হ্যাঁ sir, Logitech G502 Hero, Black color, item code match করছে। সঠিক item-ই dispatched হয়েছে।
+
+**১৪. কাস্টমারঃ** ভালো। কিন্তু ভাই, আমি একটা shipping charge দিয়েছিলাম দুটো item-এর জন্য। দুটো আলাদা shipment হলে কি double shipping charge কাটা হবে?
+
+**১৫. এজেন্টঃ** একদমই না sir। আপনি একটাই order place করেছেন, একটাই shipping charge দিয়েছেন। Split shipment আমাদের operational decision, আপনার extra cost হবে না কোনোভাবে।
+
+**১৬. কাস্টমারঃ** সেটা confirm হলো তাহলে। আচ্ছা, আমি keyboard-টা unbox করেছি, কিন্তু mouse আসার জন্য wait করছিলাম দুটো একসাথে test করতে। Keyboard-টা কি use করা শুরু করব, নাকি mouse আসা পর্যন্ত wait করি?
+
+**১৭. এজেন্টঃ** Keyboard use করতে কোনো সমস্যা নেই sir। দুটো আলাদা product, একটা use শুরু করলে অন্যটার return বা exchange-এ কোনো impact পড়বে না। বরং keyboard test করে দেখুন, কোনো issue থাকলে আগেই জানতে পারবেন।
+
+**১৮. কাস্টমারঃ** ঠিক আছে, তাহলে keyboard test করি। Blue switch নিয়েছি, clicky sound ভালো লাগে।
+
+**১৯. এজেন্টঃ** Blue switch-এ satisfying click হবে sir, mechanical keyboard lovers-দের মধ্যে এটা very popular। একটা tip — নতুন mechanical keyboard-এ প্রথম কিছুদিন switch একটু stiff মনে হতে পারে, ব্যবহারের সাথে smooth হয়ে যাবে।
+
+**২০. কাস্টমারঃ** ও, সেটা জানতাম না। ধন্যবাদ tip-এর জন্য। তাহলে mouse-এর delivery-র জন্য আজকে বিকেল পর্যন্ত wait করব।
+
+**২১. এজেন্টঃ** হ্যাঁ sir। যদি সন্ধ্যা ৭টার মধ্যে না আসে, আমাদের call করবেন — আমরা courier-কে directly follow up করব।
+
+**২২. কাস্টমারঃ** ঠিক আছে, ৭টার মধ্যে না আসলে call করব। ধন্যবাদ ভাই।
+
+**২৩. এজেন্টঃ** আপনার gaming setup complete হোক sir। Star Tech order support-এ call করার জন্য ধন্যবাদ।
+
+---
+
