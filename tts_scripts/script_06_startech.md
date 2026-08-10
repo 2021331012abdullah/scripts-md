@@ -1941,3 +1941,171 @@
 
 ---
 
+## সিনারিও ৩৬ঃ bKash-এ Payment হয়ে গেছে কিন্তু Order Confirm হয়নি
+
+> একজন customer monitor কিনতে online-এ bKash দিয়ে payment করেছেন। টাকা কেটে গেছে কিন্তু order confirmation আসেনি, website-এ order history-তেও নেই। আতঙ্কিত হয়ে call করেছেন।
+
+**১. এজেন্টঃ** Star Tech online support, শুভ বিকেল। কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** ভাই, ভয়ংকর সমস্যা! আমি আধা ঘণ্টা আগে Star Tech website-এ monitor কিনতে bKash দিয়ে payment করলাম — ২৮,৫০০ টাকা। বকাশ থেকে টাকা কেটে গেছে, transaction ID-ও আসছে। কিন্তু আপনাদের website-এ কোনো order confirmation নেই, email-ও আসেনি। টাকা কি গেল?
+
+**৩. এজেন্টঃ** Sir, শান্ত থাকুন — এই ঘটনা মাঝে মাঝে ঘটে যখন payment gateway আর আমাদের system-এর মধ্যে connection timeout হয়। আপনার টাকা safe আছে। আমি এখনই trace করছি। আপনার bKash transaction ID টা বলুন।
+
+**৪. কাস্টমারঃ** Transaction ID হলো 8GH4K29LP। ২৮,৫০০ টাকা। আমি নিজে ব্যবসায়ী, এই টাকাটা আমার কাছে important।
+
+**৫. এজেন্টঃ** বুঝতে পারছি sir, ২৮,৫০০ টাকা বড় amount। আমি transaction ID দিয়ে search করছি — এক মিনিট please। হ্যাঁ sir, আমাদের payment system-এ transaction টা found হয়েছে। Payment successfully received হয়েছে কিন্তু order creation-এ একটা technical error হয়েছে — এই কারণে confirmation আসেনি। কিন্তু payment আমাদের কাছে আছে, হারায়নি।
+
+**৬. কাস্টমারঃ** আল্লাহর রহমত! টাকা আছে। এখন কী হবে?
+
+**৭. এজেন্টঃ** দুটো option আছে sir। প্রথমত — আমি manually আপনার order এখনই create করে দিতে পারি, সেটা হলে আজকেই order confirm হবে এবং ২-৩ working day-এ monitor delivery হবে। দ্বিতীয়ত — আপনি চাইলে full refund নিতে পারেন, ৩-৫ working day-এ bKash-এ ফেরত আসবে। কোনটা prefer করবেন?
+
+**৮. কাস্টমারঃ** Monitor-টাই নেব, refund চাই না। Manual order create করুন। কিন্তু sure তো? আবার যদি কিছু হয়?
+
+**৯. এজেন্টঃ** আমি personally আপনার order create করছি sir এবং সাথে সাথে confirmation email পাঠাচ্ছি। এটা আমাদের internal system-এ directly করা হচ্ছে, website-এর payment gateway bypass করে — তাই আর কোনো technical issue হওয়ার chance নেই। আপনি কোন monitor কিনছিলেন?
+
+**১০. কাস্টমারঃ** Dell S2722DC 27 inch, 2K QHD। আমার cart-এ ছিল।
+
+**১১. এজেন্টঃ** Dell S2722DC QHD, stock check করছি — হ্যাঁ sir, stock আছে। আপনার delivery address কি বলবেন? Registered address-এই পাঠাব নাকি অন্য কোথাও?
+
+**১২. কাস্টমারঃ** Registered address-এই পাঠান। Dhanmondi ২৭।
+
+**১৩. এজেন্টঃ** Done sir। Order manually created, order number হলো ST-2024-087234। এই order number-টা note করে রাখুন। আপনার email-এ এখনই confirmation পাঠাচ্ছি।
+
+**১৪. কাস্টমারঃ** Email আসছে কিনা দেখি... হ্যাঁ, এসে গেছে! Order confirmed দেখাচ্ছে, item আর price সব correct।
+
+**১৫. এজেন্টঃ** চমৎকার sir। Delivery ২-৩ working day-এ হবে। মানে শুক্রবার বা শনিবারের মধ্যে। Delivery-র আগের দিন SMS পাবেন।
+
+**১৬. কাস্টমারঃ** ভালো। ভাই, এই problem-টা কেন হলো? আমার মতো অন্য কেউও কি সমস্যায় পড়েছে?
+
+**১৭. এজেন্টঃ** এই ধরনের payment gateway timeout মাঝে মাঝে হয় sir — আমাদের server আর bKash-এর server-এর মধ্যে connection ০.৫-১ সেকেন্ডের জন্য interrupt হলে payment recorded হয় কিন্তু order create হয় না। আজকে কিছুটা server load বেশি ছিল, সেটা কারণ হতে পারে। এটা isolated issue, অন্যদের এই মুহূর্তে সমস্যা হচ্ছে বলে জানি না।
+
+**১৮. কাস্টমারঃ** তাহলে কি এই problem আবার হওয়ার chance আছে?
+
+**১৯. এজেন্টঃ** Rarely হয় sir, তবে precaution হিসেবে — payment করার পর যদি ৫ মিনিটের মধ্যে confirmation না আসে, সাথে সাথে call করবেন। Transaction ID সংরক্ষণ করে রাখবেন। আমরা দ্রুত trace করে resolve করে দিই।
+
+**২০. কাস্টমারঃ** আচ্ছা। আর এটা কি আমার ব্যাংক statement-এ কীভাবে দেখাবে?
+
+**২১. এজেন্টঃ** bKash statement-এ "successful transfer to Star Tech" দেখাবে sir। আপনার order number ST-2024-087234 quote করলে আমরা যেকোনো সময় transaction verify করতে পারব — কোনো ব্যাংক বা bKash dispute-এর দরকার হলে।
+
+**২২. কাস্টমারঃ** ধন্যবাদ ভাই। এত দ্রুত resolve হবে ভাবিনি। প্রথমে অনেক ভয় পেয়েছিলাম।
+
+**২৩. এজেন্টঃ** আপনার টাকা কখনো unsafe ছিল না sir — payment আমাদের কাছে ছিল, শুধু order-এর notification টা পৌঁছায়নি। এই ধরনের situation-এ immediately call করাটা আপনি ঠিকই করেছেন।
+
+**২৪. কাস্টমারঃ** হ্যাঁ, delay করলে আরও tension হতো। Monitor পাওয়ার অপেক্ষায় থাকব।
+
+**২৫. এজেন্টঃ** আপনার Dell monitor-টা দারুণ choice sir — QHD display-তে কাজ করা অনেক comfortable হবে। Star Tech online support-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ৩৭ঃ ভুল Item Delivery — অন্য Keyboard এসেছে
+
+> একজন customer Redragon K552 TKL mechanical keyboard (Red switch) order করেছিলেন কিন্তু Redragon K556 Full-size (Blue switch) এসেছে। ভুল model, ভুল switch type। এখন correct item চান।
+
+**১. এজেন্টঃ** Star Tech customer service, শুভ দুপুর। কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** ভাই, আমি Redragon K552 TKL Red switch keyboard order করেছিলাম। এইমাত্র delivery এলো কিন্তু box খুলে দেখি সম্পূর্ণ ভুল product — Redragon K556 Full-size Blue switch। না size match করে, না switch। আমি gaming-এর জন্য specifically TKL Red switch নিয়েছিলাম!
+
+**৩. এজেন্টঃ** Sir, এটা সত্যিই আমাদের error এবং এর জন্য আমি genuinely sorry। Wrong item delivery আমাদের warehouse থেকে packing mistake। আপনাকে অবশ্যই correct product দেওয়া হবে। আমি এখনই process শুরু করছি।
+
+**৪. কাস্টমারঃ** কত তাড়াতাড়ি পাব correct keyboard? আমার এটা দরকার ছিল আজকে।
+
+**৫. এজেন্টঃ** বুঝতে পারছি sir, urgent দরকার ছিল তাই আরও frustrating। আমি stock check করছি — Redragon K552 TKL Red switch available আছে কিনা। হ্যাঁ sir, stock আছে। আমি priority replacement request করছি — আজকে বা আগামীকালের মধ্যে dispatch হবে এবং পরশু delivery হওয়ার possibility আছে।
+
+**৬. কাস্টমারঃ** আজকে dispatch করলে পরশু পাব? ঢাকায় আছি।
+
+**৭. এজেন্টঃ** ঢাকার ভেতরে হলে আজকে dispatch হলে আগামীকালই delivery possible sir। আমি urgent tag করে dispatch করছি। তবে একটা বিষয় — ভুল keyboard-টা আমাদের courier আগামীকাল pickup করতে আসবে, আপনাকে কিছু করতে হবে না।
+
+**৮. কাস্টমারঃ** Pickup আসবে? তার মানে আমাকে কোথাও যেতে হবে না?
+
+**৯. এজেন্টঃ** একদম না sir। আমাদের courier আপনার address-এ এসে ভুল keyboard collect করবে — আপনি শুধু original box-এ রেখে দিন। Receipt বা invoice সাথে দেওয়ার দরকার নেই, courier-এর কাছে return slip থাকবে।
+
+**১০. কাস্টমারঃ** ঠিক আছে। কিন্তু ভাই, আমি যদি পরশু correct keyboard না পাই? কোনো guarantee আছে?
+
+**১১. এজেন্টঃ** আমি আপনার case-এ priority escalation করছি sir — এটা আমাদের error, তাই আপনার case regular queue-র আগে process হবে। আপনার phone number-এ আগামীকাল dispatch হওয়ার পর SMS আসবে tracking number সহ। তবুও পরশু বিকেলের মধ্যে না পেলে আমাকে personally এই number-এ call করবেন।
+
+**১২. কাস্টমারঃ** ঠিক আছে। আরেকটা ব্যাপার — আমি price difference দিইনি তো? K552 আর K556-এর price কি same?
+
+**১৩. এজেন্টঃ** আপনি K552-এর price pay করেছেন sir। K556 actually ৩০০ টাকা বেশি expensive। মানে আমরা আপনাকে ভুলে বেশি দামের product পাঠিয়েছিলাম। Correct product পাওয়ার পর কোনো extra charge নেই, আপনার original payment-ই sufficient।
+
+**১৪. কাস্টমারঃ** বেশি দামেরটা পাঠিয়েছে, তাও সমস্যা কারণ এটা আমার কাজের না। Switch type অনেক important — Blue switch gaming-এ clicky loud, Red switch smooth silent।
+
+**১৫. এজেন্টঃ** আপনি একদম ঠিক বলেছেন sir। Mechanical switch selection সম্পূর্ণ personal আর task-specific — gaming-এ Red switch-এর linear feel অনেক বেশি suitable, Blue switch typing-এ ভালো কিন্তু gaming-এ delay perception হয়। আমাদের team-এর এই basic knowledge থাকা উচিত ছিল packing-এর সময়।
+
+**১৬. কাস্টমারঃ** Exactly। আচ্ছা ভাই, এই ভুলটা warehouse-এ কীভাবে হলো? এটা কি frequently হয়?
+
+**১৭. এজেন্টঃ** Rarely হয় sir, কিন্তু হওয়া উচিত না। সম্ভবত warehouse-এ similar packaging-এর দুটো product কাছাকাছি রাখা ছিল, packing-এর সময় wrong item picked হয়েছে। আমি এই incident quality team-কে report করব যাতে process improvement হয়।
+
+**১৮. কাস্টমারঃ** Report করুন, অন্য customer-দের যেন এই ভোগান্তি না হয়।
+
+**১৯. এজেন্টঃ** অবশ্যই sir। আপনার inconvenience-এর জন্য compensation হিসেবে আমি ২০০ টাকার store credit আপনার account-এ add করছি — পরবর্তী purchase-এ ব্যবহার করতে পারবেন।
+
+**২০. কাস্টমারঃ** ২০০ টাকা store credit, ঠিক আছে। Keyboard পাওয়াটাই main priority। আর courier কখন আসবে pickup করতে?
+
+**২১. এজেন্টঃ** আগামীকাল সকাল ১০টা থেকে বিকেল ৫টার মধ্যে আসবে sir। আসার আগে SMS করবে। কেউ বাসায় থাকলে সুবিধা হবে।
+
+**২২. কাস্টমারঃ** বাসায় কেউ না কেউ থাকবে। ঠিক আছে ভাই, replacement-এর জন্য wait করছি।
+
+**২৩. এজেন্টঃ** আপনার replacement order number হলো ST-RET-2024-11289, এটা note রাখুন। কোনো update দরকার হলে এই number দিয়ে track করতে পারবেন।
+
+**২৪. কাস্টমারঃ** Note করলাম। ধন্যবাদ ভাই, দ্রুত handle করার জন্য।
+
+**২৫. এজেন্টঃ** আপনার correct keyboard আসুক আর gaming জমে উঠুক sir। এই inconvenience-এর জন্য আবারও দুঃখিত। Star Tech customer service-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ৩৮ঃ Warranty Claim Reject — Customer Dispute করছেন
+
+> একজন customer-এর gaming mouse-এর scroll wheel ৮ মাসে বিকল হয়ে গেছে। Service centre claim reject করেছে "physical damage" বলে। Customer বলছেন কোনো physical damage হয়নি, manufacturing defect। Escalation চান।
+
+**১. এজেন্টঃ** Star Tech customer service, শুভ বিকেল। কীভাবে সাহায্য করতে পারি sir?
+
+**২. কাস্টমারঃ** ভাই, আমি একটা complaint করতে চাই। আমার Logitech G402 gaming mouse ৮ মাসে scroll wheel কাজ করা বন্ধ করে দিয়েছে — scroll করলে জায়গামতো যায় না, random direction-এ যায়। Service centre-এ গেলাম, ওরা বলল "physical damage" আছে তাই warranty cover হবে না। কিন্তু আমি mouse-কে কোনো physical damage করিনি!
+
+**৩. এজেন্টঃ** আপনার frustration সম্পূর্ণ বোধগম্য sir। Scroll wheel encoder failure ৮ মাসে হওয়াটা অনেক ক্ষেত্রেই manufacturing defect — especially high-usage gaming mouse-এ। আপনার case-টা আমি detail-এ দেখছি। Service centre-এ কী specific damage claim করা হয়েছে?
+
+**৪. কাস্টমারঃ** Service sheet-এ লেখা আছে "scroll wheel housing cracked"। কিন্তু ভাই, mouse-টা আমি সবসময় desk-এ রেখে ব্যবহার করেছি, কোনোদিন পড়েনি, ধাক্কা খায়নি। ক্র্যাক কীভাবে হবে?
+
+**৫. এজেন্টঃ** Sir, আপনি একটা important point তুলেছেন। Scroll wheel housing-এর hairline crack মাঝে মাঝে manufacturing flaw থেকেও আসে — poor quality plastic বা improper moulding pressure-এ। Use করতে করতে gradually propagate হয়। External impact ছাড়াও এটা হতে পারে। আপনার কাছে কি mouse-এর কোনো photo বা video আছে?
+
+**৬. কাস্টমারঃ** হ্যাঁ, আমি service centre-এ যাওয়ার আগে photo তুলে রেখেছি। Scroll wheel-এ কোনো visible crack নেই ওই photo-তে, surface একদম intact।
+
+**৭. এজেন্টঃ** সেই photo খুবই important evidence sir। এটা আপনার claim support করে। Service centre-এর assessment challenge করার জন্য আমি আপনার case escalate করতে পারি আমাদের Technical Review Team-এ — ওরা photos দেখে independent assessment দেবে।
+
+**৮. কাস্টমারঃ** Escalation করুন। কতদিন লাগবে?
+
+**৯. এজেন্টঃ** Technical Review সাধারণত ৩-৫ working day-এ complete হয় sir। Review-এর সময় আপনার mouse service centre-এ থাকতে হবে, ওরা physically inspect করবে। আপনার photo গুলোও submit করতে হবে — email বা WhatsApp-এ পাঠাতে পারবেন।
+
+**১০. কাস্টমারঃ** Photo submit করব। Review-এ যদি আমার favour-এ decision হয়, তখন কী হবে?
+
+**১১. এজেন্টঃ** Review team যদি conclude করে এটা manufacturing defect, তাহলে দুটো outcome possible sir — হয় mouse repair হবে free-তে, অথবা ৮ মাস use হওয়ায় repair সম্ভব না হলে replacement দেওয়া হবে। Decision service centre-এর initial rejection override হবে।
+
+**১২. কাস্টমারঃ** আর যদি আমার favour-এ না হয়?
+
+**১৩. এজেন্টঃ** সেক্ষেত্রে sir, আউট অফ warranty repair charge apply হবে। Logitech G402-এর scroll wheel repair estimate মোটামুটি ৫০০-৮০০ টাকা। তবে আমি honestly বলছি — ৮ মাসে scroll wheel failure আর আপনার photo evidence দেখে আমার মনে হচ্ছে review-এ আপনার favor-এ decision হওয়ার possibility বেশি।
+
+**১৪. কাস্টমারঃ** আচ্ছা। কিন্তু ভাই, ততদিন আমি mouse ছাড়া থাকব? Gaming করতে পারব না?
+
+**১৫. এজেন্টঃ** সেটা সত্যিই কষ্টের sir। Review-এর সময়কালের জন্য আমাদের কাছে কোনো loaner mouse-এর arrangement নেই, সেটা জানাই honest। তবে আপনি চাইলে অস্থায়ীভাবে একটা budget mouse কিনতে পারেন — Redragon M711 ৬০০ টাকায় পাওয়া যায়, কাজ চলার মতো। Review শেষে G402 ফেরত পেলে বা replacement পেলে M711 backup হিসেবে রাখতে পারেন।
+
+**১৬. কাস্টমারঃ** Budget mouse আইডিয়া ভালো। আচ্ছা ভাই, escalation process শুরু করতে কী করতে হবে?
+
+**১৭. এজেন্টঃ** আমি এখনই escalation ticket open করছি sir — ticket number হলো ESC-2024-5521। আপনার photos এই email-এ পাঠাবেন: service@startech.com.bd — subject-এ ticket number লিখবেন। Service centre-কে আমি inform করব যে case review-এ আছে।
+
+**১৮. কাস্টমারঃ** Email note করলাম। Photo কতগুলো পাঠাব?
+
+**১৯. এজেন্টঃ** কমপক্ষে ৪-৫টা sir — সব angle থেকে mouse-এর scroll wheel-এর photo, আর যদি video থাকে scroll malfunction-এর সেটাও পাঠান। Video evidence সবচেয়ে strong।
+
+**২০. কাস্টমারঃ** Video আছে scroll করার সময় random movement দেখানো। সেটা পাঠাব।
+
+**২১. এজেন্টঃ** Video থাকলে case অনেক strong হবে sir — defect clearly visible হবে review team-এর কাছে।
+
+**২২. কাস্টমারঃ** আজকেই পাঠাব। কিন্তু ভাই, service centre initially reject করল কেন? ওরা কি ঠিকমতো inspect করেনি?
+
+**২৩. এজেন্টঃ** সেটা নিয়ে আমি comment করব না sir, কিন্তু এটুকু বলব — first-line assessment সবসময় perfect হয় না, escalation process-ই এজন্য আছে। আপনি সঠিক কাজ করেছেন — reject accept না করে escalation demand করেছেন।
+
+**২৪. কাস্টমারঃ** ঠিক আছে। ESC-2024-5521, এই number দিয়ে status track করতে পারব?
+
+**২৫. এজেন্টঃ** হ্যাঁ sir, আমাদের website-এ বা call করলে এই ticket number দিলে তাৎক্ষণিক status পাবেন। ৫ working day-এর মধ্যে decision জানাবেন ওরা। Star Tech customer service-এ call করার জন্য ধন্যবাদ।
+
+---
+
