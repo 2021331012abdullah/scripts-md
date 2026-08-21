@@ -120,3 +120,59 @@
 **২৭. Agent:** Shajgoj-এ call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
 
 ---
+
+## সিনারিও ৩: Hair Color Apply করার সময় Scalp জ্বলছে — Live Emergency Call
+
+> একজন customer hair color apply করার মাঝপথে scalp-এ তীব্র জ্বালাপোড়া অনুভব করছেন। তিনি সাথে সাথে Shajgoj-এ call করেছেন। Product টি Shajgoj থেকে কেনা।
+
+**১. Agent:** Shajgoj customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, এখনই বলুন — আমি hair color দিচ্ছি এখন, scalp অনেক জ্বলছে। কী করব?
+
+**৩. Agent:** Ma'am, এখনই wash basin-এ গিয়ে ঠান্ডা পানি দিয়ে মাথা ভালো করে ধুয়ে নিন। Color তুলে ফেলুন এখনই।
+
+**৪. Customer:** Shampoo দিতে হবে?
+
+**৫. Agent:** আগে না Ma'am, শুধু ঠান্ডা পানি দিয়ে rinse করুন। Shampoo পরে দেবেন।
+
+**৬. Customer:** ঠিক আছে, একটু wait করুন... (কিছুক্ষণ পরে) ধুয়ে নিলাম। জ্বালা এখনো একটু আছে।
+
+**৭. Agent:** এখন কতটুকু জ্বলছে Ma'am? সহনীয় পর্যায়ে আছে, নাকি অনেক বেশি?
+
+**৮. Customer:** আগের থেকে অনেক কম। কিন্তু scalp টা গরম লাগছে এখনো।
+
+**৯. Agent:** এটা স্বাভাবিক Ma'am, কিছুক্ষণের মধ্যে কমে যাবে। তবে ১৫-২০ মিনিটেও না কমলে বা scalp-এ ফোলা দেখলে doctor দেখাবেন।
+
+**১০. Customer:** আচ্ছা। কিন্তু এই product কি ঠিকমতো তৈরি? আমি আগেও hair color use করেছি, এরকম হয়নি।
+
+**১১. Agent:** কোন brand-এর color ছিল Ma'am?
+
+**১২. Customer:** Garnier Color Naturals, shade 5.12। Shajgoj থেকেই কিনেছিলাম।
+
+**১৩. Agent:** এই shade কি আগে use করেছেন, নাকি আজকেই প্রথমবার?
+
+**১৪. Customer:** এই shade প্রথমবার। তবে Garnier-এর অন্য shade অনেকবার use করেছি।
+
+**১৫. Agent:** বুঝতে পারছি Ma'am। Use করার আগে patch test করেছিলেন? কানের পেছনে বা হাতে একটু লাগিয়ে দেখেছিলেন?
+
+**১৬. Customer:** না, করিনি। এটা কি করা দরকার ছিল?
+
+**১৭. Agent:** Hair color use করার আগে patch test করা সবসময়ই recommended Ma'am। তবে আপনার এই reaction টা আমরা quality team-এ report করছি।
+
+**১৮. Customer:** ঠিক আছে। বাকি product তো আর use করব না। Return করতে পারব?
+
+**১৯. Agent:** অবশ্যই Ma'am। Partially used হলেও এই ক্ষেত্রে return accept করা হবে।
+
+**২০. Customer:** Refund কীভাবে আসবে?
+
+**২১. Agent:** আপনার address থেকে pickup হবে। Pickup-এর পর ৫ থেকে ৭ business day-এ refund process হয়ে যাবে।
+
+**২২. Customer:** ঠিক আছে। SMS পাব তো?
+
+**২৩. Agent:** হ্যাঁ Ma'am, pickup confirmation SMS পাঠানো হবে।
+
+**২৪. Customer:** ঠিক আছে ভাই। ধন্যবাদ।
+
+**২৫. Agent:** Shajgoj-এ call করার জন্য ধন্যবাদ Ma'am। যদি জ্বালা আবার বাড়ে, দেরি না করে doctor দেখাবেন।
+
+---
