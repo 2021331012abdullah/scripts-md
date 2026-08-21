@@ -1093,3 +1093,348 @@
 **২৩. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। ভালো ব্যবসা হোক।
 
 ---
+## সিনারিও ২৪: Aarong Membership Discount Checkout-এ Apply হচ্ছে না
+
+> একজন Aarong Gold member checkout-এ তার membership discount পাচ্ছেন না। তিনি জানেন membership-এ ১৫% discount আছে।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, আমি Aarong Gold member। Checkout-এ ১৫% membership discount দেখাচ্ছে না।
+
+**৩. Agent:** Ma'am, app-এ কি আপনার membership account-এ logged in আছেন?
+
+**৪. Customer:** হ্যাঁ, logged in আছি। Account page-এ Gold member লেখা দেখাচ্ছে।
+
+**৫. Agent:** Ma'am, cart-এ কি minimum requirement পূরণ হয়েছে? Gold discount-এ minimum order ৫০০ টাকা।
+
+**৬. Customer:** আমার cart ২,২০০ টাকার। সেটা problem না।
+
+**৭. Agent:** Ma'am, product গুলো কি discount-eligible category-তে আছে? Sale item-এ সাধারণত membership discount apply হয় না।
+
+**৮. Customer:** একটা item sale-এ আছে। কিন্তু বাকিগুলো regular price-এ।
+
+**৯. Agent:** Ma'am, sale item-টা বাদে বাকিগুলোতে discount apply হওয়ার কথা। App বা browser cache clear করে আবার try করুন।
+
+**১০. Customer:** করছি... এখনো আসছে না।
+
+**১১. Agent:** Ma'am, আপনার membership card number টা কি app-এ linked আছে?
+
+**১২. Customer:** দেখছি... হ্যাঁ, linked আছে।
+
+**১৩. Agent:** Ma'am, membership expiry date কি valid আছে?
+
+**১৪. Customer:** ওহ! দেখছি মাস দুই আগে expire হয়ে গেছে। জানতাম না।
+
+**১৫. Agent:** Ma'am, membership expire হলে discount কাজ করে না। Renewal করতে হবে।
+
+**১৬. Customer:** Renewal কীভাবে করব?
+
+**১৭. Agent:** Ma'am, app-এর membership section থেকে বা যেকোনো Aarong outlet-এ renew করা যাবে।
+
+**১৮. Customer:** Renewal fee কত?
+
+**১৯. Agent:** Ma'am, Gold membership renewal ৫০০ টাকা। তবে exact pricing outlet-এ confirm করুন।
+
+**২০. Customer:** ঠিক আছে। Renew করলে কি এই order-এ discount পাব?
+
+**২১. Agent:** Ma'am, renewal এই order-এ apply হবে না। পরের order থেকে কাজ করবে।
+
+**২২. Customer:** বুঝলাম। ধন্যবাদ আপু।
+
+**২৩. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
+
+## সিনারিও ২৫: Gift Voucher "Already Used" দেখাচ্ছে — Customer কখনো Use করেননি
+
+> একজন customer Aarong-এর gift voucher পেয়েছেন birthday-তে। Checkout-এ দিতে গেলে "Voucher already used" error আসছে।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, আমি একটা Aarong gift voucher পেয়েছিলাম। Checkout-এ দিলে "already used" বলছে। কিন্তু আমি কখনো use করিনি।
+
+**৩. Agent:** Sir, voucher code টা কোথায় পেয়েছিলেন? Physical card নাকি email?
+
+**৪. Customer:** Physical card। বন্ধু birthday gift দিয়েছিল।
+
+**৫. Agent:** Sir, voucher code টা বলুন, আমি check করছি।
+
+**৬. Customer:** ARG-GIFT-৭৮৯৪।
+
+**৭. Agent:** Sir, একটু hold করুন।
+
+**৮. Customer:** ঠিক আছে।
+
+**৯. Agent:** Sir, আমি দেখতে পাচ্ছি এই voucher টা ২ মাস আগে redeem হয়েছে।
+
+**১০. Customer:** কিন্তু আমি তো ২ মাস আগে পাইনি এই voucher। বন্ধু তো গতমাসে দিয়েছে।
+
+**১১. Agent:** Sir, এটা একটু জটিল situation। Voucher কি sealed envelope-এ ছিল?
+
+**১২. Customer:** না, open card ছিল।
+
+**১৩. Agent:** Sir, তাহলে সম্ভব যে code টা আগে অন্য কেউ দেখে use করেছে। এটা fraud হতে পারে।
+
+**১৪. Customer:** এটা কি আমার বন্ধু করেছে?
+
+**১৫. Agent:** Sir, আমরা নিশ্চিত বলতে পারছি না। তবে open gift card-এ এই ঝুঁকি থাকে।
+
+**১৬. Customer:** তাহলে আমার কী হবে? আমি তো সত্যিই use করিনি।
+
+**১৭. Agent:** Sir, এই case টা আমরা fraud investigation team-এ report করছি। তারা verify করে জানাবে।
+
+**১৮. Customer:** Investigation শেষে কি নতুন voucher দেবে?
+
+**১৯. Agent:** Sir, verified হলে replacement voucher দেওয়া হবে।
+
+**২০. Customer:** কতদিন লাগবে?
+
+**২১. Agent:** Sir, ৭২ ঘণ্টার মধ্যে update পাবেন।
+
+**২২. Customer:** ঠিক আছে। ধন্যবাদ।
+
+**২৩. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। ভালো থাকুন।
+
+---
+
+## সিনারিও ২৬: Batik Saree Out of Stock — Restock কবে?
+
+> একজন customer Aarong-এর একটি specific batik saree design কিনতে চাইছেন যা ৩ সপ্তাহ ধরে out of stock দেখাচ্ছে।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, Aarong website-এ একটা batik saree দেখলাম। তিন সপ্তাহ ধরে out of stock। কবে আসবে?
+
+**৩. Agent:** Ma'am, product code বা name মনে আছে?
+
+**৪. Customer:** Product code ABT-৬৬৭। "Indigo Batik Jamdani" নামে।
+
+**৫. Agent:** Ma'am, এই design টা আমাদের artisan collection-এর। Hand-crafted হওয়ায় limited quantity-তে আসে।
+
+**৬. Customer:** তাহলে কি আর পাওয়া যাবে না?
+
+**৭. Agent:** Ma'am, সম্ভবত পাওয়া যাবে, তবে exact date নিশ্চিত না। এই ধরনের handmade item production time অনেক বেশি।
+
+**৮. Customer:** এটা কি restock হবে জানা যাবে?
+
+**৯. Agent:** হ্যাঁ Ma'am, product page-এ "Notify Me" option-এ email দিয়ে register করুন।
+
+**১০. Customer:** App-এ এই option কোথায়?
+
+**১১. Agent:** Ma'am, product page-এ scroll করলে "Out of Stock — Get Notified" button আছে।
+
+**১২. Customer:** ঠিক আছে। Alternative কোনো similar batik saree আছে?
+
+**১৩. Agent:** Ma'am, ABT-৫৫৫ "Mustard Batik" এবং ABT-৬৮০ "Teal Batik" available আছে। Style similar।
+
+**১৪. Customer:** Indigo-র মতো ঠিক না, তবে দেখব। Aarong outlet-এ কি এই Indigo design আছে?
+
+**১৫. Agent:** Ma'am, selected outlet-এ থাকতে পারে। আমাদের website-এ outlet inventory দেখা যায় না, সরাসরি outlet-এ call করুন।
+
+**১৬. Customer:** কোন outlet-এ কল করব?
+
+**১৭. Agent:** Ma'am, Gulshan বা Dhanmondi outlet — দুটোতেই batik collection বেশি রাখে।
+
+**১৮. Customer:** ঠিক আছে। Number দিতে পারবেন?
+
+**১৯. Agent:** Ma'am, Aarong website-এর Store Locator-এ সব outlet-এর number আছে।
+
+**২০. Customer:** ঠিক আছে, দেখব। ধন্যবাদ আপু।
+
+**২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
+## সিনারিও ২৭: Eid Collection-এর Pre-order — কবে Available হবে?
+
+> একজন customer Aarong-এর আসন্ন Eid collection সম্পর্কে জানতে চাইছেন। কবে launch হবে, pre-order সম্ভব কিনা জিজ্ঞেস করছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, Aarong-এর Eid collection কবে আসবে? আগেভাগে pre-order করা যাবে?
+
+**৩. Agent:** Sir, এই বছর Eid-ul-Fitr collection সাধারণত Eid-এর ৩ থেকে ৪ সপ্তাহ আগে launch হয়।
+
+**৪. Customer:** মানে কত সপ্তাহ পরে?
+
+**৫. Agent:** Sir, Eid প্রায় ৬ সপ্তাহ দূরে। Collection launch হবে আরো ২ থেকে ৩ সপ্তাহ পরে।
+
+**৬. Customer:** আগে থেকে কি কোনো preview দেখা যাবে?
+
+**৭. Agent:** Sir, Aarong-এর Facebook এবং Instagram-এ launch-এর আগে sneak peek দেওয়া হয়।
+
+**৮. Customer:** Pre-order কি possible?
+
+**৯. Agent:** Sir, কিছু exclusive item-এ pre-order option থাকে। Launch-এর পরে website-এ দেখা যাবে।
+
+**১০. Customer:** আগে যারা pre-order করে তারা কি ভালো price পায়?
+
+**১১. Agent:** Sir, pre-order-এ early bird discount থাকে কিছু item-এ।
+
+**১২. Customer:** Notify করবে কি launch হলে?
+
+**১৩. Agent:** Sir, Aarong-এর app-এ notification on রাখুন। Newsletter-এও subscribe করতে পারেন।
+
+**১৪. Customer:** Newsletter কীভাবে subscribe করব?
+
+**১৫. Agent:** Sir, website-এর footer-এ email subscription form আছে।
+
+**১৬. Customer:** ঠিক আছে। Popular item গুলো কি দ্রুত শেষ হয়ে যায়?
+
+**১৭. Agent:** Sir, Eid collection-এ demand অনেক বেশি। Popular size এবং design দ্রুত শেষ হয়।
+
+**১৮. Customer:** তাহলে launch-এর দিনই order করা ভালো?
+
+**১৯. Agent:** হ্যাঁ Sir, তাড়াতাড়ি করলে ভালো। Especially popular size।
+
+**২০. Customer:** ঠিক আছে ভাই। ধন্যবাদ।
+
+**২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। ঈদ shopping শুভ হোক।
+
+---
+
+## সিনারিও ২৮: নতুন Kurta-র Color অন্য কাপড়ে Bleed করেছে
+
+> একজন customer নতুন কেনা dark color kurta প্রথমবার wash করার সময় অন্য সাদা সালোয়ারের সাথে দেওয়ায় সাদা কাপড়টি রঙিন হয়ে গেছে।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, Aarong-এর একটা dark blue kurta কিনলাম। প্রথম wash-এ color bleed করে আমার সাদা salwar নষ্ট হয়ে গেছে।
+
+**৩. Agent:** Ma'am, এটা সত্যিই দুঃখজনক। Kurta-র care label-এ কি "Wash separately" লেখা ছিল?
+
+**৪. Customer:** Care label-এ "Wash separately first time" লেখা ছিল। কিন্তু এটা ছোট করে লেখা — সহজে চোখে পড়েনি।
+
+**৫. Agent:** Ma'am, first wash-এ dark color-এর কাপড় আলাদা wash করার recommendation আছে। কিন্তু label clearly visible হওয়া উচিত ছিল।
+
+**৬. Customer:** এটা আমার দোষ? Label এত ছোট কেন?
+
+**৭. Agent:** Ma'am, আপনার frustration বুঝতে পারছি। Label visibility নিয়ে আমরা quality team-কে জানাব।
+
+**৮. Customer:** আমার সাদা salwar নষ্ট হয়ে গেছে। এর দায় কে নেবে?
+
+**৯. Agent:** Ma'am, এই ক্ষেত্রে গঠনমূলকভাবে বলছি — label থাকার কারণে full liability আমাদের না। কিন্তু আমরা আপনার সমস্যাটা নিয়ে সহানুভূতিশীল।
+
+**১০. Customer:** তাহলে কি কোনো compensation নেই?
+
+**১১. Agent:** Ma'am, এই incident-টা আমরা review করব। Goodwill হিসেবে ৩০০ টাকার voucher দেওয়া যায়।
+
+**১২. Customer:** ৩০০ টাকায় কী হবে? Salwar নষ্ট হয়েছে।
+
+**১৩. Agent:** Ma'am, salwar-এর condition দেখে বলা মুশকিল কতটা ক্ষতি হয়েছে। Photo পাঠালে আমাদের team দেখবে।
+
+**১৪. Customer:** Photo কোথায় পাঠাব?
+
+**১৫. Agent:** Ma'am, আমাদের customer care email-এ পাঠান। Address হলো care@aarong.com।
+
+**১৬. Customer:** ঠিক আছে। পাঠাচ্ছি। তারপর কী?
+
+**১৭. Agent:** Ma'am, team review করে ২৪ থেকে ৪৮ ঘণ্টার মধ্যে জানাবে।
+
+**১৮. Customer:** ঠিক আছে আপু। ধন্যবাদ।
+
+**১৯. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
+## সিনারিও ২৯: নতুন Garment-এ Perfume-এর গন্ধ — Used Item সন্দেহ
+
+> একজন customer Aarong থেকে কেনা "নতুন" পোশাক হাতে পেয়ে দেখেন এতে perfume-এর গন্ধ আছে এবং একটু creased, যেন আগে পরা হয়েছে।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, আমি Aarong থেকে একটা saree কিনলাম। Package খুলে দেখি saree-তে perfume-এর গন্ধ আছে। আর একটু creased। মনে হচ্ছে আগে পরা হয়েছে।
+
+**৩. Agent:** Sir, এটা শুনে সত্যিই উদ্বিগ্ন হলাম। Saree-র tag কি attached আছে?
+
+**৪. Customer:** Tag আছে। কিন্তু tag থাকলেও তো কেউ পরে return দিতে পারে।
+
+**৫. Agent:** Sir, সেটা সত্যি। Saree-র packaging কি sealed ছিল নাকি open?
+
+**৬. Customer:** Packaging সম্পূর্ণ sealed ছিল — plastic wrap ছিল। কিন্তু ভেতরে এই অবস্থা।
+
+**৭. Agent:** Sir, এটা গুরুতর quality concern। Sealed package-এ এই অবস্থা হওয়া উচিত না।
+
+**৮. Customer:** তাহলে এটা কি return-এর item re-packed করে পাঠানো হয়েছে?
+
+**৯. Agent:** Sir, সেটা investigate করতে হবে। এই incident টা আমরা quality control team-এ escalate করছি।
+
+**১০. Customer:** Investigation করতে করতে আমার সময় চলে যাবে। আমি এখন return করতে চাই।
+
+**১১. Agent:** অবশ্যই Sir। Full return এবং refund দেওয়া হবে।
+
+**১২. Customer:** Replacement কি পাওয়া যাবে?
+
+**১৩. Agent:** Sir, same saree-র replacement stock-এ থাকলে পাওয়া যাবে। Check করছি।
+
+**১৪. Customer:** আচ্ছা।
+
+**১৫. Agent:** Sir, stock আছে। Replacement নেবেন নাকি refund?
+
+**১৬. Customer:** Replacement নেব। কিন্তু guarantee দিতে পারবেন যে এবার properly sealed থাকবে?
+
+**১৭. Agent:** Sir, আমরা specifically note করছি। Quality check করে seal করে পাঠানো হবে।
+
+**১৮. Customer:** ঠিক আছে। Pickup কবে?
+
+**১৯. Agent:** ১ থেকে ২ business day-এর মধ্যে Sir।
+
+**২০. Customer:** আর replacement কবে?
+
+**২১. Agent:** Pickup-এর পর ২ থেকে ৩ business day Sir।
+
+**২২. Customer:** ধন্যবাদ ভাই।
+
+**২৩. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। এই অভিজ্ঞতার জন্য সত্যিই দুঃখিত।
+
+---
+
+## সিনারিও ৩০: Corporate Eid Hamper — কর্মীদের জন্য Clothing Gift Box
+
+> একটি company-র admin অফিসের ৫০ জন কর্মীর জন্য Eid উপলক্ষে clothing gift box তৈরি করতে চান। Aarong-এ corporate gifting service আছে কিনা জানতে call করেছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, আমাদের office-এর কর্মীদের জন্য Eid-এ clothing gift box দিতে চাই। ৫০ জনের জন্য। Aarong কি এই সার্ভিস দেয়?
+
+**৩. Agent:** Ma'am, হ্যাঁ, Aarong-এর corporate gifting program আছে। Eid-এ gift hamper আমরা করে থাকি।
+
+**৪. Customer:** Clothing gift box মানে কী কী থাকবে?
+
+**৫. Agent:** Ma'am, সাধারণত একটি panjabi বা kurta, একটি উপহার card এবং Aarong-এর branded box থাকে। আপনি customize করতে পারবেন।
+
+**৬. Customer:** Customize মানে? নিজের item choose করতে পারব?
+
+**৭. Agent:** হ্যাঁ Ma'am, specific product, size range এবং design আপনি select করতে পারবেন।
+
+**৮. Customer:** ৫০ জনের size তো সবার আলাদা।
+
+**৯. Agent:** Ma'am, size list আমাদের দিলে আমরা সে অনুযায়ী pack করব।
+
+**১০. Customer:** Price কেমন?
+
+**১১. Agent:** Ma'am, product choice ভেদে per piece price vary করে। Corporate team আপনাকে detailed quotation দেবে।
+
+**১২. Customer:** Gift wrapping কি থাকবে?
+
+**১৩. Agent:** হ্যাঁ Ma'am, branded Aarong gift box সহ wrapping করা হবে।
+
+**১৪. Customer:** Office-এ deliver করতে পারবে?
+
+**১৫. Agent:** হ্যাঁ Ma'am, Dhaka-তে bulk delivery করা হয়।
+
+**১৬. Customer:** Eid-এর কতদিন আগে order দিতে হবে?
+
+**১৭. Agent:** Ma'am, কমপক্ষে ১০ থেকে ১৪ দিন আগে order করা উচিত। Eid season-এ demand বেশি।
+
+**১৮. Customer:** ঠিক আছে। Corporate team-এর সাথে কীভাবে যোগাযোগ করব?
+
+**১৯. Agent:** Ma'am, আপনার contact info দিন। আমাদের corporate sales team ২৪ ঘণ্টায় call করবে।
+
+**২০. Customer:** ০১৭XXXXXXXX। Email: admin@officebd.com।
+
+**২১. Agent:** Note করলাম Ma'am। Corporate team আপনার সাথে যোগাযোগ করবে।
+
+**২২. Customer:** ধন্যবাদ আপু।
+
+**২৩. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। শুভ Eid planning।
+
+---
