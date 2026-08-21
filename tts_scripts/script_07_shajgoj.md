@@ -60,3 +60,63 @@
 **২৫. Agent:** Shajgoj-এ call করার জন্য ধন্যবাদ Ma'am। আশা করি দ্রুত সুস্থ হয়ে উঠবেন। শুভকামনা।
 
 ---
+
+## সিনারিও ২: Lipstick ব্যবহারে ঠোঁটে Swelling ও Itching — Product Safety অভিযোগ
+
+> একজন customer Shajgoj থেকে কেনা একটি lipstick প্রথমবার use করার পর ঠোঁটে চুলকানি ও হালকা swelling অনুভব করছেন। তিনি উদ্বিগ্ন হয়ে call করেছেন এবং জানতে চাইছেন এই product টা safe কিনা।
+
+**১. Agent:** Shajgoj customer care-এ স্বাগতম। আমি কীভাবে আপনাকে help করতে পারি?
+
+**২. Customer:** আপু, আমি একটু আগে Shajgoj থেকে কেনা একটা lipstick দিলাম, সাথে সাথে ঠোঁটে অনেক চুলকাচ্ছে। একটু ফুলেও গেছে মনে হচ্ছে।
+
+**৩. Agent:** এটা শুনে চিন্তা হচ্ছে Ma'am। Swelling কি বাড়ছে, নাকি এখন একই আছে?
+
+**৪. Customer:** এখন একটু কমেছে মনে হচ্ছে। কিন্তু চুলকানি আছে এখনো। ঠোঁট লাল হয়ে গেছে।
+
+**৫. Agent:** Ma'am, প্রথম কাজ হবে ঠোঁট থেকে lipstick ভালো করে মুছে ঠান্ডা পানি দিয়ে ধুয়ে নেওয়া। এটা কি করেছেন?
+
+**৬. Customer:** না, এখনো করিনি। ঠিক আছে করছি একটু পরে। কিন্তু এই product কি safe না?
+
+**৭. Agent:** আপনি আগে ঠোঁট ধুয়ে নিন Ma'am। তারপর কথা বলছি। এটা এখনই করুন।
+
+**৮. Customer:** হ্যাঁ, করলাম। এখন একটু ভালো লাগছে। কিন্তু রেডনেস আছে।
+
+**৯. Agent:** ভালো। Ma'am, কোন product টা use করেছিলেন — shade বা product name মনে আছে?
+
+**১০. Customer:** "Maybelline Creamy Matte" lipstick, shade নম্বর ছিল M-17। এটা Shajgoj থেকেই কিনেছিলাম।
+
+**১১. Agent:** আচ্ছা Ma'am। এই shade কি আগে কখনো use করেছেন, নাকি এটাই প্রথমবার?
+
+**১২. Customer:** এই shade প্রথমবার। তবে Maybelline-এর অন্য shade আগে use করেছি, কোনো problem হয়নি।
+
+**১৩. Agent:** বুঝতে পেরেছি Ma'am। কিছু specific shade-এ pigment বা ingredient থাকে যেটা হঠাৎ reaction করতে পারে, even পরিচিত brand-এও। এটা uncommon কিন্তু হয়।
+
+**১৪. Customer:** তাহলে এই product টা কি সবার জন্য unsafe?
+
+**১৫. Agent:** এটা নিশ্চিত করে বলা সম্ভব না Ma'am। তবে আপনার case টা আমরা quality team-এ flag করব। ওরা batch verify করবে।
+
+**১৬. Customer:** ঠিক আছে। আমি কি এই product টা return করতে পারব?
+
+**১৭. Agent:** অবশ্যই Ma'am। Allergic reaction-এর ক্ষেত্রে return সম্পূর্ণ accept করা হয়, এমনকি product open হলেও।
+
+**১৮. Customer:** ভালো। আর কি অন্য shade exchange করে নেওয়া যাবে?
+
+**১৯. Agent:** Refund বা exchange — দুটোই option আছে Ma'am। আপনি যেটা prefer করেন সেটাই করতে পারবেন।
+
+**২০. Customer:** তাহলে refund নিই। কত দিন লাগবে?
+
+**২১. Agent:** Return pickup হওয়ার পর ৫ থেকে ৭ business day-এর মধ্যে refund হয়ে যাবে, Ma'am।
+
+**২২. Customer:** ঠিক আছে। Return-এর জন্য কি কোনো ছবি বা proof দিতে হবে?
+
+**২৩. Agent:** Ma'am, আপনার ঠোঁটের reaction-এর একটা photo এবং product-এর photo তুলে রাখুন। আমাদের team যোগাযোগ করলে কাজে আসবে।
+
+**২৪. Customer:** ঠিক আছে আপু, রাখলাম। আর কিছু করার আছে?
+
+**২৫. Agent:** না Ma'am, return request raise হয়ে গেছে। Pickup confirmation SMS পাবেন। যদি চুলকানি বা swelling আবার বাড়ে, তাহলে অবশ্যই doctor দেখাবেন।
+
+**২৬. Customer:** হ্যাঁ, অবশ্যই। ধন্যবাদ।
+
+**২৭. Agent:** Shajgoj-এ call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
