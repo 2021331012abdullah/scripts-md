@@ -367,3 +367,729 @@
 **২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। Exchange SMS-এ confirm হবে।
 
 ---
+## সিনারিও ৮: Kurta-র Embroidery ছবির মতো না — Misleading Product Photo
+
+> একজন customer product photo দেখে একটি heavily embroidered kurta order করেছিলেন। Delivery-তে পাওয়া kurta-র embroidery অনেক simple — প্রায় না থাকার মতো।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, আমি Le Reve-এর website-এ একটা kurta দেখে কিনলাম। Photo-তে সুন্দর embroidery ছিল। কিন্তু actual product-এ embroidery প্রায় নেই।
+
+**৩. Agent:** Ma'am, এটা শুনে সত্যিই হতাশ হয়ে গেলাম। Product code বা name মনে আছে?
+
+**৪. Customer:** LRK-৭৮৯। "Floral Embroidery Kurta" নামে ছিল।
+
+**৫. Agent:** Ma'am, website-এ embroidery কেমন দেখা যাচ্ছিল? Full chest-এ নাকি কোথাও specific?
+
+**৬. Customer:** Chest-এ এবং sleeves-এ বড় floral design ছিল photo-তে। Actual-এ শুধু collar-এ একটু সুতো আছে।
+
+**৭. Agent:** Ma'am, এটা clearly misleading product representation। আমরা এটা product team-এ report করব।
+
+**৮. Customer:** Report করলে কি হবে আমার? আমি তো টাকা দিয়ে ফেলেছি।
+
+**৯. Agent:** Ma'am, আপনি full refund পাবেন। এই product টা return করুন।
+
+**১০. Customer:** Product টা পরা হয়নি। Return করতে পারব?
+
+**১১. Agent:** হ্যাঁ Ma'am, unopened বা unaltered হলে এবং tag থাকলে return সহজ। এই case-এ quality mismatch — সেটাও return eligible।
+
+**১২. Customer:** Tag আছে। Refund চাই।
+
+**১৩. Agent:** অবশ্যই Ma'am। Full refund দেওয়া হবে।
+
+**১৪. Customer:** Pickup কবে?
+
+**১৫. Agent:** ১ থেকে ২ business day-এর মধ্যে Ma'am।
+
+**১৬. Customer:** এই kurta কি website থেকে সরানো হবে বা photo সংশোধন করা হবে?
+
+**১৭. Agent:** Ma'am, আমাদের product team এটা investigate করবে। Photo accurate না হলে update করা হবে।
+
+**১৮. Customer:** অন্য customers-ও এই ধরনের experience করতে পারে।
+
+**১৯. Agent:** Ma'am, আপনার concern টা সঠিক। এজন্যই আমরা এটা priority দিয়ে report করব।
+
+**২০. Customer:** ঠিক আছে। ধন্যবাদ আপু।
+
+**২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। Pickup SMS-এ confirm হবে।
+
+---
+
+## সিনারিও ৯: Shirt প্রথম Wash-এ Shrink হয়ে গেছে
+
+> একজন customer Fabrilife থেকে কেনা একটি cotton shirt care label অনুযায়ী wash করার পর দেখেন shirt টা দুই size ছোট হয়ে গেছে।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, Fabrilife-এর একটা shirt কিনলাম। Care label মতো ঠান্ডা পানিতে wash করলাম। এখন দুই size ছোট হয়ে গেছে।
+
+**৩. Agent:** Sir, এটা fabric quality issue। Wash কি machine-এ করেছেন নাকি হাতে?
+
+**৪. Customer:** Care label-এ hand wash লেখা ছিল। হাতেই করেছি।
+
+**৫. Agent:** Sir, একবার wash-এ এত shrink হওয়া সম্পূর্ণ অস্বাভাবিক। এটা sub-standard fabric বা pre-washing না হওয়ার কারণে হতে পারে।
+
+**৬. Customer:** তাহলে এটা আমার দোষ না?
+
+**৭. Agent:** Sir, care label মেনে wash করলে shrink হওয়ার কথা না। এটা manufacturing issue।
+
+**৮. Customer:** তাহলে আমার কী হবে? Shirt টা তো আর পরা যাচ্ছে না।
+
+**৯. Agent:** Sir, এটা quality defect হিসেবে return নেওয়া হবে। Refund বা replacement — কোনটা চান?
+
+**১০. Customer:** এই brand-এর shirt আর নিতে চাই না। Refund চাই।
+
+**১১. Agent:** বুঝতে পারছি Sir। Full refund দেওয়া হবে।
+
+**১২. Customer:** Shrunk shirt টা return করতে হবে?
+
+**১৩. Agent:** হ্যাঁ Sir, return করতে হবে। তবে washed হলেও quality complaint হিসেবে accept করা হবে।
+
+**১৪. Customer:** ঠিক আছে। Pickup কবে?
+
+**১৫. Agent:** ১ থেকে ২ business day-এ Sir।
+
+**১৬. Customer:** Refund কতদিনে?
+
+**১৭. Agent:** Pickup-এর পর ৫ থেকে ৭ business day-এ Sir।
+
+**১৮. Customer:** ঠিক আছে। এই report কি Fabrilife-কে জানানো হবে?
+
+**১৯. Agent:** হ্যাঁ Sir, quality team-এ report করা হবে। আপনার feedback গুরুত্বপূর্ণ।
+
+**২০. Customer:** ধন্যবাদ ভাই।
+
+**২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। ভালো থাকুন।
+
+---
+
+## সিনারিও ১০: ভুল Size Delivered — Order করেছিলেন XL, এসেছে M
+
+> একজন customer XL size-এর পাঞ্জাবি order করেছিলেন। Delivery box খুলে দেখেন M size এসেছে।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, আমি XL size panjabi order করেছিলাম। এসেছে M size।
+
+**৩. Agent:** Ma'am, এটা packing error। Invoice-এ কোন size লেখা আছে?
+
+**৪. Customer:** Invoice-এ XL লেখা। কিন্তু product-এ M tag।
+
+**৫. Agent:** বুঝলাম Ma'am। এটা warehouse-এর packing mistake। Exchange করে দেওয়া হবে।
+
+**৬. Customer:** XL size কি এখন stock-এ আছে?
+
+**৭. Agent:** Ma'am, check করছি... হ্যাঁ, XL size available আছে।
+
+**৮. Customer:** কত দিনে পাব?
+
+**৯. Agent:** Courier আপনার M size নিয়ে যাবে এবং XL size দিয়ে যাবে। ২ থেকে ৩ business day-এর মধ্যে।
+
+**১০. Customer:** Exchange delivery charge কি লাগবে?
+
+**১১. Agent:** না Ma'am, এটা আমাদের ভুল। Charge লাগবে না।
+
+**১২. Customer:** ঠিক আছে। M size টা কি ঠিকঠাক রাখব?
+
+**১৩. Agent:** হ্যাঁ Ma'am, tag সহ রেখে দিন। Courier নিয়ে যাবে।
+
+**১৪. Customer:** OK। SMS পাব confirm হলে?
+
+**১৫. Agent:** হ্যাঁ Ma'am, exchange dispatch হলে SMS যাবে।
+
+**১৬. Customer:** ধন্যবাদ আপু।
+
+**১৭. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
+## সিনারিও ১১: Size Chart অনুসরণ করেও Outfit Fit হচ্ছে না
+
+> একজন customer Aarong-এর size chart দেখে সতর্কভাবে L size order করেছিলেন। Outfit পরে দেখেন chest একদম tight — chart-এর measurement-এর সাথে মেলে না।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, আমি Aarong-এর size chart দেখে L size নিয়েছিলাম। কিন্তু chest-এ fit হচ্ছে না — অনেক tight।
+
+**৩. Agent:** Sir, size chart-এ chest measurement কত ছিল L-এর জন্য?
+
+**৪. Customer:** ৪২ inch লেখা ছিল। আমার chest ৪১ inch। তাই L নিয়েছিলাম।
+
+**৫. Agent:** Sir, actual garment-এ chest measurement কত?
+
+**৬. Customer:** আমি tape দিয়ে মাপলাম — মাত্র ৩৯ inch।
+
+**৭. Agent:** Sir, এটা clearly size chart inconsistency। Actual measurement, chart measurement-এর থেকে ৩ inch কম।
+
+**৮. Customer:** তাহলে size chart-টাই ভুল। এটা কীভাবে সম্ভব?
+
+**৯. Agent:** Sir, কখনো কখনো specific production lot-এ variation হয়। কিন্তু এতটা পার্থক্য হওয়া উচিত না।
+
+**১০. Customer:** আমি XL exchange করতে পারব?
+
+**১১. Agent:** হ্যাঁ Sir, size exchange করা যাবে। XL stock-এ আছে কিনা দেখছি।
+
+**১২. Customer:** আছে?
+
+**১৩. Agent:** Sir, XL available আছে। Exchange করব?
+
+**১৪. Customer:** হ্যাঁ। কিন্তু XL-ও কি একই রকম ছোট হবে?
+
+**১৫. Agent:** Sir, আমরা exchange-এর আগে XL-এর actual measurement verify করব।
+
+**১৬. Customer:** That's good। তাহলে exchange করুন।
+
+**১৭. Agent:** Sir, courier আপনার L নিয়ে verified XL দিয়ে যাবে।
+
+**১৮. Customer:** কতদিনে?
+
+**১৯. Agent:** ২ থেকে ৩ business day-এ Sir।
+
+**২০. Customer:** ঠিক আছে। আর size chart কি update করবেন?
+
+**২১. Agent:** Sir, এই inconsistency আমরা product team-কে জানাব। Chart update করা হবে।
+
+**২২. Customer:** ধন্যবাদ ভাই।
+
+**২৩. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। Exchange SMS-এ confirm হবে।
+
+---
+
+## সিনারিও ১২: Eid Panjabi Exchange — অনুষ্ঠানের আগে বড় Size দরকার
+
+> একজন customer Eid-এর জন্য একটি panjabi কিনেছেন। বাবার জন্য কিনেছিলেন, কিন্তু বাবার জন্য XL দরকার। L কিনে ফেলেছিলেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, আমার বাবার জন্য Eid-এর panjabi কিনেছিলাম L size। কিন্তু বাবার XL লাগবে। Exchange করা যাবে?
+
+**৩. Agent:** Ma'am, অবশ্যই। Panjabi কি এখনো tag-সহ আছে?
+
+**৪. Customer:** হ্যাঁ, tag আছে, পরা হয়নি।
+
+**৫. Agent:** Ma'am, Eid কবে? কতদিন বাকি আছে?
+
+**৬. Customer:** আর ৪ দিন।
+
+**৭. Agent:** Ma'am, এই same panjabi-র XL size stock-এ আছে কিনা দেখছি।
+
+**৮. Customer:** আশা করি আছে।
+
+**৯. Agent:** Ma'am, XL available আছে। Express exchange arrange করতে পারি। ২ দিনের মধ্যে হবে।
+
+**১০. Customer:** ঠিক আছে! ২ দিনে Eid-এর আগে আসবে?
+
+**১১. Agent:** হ্যাঁ Ma'am, Eid-এর ২ দিন আগে পাবেন।
+
+**১২. Customer:** Perfect। Exchange-এ extra charge লাগবে?
+
+**১৩. Agent:** না Ma'am, size exchange-এ extra charge নেই।
+
+**১৪. Customer:** Courier কি আমার বাসায় আসবে?
+
+**১৫. Agent:** হ্যাঁ Ma'am, courier L নিয়ে যাবে, XL দিয়ে যাবে।
+
+**১৬. Customer:** আচ্ছা। SMS পাব?
+
+**১৭. Agent:** হ্যাঁ Ma'am, dispatch হলে SMS যাবে।
+
+**১৮. Customer:** ধন্যবাদ আপু। বাবা খুশি হবেন।
+
+**১৯. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। Eid মুবারক।
+
+---
+
+## সিনারিও ১৩: বাচ্চার Clothing — Age Label ও Actual Fit-এ বড় পার্থক্য
+
+> একজন মা ৩ বছরের বাচ্চার জন্য "3-4 years" label-এর একটি dress কিনেছেন। Delivery পেয়ে দেখেন dress টা বাচ্চার গায়ে অনেক ছোট।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, আমার বাচ্চার বয়স ৩ বছর। "3-4 years" label-এর dress কিনলাম। কিন্তু বাচ্চার গায়ে পরাই যাচ্ছে না — এত ছোট।
+
+**৩. Agent:** Ma'am, বাচ্চার height কত আনুমানিক?
+
+**৪. Customer:** প্রায় ৩৫ inch বা ৩ feet।
+
+**৫. Agent:** Ma'am, কিছু brand-এর kids sizing age-এর চেয়ে height-এর উপর নির্ভরশীল। আমাদের "3-4 years" label সাধারণত ৩৩ থেকে ৩৬ inch height-এর জন্য।
+
+**৬. Customer:** তাহলে website-এ height range লেখা থাকা উচিত না? শুধু age লেখা ছিল।
+
+**৭. Agent:** Ma'am, আপনার কথা সম্পূর্ণ সঠিক। Website-এ height measurement থাকা উচিত। এটা আমরা product team-এ জানাব।
+
+**৮. Customer:** এখন আমি কী করব? Exchange করতে চাই।
+
+**৯. Agent:** Ma'am, "4-5 years" size-এ exchange করলে fit হতে পারে।
+
+**১০. Customer:** "4-5 years" size কি stock-এ আছে?
+
+**১১. Agent:** Ma'am, check করছি... হ্যাঁ, available আছে।
+
+**১২. Customer:** তাহলে exchange করুন।
+
+**১৩. Agent:** Ma'am, courier আসবে, ছোট dress নিয়ে বড়টা দিয়ে যাবে।
+
+**১৪. Customer:** কতদিনে?
+
+**১৫. Agent:** ২ থেকে ৩ business day-এর মধ্যে Ma'am।
+
+**১৬. Customer:** Extra charge?
+
+**১৭. Agent:** না Ma'am, কোনো charge নেই।
+
+**১৮. Customer:** ঠিক আছে। ধন্যবাদ।
+
+**১৯. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। Exchange SMS-এ confirm হবে।
+
+---
+## সিনারিও ১৪: Gift Order ভুল Address-এ Delivered — Surprise নষ্ট হয়েছে
+
+> একজন customer বান্ধবীর জন্মদিনে surprise gift হিসেবে একটি saree order করেছিলেন। বান্ধবীর address দিয়েছিলেন। কিন্তু delivery হয়ে গেছে নিজের billing address-এ।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, আমি আমার বান্ধবীর জন্য gift order দিয়েছিলাম। তার address দিয়েছিলাম। কিন্তু delivery হয়েছে আমার নিজের বাসায়।
+
+**৩. Agent:** Ma'am, এটা delivery address error। Order-এ আলাদা delivery address দিয়েছিলেন নিশ্চিত?
+
+**৪. Customer:** হ্যাঁ, আমি clearly আলাদা address দিয়েছিলাম। Checkout-এ confirm করেছিলাম।
+
+**৫. Agent:** Ma'am, এটা আমাদের system বা fulfilment error। আজকে কি তার জন্মদিন?
+
+**৬. Customer:** হ্যাঁ, আজকে। Surprise হবে বলে এত plan করেছিলাম।
+
+**৭. Agent:** Ma'am, সত্যিই দুঃখিত। এখন কি আপনি নিজে deliver করতে পারবেন? নাকি আমরা re-route করি?
+
+**৮. Customer:** আমি নিজে দূরে থাকি। ওর বাসা অনেক দূর। Re-route করা যাবে?
+
+**৯. Agent:** Ma'am, আমরা same-day re-delivery arrange করার চেষ্টা করছি। এলাকা কোনটা?
+
+**১০. Customer:** আমি Mirpur-এ। বান্ধবী Gulshan-এ।
+
+**১১. Agent:** Ma'am, Mirpur থেকে Gulshan-এ আজকের মধ্যে re-delivery possible হতে পারে। Urgent request দিচ্ছি।
+
+**১২. Customer:** Gift হিসেবে কি wrap করে পাঠাতে পারবেন?
+
+**১৩. Agent:** Ma'am, gift wrapping এই stage-এ add করা কঠিন। কিন্তু re-delivery করা হবে।
+
+**১৪. Customer:** ঠিক আছে। Delivery-র আগে কি আমার বান্ধবীকে call করবে?
+
+**১৫. Agent:** হ্যাঁ Ma'am, delivery agent call করবে আগে।
+
+**১৬. Customer:** ঠিক আছে। কবে নাগাদ পাঠাবে?
+
+**১৭. Agent:** Ma'am, আজ বিকেল ৪টার মধ্যে attempt করার চেষ্টা হবে।
+
+**১৮. Customer:** ঠিক আছে আপু। ধন্যবাদ।
+
+**১৯. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। বান্ধবীকে শুভেচ্ছা।
+
+---
+
+## সিনারিও ১৫: Order দুই সপ্তাহ ধরে Processing — কোনো Dispatch নেই
+
+> একজন customer ২ সপ্তাহ আগে payment করে একটি order place করেছেন। Status এখনো "processing" — কোনো dispatch notification আসেনি।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, ১৪ দিন আগে order দিয়েছি। Payment হয়ে গেছে। কিন্তু status এখনো "processing" দেখাচ্ছে।
+
+**৩. Agent:** Sir, এটা সত্যিই অনেক দেরি। Order number বা phone number বলুন।
+
+**৪. Customer:** Phone ০১৬XXXXXXXX।
+
+**৫. Agent:** Sir, একটু hold করুন।
+
+**৬. Customer:** ঠিক আছে।
+
+**৭. Agent:** Sir, আমি দেখছি order টা stock issue-র কারণে hold-এ আছে। Customer-কে notify করা হয়নি — এটা আমাদের ভুল।
+
+**৮. Customer:** ১৪ দিন ধরে hold-এ? আমাকে কেন জানানো হয়নি?
+
+**৯. Agent:** Sir, আপনাকে আগেই জানানো উচিত ছিল। এজন্য সত্যিই দুঃখিত।
+
+**১০. Customer:** Stock issue মানে product নেই? তাহলে কবে পাব?
+
+**১১. Agent:** Sir, item টা কি still want করছেন, নাকি cancel করতে চান?
+
+**১২. Customer:** Stock কবে আসবে সেটা আগে বলুন।
+
+**১৩. Agent:** Sir, এই specific item ৫ থেকে ৭ দিনের মধ্যে restock হওয়ার কথা।
+
+**১৪. Customer:** মোট তাহলে আরো ৭ দিন? মানে প্রায় ৩ সপ্তাহ?
+
+**১৫. Agent:** Sir, তাহলে আপনি চাইলে cancel করে refund নিতে পারেন।
+
+**১৬. Customer:** Cancel করতে চাই। এত দিন অপেক্ষা করেছি, আর করব না।
+
+**১৭. Agent:** বুঝতে পারছি Sir। Order cancel করছি এবং refund initiate করছি।
+
+**১৮. Customer:** Refund কতদিনে?
+
+**১৯. Agent:** ৫ থেকে ৭ business day-এর মধ্যে Sir।
+
+**২০. Customer:** Payment method কি?
+
+**২১. Agent:** Sir, আপনি কীভাবে payment করেছিলেন?
+
+**২২. Customer:** Card-এ।
+
+**২৩. Agent:** Sir, same card-এ refund হবে।
+
+**২৪. Customer:** ঠিক আছে। ধন্যবাদ।
+
+**২৫. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। Refund notification পাবেন।
+
+---
+## সিনারিও ১৬: Multi-item Order-এ ২টি Item Missing
+
+> একজন customer পরিবারের জন্য ৪টি item order করেছিলেন। Package খুলে দেখেন মাত্র ২টি আছে। বাকি ২টি নেই।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, আমি ৪টি item order করেছিলাম। Package-এ মাত্র ২টা এসেছে। বাকি ২টা কোথায়?
+
+**৩. Agent:** Sir, invoice-এ কি ৪টা item-ই listed?
+
+**৪. Customer:** হ্যাঁ, invoice-এ ৪টাই আছে। Payment-ও ৪টার জন্য হয়েছে।
+
+**৫. Agent:** Sir, কোন ২টা এসেছে এবং কোন ২টা missing?
+
+**৬. Customer:** একটি panjabi এবং একটি salwar kameez এসেছে। Missing হলো একটি saree এবং একটি kids kurta।
+
+**৭. Agent:** Sir, এটা partial delivery। Warehouse থেকে হয়তো separate shipment-এ পাঠানো হয়েছে।
+
+**৮. Customer:** আলাদা আলাদা shipment? এটা আগে জানানো হয়নি কেন?
+
+**৯. Agent:** Sir, multi-item order-এ কখনো কখনো separate dispatch হয়। আপনাকে notify করা উচিত ছিল।
+
+**১০. Customer:** বাকি ২টার tracking কোথায় দেখব?
+
+**১১. Agent:** Sir, আমি system-এ check করছি। Second shipment এখন কোথায় আছে দেখছি।
+
+**১২. Customer:** ঠিক আছে।
+
+**১৩. Agent:** Sir, বাকি ২টি item আরো ২ দিনের মধ্যে deliver হওয়ার কথা।
+
+**১৪. Customer:** আর যদি না আসে ২ দিনে?
+
+**১৫. Agent:** Sir, না আসলে আমাদের call করুন। Missing item-এর refund দেওয়া হবে।
+
+**১৬. Customer:** আচ্ছা। ২ দিনে আসলে আর call করতে হবে না তো?
+
+**১৭. Agent:** হ্যাঁ Sir, delivery notification পাবেন। ২ দিন পরেও না আসলে call করুন।
+
+**১৮. Customer:** ঠিক আছে ভাই। ধন্যবাদ।
+
+**১৯. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। ভালো থাকুন।
+
+---
+
+## সিনারিও ১৭: Eid-এর Order "Delivered" দেখাচ্ছে কিন্তু পাওয়া যায়নি
+
+> ঈদের আগের দিন একজন customer-এর app-এ status "delivered" দেখাচ্ছে কিন্তু product পাননি। প্রতিবেশী ও গেটের security-র কাছেও নেই।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, কাল ঈদ। App-এ দেখাচ্ছে আমার order "delivered।" কিন্তু আমি কিছুই পাইনি।
+
+**৩. Agent:** Ma'am, এটা অনেক উদ্বেগের। কখন "delivered" status দেখাচ্ছে?
+
+**৪. Customer:** আজ দুপুর ১টায়। আমি বাসায় ছিলাম। Doorbell বাজেনি।
+
+**৫. Agent:** Ma'am, security guard বা neighbour-এর কাছে রেখে যেতে পারে। দেখেছেন?
+
+**৬. Customer:** হ্যাঁ, সবার কাছে জিজ্ঞেস করেছি। কেউ পায়নি।
+
+**৭. Agent:** Ma'am, delivery man কি call করেছিল আসার আগে?
+
+**৮. Customer:** না, কোনো call আসেনি।
+
+**৯. Agent:** Ma'am, এটা আমরা delivery partner-এ report করছি। Investigation হবে।
+
+**১০. Customer:** Investigation করতে সময় লাগবে। কাল ঈদ — কী পরব?
+
+**১১. Agent:** Ma'am, কাল সকালের মধ্যে re-delivery possible কিনা দেখছি।
+
+**১২. Customer:** কাল সকালে delivery হবে ঈদের দিন?
+
+**১৩. Agent:** Ma'am, আমাদের emergency team আছে। Dhaka-তে Eid-এর দিন সকালেও delivery করা হয়।
+
+**১৪. Customer:** আমি Dhanmondi-তে।
+
+**১৫. Agent:** Ma'am, Dhanmondi-তে Eid morning delivery possible। আমি urgent request দিচ্ছি।
+
+**১৬. Customer:** কয়টার মধ্যে আসবে?
+
+**১৭. Agent:** Ma'am, সকাল ৯টার মধ্যে attempt করার চেষ্টা হবে।
+
+**১৮. Customer:** ঠিক আছে আপু। যদি না আসে?
+
+**১৯. Agent:** সেক্ষেত্রে Ma'am, full refund দেওয়া হবে এবং compensation voucher দেওয়া হবে।
+
+**২০. Customer:** ঠিক আছে। কাল সকালে দেখি।
+
+**২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। ঈদ মুবারক।
+
+---
+## সিনারিও ১৮: Tag-সহ Unused Salwar Kameez Return — Color পছন্দ হয়নি
+
+> একজন customer অনলাইনে দেখে একটি salwar kameez কিনেছেন। ঘরে এনে দেখেন color তার পছন্দ না। Tag এখনো আছে, পরা হয়নি। Return করতে চান।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, একটা salwar kameez কিনলাম। ঘরে এনে দেখি color টা আমার পছন্দ না। Tag আছে, পরিনি। Return করতে পারব?
+
+**৩. Agent:** Ma'am, delivery কত দিন আগে হয়েছে?
+
+**৪. Customer:** গতকাল।
+
+**৫. Agent:** Ma'am, আমাদের return policy অনুযায়ী delivery-র ৭ দিনের মধ্যে unopened বা unworn item return করা যায়। Tag থাকলে অবশ্যই পারবেন।
+
+**৬. Customer:** ভালো। Exchange করতে পারব নাকি শুধু refund?
+
+**৭. Agent:** Ma'am, দুটো option-ই আছে। Exchange করলে অন্য color বা design নিতে পারবেন।
+
+**৮. Customer:** অন্য color কি দেখতে পারব?
+
+**৯. Agent:** হ্যাঁ Ma'am, website বা app-এ same design-এর অন্য color available আছে কিনা দেখুন।
+
+**১০. Customer:** আমি দেখছি... একটা dark green আছে। এটা নিতে চাই।
+
+**১১. Agent:** Ma'am, dark green stock-এ available। Exchange করব?
+
+**১২. Customer:** হ্যাঁ। Extra charge লাগবে?
+
+**১৩. Agent:** না Ma'am, same price-এ exchange হলে extra charge নেই।
+
+**১৪. Customer:** কতদিনে হবে?
+
+**১৫. Agent:** ২ থেকে ৩ business day-এ Ma'am।
+
+**১৬. Customer:** ঠিক আছে আপু। ধন্যবাদ।
+
+**১৭. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। Exchange SMS-এ confirm হবে।
+
+---
+
+## সিনারিও ১৯: Return Pickup-এর ১০ দিন পরেও Refund আসেনি
+
+> একজন customer ১০ দিন আগে return pickup দিয়েছেন। এখনো refund account-এ আসেনি। Follow-up call করছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, ১০ দিন আগে আমার return pickup হয়েছে। Refund এখনো আসেনি।
+
+**৩. Agent:** Sir, return-এর কোনো reference বা pickup confirmation number আছে?
+
+**৪. Customer:** হ্যাঁ, RTN-৩৩২১৫।
+
+**৫. Agent:** Sir, check করছি।
+
+**৬. Customer:** ঠিক আছে।
+
+**৭. Agent:** Sir, return warehouse-এ received হয়েছে ৮ দিন আগে। Refund process হওয়ার কথা ছিল ৫ থেকে ৭ দিনে। Delay হয়েছে — দুঃখিত।
+
+**৮. Customer:** ৮ দিন আগে received হলে refund কেন হয়নি?
+
+**৯. Agent:** Sir, finance queue-এ processing delay হয়েছে। আমি এটা priority escalate করছি।
+
+**১০. Customer:** কতদিনে আসবে এখন?
+
+**১১. Agent:** Sir, ৪৮ ঘণ্টার মধ্যে refund হওয়া উচিত।
+
+**১২. Customer:** আগেও delay হয়েছে। এবার নিশ্চিত করতে পারবেন?
+
+**১৩. Agent:** Sir, এই escalation-এর reference হলো ESC-৯৯১২৩। ৪৮ ঘণ্টায় না হলে এই number দিয়ে call করুন।
+
+**১৪. Customer:** কোথায় আসবে refund?
+
+**১৫. Agent:** Sir, আপনি কীভাবে payment করেছিলেন?
+
+**১৬. Customer:** bKash-এ।
+
+**১৭. Agent:** Sir, same bKash number-এ refund আসবে।
+
+**১৮. Customer:** ঠিক আছে। ৪৮ ঘণ্টায় না হলে আবার call করব।
+
+**১৯. Agent:** অবশ্যই Sir। Refund হলে notification যাবে।
+
+**২০. Customer:** ধন্যবাদ।
+
+**২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। ভালো থাকুন।
+
+---
+
+## সিনারিও ২০: Alter করা Kurta Return করা যাবে কিনা — Policy জিজ্ঞাসা
+
+> একজন customer একটি kurta কিনে নিজে alter করিয়েছেন — sleeve ছোট করেছেন। এখন পছন্দ না হওয়ায় return করতে চাইছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, আমি একটা kurta কিনেছিলাম। Tailor দিয়ে sleeve একটু ছোট করেছিলাম। কিন্তু এখন আর পছন্দ না। Return করতে পারব?
+
+**৩. Agent:** Ma'am, আমি সততার সাথে বলছি — altered clothing সাধারণত return-এ accept করা হয় না।
+
+**৪. Customer:** কেন? Alteration তো minor ছিল।
+
+**৫. Agent:** Ma'am, altered item পুনরায় sell করা সম্ভব না — এজন্য return policy-তে এটা excluded।
+
+**৬. Customer:** কিন্তু quality তো ঠিকই আছে। আমি alter করেছি বলে return নেবে না?
+
+**৭. Agent:** Ma'am, policy অনুযায়ী হ্যাঁ। তবে যদি alteration-এর পরেও fabric বা stitching-এ কোনো manufacturer defect থাকে, সেক্ষেত্রে আলাদা consideration করা যায়।
+
+**৮. Customer:** Defect নেই। শুধু পছন্দ হচ্ছে না।
+
+**৯. Agent:** Ma'am, সেক্ষেত্রে return সম্ভব না। এটা আমাদের standard policy।
+
+**১০. Customer:** ঠিক আছে। তাহলে যদি ভবিষ্যতে কিনি, alter না করে return করতে হবে?
+
+**১১. Agent:** হ্যাঁ Ma'am, return করতে চাইলে অবশ্যই unaltered এবং tag-সহ রাখতে হবে।
+
+**১২. Customer:** ঠিক আছে। এটা website-এ clearly লেখা আছে?
+
+**১৩. Agent:** Ma'am, return policy page-এ আছে। App-এর Help section-এও পাবেন।
+
+**১৪. Customer:** আচ্ছা। এই information আগে জানা দরকার ছিল।
+
+**১৫. Agent:** Ma'am, আমরা checkout-এ policy reminder আরো visible করার বিষয়ে team-কে জানাব।
+
+**১৬. Customer:** ঠিক আছে আপু। ধন্যবাদ।
+
+**১৭. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
+## সিনারিও ২১: Custom Tailoring Order — ৪ সপ্তাহ ধরে কোনো Update নেই
+
+> একজন customer Aarong-এর custom tailoring service-এ একটি panjabi order করেছিলেন ৪ সপ্তাহ আগে। কোনো status update পাননি।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, আমি ৪ সপ্তাহ আগে Aarong-এ custom panjabi-র order দিয়েছিলাম। কোনো update নেই।
+
+**৩. Agent:** Sir, custom tailoring order-এর reference number বা phone number বলুন।
+
+**৪. Customer:** Phone number ০১৫XXXXXXXX।
+
+**৫. Agent:** Sir, একটু hold করুন।
+
+**৬. Customer:** ঠিক আছে।
+
+**৭. Agent:** Sir, আমি দেখতে পাচ্ছি আপনার custom order টা tailoring unit-এ আছে। Standard turnaround ২ থেকে ৩ সপ্তাহ — কিন্তু এটা ৪ সপ্তাহ হয়ে গেছে।
+
+**৮. Customer:** কেন এত দেরি হচ্ছে?
+
+**৯. Agent:** Sir, custom work-এ কখনো কখনো fabric availability বা workload-এর কারণে delay হয়। তবে আপনাকে আগেই জানানো উচিত ছিল।
+
+**১০. Customer:** কবে ready হবে?
+
+**১১. Agent:** Sir, আমি tailoring unit-এ escalate করছি। ৪৮ ঘণ্টার মধ্যে status update পাবেন।
+
+**১২. Customer:** আর কতদিন লাগবে বলুন।
+
+**১৩. Agent:** Sir, ৪৮ ঘণ্টার মধ্যে exact delivery date confirm করা হবে। এটা আমি personally follow করব।
+
+**১৪. Customer:** ঠিক আছে। এই delay-র জন্য কোনো compensation?
+
+**১৫. Agent:** Sir, delay-র জন্য আপনার পরবর্তী order-এ ১০% discount দেওয়া হবে।
+
+**১৬. Customer:** আচ্ছা। ৪৮ ঘণ্টায় update না পেলে আবার call করব।
+
+**১৭. Agent:** অবশ্যই Sir। Reference হিসেবে এই call-এর ID হলো TLR-৩৩৪৫।
+
+**১৮. Customer:** Note করলাম। ধন্যবাদ ভাই।
+
+**১৯. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। ভালো থাকুন।
+
+---
+
+## সিনারিও ২২: Custom Tailored Panjabi-র Sleeve Length ভুল
+
+> একজন customer Aarong-এর custom tailoring-এ measurements দিয়ে panjabi তৈরি করিয়েছিলেন। Delivery পেয়ে দেখেন sleeve length দেওয়া measurement-এর থেকে ২ inch ছোট।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, custom panjabi বানিয়েছিলাম Aarong-এ। Sleeve length দিয়েছিলাম ২৫ inch। Delivery-তে দেখি ২৩ inch।
+
+**৩. Agent:** Ma'am, এটা tailoring error। Order form-এ কি ২৫ inch clearly লেখা ছিল?
+
+**৪. Customer:** হ্যাঁ, order form-এর copy আমার কাছে আছে। ২৫ inch লেখা।
+
+**৫. Agent:** Ma'am, এটা আমাদের tailoring unit-এর ভুল। Panjabi আবার সঠিক measurement-এ তৈরি করে দেওয়া হবে।
+
+**৬. Customer:** আবার তৈরি করবে? কত দিন লাগবে?
+
+**৭. Agent:** Ma'am, এই ক্ষেত্রে priority basis-এ ১ সপ্তাহের মধ্যে করা সম্ভব।
+
+**৮. Customer:** ১ সপ্তাহ? পুরনো panjabi কি রেখে দেব?
+
+**৯. Agent:** Ma'am, হ্যাঁ, ভুল panjabi টা রেখে দিন। Courier নতুনটা deliver করার সময় নিয়ে যাবে।
+
+**১০. Customer:** Charge লাগবে remake-এ?
+
+**১১. Agent:** না Ma'am, এটা আমাদের ভুল — কোনো charge নেই।
+
+**১২. Customer:** আচ্ছা। আর এবার measurement ঠিক হবে তো?
+
+**১৩. Agent:** Ma'am, আপনার order form থেকে সরাসরি measurement নেওয়া হবে। Supervisor-ও verify করবে।
+
+**১৪. Customer:** ঠিক আছে। কতদিনে deliver হবে?
+
+**১৫. Agent:** Ma'am, ৭ থেকে ১০ business day-এর মধ্যে।
+
+**১৬. Customer:** ঠিক আছে আপু। আশা করি এবার ঠিক হবে।
+
+**১৭. Agent:** Ma'am, আমরা নিশ্চিত করব। Aarong-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ২৩: Office Uniform-এর জন্য Corporate Bulk Tailoring Order
+
+> একটি company-র HR manager ১০০ জন কর্মীর জন্য custom-designed office uniform তৈরি করতে চান। Aarong-এর corporate service সম্পর্কে জানতে call করেছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, আমাদের company-র জন্য ১০০ জন কর্মীর uniform তৈরি করতে চাই। Aarong কি corporate order নেয়?
+
+**৩. Agent:** Sir, হ্যাঁ, Aarong-এর dedicated corporate service আছে। আপনার কোন ধরনের uniform দরকার?
+
+**৪. Customer:** Office formal — পুরুষদের জন্য panjabi বা shirt এবং মেয়েদের জন্য salwar kameez বা tops।
+
+**৫. Agent:** Sir, custom design করা যাবে — আপনার company-র logo বা color scheme সহ।
+
+**৬. Customer:** Logo সহ করা যাবে? Embroidery বা print?
+
+**৭. Agent:** Sir, দুটোই সম্ভব। Embroidery বা screen print — দুটো option আছে।
+
+**৮. Customer:** Minimum order কতটা?
+
+**৯. Agent:** Sir, corporate order সাধারণত minimum ৫০ pieces থেকে নেওয়া হয়। ১০০ pieces হলে আরো ভালো pricing পাবেন।
+
+**১০. Customer:** Pricing কেমন? Per piece কত?
+
+**১১. Agent:** Sir, design complexity এবং fabric ভেদে price vary করে। আমাদের corporate team আপনার সাথে detailed quotation share করবে।
+
+**১২. Customer:** কতদিনে deliver করতে পারবে ১০০ pieces?
+
+**১৩. Agent:** Sir, সাধারণত ৩ থেকে ৪ সপ্তাহ লাগে custom bulk order-এ। Size variety থাকলে একটু বেশি হতে পারে।
+
+**১৪. Customer:** Size variety লাগবে — S থেকে XL পর্যন্ত।
+
+**১৫. Agent:** Sir, এটা standard। Corporate team size breakdown form পাঠাবে।
+
+**১৬. Customer:** Payment কীভাবে?
+
+**১৭. Agent:** Sir, corporate order-এ advance payment বা partial deposit নেওয়া হয়। Details team explain করবে।
+
+**১৮. Customer:** কীভাবে যোগাযোগ করব corporate team-এর সাথে?
+
+**১৯. Agent:** Sir, আপনার number এবং email নিচ্ছি। আমাদের corporate sales team ২৪ ঘণ্টার মধ্যে call করবে।
+
+**২০. Customer:** ঠিক আছে। ০১৯XXXXXXXX। Email: hr@companybd.com।
+
+**২১. Agent:** Note করলাম Sir। ২৪ ঘণ্টার মধ্যে call পাবেন।
+
+**২২. Customer:** ধন্যবাদ ভাই।
+
+**২৩. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। ভালো ব্যবসা হোক।
+
+---
