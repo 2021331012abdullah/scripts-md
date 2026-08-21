@@ -176,3 +176,159 @@
 **২৫. Agent:** Shajgoj-এ call করার জন্য ধন্যবাদ Ma'am। যদি জ্বালা আবার বাড়ে, দেরি না করে doctor দেখাবেন।
 
 ---
+
+## সিনারিও ৪: তিন বছরের শিশু Lip Gloss মুখে দিয়ে ফেলেছে — অভিভাবকের জরুরি Call
+
+> একজন বাবা panic করে call করেছেন কারণ তার তিন বছরের ছেলে Shajgoj থেকে কেনা lip gloss মুখে দিয়ে কিছুটা খেয়ে ফেলেছে। শিশুটি এখনো সচেতন আছে।
+
+**১. Agent:** Shajgoj customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, জলদি বলুন — আমার বাচ্চা lip gloss খেয়ে ফেলেছে! তিন বছর বয়স। এখন কী করব?
+
+**৩. Agent:** Sir, বাচ্চা কি এখন সচেতন আছে? কথা বলছে বা কাঁদছে?
+
+**৪. Customer:** হ্যাঁ, এখন ঠিকঠাক আছে। কান্না করছে না। কিন্তু কতটুকু খেয়েছে বুঝতে পারিনি।
+
+**৫. Agent:** Sir, এখনই নিকটস্থ hospital-এর emergency-তে নিয়ে যান। Medical help আগে, এটাই এখন সবচেয়ে জরুরি।
+
+**৬. Customer:** এতটা কি dangerous? Lip gloss তো cosmetic।
+
+**৭. Agent:** Sir, বেশিরভাগ cosmetic-এ toxic level কম থাকে। তবে তিন বছরের বাচ্চার জন্য doctor দেখানো mandatory। Risk নেওয়া উচিত হবে না।
+
+**৮. Customer:** বাচ্চার পেট ব্যথা বা বমি হচ্ছে না এখন পর্যন্ত।
+
+**৯. Agent:** ভালো Sir। কিন্তু symptom দেখা না দিলেও professional advice দরকার। Product-এর box টা সাথে নিয়ে যান — ingredient list doctor-কে দেখাতে হবে।
+
+**১০. Customer:** হ্যাঁ, box আছে সামনেই। Ingredients-এ কি কোনো harmful কিছু আছে?
+
+**১১. Agent:** Sir, আমি specific ingredient analysis দিতে পারব না। Doctor-কে box টা দেখান, ওরাই বলতে পারবেন।
+
+**১২. Customer:** ঠিক আছে। বাচ্চার কোনো symptom দেখলে কী করব?
+
+**১৩. Agent:** বমি, শ্বাসকষ্ট, বা অস্বাভাবিক আচরণ দেখলে সাথে সাথে emergency-তে জানাবেন Sir। দেরি করবেন না।
+
+**১৪. Customer:** আচ্ছা। এই product কি শিশুদের নাগালে যাওয়ার মতো package ছিল?
+
+**১৫. Agent:** Sir, cosmetic product সবসময় শিশুদের নাগালের বাইরে রাখতে হয়। তবে এই incident টা আমরা report করব।
+
+**১৬. Customer:** ঠিক আছে। Return বা refund পরে করব। আগে hospital যাই।
+
+**১৭. Agent:** অবশ্যই Sir, এখনই যান। Return যেকোনো সময় করা যাবে।
+
+**১৮. Customer:** Doctor-এর prescription রাখতে হবে পরের জন্য?
+
+**১৯. Agent:** হ্যাঁ Sir, রাখুন। পরে কাজে লাগতে পারে।
+
+**২০. Customer:** আচ্ছা। আপনাদের কি আলাদা কোনো emergency line আছে?
+
+**২১. Agent:** Sir, এই number-এই আমরা সবসময় আছি। তবে medical emergency-র জন্য hospital-ই সঠিক জায়গা।
+
+**২২. Customer:** বুঝলাম। এখনই বেরোচ্ছি। ধন্যবাদ।
+
+**২৩. Agent:** Sir, দেরি করবেন না। আপনার বাচ্চা ভালো থাকুক — এটাই এখন সবচেয়ে important।
+
+---
+
+## সিনারিও ৫: Package খুললে Serum-এর Seal ভাঙা — Tamper সন্দেহ
+
+> একজন customer নতুন delivery আসার পর package খুলে দেখেন vitamin C serum-এর seal ইতিমধ্যে ভাঙা এবং bottle-এ liquid-এর পরিমাণ কম মনে হচ্ছে। তিনি উদ্বিগ্ন হয়ে call করেছেন।
+
+**১. Agent:** Shajgoj customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, এইমাত্র delivery পেলাম। Package খুলে দেখি serum-এর seal ভাঙা! এটা কি used product?
+
+**৩. Agent:** এটা শুনে সত্যিই দুঃখিত Ma'am। Outer box কি ঠিকঠাক ছিল, নাকি সেটাও ক্ষতিগ্রস্ত ছিল?
+
+**৪. Customer:** Outer box ভালোই ছিল। কিন্তু ভেতরের bottle-এর seal টা ছিঁড়া ছিল।
+
+**৫. Agent:** Bottle-এ কি liquid কম মনে হচ্ছে, নাকি পরিমাণ ঠিক আছে?
+
+**৬. Customer:** একটু কম মনে হচ্ছে। Bottle টা পুরো ভরা না।
+
+**৭. Agent:** Ma'am, এটা একটা গুরুতর issue। Seal ভাঙা এবং quantity কম — দুটোই অগ্রহণযোগ্য।
+
+**৮. Customer:** আমাকে কি used product দেওয়া হয়েছে? কেউ কি আগে use করে পাঠিয়েছে?
+
+**৯. Agent:** সেটা আমরা এখনই নিশ্চিত করতে পারব না Ma'am। তবে এই product টা আপনি use করবেন না। Full return নেওয়া হবে।
+
+**১০. Customer:** আমি এটা use করব না। কিন্তু এই ঘটনা কীভাবে হলো — warehouse-এ কি quality check নেই?
+
+**১১. Agent:** Ma'am, এটা আমাদের process-এ একটা ব্যর্থতা। আপনার complaint টা আমরা warehouse quality team-এ escalate করছি।
+
+**১২. Customer:** ঠিক আছে। Replacement চাই, refund না।
+
+**১৩. Agent:** অবশ্যই Ma'am। Replacement-এর সময় আমরা expiry date এবং seal manually verify করব।
+
+**১৪. Customer:** Good। Exchange কীভাবে হবে?
+
+**১৫. Agent:** Courier আপনার address-এ আসবে — পুরনো product নিয়ে যাবে এবং নতুন product দিয়ে যাবে একসাথে।
+
+**১৬. Customer:** মানে exchange delivery? একসাথে?
+
+**১৭. Agent:** হ্যাঁ Ma'am। আলাদাভাবে return করতে হবে না।
+
+**১৮. Customer:** কতদিনের মধ্যে আসবে?
+
+**১৯. Agent:** ২ থেকে ৩ business day-এর মধ্যে Ma'am।
+
+**২০. Customer:** ঠিক আছে। এই ঘটনার কি কোনো follow-up পাব?
+
+**২১. Agent:** হ্যাঁ Ma'am, আমাদের quality team investigation শেষে আপনাকে জানানো হবে।
+
+**২২. Customer:** ঠিক আছে, ধন্যবাদ।
+
+**২৩. Agent:** Shajgoj-এ call করার জন্য ধন্যবাদ Ma'am। Exchange-এর SMS confirm হলে পাঠানো হবে।
+
+---
+
+## সিনারিও ৬: Delivery-তে আসা Anti-aging Cream-এর Expiry শেষ — Expired Product অভিযোগ
+
+> একজন customer Shajgoj থেকে কেনা anti-aging cream পাওয়ার পর expiry date দেখে বুঝতে পারেন দুই মাস আগেই মেয়াদ শেষ হয়ে গেছে। তিনি রাগান্বিত হয়ে call করেছেন।
+
+**১. Agent:** Shajgoj customer care-এ স্বাগতম। কীভাবে আপনাকে help করতে পারি?
+
+**২. Customer:** আপু, Shajgoj থেকে anti-aging cream কিনলাম। এইমাত্র দেখলাম expiry date দুই মাস আগেই শেষ হয়ে গেছে!
+
+**৩. Agent:** Ma'am, এটা সত্যিই অগ্রহণযোগ্য। আপনি কি product use করেছেন?
+
+**৪. Customer:** না, ভাগ্যিস দেখে নিয়েছি আগে। কিন্তু এটা কীভাবে হলো? Shajgoj কি quality check করে না?
+
+**৫. Agent:** Ma'am, এটা আমাদের quality process-এর একটা গুরুতর ব্যর্থতা। এজন্য সত্যিই ক্ষমাপ্রার্থী।
+
+**৬. Customer:** ক্ষমা চাইলেই হবে? আমি ভালো product কিনতে এসেছি, expired product না।
+
+**৭. Agent:** আপনার কথা সম্পূর্ণ সঠিক Ma'am। Full replacement দেওয়া হবে এবং এই batch নিয়ে investigation হবে।
+
+**৮. Customer:** Replacement পাঠানোর আগে কি নিশ্চিত করবেন যে সেটা expired না?
+
+**৯. Agent:** অবশ্যই Ma'am। Replacement পাঠানোর আগে আমরা expiry date manually verify করব।
+
+**১০. Customer:** ঠিক আছে। এই same product-এর কি অন্য customers-ও expired পাচ্ছে?
+
+**১১. Agent:** সেটা investigate করা হবে Ma'am। আপনার case টা urgent হিসেবে mark করা হচ্ছে।
+
+**১২. Customer:** Replacement কবে আসবে?
+
+**১৩. Agent:** Pickup ১ থেকে ২ business day-এ হবে। Replacement এর পর ২ থেকে ৩ দিনের মধ্যে পৌঁছাবে।
+
+**১৪. Customer:** মোট মিলিয়ে কত দিন?
+
+**১৫. Agent:** সর্বোচ্চ ৫ business day, Ma'am।
+
+**১৬. Customer:** ঠিক আছে, মেনে নিচ্ছি। কিন্তু এই ঘটনার কি কোনো update পাব?
+
+**১৭. Agent:** হ্যাঁ Ma'am, quality investigation শেষে আমরা আপনাকে জানাব।
+
+**১৮. Customer:** ধন্যবাদ। আশা করি আর এরকম হবে না।
+
+**১৯. Agent:** Ma'am, আপনার feedback আমাদের process উন্নত করতে সাহায্য করবে। আবারও দুঃখিত এই অভিজ্ঞতার জন্য।
+
+**২০. Customer:** ঠিক আছে। SMS দেবেন confirm হলে।
+
+**২১. Agent:** অবশ্যই Ma'am। Pickup এবং replacement — দুটোর জন্যই SMS যাবে।
+
+**২২. Customer:** আচ্ছা, ধন্যবাদ।
+
+**২৩. Agent:** Shajgoj-এ call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
