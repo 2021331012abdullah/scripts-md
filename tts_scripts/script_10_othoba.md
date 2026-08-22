@@ -595,3 +595,838 @@
 **২১. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
 
 ---
+## সিনারিও ১৩: Product এসেছে Visibly Used — Seller বলছে "নতুন"
+
+> একজন customer Othoba থেকে একটি hair dryer কিনেছেন। Box খুলে দেখেন device-এর ভেতরে hair আটকে আছে, nozzle-এর গায়ে ব্যবহারের দাগ। Seller বলছে "নতুন পাঠিয়েছি।"
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, hair dryer কিনলাম — ভেতরে hair আটকে আছে। দাগও আছে। Seller বলছে নতুন। এটা কীভাবে সম্ভব?
+
+**৩. Agent:** Ma'am, একটি নতুন product-এ used item-এর evidence থাকার কোনো কারণ নেই। এটা seller-এর fault।
+
+**৪. Customer:** Seller inbox-এ বলছে factory defect হতে পারে। এটা কি মানা যায়?
+
+**৫. Agent:** Ma'am, factory-তে hair ঢোকে না। এটা স্পষ্টতই return হওয়া বা refurbished product।
+
+**৬. Customer:** আমার কি return করতে হবে?
+
+**৭. Agent:** Ma'am, হ্যাঁ, return করলেই refund পাবেন। অথবা replacement চাইতে পারেন।
+
+**৮. Customer:** Replacement নেব, কিন্তু same seller থেকে নয়।
+
+**৯. Agent:** Ma'am, সেটা সম্ভব। আমরা different seller থেকে নতুন product পাঠাতে পারি।
+
+**১০. Customer:** Seller-এর কোনো penalty হবে?
+
+**১১. Agent:** Ma'am, "used as new" complaint — এটা Othoba-র serious policy violation। Seller-এর rating drop হবে এবং account review-এ যাবে।
+
+**১২. Customer:** এই ধরনের seller কতজন buyer-কে ঠকাচ্ছে?
+
+**১৩. Agent:** Ma'am, আমরা এই seller-এর সব recent complaint check করব। Pattern দেখলে suspend করব।
+
+**১৪. Customer:** ঠিক আছে আপু। App-এ return request দিচ্ছি।
+
+**১৫. Agent:** Ma'am, return-এ hair সহ nozzle-এর ছবি এবং ভেতরের hair-এর ছবি attach করুন — proof হিসেবে।
+
+**১৬. Customer:** করলাম। Replacement কতদিনে?
+
+**১৭. Agent:** Ma'am, return pickup ২৪ ঘণ্টায়, replacement dispatch ৪৮ ঘণ্টায়। Total ৩ থেকে ৪ দিন।
+
+**১৮. Customer:** ঠিক আছে। ধন্যবাদ আপু।
+
+**১৯. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
+
+## সিনারিও ১৪: COD Delivery হয়েছে, Receipt নেই — Seller Delivery-ই Deny করছে
+
+> একজন customer COD-এ product receive করেছেন কিন্তু delivery man কোনো receipt দেননি। এখন seller বলছে "delivery হয়নি" এবং refund demand করছে। Customer-এর কাছে কোনো proof নেই।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, COD-এ product পেয়েছি। কিন্তু delivery man receipt দেয়নি। এখন seller বলছে delivery হয়নি।
+
+**৩. Agent:** Sir, product কি এখন আপনার কাছে আছে?
+
+**৪. Customer:** হ্যাঁ, আছে। আমি টাকাও দিয়েছি।
+
+**৫. Agent:** Sir, delivery man-এর কাছ থেকে কোনো name, phone বা ID দেখেছিলেন?
+
+**৬. Customer:** Delivery man-এর jacket-এ Pathao Courier লেখা ছিল।
+
+**৭. Agent:** Sir, Pathao Courier-এর delivery record-এ আপনার address-এ delivery confirm হওয়ার data থাকবে।
+
+**৮. Customer:** সেটা কি Othoba access করতে পারবে?
+
+**৯. Agent:** Sir, আমরা Pathao-কে delivery confirmation চাইব। তাদের GPS log এবং delivery agent record চেক করব।
+
+**১০. Customer:** এই information পেতে কতদিন লাগবে?
+
+**১১. Agent:** Sir, ২৪ থেকে ৪৮ ঘণ্টা। Pathao সাধারণত দ্রুত respond করে।
+
+**১২. Customer:** এতক্ষণে seller কিছু করবে না তো?
+
+**১৩. Agent:** Sir, seller-এর order status আপাতত hold-এ রাখা হচ্ছে। কোনো action নেওয়া যাবে না।
+
+**১৪. Customer:** ভবিষ্যতে এই situation-এ কী করব?
+
+**১৫. Agent:** Sir, COD delivery-তে সবসময় receipt চাইবেন। না দিলে delivery man-এর সামনেই product-এর unboxing video করুন।
+
+**১৬. Customer:** Unboxing video কেন?
+
+**১৭. Agent:** Sir, unboxing video delivery-র proof হিসেবে কাজ করে — product কখন এবং কার কাছ থেকে পেয়েছেন সেটা timestamp দিয়ে প্রমাণ হয়।
+
+**১৮. Customer:** বুঝলাম। এখন কি করব?
+
+**১৯. Agent:** Sir, ৪৮ ঘণ্টা অপেক্ষা করুন। Delivery confirmation এলে seller-এর claim dismiss হবে।
+
+**২০. Customer:** ঠিক আছে ভাই। ধন্যবাদ।
+
+**২১. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Sir। Update SMS-এ পাবেন।
+
+---
+## সিনারিও ১৫: Electronics-এর Serial Number Verify হচ্ছে না — Authenticity সন্দেহ
+
+> একজন customer Othoba থেকে একটি branded smart TV remote কিনেছেন। Samsung-এর website-এ serial number দিয়ে verify করতে গেলে "Invalid Serial Number" দেখাচ্ছে।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, Samsung remote কিনলাম। Samsung-এর website-এ serial verify করতে গেলাম — "Invalid Serial Number" দেখাচ্ছে।
+
+**৩. Agent:** Sir, এটা নিয়ে সন্দেহ হওয়া স্বাভাবিক। Serial number কি product-এর গায়ে এবং box-এ same?
+
+**৪. Customer:** হ্যাঁ, দুই জায়গায় same লেখা।
+
+**৫. Agent:** Sir, Samsung-এর verification page-এ আবার try করুন — কখনো server issue-র জন্যও invalid দেখায়।
+
+**৬. Customer:** আবার try করলাম। এখনো same — "Invalid।"
+
+**৭. Agent:** Sir, remote-টা কি আপনার TV-তে কাজ করছে?
+
+**৮. Customer:** হ্যাঁ, TV-তে কাজ করছে।
+
+**৯. Agent:** Sir, interesting। Original Samsung remote হলে TV-তে কাজ করবে। তবে serial invalid মানে এটা third-party compatible remote হতে পারে — Samsung-branded packaging-এ দেওয়া হয়েছে।
+
+**১০. Customer:** Seller তো "100% Original Samsung" বলেছিল।
+
+**১১. Agent:** Sir, এই মিসলিডিং claim-এর জন্য আমরা seller-কে notice করব।
+
+**১২. Customer:** আমার কি refund পাওয়া উচিত?
+
+**১৩. Agent:** Sir, "original" বলে "compatible" দেওয়া হলে সেটা mislabeling। Refund আপনার অধিকার।
+
+**১৪. Customer:** Remote কিন্তু কাজ করছে। শুধু original না বলে যদি compatible বলত নিতাম।
+
+**১৫. Agent:** Sir, সিদ্ধান্ত আপনার। Refund নিতে পারেন অথবা রাখতে পারেন — কিন্তু seller-এর misleading description-এর complaint আমরা নেব।
+
+**১৬. Customer:** Remote রাখছি। কিন্তু seller-এর বিরুদ্ধে report করুন।
+
+**১৭. Agent:** Sir, অবশ্যই। Product listing update করানো হবে — "compatible" clearly লিখতে হবে।
+
+**১৮. Customer:** ঠিক আছে ভাই। ধন্যবাদ।
+
+**১৯. Agent:** Othoba-তে call করার জন্য ধন্যবাহ Sir। ভালো থাকুন।
+
+---
+
+## সিনারিও ১৬: Fragile Item এসেছে ভাঙা — Seller বলছে Courier-এর দোষ
+
+> একজন customer Othoba থেকে একটি ceramic flower vase কিনেছেন। Packaging খুলে দেখেন vase টি দুই টুকরো হয়ে গেছে। Seller বলছে "আমি ভালো pack করেছিলাম, courier-এর দোষ।"
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, ceramic vase কিনেছিলাম। ভাঙা এসেছে। Seller বলছে courier-এর দোষ। আমি কার কাছে যাব?
+
+**৩. Agent:** Ma'am, seller এবং courier — দুজনই দায়বদ্ধ। আপনি Othoba-তে এসেছেন — এটাই সঠিক।
+
+**৪. Customer:** কিন্তু দোষটা কার?
+
+**৫. Agent:** Ma'am, fragile item-এ seller যদি adequate packaging না করে এবং courier যদি handle carefully না করে — দুজনেরই responsibility।
+
+**৬. Customer:** তাহলে refund কে দেবে?
+
+**৭. Agent:** Ma'am, Othoba-র Buyer Protection-এর আওতায় আপনি refund পাবেন। Seller এবং courier-এর মধ্যে দোষ নির্ধারণ আমাদের কাজ।
+
+**৮. Customer:** Vase-এর ছবি দিতে হবে?
+
+**৯. Agent:** Ma'am, হ্যাঁ। ভাঙা vase-এর ছবি এবং packaging-এর ছবি দিন।
+
+**১০. Customer:** Packaging bubble wrap ছিল — কিন্তু সেটাই কম ছিল মনে হচ্ছে।
+
+**১১. Agent:** Ma'am, সেটাও photo-তে দেখান। "Insufficient packaging" clear হলে seller দায়ী।
+
+**১২. Customer:** App-এ return request submit করলাম। Photo দিলাম।
+
+**১৩. Agent:** Ma'am, ২৪ ঘণ্টার মধ্যে review হবে।
+
+**১৪. Customer:** Refund হলে wallet-এ আসবে?
+
+**১৫. Agent:** Ma'am, আপনার preference কী — wallet নাকি original payment method-এ?
+
+**১৬. Customer:** Original bKash-এ চাই।
+
+**১৭. Agent:** Ma'am, refund request-এ "bKash" prefer করুন। ৩ থেকে ৫ business day-এ আসবে।
+
+**১৮. Customer:** ঠিক আছে আপু। ধন্যবাহ।
+
+**১৯. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
+
+## সিনারিও ১৭: AjkerDeal Flash Deal Item — Order-এর পর Platform Cancel করেছে
+
+> একজন customer AjkerDeal-এ একটি flash deal-এ ৬০% ছাড়ে blender কিনেছেন। Payment হয়েছে। পরদিন Othoba email করে জানিয়েছে "price error-এর কারণে order cancel।" Customer ক্ষুব্ধ।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, AjkerDeal-এ blender কিনলাম ৬০% ছাড়ে। পরদিন email এলো — "price error, order cancel।" এটা কি সঠিক?
+
+**৩. Agent:** Sir, এই situation-এ আপনার frustration সম্পূর্ণ বোধগম্য। Platform cancel করলে সেটা নিয়ম মেনে হওয়া উচিত।
+
+**৪. Customer:** নিয়ম মেনে মানে কী? আমি তো valid price-এই কিনেছি।
+
+**৫. Agent:** Sir, AjkerDeal-এর terms-এ আছে যে technical error-এ listed price-এ গেলে platform cancel করার অধিকার রাখে।
+
+**৬. Customer:** এটা fair না। আমি দেখেশুনে কিনেছি।
+
+**৭. Agent:** Sir, আপনার অনুভূতি সঠিক। এই policy customer-unfriendly।
+
+**৮. Customer:** তাহলে আমার কি পাওনা নেই কিছু?
+
+**৯. Agent:** Sir, আপনি full refund পাবেন। এছাড়া আমরা compensation হিসেবে একটি store voucher দিতে পারি।
+
+**১০. Customer:** Voucher কত টাকার?
+
+**১১. Agent:** Sir, এই ধরনের inconvenience-এ সাধারণত ১৫০ থেকে ২০০ টাকার voucher দেওয়া হয়।
+
+**১২. Customer:** এটা কি দেরিতে আসবে?
+
+**১৩. Agent:** Sir, refund ৩ থেকে ৫ business day-এ। Voucher ২৪ ঘণ্টায় email-এ।
+
+**১৪. Customer:** Voucher-টা কি same blender-এ use করা যাবে?
+
+**১৫. Agent:** Sir, হ্যাঁ, যেকোনো order-এ use করা যাবে।
+
+**১৬. Customer:** Blender-টা কি এখন সঠিক দামে পাওয়া যাচ্ছে?
+
+**১৭. Agent:** Sir, check করছি... product এখন ৮,৫০০ টাকায় আছে।
+
+**১৮. Customer:** Deal-এ ছিল ৩,২০০ টাকায়। এখন এত বেশি নেব না।
+
+**১৯. Agent:** Sir, বুঝতে পারছি। তবে voucher-টা রাখুন — অন্য কোনো purchase-এ কাজে লাগবে।
+
+**২০. Customer:** ঠিক আছে। ধন্যবাদ ভাই।
+
+**২১. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Sir। Voucher শীঘ্রই পাবেন।
+
+---
+## সিনারিও ১৮: ভুলে Duplicate Order হয়ে গেছে — একটি Cancel করতে চান
+
+> একজন customer Othoba-তে একই product দুইবার order করে ফেলেছেন — একবার app-এ click করার পর page load না হওয়ায় আবার করেছেন। দুটোই confirm হয়ে গেছে।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, একই item দুইবার order হয়ে গেছে। Page load না হওয়ায় আবার click করেছিলাম।
+
+**৩. Agent:** Ma'am, কোন order cancel করতে চান — প্রথমটা নাকি দ্বিতীয়টা?
+
+**৪. Customer:** যেটাই cancel হয়, একটা হলেই হবে।
+
+**৫. Agent:** Ma'am, দুটোর কোনোটা ship হয়েছে?
+
+**৬. Customer:** না, দুটোই "Processing।"
+
+**৭. Agent:** Ma'am, "Processing" থাকলে সহজে cancel করা যাবে। App-এ My Orders-এ যান।
+
+**৮. Customer:** গেলাম। দুটো order দেখছি।
+
+**৯. Agent:** Ma'am, যেকোনো একটায় tap করুন। "Cancel Order" button আছে।
+
+**১০. Customer:** দেখছি। Tap করলাম। Cancel reason চাইছে।
+
+**১১. Agent:** Ma'am, "Ordered by mistake" select করুন।
+
+**১২. Customer:** করলাম। Confirmed। এক order cancel হয়ে গেছে।
+
+**১৩. Agent:** Ma'am, cancelled order-এর refund কীভাবে payment করেছিলেন?
+
+**১৪. Customer:** Card-এ।
+
+**১৫. Agent:** Ma'am, ৩ থেকে ৫ business day-এ card-এ refund আসবে।
+
+**১৬. Customer:** এত দিন লাগবে?
+
+**১৭. Agent:** Ma'am, card refund bank-এর processing-এ একটু সময় লাগে। তবে process শুরু হয়ে গেছে।
+
+**১৮. Customer:** ঠিক আছে। আর একটা order কি ঠিকমতো আসবে?
+
+**১৯. Agent:** Ma'am, remaining order active আছে। স্বাভাবিকভাবে deliver হবে।
+
+**২০. Customer:** ধন্যবাদ আপু।
+
+**২১. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
+
+## সিনারিও ১৯: Order ১০ দিন "Confirmed" — Seller Ship করছে না
+
+> একজন customer Othoba-তে product order করেছেন ১০ দিন আগে। Status এখনো "Confirmed।" Seller-এর message-এ "shipping soon" বলছে — কিন্তু প্রতিদিন এই একই কথা।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, ১০ দিন হয়ে গেছে। Order "Confirmed"-এই আছে। Seller প্রতিদিন "shipping soon" বলছে।
+
+**৩. Agent:** Sir, ১০ দিন একই status — এটা acceptable না। Othoba-র policy অনুযায়ী seller ৩ business day-এর মধ্যে ship করার কথা।
+
+**৪. Customer:** তাহলে এত দিন ধরে কেন চললো?
+
+**৫. Agent:** Sir, আপনি আগে আমাদের জানাননি — তাই auto-escalate হয়নি। এখন থেকে action হবে।
+
+**৬. Customer:** Action মানে কী হবে?
+
+**৭. Agent:** Sir, আমরা এই seller-কে ২৪ ঘণ্টার ultimatum দিচ্ছি — ship করতে হবে নইলে order cancel হবে।
+
+**৮. Customer:** Cancel হলে refund পাব?
+
+**৯. Agent:** Sir, হ্যাঁ, full refund। অথবা চাইলে same product অন্য seller থেকে নেওয়া যাবে।
+
+**১০. Customer:** অন্য seller থেকে নিলে কত দিনে পাব?
+
+**১১. Agent:** Sir, ২ থেকে ৩ business day-এ।
+
+**১২. Customer:** ঠিক আছে। Alternate seller-ই নেব।
+
+**১৩. Agent:** Sir, same product অন্য seller-এ আছে। Price same থাকবে।
+
+**১৪. Customer:** তাহলে এই seller-টাকে কি cancel করুন।
+
+**১৫. Agent:** Sir, করছি। Alternate seller থেকে new order আজকেই create হবে।
+
+**১৬. Customer:** Tracking কি নতুন হবে?
+
+**১৭. Agent:** Sir, নতুন tracking number SMS-এ পাঠানো হবে।
+
+**১৮. Customer:** ঠিক আছে। এই seller-এর কি কোনো ব্যবস্থা?
+
+**১৯. Agent:** Sir, repeated shipping delay-এর জন্য seller-এর performance score কমবে। Account restriction হতে পারে।
+
+**২০. Customer:** ধন্যবাহ ভাই।
+
+**২১. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Sir। নতুন tracking SMS-এ পাবেন।
+
+---
+## সিনারিও ২০: সম্পূর্ণ ভুল Item পেয়েছেন — Order করেছিলেন অন্য কিছু
+
+> একজন customer Othoba থেকে একটি desk lamp order করেছিলেন। Delivery-তে পেয়েছেন একটি extension cord। দুটো item-এর দাম প্রায় একই। Seller-এর warehouse-এ packing mistake।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, desk lamp কিনেছিলাম। পেয়েছি extension cord। সম্পূর্ণ ভুল জিনিস।
+
+**৩. Agent:** Ma'am, এটা warehouse-এর packing mistake। আপনি কি box-এর outside label চেক করেছিলেন?
+
+**৪. Customer:** হ্যাঁ, box-এ আমার নাম এবং address ছিল। কিন্তু ভেতরে ভুল item।
+
+**৫. Agent:** Ma'am, ঠিক আছে। Lamp টা কি urgently দরকার?
+
+**৬. Customer:** হ্যাঁ, office-এর জন্য।
+
+**৭. Agent:** Ma'am, আমরা priority re-ship করব। ভুল item pickup হওয়ার সাথে সাথে correct item dispatch হবে।
+
+**৮. Customer:** দুটো একসাথে হবে?
+
+**৯. Agent:** Ma'am, হ্যাঁ — courier এসে extension cord নিয়ে যাবে এবং lamp-এর delivery হবে।
+
+**১০. Customer:** কতদিনে?
+
+**১১. Agent:** Ma'am, ১ থেকে ২ business day।
+
+**১২. Customer:** Extension cord কি আমার কাছে রাখতে পারি? কাজে লাগতে পারে।
+
+**১৩. Agent:** Ma'am, সেটা seller-এর সম্পদ — আমাদের return করতে হবে। তবে seller চাইলে goodwill হিসেবে দিতে পারেন।
+
+**১৪. Customer:** Seller-কে জিজ্ঞেস করব?
+
+**১৫. Agent:** Ma'am, আমরা seller-কে জিজ্ঞেস করি। অনেক সময় seller minor item-এ পরোয়া করে না।
+
+**১৬. Customer:** ঠিক আছে।
+
+**১৭. Agent:** Ma'am, seller respond করেছে — extension cord রেখে দিতে বলেছে। Goodwill gesture।
+
+**১৮. Customer:** আরে, ভালোই হলো! ধন্যবাহ।
+
+**১৯. Agent:** Ma'am, lamp-এর re-ship SMS-এ confirm হবে।
+
+**২০. Customer:** ঠিক আছে। ধন্যবাহ আপু।
+
+**২১. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
+
+## সিনারিও ২১: Order Cancel করতে চান — Seller ইতিমধ্যে Ship করে দিয়েছে
+
+> একজন customer মন পরিবর্তন করে order cancel করতে চাইছেন। কিন্তু app-এ গিয়ে দেখেন seller ইতিমধ্যে ship করে দিয়েছে — tracking number দেওয়া হয়ে গেছে।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, order cancel করতে চাই। কিন্তু seller ship করে দিয়েছে।
+
+**৩. Agent:** Sir, product এখন courier-এ। এই stage-এ cancel করা একটু জটিল।
+
+**৪. Customer:** কোনো উপায় নেই?
+
+**৫. Agent:** Sir, দুটো option আছে। এক — delivery refuse করুন courier-এর কাছ থেকে। দুই — receive করে return request দিন।
+
+**৬. Customer:** Refuse করলে কী হবে?
+
+**৭. Agent:** Sir, courier product ফিরিয়ে নিয়ে যাবে। Seller-এর কাছে ফিরলে refund process শুরু হবে।
+
+**৮. Customer:** Refuse করলে আমার কোনো charge লাগবে?
+
+**৯. Agent:** Sir, COD হলে কোনো charge নেই। Online payment হলে refund shipping fee বাদ দিয়ে হতে পারে।
+
+**১০. Customer:** Online-এ দিয়েছিলাম। Shipping fee কত?
+
+**১১. Agent:** Sir, সাধারণত ৬০ থেকে ১২০ টাকা — seller-এর policy অনুযায়ী।
+
+**১২. Customer:** Cancel-এর কারণ "মন পরিবর্তন" — এতে full refund পাব না?
+
+**১৩. Agent:** Sir, seller-এর return policy-তে "change of mind" refund থাকলে পাবেন। অনেক seller-এ থাকে না।
+
+**১৪. Customer:** দেখলাম — এই seller-এ আছে। ৭ দিনের মধ্যে।
+
+**১৫. Agent:** Sir, তাহলে delivery নিন। ৭ দিনের মধ্যে return request দিন।
+
+**১৬. Customer:** এই পথে কি shipping fee বাদ যাবে?
+
+**১৭. Agent:** Sir, return shipping seller-ই বহন করবে — seller-এর policy-তে আছে।
+
+**১৮. Customer:** তাহলে receive করে return দেব। ঠিক আছে।
+
+**১৯. Agent:** Sir, return request দেওয়ার সময় reason-এ "Change of Mind" select করুন।
+
+**২০. Customer:** ধন্যবাদ ভাই।
+
+**২১. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Sir। ভালো থাকুন।
+
+---
+## সিনারিও ২২: Delivery Attempt হয়েছিল — Customer বাসায় ছিলেন না, Hub-এ ফিরে গেছে
+
+> একজন customer অফিসে ছিলেন। Courier call করেনি, কিন্তু tracking-এ "Delivery Attempted — Returned to Hub।" এখন product hub-এ আটকে।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, tracking-এ দেখছি "Delivery Attempted।" কিন্তু courier আমাকে call-ই করেনি। Product hub-এ ফিরে গেছে।
+
+**৩. Agent:** Sir, courier call না করেই "attempted" mark করা — এটা proper না।
+
+**৪. Customer:** এখন কী করব?
+
+**৫. Agent:** Sir, আপনি কি আজকে বা কালকে receive করতে পারবেন?
+
+**৬. Customer:** কাল সকালে ঘরে থাকব।
+
+**৭. Agent:** Sir, আমি courier-কে কালকের জন্য re-delivery schedule করছি।
+
+**৮. Customer:** আমার phone number আপডেট করা আছে?
+
+**৯. Agent:** Sir, order-এ যে number আছে সেটা confirm করুন।
+
+**১০. Customer:** হ্যাঁ, সঠিক number আছে।
+
+**১১. Agent:** Sir, courier-কে explicitly বলছি আপনাকে call করে আসতে।
+
+**১২. Customer:** কোন সময়ে আসবে?
+
+**১৩. Agent:** Sir, সকাল ১০টা থেকে ১টার মধ্যে। Exact time courier নিজে call করে confirm করবে।
+
+**১৪. Customer:** ঠিক আছে। যদি কাল-ও না পাই?
+
+**১৫. Agent:** Sir, কাল deliver না হলে আবার call করুন। আমরা different arrangement করব।
+
+**১৬. Customer:** Maximum কতবার attempt হয়?
+
+**১৭. Agent:** Sir, সাধারণত ৩ attempt। এর পরে product seller-এ ফিরে যায়।
+
+**১৮. Customer:** এটা কি প্রথম attempt ছিল?
+
+**১৯. Agent:** Sir, হ্যাঁ, প্রথম। আরো ২টা attempt আছে।
+
+**২০. Customer:** ঠিক আছে ভাই। ধন্যবাদ।
+
+**২১. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Sir। কাল delivery হোক।
+
+---
+
+## সিনারিও ২৩: Product অন্য Seller-এর Package-এ এসেছে — Customer Confused
+
+> একজন customer Othoba-তে একটি seller-এর কাছ থেকে keyboard কিনেছেন। Delivery-তে দেখেন package-এর উপরে অন্য seller-এর sticker লাগানো। Customer সন্দেহে call করেছেন।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, package-এর উপরে আলাদা seller-এর নাম লেখা। আমি কিনেছি "TechDeals BD" থেকে। Box-এ লেখা "GadgetHub।"
+
+**৩. Agent:** Ma'am, এটা suspicious দেখাচ্ছে। Product কি খুলে দেখেছেন?
+
+**৪. Customer:** হ্যাঁ, keyboard ঠিকই এসেছে — model সঠিক।
+
+**৫. Agent:** Ma'am, কিছু seller আসলে dropshipping করে — অন্য supplier থেকে directly ship করায়। তাই box-এ আলাদা name আসতে পারে।
+
+**৬. Customer:** Dropshipping মানে?
+
+**৭. Agent:** Ma'am, মানে হলো "TechDeals BD" নিজে stock রাখে না — অন্য supplier "GadgetHub" থেকে সরাসরি আপনার কাছে পাঠিয়েছে।
+
+**৮. Customer:** এটা কি Othoba-র নিয়মে বৈধ?
+
+**৯. Agent:** Ma'am, technically বৈধ — কিন্তু seller নিজের নামে সব দায়িত্ব নেওয়ার কথা। Transparency-র অভাব আছে।
+
+**১০. Customer:** Product যদি ভুল হতো?
+
+**১১. Agent:** Ma'am, যেটাই হোক — warranty এবং return-এর দায়িত্ব "TechDeals BD"-র, যেখান থেকে কিনেছেন।
+
+**১২. Customer:** Box-এর "GadgetHub"-এর warranty কাজ করবে?
+
+**১৩. Agent:** Ma'am, Othoba invoice দিয়ে warranty claim করুন — seller-এর নামেই।
+
+**১৪. Customer:** ঠিক আছে। Product ভালো আছে তাই আপাতত রাখছি।
+
+**১৫. Agent:** Ma'am, এই seller-এর dropshipping transparency নিয়ে আমরা note করছি।
+
+**১৬. Customer:** ধন্যবাদ আপু।
+
+**১৭. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
+## সিনারিও ২৪: Card-এ Payment করা Order Cancel — Refund কতদিনে?
+
+> একজন customer Othoba-তে card payment-এ একটি order করেছিলেন কিন্তু নিজেই পরে cancel করেছেন। Refund ৭ দিন হয়ে গেছে, এখনো আসেনি। তিনি জানতে চাইছেন।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, card-এ payment করা order cancel করেছিলাম। ৭ দিন হয়ে গেছে refund আসেনি।
+
+**৩. Agent:** Sir, cancel confirm হয়েছিল — app-এ "Cancelled" দেখাচ্ছে?
+
+**৪. Customer:** হ্যাঁ, "Cancelled" দেখাচ্ছে।
+
+**৫. Agent:** Sir, refund initiate হওয়ার confirmation email বা SMS পেয়েছিলেন?
+
+**৬. Customer:** হ্যাঁ, cancel-এর দিনই "Refund Initiated" email এসেছিল।
+
+**৭. Agent:** Sir, refund initiate হলেও card-এ reflect করতে ৫ থেকে ১০ business day লাগে — bank-এর processing-এর জন্য।
+
+**৮. Customer:** ৭ calendar day মানে কি ৫ business day?
+
+**৯. Agent:** Sir, ৭ calendar day-এ সাধারণত ৫ business day হয় — weekend বাদ দিলে।
+
+**১০. Customer:** তাহলে আরো ২ থেকে ৩ দিন লাগতে পারে?
+
+**১১. Agent:** Sir, সম্ভাবনা আছে। আপনার bank কোনটা?
+
+**১২. Customer:** Dutch Bangla Bank।
+
+**১৩. Agent:** Sir, DBBL সাধারণত ৭ থেকে ১০ business day নেয় refund-এ। আরো ২ থেকে ৩ দিন দিন।
+
+**১৪. Customer:** ঠিক আছে। যদি ১০ business day-এও না আসে?
+
+**১৫. Agent:** Sir, তাহলে DBBL customer care-কে call করুন — refund transaction reference number দিলে তারা trace করতে পারবে।
+
+**১৬. Customer:** Reference number কোথায় পাব?
+
+**১৭. Agent:** Sir, "Refund Initiated" email-এ একটি transaction reference থাকার কথা।
+
+**১৮. Customer:** দেখলাম — "REF-OTH-TXN-88123।"
+
+**১৯. Agent:** Sir, এটাই DBBL-কে দিন। তারা খুঁজে দেবে।
+
+**২০. Customer:** ঠিক আছে। আর কিছু দিন অপেক্ষা করব।
+
+**২১. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Sir। ভালো থাকুন।
+
+---
+
+## সিনারিও ২৫: Voucher Code "Invalid" দেখাচ্ছে — কালকেও কাজ করেছিল
+
+> একজন customer Othoba-তে checkout-এ একটি voucher code দিচ্ছেন — "SAVE150।" কাল কাজ করেছিল। আজ "Invalid or Expired" দেখাচ্ছে। Order করতে পারছেন না।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, voucher code "SAVE150" কাজ করছে না। কাল কাজ করেছিল।
+
+**৩. Agent:** Ma'am, voucher code-এর মেয়াদ শেষ হওয়ার সম্ভাবনা আছে। Code-টা কোথায় থেকে পেয়েছিলেন?
+
+**৪. Customer:** Othoba-র SMS-এ।
+
+**৫. Agent:** Sir, SMS-এ validity date ছিল?
+
+**৬. Customer:** ছিল — "Valid till August 21।"
+
+**৭. Agent:** Ma'am, আজকে August 22। মেয়াদ গতকাল শেষ হয়েছে।
+
+**৮. Customer:** ওহ! আমি ভুলে গিয়েছিলাম।
+
+**৯. Agent:** Ma'am, expired voucher reactivate করা আমাদের পক্ষে সম্ভব না।
+
+**১০. Customer:** কোনো বিকল্প আছে?
+
+**১১. Agent:** Ma'am, আপনার account-এ আর কোনো active voucher নেই। তবে এই মুহূর্তে Othoba-তে কিছু running offers আছে।
+
+**১২. Customer:** কী ধরনের offer?
+
+**১৩. Agent:** Ma'am, bKash-এ payment করলে ১০০ টাকা instant cashback আছে এই সপ্তাহে।
+
+**১৪. Customer:** ১৫০ টাকার voucher মিস করলাম, ১০০ টাকা পাব — তবুও কিছুটা বাঁচবে।
+
+**১৫. Agent:** Ma'am, offer page-এ গিয়ে "bKash Cashback" banner দেখুন — terms পড়ে নিন।
+
+**১৬. Customer:** দেখলাম। Okay। bKash-এই দিচ্ছি।
+
+**১৭. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Ma'am। Happy shopping।
+
+---
+## সিনারিও ২৬: Referral Cashback আসেনি — বন্ধু Purchase করেছে
+
+> একজন customer তার referral link বন্ধুকে দিয়েছিলেন। বন্ধু Othoba-তে purchase করেছেন। Referral reward ৳200 পাওয়ার কথা ছিল — ৫ দিন হয়ে গেছে, কিছু আসেনি।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, আমার referral link দিয়ে বন্ধু কিনেছে। Referral cashback ৳২০০ পাওয়ার কথা। ৫ দিন হলো — কিছু আসেনি।
+
+**৩. Agent:** Sir, referral reward সাধারণত বন্ধুর order deliver হওয়ার পরে credit হয়। Deliver হয়েছে?
+
+**৪. Customer:** হ্যাঁ, তিন দিন আগে deliver হয়েছে।
+
+**৫. Agent:** Sir, তাহলে reward আসার কথা। আপনার Othoba wallet check করুন।
+
+**৬. Customer:** দেখলাম — কিছু নেই।
+
+**৭. Agent:** Sir, আপনার বন্ধু কি referral link থেকে app download করে কিনেছেন নাকি সরাসরি?
+
+**৮. Customer:** সে বলছে link-এ click করেছে। তারপর app download করে কিনেছে।
+
+**৯. Agent:** Sir, referral tracking-এর জন্য link থেকে সরাসরি purchase হতে হয়। Link click করার পরে app download করে কিনলে কখনো tracking-এ miss হয়।
+
+**১০. Customer:** তাহলে আমার cashback গেল?
+
+**১১. Agent:** Sir, technically tracking miss হলে auto-credit হয় না। কিন্তু আমরা manually verify করতে পারি।
+
+**১২. Customer:** কীভাবে verify হবে?
+
+**১৩. Agent:** Sir, আপনার referral code এবং বন্ধুর account-এর order confirmation — দুটো মিললে manually credit করা যায়।
+
+**১৪. Customer:** বন্ধুর order number জানা আছে।
+
+**১৫. Agent:** Sir, আপনার referral code এবং বন্ধুর order number care@othoba.com-এ email করুন।
+
+**১৬. Customer:** কতদিনে হবে?
+
+**১৭. Agent:** Sir, ৪৮ থেকে ৭২ ঘণ্টায় verify হলে wallet-এ credit হবে।
+
+**১৮. Customer:** ঠিক আছে। Email করছি।
+
+**১৯. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Sir। ভালো থাকুন।
+
+---
+
+## সিনারিও ২৭: COD থেকে Online Payment-এ Switch করতে চান — Process জানতে চান
+
+> একজন customer এতদিন COD-এ কিনতেন। এখন online payment করতে চাইছেন — কোন method সেরা, process কীভাবে কাজ করে জানতে call করেছেন।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, এতদিন COD-এ কিনতাম। এখন online-এ দিতে চাই। কীভাবে করব?
+
+**৩. Agent:** Ma'am, অনেক ভালো সিদ্ধান্ত। Online payment-এ অনেক benefit আছে।
+
+**৪. Customer:** কী ধরনের benefit?
+
+**৫. Agent:** Ma'am, প্রথমত extra discount — অনেক seller online payment-এ ৫% থেকে ১০% off দেন। দ্বিতীয়ত bKash বা card cashback offer পাওয়া যায়।
+
+**৬. Customer:** কোন method সবচেয়ে সহজ?
+
+**৭. Agent:** Ma'am, বাংলাদেশে সবচেয়ে সহজ হলো bKash। Othoba checkout-এ "bKash" select করুন, pin দিন — হয়ে যাবে।
+
+**৮. Customer:** Card কি safe?
+
+**৯. Agent:** Ma'am, Othoba-তে card payment SSL secured। Visa বা Mastercard — দুটোই কাজ করে।
+
+**১০. Customer:** বারবার card number দিতে হবে?
+
+**১১. Agent:** Ma'am, না। Othoba app-এ card save করে রাখা যায়। পরের বার শুধু CVV দিলেই হবে।
+
+**১২. Customer:** CVV save হবে না?
+
+**১৩. Agent:** Ma'am, না। CVV intentionally save হয় না — security-র জন্য।
+
+**১৪. Customer:** এটাই ভালো। আর Rocket বা Nagad কাজ করে?
+
+**১৫. Agent:** Ma'am, হ্যাঁ, Nagad এবং Rocket-ও Othoba-তে available।
+
+**১৬. Customer:** কোনটায় cashback বেশি?
+
+**১৭. Agent:** Ma'am, এটা offer-এর উপর নির্ভর করে। Othoba-র offer page-এ সব running cashback দেখতে পাবেন।
+
+**১৮. Customer:** ঠিক আছে। আজ থেকে bKash-এই দেব।
+
+**১৯. Agent:** Ma'am, প্রথমবার একটি ছোট order-এ try করুন — confident হলে বড় purchase করুন।
+
+**২০. Customer:** ভালো suggestion। ধন্যবাদ আপু।
+
+**২১. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Ma'am। Happy shopping।
+
+---
+## সিনারিও ২৮: Wishlist-এর Item Back in Stock — Notification পাননি
+
+> একজন customer Othoba-তে একটি item wishlist-এ যোগ করেছিলেন যখন "Out of Stock" ছিল। Item এখন available কিন্তু কোনো notification পাননি। অন্য কেউ কিনে নিচ্ছে।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, একটা item wishlist-এ রেখেছিলাম — out of stock ছিল। এখন দেখছি available। কিন্তু আমাকে notify করেনি।
+
+**৩. Agent:** Ma'am, "Notify Me" button-এ click করেছিলেন তখন?
+
+**৪. Customer:** হ্যাঁ, করেছিলাম।
+
+**৫. Agent:** Ma'am, notification আসার কথা ছিল — মাঝে মাঝে push notification বা email miss হয়।
+
+**৬. Customer:** Miss হওয়ার কারণ কী?
+
+**৭. Agent:** Ma'am, app notification off থাকলে বা email spam folder-এ গেলে miss হয়।
+
+**৮. Customer:** Notification on আছে। Email-এ spam-ও না।
+
+**৯. Agent:** Ma'am, তাহলে এটা technical glitch। আমরা note করছি।
+
+**১০. Customer:** Item কি এখনো available?
+
+**১১. Agent:** Ma'am, check করছি... হ্যাঁ, ৩টা still available।
+
+**১২. Customer:** এখনই order করতে পারব?
+
+**১৩. Agent:** Ma'am, অবশ্যই। App-এ গিয়ে wishlist থেকে cart-এ যোগ করুন।
+
+**১৪. Customer:** করলাম। Cart-এ গেছে।
+
+**১৫. Agent:** Ma'am, দ্রুত checkout করুন — limited stock।
+
+**১৬. Customer:** Done। Order দিলাম।
+
+**১৭. Agent:** Ma'am, ভালো। Notification issue-র জন্য আমরা technical team-এ report করব।
+
+**১৮. Customer:** ভবিষ্যতে কীভাবে নিশ্চিত করব?
+
+**১৯. Agent:** Ma'am, app-এ Settings > Notifications-এ "Wishlist Alerts" explicitly on আছে কিনা দেখুন।
+
+**২০. Customer:** দেখলাম — off ছিল! Enable করলাম।
+
+**২১. Agent:** Ma'am, এখন থেকে notification আসবে।
+
+**২২. Customer:** ধন্যবাদ আপু।
+
+**২৩. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
+
+## সিনারিও ২৯: Office-এর জন্য Bulk Stationary Order — Wholesale Price চান
+
+> একজন customer তার office-এর জন্য Othoba থেকে প্রতি মাসে stationary কিনতে চান — notebook, pen, file, stapler ইত্যাদি। Bulk rate এবং recurring order setup জানতে call করেছেন।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, আমাদের office-এর জন্য প্রতি মাসে stationary দরকার। ৩০ জনের office। Bulk rate পাওয়া যাবে?
+
+**৩. Agent:** Sir, Othoba Business Account আছে — এটা corporate buyer-দের জন্য।
+
+**৪. Customer:** Business Account মানে আলাদা account?
+
+**৫. Agent:** Sir, হ্যাঁ। Business Account-এ bulk discount, invoice facility এবং dedicated account manager পাওয়া যায়।
+
+**৬. Customer:** Discount কত?
+
+**৭. Agent:** Sir, order size অনুযায়ী ৫% থেকে ১৫% পর্যন্ত। Stationary-তে সাধারণত ৮% থেকে ১২%।
+
+**৮. Customer:** Monthly recurring order setup করা যাবে?
+
+**৯. Agent:** Sir, Business Account-এ "Recurring Order" feature আছে। Same list-এ প্রতি মাসে auto-order দেওয়া যায়।
+
+**১০. Customer:** Payment কি advance?
+
+**১১. Agent:** Sir, Business Account-এ credit facility পাওয়া যায় — ৩০ দিনের payment term।
+
+**১২. Customer:** ৩০ দিন মানে invoice দেওয়ার ৩০ দিনের মধ্যে দিলেই হবে?
+
+**১৩. Agent:** Sir, হ্যাঁ। এটা corporate purchase-এর standard।
+
+**১৪. Customer:** Business Account-এর জন্য কী কী লাগবে?
+
+**১৫. Agent:** Sir, Trade License, TIN Certificate এবং company-র authorized person-এর NID।
+
+**১৬. Customer:** Register কোথায় করব?
+
+**১৭. Agent:** Sir, business.othoba.com-এ apply করুন। অথবা corporate@othoba.com-এ email করুন।
+
+**১৮. Customer:** Approval কতদিনে?
+
+**১৯. Agent:** Sir, সাধারণত ৩ থেকে ৫ business day।
+
+**২০. Customer:** ঠিক আছে। Email করছি।
+
+**২১. Agent:** Sir, email-এ subject line "Business Account Application — Office Stationary" দিন।
+
+**২২. Customer:** করব। ধন্যবাদ ভাই।
+
+**২৩. Agent:** Othoba-তে call করার জন্য ধন্যবাদ Sir। দ্রুত approval হোক।
+
+---
+## সিনারিও ৩০: COD Delivery হয়েছে কিন্তু আমার Invoice নেই — Tax-এর জন্য দরকার
+
+> একজন customer Othoba থেকে COD-এ office equipment কিনেছেন। Tax filing-এর জন্য official VAT invoice দরকার। Delivery man কোনো invoice দেননি। তিনি invoice পেতে চাইছেন।
+
+**১. Agent:** Othoba customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, COD-এ product পেয়েছি। Tax filing-এর জন্য VAT invoice দরকার। Delivery man দেয়নি।
+
+**৩. Agent:** Ma'am, VAT invoice একটা legitimate requirement। আমরা এটা provide করতে পারব।
+
+**৪. Customer:** Physical invoice পাব নাকি digital?
+
+**৫. Agent:** Ma'am, Othoba-তে digital invoice পাওয়া যাবে। PDF format-এ।
+
+**৬. Customer:** Tax office কি digital invoice accept করে?
+
+**৭. Agent:** Ma'am, সাধারণত digitally signed invoice accepted। তবে আপনার tax consultant-কে confirm করুন।
+
+**৮. Customer:** কোথায় পাব invoice?
+
+**৯. Agent:** Ma'am, Othoba app-এ My Orders-এ এই order-এ tap করুন। "Download Invoice" button আছে।
+
+**১০. Customer:** দেখছি... Download Invoice আছে। Tap করলাম।
+
+**১১. Agent:** Ma'am, PDF download হচ্ছে?
+
+**১২. Customer:** হ্যাঁ, download হলো।
+
+**১৩. Agent:** Ma'am, invoice-এ VAT number এবং seller-এর details আছে। এটাই official।
+
+**১৪. Customer:** Invoice-এ আমার company-র নাম কি দেওয়া যাবে?
+
+**১৫. Agent:** Ma'am, order place করার সময় billing details-এ company name দেওয়া থাকলে invoice-এ automatically আসে।
+
+**১৬. Customer:** এই order-এ personal name দিয়েছিলাম। Reissue করা যাবে?
+
+**১৭. Agent:** Ma'am, invoice amendment সীমিত। তবে আপনার purchase reference সহ একটি covering letter Othoba দিতে পারে।
+
+**১৮. Customer:** Covering letter কীভাবে পাব?
+
+**১৯. Agent:** Ma'am, care@othoba.com-এ আপনার order number এবং company details পাঠান।
+
+**২০. Customer:** ২৪ ঘণ্টায় পাব?
+
+**২১. Agent:** Ma'am, ২ থেকে ৩ business day লাগবে।
+
+**২২. Customer:** ঠিক আছে। Email করছি।
+
+**২৩. Agent:** Othoba-তে call করার জন্য ধন্যবাহ Ma'am। ভালো থাকুন।
+
+---
