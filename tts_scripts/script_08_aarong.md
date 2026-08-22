@@ -3721,3 +3721,395 @@
 **২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। ভালো থাকুন।
 
 ---
+## সিনারিও ৮৩: নকশী কাঁথা Bedcover কি Aarong-এ পাওয়া যায়? — Home Textile Inquiry
+
+> একজন customer Aarong-এর nakshi kantha bedcover খুঁজছেন — home décor-এর জন্য। Size, design, price এবং wash care নিয়ে বিস্তারিত জানতে চান।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, Aarong-এ কি nakshi kantha bedcover পাওয়া যায়?
+
+**৩. Agent:** Ma'am, হ্যাঁ! Aarong-এর home textile collection-এ nakshi kantha bedcover, cushion cover, table runner — সব পাওয়া যায়।
+
+**৪. Customer:** Bedcover-এর size কী পাওয়া যায়?
+
+**৫. Agent:** Ma'am, single bed (৬০x৯০ ইঞ্চি), double bed (৯০x১০৮ ইঞ্চি) এবং king size (১০৮x১০৮ ইঞ্চি)।
+
+**৬. Customer:** আমার king size bed। Price কত?
+
+**৭. Agent:** Ma'am, king size nakshi kantha ৫,০০০ থেকে ১৫,০০০ টাকা — stitch-এর density এবং design complexity অনুযায়ী।
+
+**৮. Customer:** ৫,০০০ আর ১৫,০০০-র পার্থক্য কী?
+
+**৯. Agent:** Ma'am, ৫,০০০ টাকার kantha-তে simple running stitch এবং basic motif। ১৫,০০০ টাকারটায় detailed figurative scene — পাখি, ফুল, গ্রামীণ জীবন — সব হাতে stitched।
+
+**১০. Customer:** কত সময় লাগে একটা বানাতে?
+
+**১১. Agent:** Ma'am, একটি detailed king size kantha তৈরি করতে artisan-দের ৩ থেকে ৬ মাস লাগে।
+
+**১২. Customer:** Color কী পাওয়া যায়?
+
+**১৩. Agent:** Ma'am, traditional off-white base-এ colourful stitch — এটা classic। Solid colour-ও আছে — blue, green, red base।
+
+**১৪. Customer:** Machine wash করা যাবে?
+
+**১৫. Agent:** Ma'am, gentle cycle-এ ঠান্ডা পানিতে machine wash করতে পারবেন। তবে hand wash best — stitch loose হওয়ার chance কম।
+
+**১৬. Customer:** Tumble dry?
+
+**১৭. Agent:** Ma'am, না, tumble dry avoid করুন। Flat dry বা line dry করুন — shade-এ।
+
+**১৮. Customer:** Gift হিসেবে দেওয়া যাবে?
+
+**১৯. Agent:** Ma'am, nakshi kantha বাংলাদেশের heritage piece — gift হিসেবে অসাধারণ। Foreigners-দের জন্যও perfect souvenir।
+
+**২০. Customer:** ১টা কিনতে চাই ১০,০০০ টাকার range-এ। Online-এ পাব?
+
+**২১. Agent:** Ma'am, aarong.com-এ "Home & Living" section-এ nakshi kantha filter দিন।
+
+**২২. Customer:** ধন্যবাদ আপু।
+
+**২৩. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
+
+## সিনারিও ৮৪: Panjabi Size Chart বুঝতে পারছি না — Measurement Help
+
+> একজন customer Aarong-এর online size chart দেখে confused। Chest, shoulder, length — কীভাবে measure করবেন এবং M আর L-এর মধ্যে কোনটা নেবেন জানতে চান।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, panjabi-র size chart বুঝতে পারছি না। কীভাবে measure করব?
+
+**৩. Agent:** Sir, ৩টা measurement দরকার — chest, shoulder এবং length।
+
+**৪. Customer:** Chest কীভাবে measure করব?
+
+**৫. Agent:** Sir, tape measure নিন। বুকের সবচেয়ে চওড়া অংশে — underarm-এর নিচে — পুরো বুকে wrap করুন। যে reading আসে সেটাই chest measurement।
+
+**৬. Customer:** আমার ৪০ ইঞ্চি আসছে।
+
+**৭. Agent:** Sir, ৪০ ইঞ্চি chest — Aarong-এ সেটা L size।
+
+**৮. Customer:** Shoulder কীভাবে?
+
+**৯. Agent:** Sir, এক কাঁধের edge থেকে অন্য কাঁধের edge পর্যন্ত — পিঠের উপর দিয়ে।
+
+**১০. Customer:** ১৮ ইঞ্চি।
+
+**১১. Agent:** Sir, ১৮ ইঞ্চি shoulder — L size-এ ঠিকই match করছে।
+
+**১২. Customer:** Length?
+
+**১৩. Agent:** Sir, পিঠের নিচে collar-এর edge থেকে যতটুকু লম্বা চান ততটুকু measure করুন।
+
+**১৪. Customer:** আমি হাঁটু পর্যন্ত চাই।
+
+**১৫. Agent:** Sir, collar থেকে হাঁটু পর্যন্ত measure করুন। সাধারণত ৩৮ থেকে ৪২ ইঞ্চি হয়।
+
+**১৬. Customer:** ৪০ ইঞ্চি।
+
+**১৭. Agent:** Sir, Aarong-এর L size panjabi-র standard length ৪০ ইঞ্চি। Perfect match।
+
+**১৮. Customer:** M আর L-এর মধ্যে কোনটা loose fit চাইলে?
+
+**১৯. Agent:** Sir, loose fit চাইলে L-ই নিন। M tight হয়ে যাবে ৪০ ইঞ্চি chest-এ।
+
+**২০. Customer:** আর XL নিলে কি বড় হবে?
+
+**২১. Agent:** Sir, XL-এ chest ৪৪ ইঞ্চি — ৪০ ইঞ্চির জন্য অনেক বড়। L-ই ঠিক।
+
+**২২. Customer:** ধন্যবাদ ভাই। L size order করছি।
+
+**২৩. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। Perfect fit হোক।
+
+---
+## সিনারিও ৮৫: Embassy Dinner-এ কী পরব — Formal Traditional
+
+> একজন customer Bangladesh Embassy-র dinner event-এ invite পেয়েছেন বিদেশে। Formal traditional outfit কী পরবেন — কতটা ornate হওয়া উচিত, কতটা subtle — diplomatic dress code নিয়ে পরামর্শ চান।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, Bangladesh Embassy-র dinner-এ invite পেয়েছি। কী পরব? খুব formal হওয়া উচিত।
+
+**৩. Agent:** Ma'am, Embassy dinner — অনেক prestigious। Elegant traditional outfit পরফেক্ট।
+
+**৪. Customer:** Saree পরব নাকি salwar?
+
+**৫. Agent:** Ma'am, Embassy event-এ saree সবচেয়ে appropriate — Bangladesh-এর cultural representation। Diplomatic circle-এ saree highly respected।
+
+**৬. Customer:** কোন saree?
+
+**৭. Agent:** Ma'am, Dhakai jamdani বা silk — দুটোই excellent choice। Jamdani specifically Bangladeshi heritage — foreigners impressed হবেন।
+
+**৮. Customer:** Color কেমন হওয়া উচিত?
+
+**৯. Agent:** Ma'am, evening dinner-এ deep jewel tones — emerald, sapphire blue, burgundy। Too bright বা neon avoid করুন — subtle elegance দরকার।
+
+**১০. Customer:** Emerald jamdani আছে Aarong-এ?
+
+**১১. Agent:** Ma'am, Aarong-এ emerald muslin jamdani আছে silver motif-সহ — ২০,০০০ থেকে ২৫,০০০ টাকার range-এ।
+
+**১২. Customer:** Blouse কি matching হওয়া দরকার?
+
+**১৩. Agent:** Ma'am, contrast blouse — gold বা champagne — emerald saree-র সাথে stunning দেখাবে।
+
+**১৪. Customer:** Jewellery কতটুকু পরব?
+
+**১৫. Agent:** Ma'am, diplomatic event-এ understated elegance — pearl set বা single statement piece। Too much bling avoid করুন।
+
+**১৬. Customer:** Pearl necklace Aarong-এ কি পাব?
+
+**১৭. Agent:** Ma'am, Aarong-এ freshwater pearl necklace আছে — ২,৫০০ থেকে ৫,০০০ টাকা।
+
+**১৮. Customer:** Handbag কেমন?
+
+**১৯. Agent:** Ma'am, small clutch — gold বা silver tone। Aarong-এ embroidered clutch আছে ১,৫০০ থেকে ২,৫০০ টাকায়।
+
+**২০. Customer:** Footwear?
+
+**২১. Agent:** Ma'am, kitten heels বা block heels — ২ ইঞ্চি। Comfortable থাকবেন এবং elegant দেখাবে।
+
+**২২. Customer:** সব Aarong থেকে নেব। ধন্যবাদ আপু।
+
+**২৩. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। Embassy-তে Bangladesh-কে proudly represent করুন।
+
+---
+
+## সিনারিও ৮৬: Aarong Pottery ও Clothing Gift Hamper — Bideshi Guest-দের জন্য
+
+> একজন customer বিদেশ থেকে আসা ৫ জন colleague-এর জন্য Bangladeshi souvenir gift hamper বানাতে চান Aarong থেকে — clothing, pottery এবং handicraft মিলিয়ে।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, বিদেশ থেকে ৫ জন colleague আসছে। Bangladeshi souvenir gift hamper দিতে চাই — Aarong থেকে।
+
+**৩. Agent:** Sir, Aarong-ই best place souvenir-এর জন্য। Budget per person কত?
+
+**৪. Customer:** ৩,০০০ থেকে ৪,০০০ টাকা per person।
+
+**৫. Agent:** Sir, এই budget-এ একটা curated hamper possible। Suggest করি।
+
+**৬. Customer:** বলুন।
+
+**৭. Agent:** Sir, ১টি nakshi kantha scarf (১,২০০), ১টি terracotta coaster set (৫০০), ১টি brass keychain (৩৫০), ১টি small pottery vase (৮০০) এবং ১টি jute tote bag (৬০০)। Total ৩,৪৫০ টাকা per person।
+
+**৮. Customer:** Clothing item দিতে চাইলে?
+
+**৯. Agent:** Sir, scarf-এর বদলে block print cotton scarf (১,৫০০) দিতে পারেন — unisex, one-size-fits-all।
+
+**১০. Customer:** Foreign guests-এর জন্য size issue হবে না?
+
+**১১. Agent:** Sir, scarf, stole, shawl — size-free। Clothing-এ size issue হয়, তাই accessories safer।
+
+**১২. Customer:** Hamper কি Aarong pack করবে?
+
+**১৩. Agent:** Sir, Aarong gift hamper service আছে — jute basket-এ arrange করে দেবে। ৪০০ টাকা per hamper।
+
+**১৪. Customer:** ৫টা hamper — total?
+
+**১৫. Agent:** Sir, per hamper ৩,৪৫০ + packing ৪০০ = ৩,৮৫০। ৫টায় ১৯,২৫০ টাকা।
+
+**১৬. Customer:** Budget-এর মধ্যে। কবে ready হবে?
+
+**১৭. Agent:** Sir, ৩ business day আগে outlet-এ order দিন — assembly time লাগে।
+
+**১৮. Customer:** Guests আসছে ১০ দিন পরে। Time আছে।
+
+**১৯. Agent:** Sir, ভালো। Gulshan outlet-এ গিয়ে hamper order করুন — customise করতে পারবেন।
+
+**২০. Customer:** ধন্যবাদ ভাই। দারুণ idea দিলেন।
+
+**২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। Guests impressed হবেন।
+
+---
+## সিনারিও ৮৭: Tant Saree-র Border কি Repair করা যায়? — Wear & Tear Advice
+
+> একজন customer-এর favourite Aarong tant saree-র border-এ thread loose হচ্ছে — ২ বছর হয়ে গেছে ব্যবহারে। Repair possible কিনা এবং কোথায় করাবেন জানতে চান।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, ২ বছরের পুরনো tant saree-র border-এর thread loose হচ্ছে। Repair করা যাবে?
+
+**৩. Agent:** Ma'am, border thread loosening ২ বছর পরে স্বাভাবিক — daily wear-এ friction-এ হয়।
+
+**৪. Customer:** Repair possible?
+
+**৫. Agent:** Ma'am, হ্যাঁ, darning বা re-weaving technique-এ border repair করা যায়।
+
+**৬. Customer:** Aarong-এ করে?
+
+**৭. Agent:** Ma'am, Aarong outlet-এর tailoring team minor repair করে। Complex re-weaving-এর জন্য weaver community-তে পাঠানো হয়।
+
+**৮. Customer:** Cost কত?
+
+**৯. Agent:** Ma'am, minor darning ২০০ থেকে ৫০০ টাকা। Full border re-weaving ১,০০০ থেকে ২,০০০ টাকা — border-এর complexity অনুযায়ী।
+
+**১০. Customer:** কতদিন লাগবে?
+
+**১১. Agent:** Ma'am, minor repair ৩ থেকে ৫ দিন। Re-weaving ২ থেকে ৩ সপ্তাহ।
+
+**১২. Customer:** Saree-র value কি repair-এর পরে কমে যায়?
+
+**১৩. Agent:** Ma'am, না, skilled repair-এ almost original condition-এ ফিরে আসে। Expert weaver-এর কাজ identify করাও কঠিন হয়।
+
+**১৪. Customer:** ভবিষ্যতে border protect করতে কী করব?
+
+**১৫. Agent:** Ma'am, saree-র border-এ fall attach করান — thin fabric strip border-এর edge protect করে। Aarong-এ fall piping service ৩০০ টাকায় আছে।
+
+**১৬. Customer:** Fall আগেই করানো উচিত ছিল?
+
+**১৭. Agent:** Ma'am, হ্যাঁ, নতুন saree কেনার সাথে সাথে fall piping করানো best practice — border দীর্ঘদিন ভালো থাকে।
+
+**১৮. Customer:** নতুন saree কিনলে এখন থেকে করাব। পুরনোটা repair-এ দিচ্ছি।
+
+**১৯. Agent:** Ma'am, outlet-এ নিয়ে আসুন — team দেখে সিদ্ধান্ত জানাবে।
+
+**২০. Customer:** ধন্যবাদ আপু।
+
+**২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। পুরনো saree-ও সুন্দর থাকুক।
+
+---
+
+## সিনারিও ৮৮: Couple Matching কাছবোনা শাল — Winter Gift
+
+> একজন customer তার wife-র সাথে matching কাছবোনা (hand-knit) shawl কিনতে চাইছেন winter-এ। Couple matching shawl Aarong-এ পাওয়া যায় কিনা এবং কোন color ভালো জানতে চান।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, wife-র সাথে matching শাল কিনতে চাই। Hand-knit চাই। Aarong-এ আছে?
+
+**৩. Agent:** Sir, Aarong-এর winter collection-এ hand-knit shawl আছে। Couple matching-ও possible — same color family থেকে নিলেই হবে।
+
+**৪. Customer:** Same exact color হতে হবে?
+
+**৫. Agent:** Sir, same exact color-এ couple matching-এ "matchy-matchy" দেখায় — same family-র complementary shades better। যেমন burgundy আর maroon।
+
+**৬. Customer:** কোন combination suggest করবেন?
+
+**৭. Agent:** Sir, gentleman-এর জন্য charcoal grey এবং lady-র জন্য light grey — same grey family কিন্তু contrast। Elegant।
+
+**৮. Customer:** আর warm tones-এ?
+
+**৯. Agent:** Sir, camel/tan gentleman-এর জন্য এবং blush pink lady-র জন্য — warm neutral pair।
+
+**১০. Customer:** Hand-knit শাল কত টাকা?
+
+**১১. Agent:** Sir, hand-knit wool shawl ৩,০০০ থেকে ৫,০০০ টাকা per piece। ২টায় ৬,০০০ থেকে ১০,০০০।
+
+**১২. Customer:** Wool কি itch করে?
+
+**১৩. Agent:** Sir, pure wool কিছু মানুষের skin-এ itch করে। Aarong-এ wool-acrylic blend আছে — softer, itch-free।
+
+**১৪. Customer:** Blend-এর quality কি কম?
+
+**১৫. Agent:** Sir, না, blend-এ warmth ভালোই থাকে এবং care easier — machine washable।
+
+**১৬. Customer:** ঠিক আছে। Charcoal + light grey blend শাল — দুটো নেব।
+
+**১৭. Agent:** Sir, gift wrapping দরকার?
+
+**১৮. Customer:** হ্যাঁ, একটা box-এ দুটো একসাথে wrap করুন।
+
+**১৯. Agent:** Sir, couple gift box ৩৫০ টাকা। অনেক সুন্দর present হবে।
+
+**২০. Customer:** নিন। Order করছি।
+
+**২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। উষ্ণ শীত কাটুক দুজনের।
+
+---
+## সিনারিও ৮৯: Aarong-এর Men's Kurta vs Panjabi — কী পার্থক্য?
+
+> একজন customer confused — Aarong-এর website-এ "kurta" এবং "panjabi" আলাদাভাবে listed। দুটোর মধ্যে কী পার্থক্য, কোনটা কোথায় পরবেন — জানতে চান।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, kurta আর panjabi কি একই জিনিস? Aarong-এ আলাদাভাবে আছে।
+
+**৩. Agent:** Sir, close relative — কিন্তু কিছু পার্থক্য আছে।
+
+**৪. Customer:** কী পার্থক্য?
+
+**৫. Agent:** Sir, panjabi সাধারণত knee-length বা তার একটু নিচে, side slit থাকে, collar structured (mandarin, band, regular) এবং slightly fitted silhouette।
+
+**৬. Customer:** Kurta?
+
+**৭. Agent:** Sir, kurta সাধারণত longer — mid-calf পর্যন্ত হতে পারে। Loose fit, relaxed silhouette এবং collar-less বা very minimal collar।
+
+**৮. Customer:** কোনটা বেশি formal?
+
+**৯. Agent:** Sir, panjabi বেশি structured — formal event-এ যায়। Kurta relaxed — casual, spiritual, artistic occasion-এ।
+
+**১০. Customer:** Eid-এ কোনটা?
+
+**১১. Agent:** Sir, Eid-এ panjabi traditional choice। Kurta-ও পরা যায় — তবে kurta-র সাথে পাজামা পরলে proper look আসে।
+
+**১২. Customer:** Kurta-র সাথে কী পরব?
+
+**১৩. Agent:** Sir, kurta-র সাথে churidar pyjama বা aligarhi pyjama traditional। Jeans-ও চলে short kurta হলে।
+
+**১৪. Customer:** Panjabi-র সাথে?
+
+**১৫. Agent:** Sir, panjabi-র সাথে matching trouser, dhoti pant বা regular pant — সবই যায়।
+
+**১৬. Customer:** Price-এ কি পার্থক্য?
+
+**১৭. Agent:** Sir, Aarong-এ panjabi ২,০০০ থেকে ৫,০০০। Kurta ১,৮০০ থেকে ৪,০০০ — fabric অনুযায়ী।
+
+**১৮. Customer:** আমি দুটোই কিনতে চাই — ১টা formal panjabi, ১টা casual kurta।
+
+**১৯. Agent:** Sir, perfect pair — সব occasion cover হবে।
+
+**২০. Customer:** ধন্যবাদ ভাই। Clear হলো।
+
+**২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। ভালো থাকুন।
+
+---
+
+## সিনারিও ৯০: [Outbound] Aarong Artisan Story — Customer Engagement Call
+
+> Aarong brand team একজন loyal customer-কে call করছেন — তার সম্প্রতি কেনা jamdani saree-র পেছনের artisan-এর গল্প share করছেন। Brand engagement initiative।
+
+**১. Agent:** Assalamu Alaikum, Aarong থেকে বলছি। Mrs. Anwar?
+
+**২. Customer:** হ্যাঁ, বলুন।
+
+**৩. Agent:** Ma'am, আমরা Aarong-এর "Know Your Artisan" program থেকে call করছি। আপনি সম্প্রতি যে jamdani saree কিনেছেন — তার artisan-এর গল্প share করতে চাই।
+
+**৪. Customer:** ওহ, interesting! বলুন।
+
+**৫. Agent:** Ma'am, আপনার saree তৈরি করেছেন Rupganj, Narayanganj-এর Fatema Begum। তিনি ৩০ বছর ধরে jamdani বুনছেন।
+
+**৬. Customer:** ৩০ বছর! আমার saree তৈরি করতে কতদিন লেগেছে?
+
+**৭. Agent:** Ma'am, আপনার saree-র complexity অনুযায়ী প্রায় ৪৫ দিন — দুইজন weaver মিলে।
+
+**৮. Customer:** দুইজন?
+
+**৯. Agent:** Ma'am, jamdani weaving-এ দুইজন পাশাপাশি বসে — একজন warp control করে, আরেকজন weft-এ motif insert করে।
+
+**১০. Customer:** কত income হয় তাদের?
+
+**১১. Agent:** Ma'am, Aarong-এর মাধ্যমে Fatema Begum মাসে ১৫,০০০ থেকে ২০,০০০ টাকা আয় করেন। BRAC-এর health insurance-ও পান।
+
+**১২. Customer:** Amazing! এই তথ্য কি saree-র সাথে দেওয়া হয়?
+
+**১৩. Agent:** Ma'am, Aarong কিছু premium piece-এ artisan card include করে — artisan-এর নাম, ছবি এবং region সহ।
+
+**১৪. Customer:** আমার saree-তে ছিল না।
+
+**১৫. Agent:** Ma'am, সব saree-তে এখনো দেওয়া হয় না — কিন্তু আমরা expand করছি এই program।
+
+**১৬. Customer:** এটা অনেক সুন্দর initiative। Customer হিসেবে গর্বিত।
+
+**১৭. Agent:** Ma'am, আপনার মতো customer-রাই artisan-দের জীবন পরিবর্তন করছেন।
+
+**১৮. Customer:** আরো কি artisan-দের গল্প জানা যায়?
+
+**১৯. Agent:** Ma'am, Aarong-এর social media-তে "Artisan Stories" series আছে — YouTube এবং Instagram-এ।
+
+**২০. Customer:** Follow করব। ধন্যবাদ এই call-এর জন্য।
+
+**২১. Agent:** Ma'am, Aarong-এর সাথে থাকার জন্য আমরা কৃতজ্ঞ। ভালো থাকুন।
+
+---
