@@ -1624,3 +1624,881 @@
 **১৯. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। ভালো থাকুন।
 
 ---
+## সিনারিও ৩৫: [Outbound] Puja Collection Pre-order Ready — Customer-কে Pickup Reminder
+
+> Aarong agent একজন customer-কে call করছেন যিনি Durga Puja-র special collection-এ একটি exclusive tant saree pre-order করেছিলেন। Saree ready হয়েছে — pickup-এর জন্য remind করছেন।
+
+**১. Agent:** Assalamu Alaikum, Aarong থেকে বলছি। আমি কি Mrs. Chowdhury-র সাথে কথা বলছি?
+
+**২. Customer:** হ্যাঁ, বলুন।
+
+**৩. Agent:** Ma'am, আপনি গত মাসে আমাদের Puja collection-এ একটি exclusive tant saree pre-order করেছিলেন। জানাচ্ছি যে saree-টি ready হয়ে গেছে।
+
+**৪. Customer:** ওহ, excellent! কত দিনের মধ্যে নিতে হবে?
+
+**৫. Agent:** Ma'am, আগামী ৭ দিনের মধ্যে pickup করলে ভালো হয়। Puja-র আগে alter করার সময় পাবেন।
+
+**৬. Customer:** কোন outlet থেকে নেব?
+
+**৭. Agent:** Ma'am, আপনি Dhanmondi outlet select করেছিলেন। সেখানেই ready আছে।
+
+**৮. Customer:** Saree-র সাথে matching blouse piece আছে?
+
+**৯. Agent:** Ma'am, হ্যাঁ, unstitched blouse piece included আছে। আপনার pre-order-এ ছিল।
+
+**১০. Customer:** আমি কি outlet-এ গিয়ে blouse stitch-এর ব্যবস্থা করতে পারব?
+
+**১১. Agent:** Ma'am, Aarong outlet-এ tailoring service আছে। Blouse stitching প্রায় ৭ দিন লাগে।
+
+**১২. Customer:** তাহলে আজকেই যেতে হবে — Puja মাত্র ২ সপ্তাহ পরে।
+
+**১৩. Agent:** Ma'am, হ্যাঁ, দ্রুত গেলে ভালো। Puja-র আগে tailoring-এ rush থাকে।
+
+**১৪. Customer:** Saree-র দাম কত ছিল মনে করুন তো?
+
+**১৫. Agent:** Ma'am, আপনার pre-order-এ total ১২,৫০০ টাকা — advance ৩,০০০ দিয়েছিলেন। বাকি ৯,৫০০ pickup-এর সময় দিতে হবে।
+
+**১৬. Customer:** Card-এ দেওয়া যাবে?
+
+**১৭. Agent:** Ma'am, অবশ্যই। Card, bKash, cash — সব accepted।
+
+**১৮. Customer:** ধন্যবাদ। আজকেই যাচ্ছি।
+
+**১৯. Agent:** Ma'am, Puja-র জন্য শুভেচ্ছা। Aarong-এর সাথে থাকার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ৩৬: Eid-এর জন্য Panjabi-র Fabric ও Design Suggestion চান
+
+> একজন customer Eid-এর জন্য Aarong থেকে panjabi কিনতে চাইছেন। Budget ৪,০০০ টাকা। কোন fabric এবং design ভালো হবে জানতে call করেছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, Eid-এর জন্য একটা panjabi কিনতে চাই। Budget ৪,০০০ টাকা। কোন fabric নেব?
+
+**৩. Agent:** Sir, ৪,০০০ টাকায় Aarong-এ অনেক ভালো option আছে। আপনি কি comfort prefer করেন নাকি formal look?
+
+**৪. Customer:** Eid-এর নামাজ এবং পরে বেড়াতে যাব। দুটোতেই যেন ভালো লাগে।
+
+**৫. Agent:** Sir, তাহলে cotton বা cotton-silk blend suggest করব। গরমে comfortable এবং দেখতেও rich।
+
+**৬. Customer:** Cotton-silk blend-এর advantage কী?
+
+**৭. Agent:** Sir, cotton-এর comfort পাবেন এবং silk-এর subtle sheen — মানে একটু চকচকে ভাব থাকবে। Eid-এর জন্য পারফেক্ট।
+
+**৮. Customer:** Color কী ভালো হবে?
+
+**৯. Agent:** Sir, Eid-এ সাধারণত off-white, light grey, pastel blue জনপ্রিয়। Aarong-এর এবারের collection-এ sage green-ও আছে — অনেক unique।
+
+**১০. Customer:** Sage green! শুনতে ভালো লাগছে। Embroidery থাকবে?
+
+**১১. Agent:** Sir, Aarong-এর ৪,০০০ টাকার range-এ minimal embroidery পাবেন — collar এবং cuff-এ। Heavy karchupi নয়, subtle design।
+
+**১২. Customer:** কারচুপি চাই না — minimal ভালো।
+
+**১৩. Agent:** Sir, একদম right choice। Aarong-এর "Heritage" line-এ minimal geometric motif আছে — elegant।
+
+**১৪. Customer:** Size কীভাবে নেব? আমি কখনো Aarong থেকে panjabi কিনিনি।
+
+**১৫. Agent:** Sir, Aarong-এর panjabi-তে S, M, L, XL — standard sizing। আপনার chest measurement জানলে exact size বলতে পারি।
+
+**১৬. Customer:** ৪০ ইঞ্চি chest।
+
+**১৭. Agent:** Sir, সেটা L size হবে Aarong-এ।
+
+**১৮. Customer:** Online order করলে Eid-এর আগে পাব?
+
+**১৯. Agent:** Sir, Eid ১০ দিন পরে — Dhaka-তে ২ থেকে ৩ দিনে পাবেন। যথেষ্ট সময় আছে।
+
+**২০. Customer:** ঠিক আছে ভাই। Sage green cotton-silk, L size — order করছি।
+
+**২১. Agent:** Sir, Eid Mubarak আগাম। Aarong-এ call করার জন্য ধন্যবাদ।
+
+---
+## সিনারিও ৩৭: বিয়ের জন্য Groom-এর পুরো Set চান — Sherwani, Pagri, Nagra
+
+> একজন customer তার বিয়ের জন্য Aarong থেকে complete groom set কিনতে চাইছেন — sherwani, pagri এবং nagra shoe। Budget ৩০,০০০ টাকা। Color coordination এবং availability জানতে call করেছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, আমার বিয়ে আগামী মাসে। Aarong থেকে groom set নিতে চাই — sherwani, pagri, nagra।
+
+**৩. Agent:** Sir, congratulations! Aarong-এর wedding collection-এ complete groom set পাওয়া যায়। Budget কত?
+
+**৪. Customer:** ৩০,০০০ টাকার মধ্যে সব মিলিয়ে।
+
+**৫. Agent:** Sir, ৩০,০০০ টাকায় sherwani ১৮,০০০ থেকে ২২,০০০, pagri ২,৫০০ থেকে ৩,৫০০ এবং nagra ৪,০০০ থেকে ৫,৫০০ — total possible।
+
+**৬. Customer:** Sherwani-র fabric কি ভালো হবে এই range-এ?
+
+**৭. Agent:** Sir, ২০,০০০ টাকার range-এ Aarong-এর silk-blend sherwani পাবেন — zari embroidery সহ। দেখতে অনেক premium।
+
+**৮. Customer:** Color matching কি Aarong করে?
+
+**৯. Agent:** Sir, হ্যাঁ। Bride-এর saree-র color বললে matching sherwani, pagri suggest করা হয়।
+
+**১০. Customer:** Bride-এর saree maroon-gold।
+
+**১১. Agent:** Sir, maroon-gold bride-র সাথে ivory বা champagne gold sherwani পারফেক্ট match। Aarong-এ এই combination-এ set আছে।
+
+**১২. Customer:** Pagri কি pre-tied পাওয়া যায়?
+
+**১৩. Agent:** Sir, হ্যাঁ, Aarong-এর pagri pre-tied অবস্থায় পাওয়া যায়। নিজে বাঁধতে না পারলেও problem নেই।
+
+**১৪. Customer:** Nagra shoe-র size কি custom হয়?
+
+**১৫. Agent:** Sir, Aarong-এর nagra standard size-এ পাওয়া যায় — ৬ থেকে ১১। Custom size-এর জন্য ২ সপ্তাহ আগে order করতে হয়।
+
+**১৬. Customer:** আমার size ৯।
+
+**১৭. Agent:** Sir, ৯ common size — stock-এ পাবেন।
+
+**১৮. Customer:** Trial দিতে পারব outlet-এ?
+
+**১৯. Agent:** Sir, অবশ্যই। Gulshan বা Dhanmondi outlet-এ full wedding collection trial-এর ব্যবস্থা আছে।
+
+**২০. Customer:** Alteration-ও হবে?
+
+**২১. Agent:** Sir, sherwani alteration Aarong outlet-এ ৫ থেকে ৭ দিনে হয়।
+
+**২২. Customer:** ঠিক আছে। এই weekend-এ Gulshan outlet-এ যাচ্ছি।
+
+**২৩. Agent:** Sir, শুভ বিবাহ। Aarong-এ call করার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ৩৮: [Outbound] Loyalty Program-এর Points Expire হচ্ছে — Customer-কে Remind করা
+
+> Aarong agent একজন regular customer-কে call করছেন কারণ তার ৫,০০০ loyalty points ৭ দিনের মধ্যে expire হচ্ছে। Agent points-এর value এবং redeem করার উপায় বলছেন।
+
+**১. Agent:** Assalamu Alaikum, Aarong থেকে বলছি। আমি কি Mr. Rahman-এর সাথে কথা বলছি?
+
+**২. Customer:** হ্যাঁ, বলুন।
+
+**৩. Agent:** Sir, আপনার Aarong loyalty account-এ ৫,০০০ points আছে। এগুলো আগামী ৭ দিনে expire হচ্ছে — তাই remind করছি।
+
+**৪. Customer:** ৫,০০০ points! Value কত?
+
+**৫. Agent:** Sir, ৫,০০০ points = ৫০০ টাকা discount যেকোনো Aarong purchase-এ।
+
+**৬. Customer:** কীভাবে use করব?
+
+**৭. Agent:** Sir, outlet-এ billing-এর সময় Aarong loyalty card বা phone number দিলে points auto-apply হবে। Online-এও use করা যায়।
+
+**৮. Customer:** Online-এ কীভাবে?
+
+**৯. Agent:** Sir, checkout-এ "Redeem Loyalty Points" option আছে — সেখানে tick দিন।
+
+**১০. Customer:** ৫০০ টাকা কি একবারেই use করতে হবে?
+
+**১১. Agent:** Sir, না, partially-ও use করা যায়। ২০০ টাকা আজ, বাকি ৩০০ পরে — তবে expire-এর আগে।
+
+**১২. Customer:** Expire-এর পরে কি ফিরে পাব?
+
+**১৩. Agent:** Sir, expire হলে points আর recover করা যায় না।
+
+**১৪. Customer:** তাহলে কিছু কিনতে হবে। এই মুহূর্তে কি কোনো offer চলছে?
+
+**১৫. Agent:** Sir, এই সপ্তাহে Aarong-এ cotton kurti-তে ২০% off আছে। Points-এর সাথে combine করলে ভালো deal হবে।
+
+**১৬. Customer:** আমার wife-এর জন্য kurti কিনতে পারি। ধন্যবাদ remind করার জন্য।
+
+**১৭. Agent:** Sir, আনন্দিত হলাম। Aarong-এর সাথে থাকার জন্য ধন্যবাদ।
+
+---
+## সিনারিও ৩৯: Mother-এর জন্য Dhakai Muslin Saree Gift — Styling Advice চান
+
+> একজন customer তার মায়ের ৬০তম জন্মদিনে Aarong থেকে Dhakai muslin saree gift করতে চাইছেন। কোন design, drape style এবং gift packaging জানতে call করেছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, মায়ের ৬০তম birthday-তে muslin saree gift করতে চাই। কোনটা ভালো হবে?
+
+**৩. Agent:** Ma'am, কত সুন্দর idea! Budget কত ভাবছেন?
+
+**৪. Customer:** ১৫,০০০ থেকে ২০,০০০ টাকা।
+
+**৫. Agent:** Ma'am, এই range-এ Aarong-এর Dhakai muslin collection-এ jamdani motif-সহ saree পাবেন — হালকা এবং elegant।
+
+**৬. Customer:** মা বয়স্ক — হালকা হওয়া জরুরি।
+
+**৭. Agent:** Ma'am, muslin-ই সবচেয়ে হালকা। ৬ গজ saree-র ওজন মাত্র ৩০০ থেকে ৪০০ গ্রাম হয়।
+
+**৮. Customer:** Color কী ভালো হবে? মা সাদা-কালো পরেন না।
+
+**৯. Agent:** Ma'am, বয়স্ক মায়ের জন্য powder blue, lavender বা peach — এই soft color গুলো beautiful দেখায়। Aarong-এ lavender muslin আছে gold jamdani border-সহ।
+
+**১০. Customer:** Lavender jamdani! সেটা দেখতে কেমন?
+
+**১১. Agent:** Ma'am, lavender base-এ gold thread-এ traditional paisley motif — অনেক regal দেখায়।
+
+**১২. Customer:** Draping কি মা একা করতে পারবেন?
+
+**১৩. Agent:** Ma'am, muslin সাধারণত lightweight হওয়ায় drape সহজ। তবে pin দিয়ে secure করলে বেশি comfortable।
+
+**১৪. Customer:** Gift wrapping কি Aarong করে?
+
+**১৫. Agent:** Ma'am, হ্যাঁ! Aarong-এর premium gift packaging আছে — handmade box-এ tissue paper-সহ। ২৫০ টাকা extra charge।
+
+**১৬. Customer:** অবশ্যই নেব। Gift message-ও দেওয়া যায়?
+
+**১৭. Agent:** Ma'am, হ্যাঁ, handwritten card include করা হয়। আপনার message বলুন — আমরা লিখে দেব।
+
+**১৮. Customer:** "শুভ জন্মদিন মা। তোমার জন্য এই ভালোবাসা।"
+
+**১৯. Agent:** Ma'am, কত সুন্দর। Card-এ লেখা হবে।
+
+**২০. Customer:** কবে delivery হবে? Birthday ৫ দিন পরে।
+
+**২১. Agent:** Ma'am, Dhaka-তে ২ দিনে পৌঁছাবে। Birthday-র আগেই পাবেন।
+
+**২২. Customer:** ধন্যবাদ আপু। Order করছি।
+
+**২৩. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। মায়ের জন্মদিনে শুভেচ্ছা।
+
+---
+
+## সিনারিও ৪০: Pohela Boishakh-এ Family Matching Outfit চান — ৪ জনের Set
+
+> একজন customer পহেলা বৈশাখে সপরিবারে Aarong-এর matching outfit পরতে চাইছেন — husband-wife-ছেলে-মেয়ে। Coordinated red-white collection নিয়ে পরামর্শ চান।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, পহেলা বৈশাখে পুরো family matching outfit চাই — red-white theme। আমরা ৪ জন।
+
+**৩. Agent:** Sir, Aarong-এর Boishakhi collection প্রতি বছর red-white theme-এ আসে। পরিবারের সবার জন্য পাওয়া যায়।
+
+**৪. Customer:** কী কী আছে?
+
+**৫. Agent:** Sir, মহিলাদের জন্য red-white tant saree, salwar kameez। পুরুষদের জন্য white panjabi red nakshi motif। ছেলেদের জন্য mini panjabi এবং মেয়েদের জন্য frock।
+
+**৬. Customer:** ছেলের বয়স ৮, মেয়ে ৫। Kids-এর size পাওয়া যাবে?
+
+**৭. Agent:** Sir, Aarong kids collection-এ ৩ থেকে ১২ বছরের size পাওয়া যায়।
+
+**৮. Customer:** সব কি same fabric pattern-এ হবে?
+
+**৯. Agent:** Sir, exact same fabric না — কিন্তু Aarong-এর Boishakhi range-এ coordinated design থাকে। Red-white block print সবার outfit-এ common।
+
+**১০. Customer:** সব মিলিয়ে budget কত হবে?
+
+**১১. Agent:** Sir, saree ৩,৫০০ থেকে ৫,০০০। Panjabi ২,৫০০ থেকে ৩,৫০০। Kids panjabi ১,৫০০ থেকে ২,০০০। Kids frock ১,২০০ থেকে ১,৮০০। Total প্রায় ৯,০০০ থেকে ১২,৫০০ টাকা।
+
+**১২. Customer:** Reasonable! Online-এ Boishakhi collection কবে আসবে?
+
+**১৩. Agent:** Sir, সাধারণত বৈশাখের ১ মাস আগে launch হয়। এবার চৈত্রের শেষে আসবে।
+
+**১৪. Customer:** Notification পাওয়ার কোনো উপায়?
+
+**১৫. Agent:** Sir, Aarong app-এ "Boishakhi Collection" wishlist-এ রাখুন — launch হলে notification পাবেন।
+
+**১৬. Customer:** ঠিক আছে। সব একসাথে order করলে কি কোনো discount?
+
+**১৭. Agent:** Sir, Boishakhi special combo offer থাকে — ৪ item কিনলে ১০% off। Launch-এ confirm হবে।
+
+**১৮. Customer:** দারুণ! ধন্যবাদ ভাই।
+
+**১৯. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। শুভ নববর্ষ হোক।
+
+---
+## সিনারিও ৪১: [Outbound] Altered Salwar Kameez Ready — Customer Pickup Call
+
+> Aarong outlet-এর tailoring team থেকে agent call করছেন — customer-এর salwar kameez alter করা শেষ। Customer-কে জানাচ্ছেন pickup করতে এবং fitting-এর details দিচ্ছেন।
+
+**১. Agent:** Assalamu Alaikum, Aarong Gulshan outlet থেকে বলছি। আমি কি Ms. Tabassum-এর সাথে কথা বলছি?
+
+**২. Customer:** হ্যাঁ, বলুন।
+
+**৩. Agent:** Ma'am, আপনার salwar kameez-এর alteration complete হয়ে গেছে। ১৫ দিন আগে দিয়েছিলেন।
+
+**৪. Customer:** ওহ, ভালো! Hem length কি ঠিকমতো হয়েছে? আমি বলেছিলাম ২ ইঞ্চি কমাতে।
+
+**৫. Agent:** Ma'am, আপনার instruction অনুযায়ী kameez-এর hem ২ ইঞ্চি ছোট করা হয়েছে এবং salwar-এর waist ১ ইঞ্চি tight করা হয়েছে।
+
+**৬. Customer:** Pickup-এর সময় কি trial দেওয়া যাবে?
+
+**৭. Agent:** Ma'am, অবশ্যই। Trial room-এ পরে দেখুন — কিছু adjust করার থাকলে সেখানেই করা যাবে।
+
+**৮. Customer:** Outlet কখন পর্যন্ত open?
+
+**৯. Agent:** Ma'am, সন্ধ্যা ৮টা পর্যন্ত।
+
+**১০. Customer:** ঠিক আছে। Alteration charge কত হয়েছে?
+
+**১১. Agent:** Ma'am, hem shortening ১৫০ টাকা এবং waist alteration ২০০ টাকা — total ৩৫০ টাকা।
+
+**১২. Customer:** Outlet-এ দিলেই হবে?
+
+**১৩. Agent:** Ma'am, হ্যাঁ, pickup-এর সময় payment করবেন।
+
+**১৪. Customer:** ধন্যবাদ আপু।
+
+**১৫. Agent:** Ma'am, Aarong-এর সাথে থাকার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ৪২: Silk Saree-র সাথে Matching Jewellery Suggestion চান
+
+> একজন customer Aarong থেকে একটি navy blue silk saree কিনেছেন। এখন এই saree-র সাথে matching jewellery — earring, necklace — কিনতে চাইছেন। Aarong-এর jewellery collection নিয়ে পরামর্শ চান।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, আমি Aarong থেকে navy blue silk saree কিনেছি। এর সাথে matching jewellery চাই — earring, necklace। কী ভালো হবে?
+
+**৩. Agent:** Ma'am, navy blue silk-এর সাথে gold-tone jewellery দারুণ match করবে।
+
+**৪. Customer:** Aarong-এ কি gold-tone jewellery আছে?
+
+**৫. Agent:** Ma'am, হ্যাঁ। Aarong-এর brass-এর উপর gold plated jewellery collection আছে — traditional design-এ।
+
+**৬. Customer:** Necklace কত range-এ?
+
+**৭. Agent:** Ma'am, statement necklace ১,২০০ থেকে ৩,৫০০ টাকা। Choker style-ও আছে।
+
+**৮. Customer:** Navy blue-র সাথে choker ভালো লাগবে?
+
+**৯. Agent:** Ma'am, saree-র blouse-এর neckline যদি boat neck বা round neck হয় তাহলে choker gorgeous দেখাবে। V-neck হলে pendant necklace better।
+
+**১০. Customer:** Boat neck blouse করাচ্ছি।
+
+**১১. Agent:** Ma'am, তাহলে gold-tone choker with blue stone accent — Aarong-এ আছে — পারফেক্ট match।
+
+**১২. Customer:** Earring কেমন নিই?
+
+**১৩. Agent:** Ma'am, choker-এর সাথে jhumka earring classic combination। Aarong-এ brass jhumka ৬০০ থেকে ১,৫০০ টাকায় পাওয়া যায়।
+
+**১৪. Customer:** Matching bangles কি আছে?
+
+**১৫. Agent:** Ma'am, Aarong-এর lac bangles-এ navy এবং gold combination আছে। Set-এ ৪টি — ৪৫০ থেকে ৮০০ টাকা।
+
+**১৬. Customer:** সব মিলিয়ে কত হবে?
+
+**১৭. Agent:** Ma'am, choker ২,৫০০ + jhumka ১,০০০ + bangles ৬০০ = প্রায় ৪,১০০ টাকা।
+
+**১৮. Customer:** Reasonable! Online order করলে সব একসাথে আসবে?
+
+**১৯. Agent:** Ma'am, হ্যাঁ, same order-এ একসাথে ship হবে।
+
+**২০. Customer:** ঠিক আছে আপু। Order করছি। ধন্যবাদ।
+
+**২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। সুন্দর সাজ হোক।
+
+---
+## সিনারিও ৪৩: Office Wear হিসেবে Aarong Kurti কতটা Appropriate — Styling Help
+
+> একজন corporate employee জানতে চাইছেন Aarong-এর kurti কি office wear হিসেবে appropriate। কোন design এবং fabric অফিসে পরা যায় এবং কীভাবে pair করবেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, আমি corporate office-এ কাজ করি। Aarong-এর kurti কি office-এ পরা যায়? কোনগুলো formal দেখায়?
+
+**৩. Agent:** Ma'am, অবশ্যই! Aarong-এর solid color cotton kurti অনেক professional দেখায়।
+
+**৪. Customer:** কোন color professional?
+
+**৫. Agent:** Ma'am, navy, charcoal, olive, burgundy, teal — এই dark solid colors office-friendly।
+
+**৬. Customer:** Print কি okay?
+
+**৭. Agent:** Ma'am, subtle geometric বা small floral print okay — কিন্তু bold tribal print office-এ avoid করাই ভালো।
+
+**৮. Customer:** Length কেমন হওয়া উচিত?
+
+**৯. Agent:** Ma'am, knee-length বা তার সামান্য নিচে — এটাই office-appropriate। Aarong-এ "Urban" line-এ এই length-ই পাবেন।
+
+**১০. Customer:** Kurti-র নিচে কী পরব? Leggings নাকি palazzo?
+
+**১১. Agent:** Ma'am, office-এ neutral color palazzo বা straight pants — এটা formal দেখায়। Leggings casual।
+
+**১২. Customer:** Aarong-এ palazzo পাওয়া যায়?
+
+**১৩. Agent:** Ma'am, হ্যাঁ, Aarong-এর palazzo range আছে — cotton, linen blend। ১,২০০ থেকে ১,৮০০ টাকা।
+
+**১৪. Customer:** Kurti price কত?
+
+**১৫. Agent:** Ma'am, solid cotton kurti ১,৮০০ থেকে ২,৫০০। Cotton-linen blend ২,৫০০ থেকে ৩,৫০০।
+
+**১৬. Customer:** Cotton-linen কি crease হয় বেশি?
+
+**১৭. Agent:** Ma'am, linen naturally crease হয় — কিন্তু cotton-linen blend-এ কম। Iron করলে সারাদিন ভালো থাকে।
+
+**১৮. Customer:** ঠিক আছে। ৩টা kurti আর ২টা palazzo নেব।
+
+**১৯. Agent:** Ma'am, ৫টা item কিনলে Aarong loyalty points-ও জমবে।
+
+**২০. Customer:** ধন্যবাদ আপু। Online order করছি।
+
+**২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। Office-এ stunning দেখাবেন।
+
+---
+
+## সিনারিও ৪৪: [Outbound] Online Return Approved — Refund Processing Confirmation
+
+> Aarong agent একজন customer-কে call করছেন যার return request approved হয়েছে। Refund কীভাবে process হবে এবং timeline জানাচ্ছেন।
+
+**১. Agent:** Assalamu Alaikum, Aarong customer care থেকে বলছি। Mr. Karim?
+
+**২. Customer:** হ্যাঁ, বলুন।
+
+**৩. Agent:** Sir, আপনি গত সপ্তাহে একটি cotton panjabi return request দিয়েছিলেন। জানাচ্ছি যে আপনার return approved হয়েছে।
+
+**৪. Customer:** ভালো। Refund কবে পাব?
+
+**৫. Agent:** Sir, আপনি bKash-এ payment করেছিলেন। bKash-এ refund ৩ থেকে ৫ business day-এ আসবে।
+
+**৬. Customer:** Panjabi কি pickup হবে?
+
+**৭. Agent:** Sir, আগামীকাল courier pickup-এ আসবে। Panjabi original packaging-সহ রাখুন।
+
+**৮. Customer:** Tag কি লাগানো থাকতে হবে?
+
+**৯. Agent:** Sir, tag থাকলে ভালো — তবে tag সরানো থাকলেও accepted হবে কারণ return already approved।
+
+**১০. Customer:** Panjabi তো আমি পরিনি — fitting-এ সমস্যা ছিল।
+
+**১১. Agent:** Sir, বুঝতে পারছি। Fitting issue-র জন্য exchange-ও দিতে পারতাম — পরের বারে চাইলে exchange choose করবেন।
+
+**১২. Customer:** ঠিক আছে। Refund-ই নিচ্ছি এবার।
+
+**১৩. Agent:** Sir, refund amount ৩,২০০ টাকা। bKash-এ আসবে।
+
+**১৪. Customer:** ধন্যবাদ ভাই।
+
+**১৫. Agent:** Sir, Aarong-এর সাথে থাকার জন্য ধন্যবাদ।
+
+---
+## সিনারিও ৪৫: Winter Collection-এ Shawl ও Sweater — Fabric Care Inquiry
+
+> একজন customer Aarong-এর winter collection থেকে pashmina shawl এবং hand-knit sweater কিনেছেন। এগুলো কীভাবে wash এবং store করবেন জানতে call করেছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, Aarong থেকে pashmina shawl আর hand-knit sweater কিনেছি। কীভাবে wash করব? Machine-এ দিলে নষ্ট হবে?
+
+**৩. Agent:** Ma'am, pashmina shawl absolutely machine wash করবেন না। Dry clean বা gentle hand wash করুন।
+
+**৪. Customer:** Hand wash কীভাবে?
+
+**৫. Agent:** Ma'am, ঠান্ডা পানিতে mild shampoo বা baby shampoo দিয়ে সবে ডুবিয়ে আলতো করে চাপুন। ঘষবেন না।
+
+**৬. Customer:** শুকাতে?
+
+**৭. Agent:** Ma'am, flat surface-এ towel-এর উপর শুইয়ে শুকান। Hanger-এ ঝুলাবেন না — shape নষ্ট হবে।
+
+**৮. Customer:** Sweater-ও কি same process?
+
+**৯. Agent:** Ma'am, hand-knit sweater-ও hand wash best। তবে cold water wool detergent use করুন — Luke warm পানি ঠিক আছে কিন্তু গরম পানি দিলে সংকুচিত হবে।
+
+**১০. Customer:** গরম পানিতে কি sweater ছোট হয়ে যাবে?
+
+**১১. Agent:** Ma'am, হ্যাঁ, wool fibre গরম পানিতে সংকুচিত হয়। ঠান্ডা বা কুসুম গরম পানি use করুন।
+
+**১২. Customer:** Summer-এ store কীভাবে করব?
+
+**১৩. Agent:** Ma'am, clean cotton bag-এ রাখুন — plastic bag-এ না। Naphthalene ball দিন — কিন্তু সরাসরি কাপড়ে touch করাবেন না।
+
+**১৪. Customer:** Naphthalene ball কেন touch করাব না?
+
+**১৫. Agent:** Ma'am, সরাসরি touch করালে কাপড়ে stain পড়তে পারে। একটা tissue-তে wrap করে রাখুন।
+
+**১৬. Customer:** Pashmina-তে কি moth attack হয়?
+
+**১৭. Agent:** Ma'am, natural fibre-এ moth attack হতে পারে। Cedar chips বা lavender sachet রাখলে moth repel হয়।
+
+**১৮. Customer:** বুঝলাম আপু। অনেক তথ্য পেলাম।
+
+**১৯. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। শীত উপভোগ করুন।
+
+---
+
+## সিনারিও ৪৬: Aarong-এ Taant Saree বনাম Handloom Cotton Saree — পার্থক্য কী?
+
+> একজন customer Aarong-এ taant saree এবং handloom cotton saree দেখছেন। দুটোই cotton — কিন্তু দাম আলাদা। পার্থক্য কী এবং কোনটা কোন occasion-এ ভালো তা জানতে call করেছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, taant saree আর handloom cotton saree — দুটোই cotton। কিন্তু দাম আলাদা কেন? পার্থক্য কী?
+
+**৩. Agent:** Sir, ভালো প্রশ্ন। Taant saree হলো নদীয়া বা শান্তিপুর অঞ্চলের একটি নির্দিষ্ট weaving technique-এ তৈরি। Thread count ঘন এবং texture crisp।
+
+**৪. Customer:** Handloom cotton?
+
+**৫. Agent:** Sir, handloom cotton হলো যেকোনো handloom-এ তৈরি cotton saree। এটা অনেক region-এ হয় — Tangail, Rajshahi, Kushtia। Taant-এর চেয়ে texture softer এবং drape ভিন্ন।
+
+**৬. Customer:** কোনটা বেশি comfortable?
+
+**৭. Agent:** Sir, daily wear-এর জন্য handloom cotton বেশি comfortable — নরম, হালকা। Taant একটু stiff — formal occasion-এ ভালো।
+
+**৮. Customer:** Stiff মানে কি unpleasing?
+
+**৯. Agent:** Sir, না। Stiffness-এর কারণে taant-এর drape structured থাকে — pleats সুন্দর পড়ে। দেখতে sharp দেখায়।
+
+**১০. Customer:** দামে কত পার্থক্য?
+
+**১১. Agent:** Sir, Aarong-এ handloom cotton saree ১,৫০০ থেকে ৪,০০০ টাকা। Taant saree ৩,০০০ থেকে ৮,০০০ টাকা।
+
+**১২. Customer:** Taant বেশি দামি কেন?
+
+**১৩. Agent:** Sir, taant-এর weaving process জটিল, thread count বেশি এবং specific region-এর artisan-দের তৈরি। প্রতিটা piece unique।
+
+**১৪. Customer:** আমার wife-এর জন্য casual daily wear কিনব। কোনটা নেব?
+
+**১৫. Agent:** Sir, daily wear-এ handloom cotton — lighter, easier to wash, comfortable।
+
+**১৬. Customer:** আর Puja বা formal occasion-এ?
+
+**১৭. Agent:** Sir, Puja বা wedding-এ taant — structural drape formal look দেয়।
+
+**১৮. Customer:** ঠিক আছে ভাই। দুটোই নেব — একটা daily, একটা occasional।
+
+**১৯. Agent:** Sir, excellent choice। Aarong-এ call করার জন্য ধন্যবাদ।
+
+---
+## সিনারিও ৪৭: [Outbound] VIP Customer-কে Exclusive Collection Preview Invitation
+
+> Aarong agent একজন VIP customer-কে call করছেন — upcoming exclusive winter collection-এর private preview event-এ invite করছেন। সাধারণ customer-দের আগে দেখার সুযোগ।
+
+**১. Agent:** Assalamu Alaikum, Aarong থেকে বলছি। আমি কি Mrs. Sultana-র সাথে কথা বলছি?
+
+**২. Customer:** হ্যাঁ, বলুন।
+
+**৩. Agent:** Ma'am, আপনি Aarong-এর Platinum loyalty member। আমরা আপনাকে আমাদের exclusive winter collection-এর private preview event-এ invite করতে চাই।
+
+**৪. Customer:** Private preview! কবে হবে?
+
+**৫. Agent:** Ma'am, আগামী শুক্রবার সন্ধ্যা ৬টায়, Aarong Gulshan flagship store-এ। General launch-এর ২ দিন আগে — শুধু Platinum members-দের জন্য।
+
+**৬. Customer:** কী ধরনের collection?
+
+**৭. Agent:** Ma'am, এবারের winter collection-এ hand-woven shawl, cashmere-blend scarves, quilted jackets এবং limited edition embroidered kantha throw আছে।
+
+**৮. Customer:** কোনো special discount আছে?
+
+**৯. Agent:** Ma'am, preview event-এ Platinum members-দের জন্য extra ১৫% off এবং complimentary gift wrapping আছে।
+
+**১০. Customer:** RSVP কীভাবে করব?
+
+**১১. Agent:** Ma'am, আমাকে confirm করলেই হবে — আমি আপনার নাম list-এ add করে দিচ্ছি।
+
+**১২. Customer:** Confirm। আমি আসব।
+
+**১৩. Agent:** Ma'am, আপনার সাথে আরো ১ জন আনতে পারবেন — plus one।
+
+**১৪. Customer:** ভালো! বান্ধবীকে নিয়ে আসব।
+
+**১৫. Agent:** Ma'am, দারুণ। Event-এ light refreshment-ও থাকবে।
+
+**১৬. Customer:** ধন্যবাদ। অনেক ভালো initiative।
+
+**১৭. Agent:** Ma'am, Aarong-এর valued customer হিসেবে আপনার প্রতি কৃতজ্ঞতা। শুক্রবার দেখা হবে।
+
+---
+
+## সিনারিও ৪৮: NRI Customer — বিদেশে Aarong Product Ship করতে চান
+
+> বিদেশে থাকা একজন Bangladeshi customer Aarong-এর product Singapore-এ ship করাতে চাইছেন। International shipping available কিনা, customs duty এবং delivery timeline জানতে call করেছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, আমি Singapore-এ থাকি। Aarong-এর jamdani saree কিনতে চাই — Singapore-এ কি ship করা যায়?
+
+**৩. Agent:** Sir, Aarong international shipping দেয় — Singapore-এ available।
+
+**৪. Customer:** Shipping cost কত?
+
+**৫. Agent:** Sir, weight-এর উপর নির্ভর করে। Saree সাধারণত ৮০০ থেকে ১,২০০ টাকা shipping — DHL Express-এ।
+
+**৬. Customer:** কতদিনে পৌঁছাবে?
+
+**৭. Agent:** Sir, DHL Express-এ ৫ থেকে ৭ business day।
+
+**৮. Customer:** Customs duty লাগবে?
+
+**৯. Agent:** Sir, Singapore-এ textile-এ GST ৯% applicable। Customs duty আলাদাভাবে নাও লাগতে পারে — তবে Singapore customs-এর discretion।
+
+**১০. Customer:** GST কি আমাকে delivery-র সময় দিতে হবে?
+
+**১১. Agent:** Sir, হ্যাঁ, DHL delivery-র সময় GST collect করবে। Pre-pay option-ও আছে।
+
+**১২. Customer:** Product quality নিয়ে কোনো সমস্যা হলে return কীভাবে?
+
+**১৩. Agent:** Sir, international return-এ shipping cost customer-এর। Quality defect হলে Aarong শুধু product value refund দেবে।
+
+**১৪. Customer:** ঠিক আছে। আমি মায়ের জন্যও কিনতে চাই — সে Dhaka-তে। Same order-এ দুটো address?
+
+**১৫. Agent:** Sir, same order-এ একটিই address হবে। আলাদা order দিতে হবে মায়ের জন্য।
+
+**১৬. Customer:** মায়ের order-এ কি domestic shipping লাগবে?
+
+**১৭. Agent:** Sir, হ্যাঁ, মায়ের Dhaka address-এ domestic shipping — ৮০ থেকে ১৫০ টাকা। International-এর চেয়ে অনেক কম।
+
+**১৮. Customer:** দুটো আলাদা order দেব তাহলে। Payment কি international card-এ হবে?
+
+**১৯. Agent:** Sir, Visa, Mastercard international card সব accepted।
+
+**২০. Customer:** ঠিক আছে ভাই। Order দিচ্ছি।
+
+**২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। Singapore-এ ভালো থাকুন।
+
+---
+## সিনারিও ৪৯: Aarong Outlet-এ Gift Card কিনতে চান — Corporate Gifting
+
+> একজন HR manager তার company-র ৫০ জন employee-কে Eid-এ Aarong gift card দিতে চাইছেন। Bulk gift card purchase, denomination এবং customisation নিয়ে call করেছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, আমি একটা company-র HR। Eid-এ ৫০ জন employee-কে Aarong gift card দিতে চাই। Bulk-এ পাওয়া যাবে?
+
+**৩. Agent:** Sir, অবশ্যই। Aarong corporate gift card solution আছে।
+
+**৪. Customer:** কত denomination-এ পাওয়া যায়?
+
+**৫. Agent:** Sir, ৫০০, ১,০০০, ২,০০০, ৩,০০০ এবং ৫,০০০ টাকার gift card আছে।
+
+**৬. Customer:** ২,০০০ টাকার ৫০টা চাই। Total ১ লক্ষ টাকা। কোনো discount?
+
+**৭. Agent:** Sir, ৫০টা-র bulk order-এ ৫% corporate discount applicable। Total ৯৫,০০০ টাকা হবে।
+
+**৮. Customer:** Gift card কি physical নাকি digital?
+
+**৯. Agent:** Sir, দুটোই available। Physical card-এ Aarong-এর premium envelope-এ আসে। Digital card-এ email-এ code পাঠানো হয়।
+
+**১০. Customer:** Physical চাই — Eid gift হিসেবে hand-deliver করব।
+
+**১১. Agent:** Sir, physical card-এ প্রতিটায় employee-এর নাম print করা যাবে — personalized।
+
+**১২. Customer:** নাম print! কত extra charge?
+
+**১৩. Agent:** Sir, personalization free — bulk corporate order-এ complimentary।
+
+**১৪. Customer:** Gift card-এর validity কত?
+
+**১৫. Agent:** Sir, purchase date থেকে ১ বছর। Online এবং সব outlet-এ use করা যায়।
+
+**১৬. Customer:** একটি card-এ একাধিক purchase করা যায়?
+
+**১৭. Agent:** Sir, হ্যাঁ, balance শেষ না হওয়া পর্যন্ত multiple purchase করা যাবে।
+
+**১৮. Customer:** Order কীভাবে দেব?
+
+**১৯. Agent:** Sir, corporate@aarong.com-এ email করুন — employee list এবং denomination উল্লেখ করুন। আমরা ৫ business day-এ deliver করব।
+
+**২০. Customer:** Payment কি company invoice-তে হবে?
+
+**২১. Agent:** Sir, corporate invoice issue করা হবে। ৩০ দিনের payment term।
+
+**২২. Customer:** ঠিক আছে ভাই। Email করছি আজকেই।
+
+**২৩. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। Eid Mubarak আগাম।
+
+---
+
+## সিনারিও ৫০: Cotton Fatua-র Size Exchange — Online-এ কেনা, Outlet-এ Exchange
+
+> একজন customer online-এ Aarong-এর cotton fatua কিনেছেন — M size ছোট হয়ে গেছে। L size-এ exchange করতে চান কিন্তু return-ship-re-order-এর ঝামেলা করতে চান না। Outlet-এ গিয়ে করা যাবে কিনা জানতে চাইছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, online-এ fatua কিনলাম — M size ছোট হয়ে গেছে। L চাই। Outlet-এ গিয়ে exchange করা যায়?
+
+**৩. Agent:** Ma'am, Aarong-এর omnichannel policy আছে — online purchase outlet-এ exchange করা যায়।
+
+**৪. Customer:** সত্যি? কোন outlet-এ?
+
+**৫. Agent:** Ma'am, যেকোনো Aarong outlet-এ। Invoice SMS বা email-এ থাকবে — সেটা দেখাবেন।
+
+**৬. Customer:** Tag খুলে ফেলেছি, কিন্তু পরিনি। Exchange হবে?
+
+**৭. Agent:** Ma'am, tag ছাড়াও exchange হবে — কারণ product unworn এবং original condition-এ আছে।
+
+**৮. Customer:** L size কি outlet-এ available থাকবে?
+
+**৯. Agent:** Ma'am, ১০০% guarantee করা কঠিন — কিন্তু fatua popular item, সাধারণত L stock-এ থাকে। Call করে outlet-কে জিজ্ঞেস করতে পারেন।
+
+**১০. Customer:** কোন outlet-এ call করব?
+
+**১১. Agent:** Ma'am, আপনি কোন area-তে থাকেন?
+
+**১২. Customer:** বনানী।
+
+**১৩. Agent:** Ma'am, Banani outlet-এর number ০২-৫৫০৩৪৫১২। Call করে L size availability confirm করুন।
+
+**১৪. Customer:** ধন্যবাদ। Price difference হলে extra দিতে হবে?
+
+**১৫. Agent:** Ma'am, same product-এ same price — extra দিতে হবে না।
+
+**১৬. Customer:** ঠিক আছে আপু। Outlet-এ যাচ্ছি।
+
+**১৭. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
+## সিনারিও ৫১: [Outbound] Customer Satisfaction Survey — Recent Saree Purchase
+
+> Aarong quality team একজন customer-কে call করছেন যিনি সম্প্রতি একটি dhakai jamdani কিনেছেন। Purchase experience এবং product satisfaction survey নিচ্ছেন।
+
+**১. Agent:** Assalamu Alaikum, Aarong quality team থেকে বলছি। আমি কি Mrs. Nahar-এর সাথে কথা বলছি?
+
+**২. Customer:** হ্যাঁ, বলুন।
+
+**৩. Agent:** Ma'am, আপনি সম্প্রতি Aarong থেকে একটি Dhakai jamdani saree কিনেছেন। আপনার experience সম্পর্কে কিছু জানতে চাই — ২ মিনিট সময় দেবেন?
+
+**৪. Customer:** বলুন।
+
+**৫. Agent:** Ma'am, saree-র quality নিয়ে কতটা সন্তুষ্ট — ১ থেকে ৫-এ?
+
+**৬. Customer:** ৪ দেব। Weaving অনেক সুন্দর। তবে pallu-র একটা corner-এ সামান্য loose thread ছিল।
+
+**৭. Agent:** Ma'am, ধন্যবাদ feedback-এর জন্য। Loose thread-এর বিষয়টা আমরা quality team-এ পাঠাচ্ছি।
+
+**৮. Customer:** এটা minor — কেটে দিয়েছি। কিন্তু এই দামে থাকা উচিত না।
+
+**৯. Agent:** Ma'am, সম্পূর্ণ সঠিক। আমরা artisan-দের quality check-এ এই feedback include করব।
+
+**১০. Customer:** Delivery experience কেমন ছিল জিজ্ঞেস করবেন?
+
+**১১. Agent:** Ma'am, হ্যাঁ! Delivery ঠিকমতো হয়েছিল?
+
+**১২. Customer:** Delivery ঠিকই হয়েছে — ৩ দিনে পেয়েছি। Packaging অনেক ভালো ছিল — tissue paper দিয়ে wrap করা।
+
+**১৩. Agent:** Ma'am, শুনে ভালো লাগলো। Online ordering experience কেমন ছিল?
+
+**১৪. Customer:** Website সহজ ছিল। কিন্তু saree-র actual color website-এ যা দেখেছিলাম তার চেয়ে একটু আলাদা।
+
+**১৫. Agent:** Ma'am, এটা common — screen-এর color calibration-এর কারণে হয়। আমরা more accurate photo-র জন্য কাজ করছি।
+
+**১৬. Customer:** ভালো। Overall experience ভালোই ছিল।
+
+**১৭. Agent:** Ma'am, আপনার মূল্যবান feedback-এর জন্য অনেক ধন্যবাদ। এটা Aarong-কে আরো ভালো করতে সাহায্য করবে।
+
+**১৮. Customer:** ধন্যবাদ আপু। Call করার জন্য ভালো লাগলো।
+
+**১৯. Agent:** Ma'am, Aarong-এর সাথে থাকার জন্য কৃতজ্ঞতা।
+
+---
+
+## সিনারিও ৫২: Linen Kurta কি Aarong-এ পাওয়া যায়? — Summer Collection Inquiry
+
+> একজন customer Aarong-এর summer collection-এ linen kurta খুঁজছেন। Cotton থেকে linen কেন better, price range এবং care instructions জানতে call করেছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, Aarong-এ কি linen kurta আছে? Summer-এ cotton-এ অনেক গরম লাগে।
+
+**৩. Agent:** Sir, Aarong-এর summer collection-এ linen এবং linen-cotton blend kurta আছে।
+
+**৪. Customer:** Linen কি cotton-এর চেয়ে ঠান্ডা?
+
+**৫. Agent:** Sir, হ্যাঁ, linen-এর fibre hollow — তাই air circulation অনেক বেশি। Cotton-এর চেয়ে ২০% বেশি moisture absorb করে। গরমে অনেক comfortable।
+
+**৬. Customer:** তাহলে সবাই linen পরে না কেন?
+
+**৭. Agent:** Sir, linen naturally crease হয় — wrinkle পড়ে। অনেকে এটা পছন্দ করেন না। তবে এটা linen-এর character — অনেকে এই "lived-in" look ভালোবাসেন।
+
+**৮. Customer:** Iron করলে কি ঠিক থাকে?
+
+**৯. Agent:** Sir, steam iron করলে ভালো হয়। সম্পূর্ণ dry iron করবেন না — damp থাকতে iron করুন।
+
+**১০. Customer:** Price কত?
+
+**১১. Agent:** Sir, pure linen kurta ৩,৫০০ থেকে ৫,৫০০ টাকা। Linen-cotton blend ২,৫০০ থেকে ৩,৫০০ — crease কম হয়।
+
+**১২. Customer:** Blend-এ linen-এর benefit কতটুকু থাকে?
+
+**১৩. Agent:** Sir, ৬০/৪০ linen-cotton blend-এ linen-এর coolness পাবেন এবং cotton-এর softness পাবেন। Best of both worlds।
+
+**১৪. Customer:** Color options?
+
+**১৫. Agent:** Sir, summer-এ white, sky blue, sand, olive, dusty rose — সব আছে।
+
+**১৬. Customer:** একটা white pure linen আর একটা olive blend — দুটোই নেব।
+
+**১৭. Agent:** Sir, ভালো combination। Online-এ "Summer Linen" filter দিয়ে খুঁজুন।
+
+**১৮. Customer:** ধন্যবাদ ভাই।
+
+**১৯. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। ঠান্ডা থাকুন।
+
+---
+## সিনারিও ৫৩: [Outbound] Abandoned Cart Reminder — Kantha Embroidered Dupatta
+
+> Aarong marketing team একজন customer-কে call করছেন যিনি ৩ দিন আগে cart-এ kantha embroidered dupatta রেখে purchase complete করেননি। Agent courteous reminder দিচ্ছেন এবং limited stock alert জানাচ্ছেন।
+
+**১. Agent:** Assalamu Alaikum, Aarong থেকে বলছি। Ms. Farzana?
+
+**২. Customer:** হ্যাঁ, বলুন।
+
+**৩. Agent:** Ma'am, আপনার Aarong cart-এ একটি kantha embroidered dupatta আছে ৩ দিন ধরে। Order complete করতে কি কোনো সমস্যা হচ্ছে?
+
+**৪. Customer:** ওহ! ভুলে গিয়েছিলাম। Price কত ছিল?
+
+**৫. Agent:** Ma'am, ২,৮০০ টাকা। এটা artisan-crafted piece — each one unique।
+
+**৬. Customer:** Stock-এ কি এখনো আছে?
+
+**৭. Agent:** Ma'am, cart-এ hold আছে — কিন্তু মাত্র ২টি বাকি। Cart release হলে অন্য কেউ কিনতে পারবে।
+
+**৮. Customer:** তাহলে কিনে ফেলি। Online-এই দিচ্ছি।
+
+**৯. Agent:** Ma'am, checkout-এ যান — cart-এ item আছে। Payment complete করুন।
+
+**১০. Customer:** একটু wait করুন... checkout-এ গেলাম। bKash-এ দেব।
+
+**১১. Agent:** Ma'am, bKash select করুন — pin দিয়ে confirm করুন।
+
+**১২. Customer:** Done! Order confirmed হয়ে গেছে।
+
+**১৩. Agent:** Ma'am, চমৎকার! ২ থেকে ৩ দিনের মধ্যে delivery পাবেন।
+
+**১৪. Customer:** ধন্যবাদ remind করার জন্য। ভুলেই যেতাম।
+
+**১৫. Agent:** Ma'am, আনন্দিত হলাম। Aarong-এর সাথে থাকার জন্য ধন্যবাদ।
+
+---
+
+## সিনারিও ৫৪: Batik Print Shirt পুরুষদের জন্য — কোন Occasion-এ পরব?
+
+> একজন customer Aarong-এ batik print shirt দেখছেন কিন্তু নিশ্চিত না কোন occasion-এ পরবেন। Formal-এ চলবে কিনা, কীভাবে pair করবেন — styling advice চান।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, Aarong-এ batik shirt দেখছি। কিন্তু কোথায় পরব? Office-এ চলবে?
+
+**৩. Agent:** Sir, Aarong-এর batik shirt casual থেকে semi-formal occasion-এ পরা যায়। Strict corporate office-এ avoid করাই ভালো।
+
+**৪. Customer:** কোন occasion-এ perfect?
+
+**৫. Agent:** Sir, weekend brunch, dinner party, cultural event, Pohela Boishakh, travel — এসব occasion-এ batik shirt অনেক stylish দেখায়।
+
+**৬. Customer:** Pair কীভাবে করব?
+
+**৭. Agent:** Sir, batik shirt-এর সাথে solid color chinos বা linen trousers best। Dark navy, khaki বা charcoal।
+
+**৮. Customer:** Jeans-এ চলবে?
+
+**৯. Agent:** Sir, clean dark denim-এ ভালো দেখাবে। Distressed বা torn jeans avoid করুন।
+
+**১০. Customer:** Footwear কী?
+
+**১১. Agent:** Sir, loafers বা clean white sneakers। Batik-এর ethnic feel-এর সাথে kolhapuri sandal-ও যায়।
+
+**১২. Customer:** কোন color batik সবচেয়ে versatile?
+
+**১৩. Agent:** Sir, indigo blue batik সবচেয়ে versatile — প্রায় সব trousers-এর সাথে যায়। Earthy tones-এও ভালো — terracotta, olive।
+
+**১৪. Customer:** Price range?
+
+**১৫. Agent:** Sir, Aarong-এর batik shirt ২,০০০ থেকে ৩,৫০০ টাকা। Half sleeve এবং full sleeve — দুটোই আছে।
+
+**১৬. Customer:** Half sleeve কি casual দেখায় বেশি?
+
+**১৭. Agent:** Sir, হ্যাঁ, half sleeve বেশি relaxed feel দেয়। Full sleeve roll-up করলে smart-casual look আসে।
+
+**১৮. Customer:** Full sleeve-ই নেব — roll-up করব। Indigo blue, L size।
+
+**১৯. Agent:** Sir, great choice। Online-এ "Batik Collection" filter দিন।
+
+**২০. Customer:** ধন্যবাদ ভাই। অনেক সাহায্য হলো।
+
+**২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। Stylish থাকুন।
+
+---
