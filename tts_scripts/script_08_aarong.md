@@ -1438,3 +1438,189 @@
 **২৩. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। শুভ Eid planning।
 
 ---
+## সিনারিও ৩১: Jamdani Saree-র Thread টেনে বেরিয়ে গেছে — Weave নষ্ট হচ্ছে
+
+> একজন customer Aarong-এর দামি jamdani saree পরতে গিয়ে একটা thread টেনে যায়। Jamdani-র বুনন উঠে আসতে শুরু করেছে। তিনি ভয় পেয়ে call করেছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, আমার jamdani saree-তে একটা thread টেনে বেরিয়ে গেছে। Weave উঠে আসছে। এখন কী করব?
+
+**৩. Agent:** Ma'am, এটা jamdani-র ক্ষেত্রে খুবই sensitive বিষয়। Thread কতটুকু বেরিয়ে গেছে?
+
+**৪. Customer:** প্রায় ৪-৫ ইঞ্চি বেরিয়ে গেছে। Weave-এ একটা ফাঁকা জায়গা হয়েছে।
+
+**৫. Agent:** Ma'am, এখনই thread টা কাটবেন না। Loose thread টা সাবধানে ভেতরে ঢুকিয়ে দেওয়ার চেষ্টা করুন।
+
+**৬. Customer:** কীভাবে? ভয় হচ্ছে আরো নষ্ট হয়ে যাবে।
+
+**৭. Agent:** Ma'am, একটা blunt needle বা toothpick দিয়ে thread টা saree-র ভেতরের দিক থেকে আস্তে ঢুকিয়ে দিন। চাপ দেবেন না।
+
+**৮. Customer:** এটা কি নিজে করা safe?
+
+**৯. Agent:** Ma'am, আপনি যদি confident না হন, তাহলে একজন দক্ষ darzi বা saree repair specialist-এর কাছে নিয়ে যান।
+
+**১০. Customer:** এই jamdani-র দাম ৮,০০০ টাকা। এটা কি defect ছিল শুরু থেকে?
+
+**১১. Agent:** Ma'am, jamdani-তে thread pull হওয়া কখনো কখনো weave-এর weakness থেকে হতে পারে। কিন্তু শুধু দেখে বলা মুশকিল।
+
+**১২. Customer:** আমি তো সাবধানে পরছিলাম। এটা কি Aarong-এর দায়িত্ব না?
+
+**১৩. Agent:** Ma'am, যদি manufacturing defect হয়, তাহলে অবশ্যই দায়িত্ব আমাদের। কিন্তু একবার পরা হলে return complicated হয়ে যায়।
+
+**১৪. Customer:** তাহলে কি কোনো সমাধান নেই?
+
+**১৫. Agent:** Ma'am, সেরা সমাধান হলো Aarong-এর নিকটস্থ outlet-এ নিয়ে যান। আমাদের trained staff jamdani weave দেখে বলতে পারবে defect কিনা।
+
+**১৬. Customer:** Outlet-এ গেলে কি free repair করবে?
+
+**১৭. Agent:** Ma'am, defect প্রমাণিত হলে Aarong free replacement বা repair বিবেচনা করে।
+
+**১৮. Customer:** কোন outlet-এ যাব?
+
+**১৯. Agent:** Ma'am, Gulshan বা Dhanmondi outlet-এ experienced textile staff আছে।
+
+**২০. Customer:** ঠিক আছে আপু। Outlet-এ নিয়ে যাব।
+
+**২১. Agent:** Ma'am, যাওয়ার আগে purchase receipt বা invoice সঙ্গে নিন।
+
+**২২. Customer:** ঠিক আছে। ধন্যবাদ।
+
+**২৩. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। Saree ঠিক হোক।
+
+---
+
+## সিনারিও ৩২: Muslin Fatua রোদে পুরো Transparent — Customer জানতেন না
+
+> একজন customer Aarong-এর white muslin fatua পরে বাইরে গিয়ে বুঝতে পারেন রোদে পোশাকটি সম্পূর্ণ see-through হয়ে যাচ্ছে। তিনি বিব্রত।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, আমি Aarong-এর white muslin fatua কিনলাম। বাইরে পরতে গিয়ে বুঝলাম রোদে সম্পূর্ণ see-through হয়ে যাচ্ছে।
+
+**৩. Agent:** Ma'am, muslin একটি অত্যন্ত fine এবং sheer fabric। White muslin রোদে transparent হওয়া এর characteristic।
+
+**৪. Customer:** এটা কি website-এ বলা ছিল? আমি জানতাম না।
+
+**৫. Agent:** Ma'am, product description-এ "fine muslin" বা "sheer fabric" লেখা থাকলে এটা সাধারণত বোঝায়। তবে "see-through" clearly উল্লেখ না থাকলে সেটা আমাদের দিক থেকে একটা gap।
+
+**৬. Customer:** আমি এটা পরতে পারব না বাইরে। ভেতরে একটা আলাদা lining দরকার।
+
+**৭. Agent:** Ma'am, muslin fatua-র সাথে একটা inner slip বা camisole পরলে সমস্যা হয় না। অনেকে এভাবেই পরেন।
+
+**৮. Customer:** কিন্তু কেনার সময় কেউ এটা বলেনি।
+
+**৯. Agent:** Ma'am, আপনার কথা সঠিক। Styling advice দেওয়া উচিত ছিল।
+
+**১০. Customer:** আমি কি এটা return করতে পারব?
+
+**১১. Agent:** Ma'am, fatua-টি কি পরা হয়েছে?
+
+**১২. Customer:** একবার পরে বুঝলাম। Tag আর নেই।
+
+**১৩. Agent:** Ma'am, একবার পরা হলে return সাধারণত accept হয় না। তবে আপনার situation বিবেচনা করে আমরা outlet manager-এর সাথে কথা বলতে পারি।
+
+**১৪. Customer:** Online-এ কিনেছি। Outlet কীভাবে help করবে?
+
+**১৫. Agent:** Ma'am, online team decision নেবে। আমি আপনার case escalate করছি। ২৪ ঘণ্টায় জানাব।
+
+**১৬. Customer:** ঠিক আছে। আর ভবিষ্যতে কি website-এ muslin-এর transparency উল্লেখ করবেন?
+
+**১৭. Agent:** Ma'am, আপনার feedback গুরুত্বপূর্ণ। Product team-কে জানাচ্ছি।
+
+**১৮. Customer:** ধন্যবাদ আপু।
+
+**১৯. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। ২৪ ঘণ্টায় update পাবেন।
+
+---
+## সিনারিও ৩৩: Nokshi Kantha Dupatta-র Embroidery Thread প্রথম Wash-এ খুলে যাচ্ছে
+
+> একজন customer Aarong-এর হাতে তৈরি nokshi kantha dupatta হাত দিয়ে আলতো wash করার পরে দেখেন embroidery-র colored thread গুলো আলগা হয়ে আসছে।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** আপু, Aarong-এর nokshi kantha dupatta কিনেছিলাম। আলতো হাতে wash করলাম। কিন্তু embroidery-র thread আলগা হয়ে আসছে।
+
+**৩. Agent:** Ma'am, nokshi kantha খুবই delicate handmade item। Wash করার আগে care label check করেছিলেন?
+
+**৪. Customer:** হ্যাঁ, "gentle hand wash" বলা ছিল। সেটাই করেছি।
+
+**৫. Agent:** Ma'am, কোন detergent use করেছেন?
+
+**৬. Customer:** Surf Excel mild। এটা কি problem?
+
+**৭. Agent:** Ma'am, nokshi kantha-র জন্য mild detergent ঠিকই আছে। তবে কিছু handmade item-এর thread prewashed না হওয়ায় প্রথম wash-এ loose হতে পারে।
+
+**৮. Customer:** তাহলে এটা কি manufacturing issue?
+
+**৯. Agent:** Ma'am, হতে পারে। Thread গুলো কি শুধু আলগা নাকি খুলে পড়ছে?
+
+**১০. Customer:** আলগা হচ্ছে। কিছু জায়গায় একটু ফাঁকা হচ্ছে।
+
+**১১. Agent:** Ma'am, এই মুহূর্তে dupatta-টা dry করুন flat করে — hang করবেন না। Stretch হবে।
+
+**১২. Customer:** ঠিক আছে। Dry করার পর কি আরো ভালো হবে?
+
+**১৩. Agent:** Ma'am, সম্ভবত কিছুটা settle হবে। তবে thread বেশি loose হলে এটা defect।
+
+**১৪. Customer:** আমি এটা return করতে চাই। এত দামে এই quality হওয়া উচিত না।
+
+**১৫. Agent:** Ma'am, nokshi kantha-র return নেওয়া হবে। তবে washed হলে team review করে সিদ্ধান্ত নেবে।
+
+**১৬. Customer:** Photo পাঠালে হবে?
+
+**১৭. Agent:** হ্যাঁ Ma'am, care@aarong.com-এ close-up photo পাঠান।
+
+**১৮. Customer:** পাঠাচ্ছি। তারপর?
+
+**১৯. Agent:** Ma'am, ৪৮ ঘণ্টার মধ্যে team সিদ্ধান্ত জানাবে।
+
+**২০. Customer:** ঠিক আছে আপু। ধন্যবাদ।
+
+**২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। ভালো থাকুন।
+
+---
+
+## সিনারিও ৩৪: দামি Jamdani-র Authenticity নিয়ে সন্দেহ — Printed নাকি Handwoven?
+
+> একজন customer ১২,০০০ টাকা দিয়ে Aarong থেকে jamdani saree কিনেছেন। কিন্তু বান্ধবী বলেছে pattern-টা screen-printed মনে হচ্ছে, handwoven না। Customer সন্দেহে আছেন।
+
+**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+
+**২. Customer:** ভাই, আমি Aarong থেকে ১২,০০০ টাকার jamdani কিনলাম। বান্ধবী বলছে এটা printed মনে হচ্ছে, handwoven না। এটা কীভাবে বুঝব?
+
+**৩. Agent:** Sir, এটা অনেক গুরুত্বপূর্ণ প্রশ্ন। Genuine jamdani চেনার কিছু উপায় আছে।
+
+**৪. Customer:** বলুন।
+
+**৫. Agent:** Sir, প্রথমত — আসল jamdani saree-র দুই পাশ থেকে দেখলে pattern-এর thread উভয় দিক থেকে দেখা যাবে। Screen print-এ শুধু একপাশে design দেখা যায়।
+
+**৬. Customer:** সেটা check করলাম। দুই পাশেই দেখা যাচ্ছে।
+
+**৭. Agent:** Sir, দ্বিতীয়ত — আলোর বিপরীতে ধরলে handwoven jamdani-তে এক thread-এর মধ্যে অন্য thread-এর texture দেখবেন।
+
+**৮. Customer:** হ্যাঁ, সেটাও দেখতে পাচ্ছি।
+
+**৯. Agent:** Sir, এই দুটো characteristic যদি থাকে, তাহলে এটা authentic jamdani-র সম্ভাবনা অনেক বেশি।
+
+**১০. Customer:** তাহলে কি আমার saree-টা real?
+
+**১১. Agent:** Sir, আমি নিশ্চিতভাবে phone-এ বলতে পারব না। কিন্তু আপনার description থেকে authentic মনে হচ্ছে।
+
+**১২. Customer:** Aarong-এর jamdani কি সবসময় GI certified?
+
+**১৩. Agent:** Sir, Aarong artisan collection-এর jamdani বাংলাদেশের certified weavers থেকে সংগ্রহ করা হয়। Saree-র সাথে কি একটা small tag বা card ছিল?
+
+**১৪. Customer:** হ্যাঁ, "Woven in Rupganj" লেখা একটা tag আছে।
+
+**১৫. Agent:** Sir, Rupganj jamdani-র জন্য বিখ্যাত। এই tag authentic weave-এর indication।
+
+**১৬. Customer:** ঠিক আছে। তাহলে সম্ভবত real।
+
+**১৭. Agent:** Sir, সর্বোচ্চ নিশ্চিত হতে চাইলে Aarong outlet-এ নিয়ে যান। Textile expert দেখতে পারবে।
+
+**১৮. Customer:** আচ্ছা। ধন্যবাদ ভাই।
+
+**১৯. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। ভালো থাকুন।
+
+---
