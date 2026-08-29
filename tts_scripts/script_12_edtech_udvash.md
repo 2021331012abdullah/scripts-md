@@ -61,11 +61,11 @@
 
 ---
 
-## Scenario ২ঃ Parent, Udvash আর Unmesh program এর মধ্যে পার্থক্য জানতে চাইছেন
+## Scenario ২ঃ Parent, Udvash আর Unmesh এর মধ্যে পার্থক্য জানতে চাইছেন — মেয়ে medical এ পড়তে চায়
 
-> একজন parent তার সন্তানকে medical admission coaching এ ভর্তি করাতে চাইছেন। Udvash আর Unmesh — দুটো program এর মধ্যে কোনটা ভালো হবে সেটা বুঝতে পারছেন না।
+> একজন parent তার সন্তানকে medical admission coaching এ ভর্তি করাতে চাইছেন। তিনি Udvash আর Unmesh এর মধ্যে confused, কোনটায় দেবেন বুঝতে পারছেন না। Agent explain করছেন যে Udvash engineering/university এর জন্য আর Unmesh হলো medical/dental admission এর জন্য dedicated sister institution।
 
-**১. Agent:** Udvash admission helpline এ স্বাগতম। আমার নাম Rima, কিভাবে help করতে পারি?
+**১. Agent:** Udvash-Unmesh helpline এ স্বাগতম। আমার নাম Rima, কিভাবে help করতে পারি?
 
 **২. Customer:** আমি আমার মেয়ের জন্য জানতে চাইছি। ও medical এ পড়তে চায়। Udvash আর Unmesh — কোনটায় দেবো বুঝতে পারছি না।
 
@@ -73,47 +73,47 @@
 
 **৪. Customer:** এইচএসসি পরীক্ষা দিয়েছে এবার। Science group, Biology আছে।
 
-**৫. Agent:** Mam, তাহলে ও এখন medical admission preparation phase এ আছে। Udvash আর Unmesh দুটো আলাদা program, আমি explain করছি।
+**৫. Agent:** Mam, তাহলে ও এখন medical admission preparation phase এ আছে। আমি একটু clear করে দিই, Udvash আর Unmesh আসলে দুটো আলাদা institution, তবে দুটোই একই পরিবারের।
 
-**৬. Customer:** হ্যাঁ, বলুন। আমরা একটু confused।
+**৬. Customer:** একই পরিবারের মানে? দুটো তো আলাদা নাম।
 
-**৭. Agent:** Mam, Udvash হলো আমাদের main flagship program। এখানে live class, recorded lecture, weekly model test সব কিছু আছে। Batch size একটু বড় হয়, তবে subject coverage অনেক comprehensive।
+**৭. Agent:** Mam, এগুলো sister institution। Udvash মূলত engineering, BUET আর university admission coaching এর জন্য। আর Unmesh হলো specifically medical এবং dental admission preparation এর জন্য dedicated wing।
 
-**৮. Customer:** আর Unmesh?
+**৮. Customer:** ওহ, তাহলে medical এর জন্য Unmesh এই ভর্তি করাতে হবে?
 
-**৯. Agent:** Mam, Unmesh হলো আমাদের premium small-batch program। এখানে student সংখ্যা কম রাখা হয়, প্রতিটা student কে individually monitor করা হয়। একটু বেশি personalized।
+**৯. Agent:** জ্বী mam, exactly। আপনার মেয়ে medical target করলে Unmesh ই হবে correct choice। এখানে পুরো syllabus medical admission focused — Physics, Chemistry আর Biology।
 
-**১০. Customer:** Fee এর দিক থেকে পার্থক্য কতটুকু?
+**১০. Customer:** Unmesh এ কী কী program আছে? আর fee কত?
 
-**১১. Agent:** Mam, Udvash এর fee তুলনামূলক কম। Unmesh এ fee একটু বেশি কারণ ওখানে extra mentorship আর doubt clearing session আছে।
+**১১. Agent:** Mam, Unmesh এ বেশ কয়েকটা program option আছে। Offline program এ fee ২৫,০০০ টাকা, Combo program ১৯,০০০ টাকা, Lite Combo ১৫,০০০ টাকা, আর Online program মাত্র ৭,০০০ টাকা।
 
-**১২. Customer:** আমার মেয়ে একটু introvert, class এ প্রশ্ন করতে shy। কোনটা ওর জন্য ভালো হবে?
+**১২. Customer:** Combo program আর Offline program এর মধ্যে পার্থক্য কী?
 
-**১৩. Agent:** Mam, সেক্ষেত্রে Unmesh বেশি suitable হবে। Small batch এ teacher এর সাথে direct interaction বেশি থাকে, shy students দের জন্য এটা অনেক comfortable।
+**১৩. Agent:** Mam, Offline program এ branch এ গিয়ে physically class করতে হয়। আর Combo তে আপনি offline class এর সাথে সাথে online platform এ recorded class, model test সবকিছু access পাবেন। Double service বলতে পারেন।
 
-**১৪. Customer:** Medical admission এর result এর দিক থেকে কোনটায় বেশি student chance পাচ্ছে?
+**১৪. Customer:** আমরা Rajshahi তে থাকি। কাছে কি Unmesh এর branch আছে?
 
-**১৫. Agent:** Mam, দুটো program থেকেই প্রতি বছর অনেক student medical এ chance পাচ্ছে। তবে Unmesh এর focused approach এ last few years এ conversion rate একটু বেশি দেখা গেছে।
+**১৫. Agent:** Mam, Rajshahi তে আমাদের branch আছে। তবে আপনার মেয়ে যদি Combo program নেয়, তাহলে branch এ class করতে পারবে এবং যেদিন যেতে পারবে না সেদিন online থেকে same class দেখতে পারবে।
 
-**১৬. Customer:** Online নাকি physical class?
+**১৬. Customer:** আমার মেয়ে একটু introvert, class এ প্রশ্ন করতে shy। Online এ কি doubt clearing এর সুবিধা আছে?
 
-**১৭. Agent:** Mam, দুটো option ই আছে। Physical class Dhaka তে আমাদের branch গুলোতে হয়। Online এ পুরো Bangladesh থেকে join করা যায়।
+**১৭. Agent:** Mam, জ্বী আছে। আমাদের dedicated Q&A portal আছে যেখানে subject-wise প্রশ্ন করা যায়। Introvert student দের জন্য এটা অনেক comfortable, কারণ লিখে প্রশ্ন করতে পারবে, মুখোমুখি বলতে হবে না।
 
-**১৮. Customer:** আমরা Rajshahi তে থাকি। তাহলে online ই নিতে হবে?
+**১৮. Customer:** আর model test system কেমন?
 
-**১৯. Agent:** Mam, Rajshahi তে আমাদের একটা branch আছে। তবে online এ সুবিধা হলো recorded class পরেও দেখা যায়, যেটা physical এ সম্ভব না।
+**১৯. Agent:** Mam, centralized exam system আছে। সারা দেশের সব branch এ same question, same time এ exam হয়। Exam এর পর nationwide ranking দেখা যায় online portal এ। 
 
-**২০. Customer:** ভর্তির deadline কবে?
+**২০. Customer:** তাহলে আমার মেয়ের জন্য Combo program টাই best মনে হচ্ছে।
 
-**২১. Agent:** Mam, current batch এর admission আগামী রবিবার পর্যন্ত open আছে। তারপর আবার নতুন batch শুরুর আগে নেওয়া হবে।
+**২১. Agent:** Mam, Combo program সবচেয়ে popular option। আর এখন enroll করলে ২,০০০ টাকার limited-time discount আছে। মানে ১৯,০০০ এর বদলে ১৭,০০০ টাকায় পাবেন।
 
-**২২. Customer:** ঠিক আছে, আমি মেয়ের সাথে কথা বলে সিদ্ধান্ত নেবো। Website এ কি details পাবো?
+**২২. Customer:** ভালো তো! ভর্তি কীভাবে হবে?
 
-**২৩. Agent:** জ্বী mam, udvash.com এ দুটো program এর full comparison আছে। আর কোনো প্রশ্ন থাকলে আবার call করুন।
+**২৩. Agent:** Mam, unmesh.com website এ গিয়ে online enroll করতে পারবেন, অথবা Rajshahi branch এ গিয়ে সরাসরি ভর্তি হতে পারবেন। কোনো প্রশ্ন থাকলে আমাদের helpline 09666775566 এ call করবেন।
 
-**২৪. Customer:** ধন্যবাদ Rima, অনেক কিছু clear হলো।
+**২৪. Customer:** ধন্যবাদ Rima, অনেক clear হলো। মেয়ের সাথে কথা বলে ভর্তি করাবো।
 
-**২৫. Agent:** ধন্যবাদ mam। আপনার মেয়ের জন্য শুভকামনা, ভালো থাকবেন।
+**২৫. Agent:** ধন্যবাদ mam। আপনার মেয়ের medical admission এর জন্য শুভকামনা। ভালো থাকবেন।
 
 ---
 
