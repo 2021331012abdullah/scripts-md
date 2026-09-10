@@ -165,55 +165,51 @@
 
 ---
 
-## সিনারিও ৪: অন্য কারো Intimate Wear Order এসেছে — Privacy Breach
+## সিনারিও ৪: [Outbound] Aarong Artisan Story — Customer Engagement Call
 
-> একজন customer delivery package খুলে দেখেন সম্পূর্ণ অন্য একজন মানুষের personal clothing এসেছে — অন্তর্বাস সহ। তিনি বিব্রত এবং উদ্বিগ্ন।
+> Aarong brand team একজন loyal customer-কে call করছেন — তার সম্প্রতি কেনা jamdani saree-র পেছনের artisan-এর গল্প share করছেন। Brand engagement initiative।
 
-**১. Agent:** Aarong customer care-এ স্বাগতম। কীভাবে help করতে পারি?
+**১. Agent:** Assalamu Alaikum, Aarong থেকে বলছি। Mrs. Anwar?
 
-**২. Customer:** আপু, আমি package খুলে দেখি এটা আমার না। অন্য কারো intimate wear এসেছে। এটা কী করে হলো?
+**২. Customer:** হ্যাঁ, বলুন।
 
-**৩. Agent:** Ma'am, এটা শুনে সত্যিই দুঃখিত। এটা একটা গুরুতর packing error। আপনি কি package-এর label দেখেছেন — কার নাম লেখা?
+**৩. Agent:** Ma'am, আমরা Aarong-এর "Know Your Artisan" program থেকে call করছি। আপনি সম্প্রতি যে jamdani saree কিনেছেন — তার artisan-এর গল্প share করতে চাই।
 
-**৪. Customer:** হ্যাঁ, আমার নাম এবং address আছে। কিন্তু ভেতরে অন্য কারো জিনিস।
+**৪. Customer:** ওহ, interesting! বলুন।
 
-**৫. Agent:** Ma'am, এই ধরনের item একটু sensitive। আপনি কি জিনিসগুলো touch করেছেন?
+**৫. Agent:** Ma'am, আপনার saree তৈরি করেছেন Rupganj, Narayanganj-এর Fatema Begum। তিনি ৩০ বছর ধরে jamdani বুনছেন।
 
-**৬. Customer:** না, দেখেই বুঝলাম এগুলো আমার না। বন্ধ করে রেখেছি।
+**৬. Customer:** ৩০ বছর! আমার saree তৈরি করতে কতদিন লেগেছে?
 
-**৭. Agent:** ঠিক করেছেন Ma'am। Package টা বন্ধ রাখুন। আমাদের courier এসে নিয়ে যাবে।
+**৭. Agent:** Ma'am, আপনার saree-র complexity অনুযায়ী প্রায় ৪৫ দিন — দুইজন weaver মিলে।
 
-**৮. Customer:** কিন্তু অন্য মানুষটার item কোথায় গেল? সে কি আমার item পেয়েছে?
+**৮. Customer:** দুইজন?
 
-**৯. Agent:** Ma'am, এটা আমরা verify করছি। দুটো order swap হয়েছে মনে হচ্ছে।
+**৯. Agent:** Ma'am, jamdani weaving-এ দুইজন পাশাপাশি বসে — একজন warp control করে, আরেকজন weft-এ motif insert করে।
 
-**১০. Customer:** এটা তো privacy issue। আমার address অন্য কারো কাছে চলে যেতে পারে।
+**১০. Customer:** কত income হয় তাদের?
 
-**১১. Agent:** Ma'am, আপনার concern সম্পূর্ণ valid। আমরা এই incident টা privacy team-এ escalate করছি।
+**১১. Agent:** Ma'am, Aarong-এর মাধ্যমে Fatema Begum মাসে ১৫,০০০ থেকে ২০,০০০ টাকা আয় করেন। BRAC-এর health insurance-ও পান।
 
-**১২. Customer:** আমার actual order কোথায়?
+**১২. Customer:** Amazing! এই তথ্য কি saree-র সাথে দেওয়া হয়?
 
-**১৩. Agent:** Ma'am, আমরা verify করে জানাব। সম্ভবত অন্য customer-এর কাছে আছে।
+**১৩. Agent:** Ma'am, Aarong কিছু premium piece-এ artisan card include করে — artisan-এর নাম, ছবি এবং region সহ।
 
-**১৪. Customer:** ঠিক আছে। আমার order কি আবার পাঠানো হবে?
+**১৪. Customer:** আমার saree-তে ছিল না।
 
-**১৫. Agent:** হ্যাঁ Ma'am, correct order আবার dispatch করা হবে।
+**১৫. Agent:** Ma'am, সব saree-তে এখনো দেওয়া হয় না — কিন্তু আমরা expand করছি এই program।
 
-**১৬. Customer:** কতদিনে?
+**১৬. Customer:** এটা অনেক সুন্দর initiative। Customer হিসেবে গর্বিত।
 
-**১৭. Agent:** ১ থেকে ২ business day-এর মধ্যে Ma'am।
+**১৭. Agent:** Ma'am, আপনার মতো customer-রাই artisan-দের জীবন পরিবর্তন করছেন।
 
-**১৮. Customer:** এই ভুল order-এর package কি আজকেই pickup করবে?
+**১৮. Customer:** আরো কি artisan-দের গল্প জানা যায়?
 
-**১৯. Agent:** হ্যাঁ Ma'am, আজকেই pickup arrange করছি।
+**১৯. Agent:** Ma'am, Aarong-এর social media-তে "Artisan Stories" series আছে — YouTube এবং Instagram-এ।
 
-**২০. Customer:** এই ঘটনার কি কোনো follow-up পাব?
+**২০. Customer:** Follow করব। ধন্যবাদ এই call-এর জন্য।
 
-**২১. Agent:** হ্যাঁ Ma'am, privacy team আপনার সাথে যোগাযোগ করবে ২৪ ঘণ্টার মধ্যে।
-
-**২২. Customer:** ঠিক আছে। ধন্যবাদ।
-
-**২৩. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Ma'am। এই অভিজ্ঞতার জন্য সত্যিই দুঃখিত।
+**২১. Agent:** Ma'am, Aarong-এর সাথে থাকার জন্য আমরা কৃতজ্ঞ। ভালো থাকুন।
 
 ---
 ## সিনারিও ৫: Fabric Quality ওয়েবসাইটের বিবরণের সাথে মেলে না
@@ -4063,53 +4059,5 @@
 **২০. Customer:** ধন্যবাদ ভাই। Clear হলো।
 
 **২১. Agent:** Aarong-এ call করার জন্য ধন্যবাদ Sir। ভালো থাকুন।
-
----
-
-## সিনারিও ৯০: [Outbound] Aarong Artisan Story — Customer Engagement Call
-
-> Aarong brand team একজন loyal customer-কে call করছেন — তার সম্প্রতি কেনা jamdani saree-র পেছনের artisan-এর গল্প share করছেন। Brand engagement initiative।
-
-**১. Agent:** Assalamu Alaikum, Aarong থেকে বলছি। Mrs. Anwar?
-
-**২. Customer:** হ্যাঁ, বলুন।
-
-**৩. Agent:** Ma'am, আমরা Aarong-এর "Know Your Artisan" program থেকে call করছি। আপনি সম্প্রতি যে jamdani saree কিনেছেন — তার artisan-এর গল্প share করতে চাই।
-
-**৪. Customer:** ওহ, interesting! বলুন।
-
-**৫. Agent:** Ma'am, আপনার saree তৈরি করেছেন Rupganj, Narayanganj-এর Fatema Begum। তিনি ৩০ বছর ধরে jamdani বুনছেন।
-
-**৬. Customer:** ৩০ বছর! আমার saree তৈরি করতে কতদিন লেগেছে?
-
-**৭. Agent:** Ma'am, আপনার saree-র complexity অনুযায়ী প্রায় ৪৫ দিন — দুইজন weaver মিলে।
-
-**৮. Customer:** দুইজন?
-
-**৯. Agent:** Ma'am, jamdani weaving-এ দুইজন পাশাপাশি বসে — একজন warp control করে, আরেকজন weft-এ motif insert করে।
-
-**১০. Customer:** কত income হয় তাদের?
-
-**১১. Agent:** Ma'am, Aarong-এর মাধ্যমে Fatema Begum মাসে ১৫,০০০ থেকে ২০,০০০ টাকা আয় করেন। BRAC-এর health insurance-ও পান।
-
-**১২. Customer:** Amazing! এই তথ্য কি saree-র সাথে দেওয়া হয়?
-
-**১৩. Agent:** Ma'am, Aarong কিছু premium piece-এ artisan card include করে — artisan-এর নাম, ছবি এবং region সহ।
-
-**১৪. Customer:** আমার saree-তে ছিল না।
-
-**১৫. Agent:** Ma'am, সব saree-তে এখনো দেওয়া হয় না — কিন্তু আমরা expand করছি এই program।
-
-**১৬. Customer:** এটা অনেক সুন্দর initiative। Customer হিসেবে গর্বিত।
-
-**১৭. Agent:** Ma'am, আপনার মতো customer-রাই artisan-দের জীবন পরিবর্তন করছেন।
-
-**১৮. Customer:** আরো কি artisan-দের গল্প জানা যায়?
-
-**১৯. Agent:** Ma'am, Aarong-এর social media-তে "Artisan Stories" series আছে — YouTube এবং Instagram-এ।
-
-**২০. Customer:** Follow করব। ধন্যবাদ এই call-এর জন্য।
-
-**২১. Agent:** Ma'am, Aarong-এর সাথে থাকার জন্য আমরা কৃতজ্ঞ। ভালো থাকুন।
 
 ---
