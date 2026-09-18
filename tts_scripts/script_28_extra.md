@@ -1,4 +1,4 @@
-# Script 28: Extra Scenarios - 100 Realistic Call Center Conversations in Bangladesh
+# Script 28: Extra Scenarios - Govt Services, Banks and Insurances
 
 **Domain:** Call Center Scenarios (Mixed Categories)  
 **Total Scenarios:** ৫০
